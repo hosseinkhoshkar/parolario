@@ -21,7 +21,7 @@ export async function prepareOffline(): Promise<OfflineStatus> {
       channel.port1.onmessage = event => {
         window.clearTimeout(timer)
         channel.port1.close()
-        resolve(isVerifiedCacheMessage(event.data, import.meta.env.VITE_WORTZEIT_BUILD_ID) ? 'ready' : 'unavailable')
+        resolve(isVerifiedCacheMessage(event.data, import.meta.env.VITE_PAROLARIO_BUILD_ID) ? 'ready' : 'unavailable')
       }
       worker.postMessage({ type: 'VERIFY_CACHE' }, [channel.port2])
     })

@@ -6,11 +6,10 @@ import path from 'node:path'
 import { chromium } from 'playwright'
 import ts from 'typescript'
 import { courseBundle as bundle } from '../src/content/catalog.ts'
-import { lessonOneBundle } from '../src/content/lesson-one.ts'
-import { validateVersionTwoState } from '../src/storage/legacy-v2.ts'
 import { createInitialState, transition } from '../src/learning/engine.ts'
 import { scheduleReverseReview, reverseStudyDate } from '../src/learning/reverse.ts'
 import { validateState } from '../src/storage/index.ts'
+import { wordPronunciation } from '../src/features/pronunciation.ts'
 import { checkExercisePronunciation, checkPronunciation } from './pronunciation-browser.mjs'
 
 const results = []
@@ -49,19 +48,19 @@ async function capture(page, phase) {
 }
 const directory = path.resolve('test-results')
 await mkdir(directory, { recursive: true })
-const types = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.svg': 'image/svg+xml', '.png': 'image/png', '.webmanifest': 'application/manifest+json', '.woff2': 'font/woff2' }
+const types = { '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.svg': 'image/svg+xml', '.png': 'image/png', '.webmanifest': 'application/manifest+json', '.json': 'application/json', '.woff2': 'font/woff2' }
 const server = createServer(async (request, response) => {
   try {
     const pathname = decodeURIComponent(new URL(request.url, 'http://localhost').pathname)
-    if (pathname.startsWith('/__test/src/') && pathname.endsWith('.ts')) {
+    if (pathname.startsWith('/__test/src/') && (/\.(?:ts|json)$/u.test(pathname))) {
       const file = path.resolve(pathname.slice('/__test/'.length))
       if (!file.startsWith(path.resolve('src') + path.sep)) throw new Error('Invalid test module')
       const source = await readFile(file, 'utf8')
-      response.setHeader('Content-Type', 'text/javascript')
-      response.end(ts.transpileModule(source, { compilerOptions: { target: ts.ScriptTarget.ES2023, module: ts.ModuleKind.ESNext } }).outputText)
+      response.setHeader('Content-Type', pathname.endsWith('.json') ? 'application/json' : 'text/javascript')
+      response.end(pathname.endsWith('.json') ? source : ts.transpileModule(source, { compilerOptions: { target: ts.ScriptTarget.ES2023, module: ts.ModuleKind.ESNext } }).outputText)
       return
     }
-    if (pathname === '/__test/setup') { response.setHeader('Content-Type', 'text/html'); response.end('<!doctype html><title>Wortzeit isolated storage test</title>'); return }
+    if (pathname === '/__test/setup') { response.setHeader('Content-Type', 'text/html'); response.end('<!doctype html><title>Parolario isolated storage test</title>'); return }
     const file = path.resolve('dist', pathname === '/' ? 'index.html' : `.${pathname}`)
     if (!file.startsWith(path.resolve('dist') + path.sep)) throw new Error('Invalid path')
     const data = await readFile(file)
@@ -73,7 +72,7 @@ const server = createServer(async (request, response) => {
 let browser
 let origin
 async function checkpoint(name, action) {
-  const filter = process.env.WORTZEIT_BROWSER_CHECKPOINT
+  const filter = process.env.PAROLARIO_BROWSER_CHECKPOINT
   if (filter && !new RegExp(filter).test(name)) return
   await action()
   results.push({ name, passed: true })
@@ -89,9 +88,9 @@ async function saveScreenshot(page, name) {
     await page.screenshot({ path: path.join(directory, name), fullPage: false })
   }
 }
-async function readState(page) {
-  return page.evaluate(() => new Promise((resolve, reject) => {
-    const open = indexedDB.open('wortzeit-progress', 1)
+async function readState(page, databaseName = 'parolario-progress') {
+  return page.evaluate(databaseName => new Promise((resolve, reject) => {
+    const open = indexedDB.open(databaseName, 1)
     open.onerror = () => reject(open.error)
     open.onsuccess = () => {
       const db = open.result
@@ -100,7 +99,7 @@ async function readState(page) {
       transaction.oncomplete = () => { db.close(); resolve(request.result ?? null) }
       transaction.onerror = () => { db.close(); reject(transaction.error) }
     }
-  }))
+  }), databaseName)
 }
 async function waitState(page, predicate) {
   for (let count = 0; count < 160; count++) {
@@ -117,7 +116,19 @@ function learningSnapshot(state) {
 }
 async function clickAndSave(page, locator, resume = false) {
   const before = await readState(page)
-  await locator.click()
+  if (await locator.evaluate(element => element.matches('.flashcard-flip'))) {
+    // The speaker is intentionally above the full-card flip action. A short
+    // word can place it at the default click center; tap a genuine card margin.
+    await locator.scrollIntoViewIfNeeded()
+    const position = await locator.evaluate(element => {
+      const box = element.getBoundingClientRect()
+      const candidates = [{ x: 24, y: 24 }, { x: box.width - 24, y: 24 },
+        { x: 24, y: box.height - 24 }, { x: box.width - 24, y: box.height - 24 }]
+      return candidates.find(point => document.elementFromPoint(box.left + point.x, box.top + point.y) === element) ?? null
+    })
+    assert.ok(position, 'the flip action has a visible tappable margin separate from its speaker')
+    await locator.click({ position })
+  } else await locator.click()
   return waitState(page, state => state.revision > (before?.revision ?? 0)
     && (resume || learningSnapshot(state) !== learningSnapshot(before)))
 }
@@ -174,7 +185,7 @@ async function checkKeyboardViewport(page, force = false) {
   })
   await page.waitForFunction(() => document.documentElement.classList.contains('keyboard-open'))
   await page.evaluate(() => new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve))))
-  for (const selector of ['#german-answer', '.answer-form button[type="submit"]', '.answer-form .details-trigger']) {
+  for (const selector of ['#italian-answer', '.answer-form button[type="submit"]', '.answer-form .details-trigger']) {
     const control = page.locator(selector)
     assert.equal(await control.isVisible(), true, `keyboard: ${selector} remains visible`)
     const box = await control.boundingBox()
@@ -209,9 +220,9 @@ async function installClock(context, now) {
   }, now)
 }
 
-async function writeState(page, state) {
-  await page.evaluate(state => new Promise((resolve, reject) => {
-    const open = indexedDB.open('wortzeit-progress', 1)
+async function writeState(page, state, databaseName = 'parolario-progress') {
+  await page.evaluate(({ state, databaseName }) => new Promise((resolve, reject) => {
+    const open = indexedDB.open(databaseName, 1)
     open.onupgradeneeded = () => open.result.createObjectStore('user-state')
     open.onerror = () => reject(open.error)
     open.onsuccess = () => {
@@ -220,7 +231,7 @@ async function writeState(page, state) {
       transaction.oncomplete = () => { db.close(); resolve() }
       transaction.onerror = () => { db.close(); reject(transaction.error) }
     }
-  }), state)
+  }), { state, databaseName })
 }
 
 async function checkTaskLayout(page, task, feedback) {
@@ -249,7 +260,7 @@ async function checkMoreExamples(page, entry, currentExample) {
   const others = entry.examples.filter(example => example.exampleId !== currentExample.exampleId)
   assert.equal(await dialog.locator('.example-block').count(), others.length)
   const text = await dialog.innerText()
-  for (const example of others) assert.ok(text.includes(example.de) && text.includes(example.fa), 'additional German/Persian pair stays together')
+  for (const example of others) assert.ok(text.includes(example.it) && text.includes(example.fa), 'additional Italian/Persian pair stays together')
   await dialog.getByRole('button', { name: 'بستن جزئیات', exact: true }).click()
   assert.equal(learningSnapshot(await readState(page)), before, 'manual examples do not complete review or modify schedules')
 }
@@ -263,8 +274,8 @@ async function finishCards(page) {
     if (count === 0) {
       const entry = bundle.entries.find(entry => entry.entryId === task.entryId)
       await page.locator('.flashcard.is-flipped').waitFor()
-      assert.equal(await page.locator('.card-example-de').textContent(), entry.examples[0].de)
-      assert.ok(!await page.locator('.flashcard').innerText().then(text => text.includes(entry.examples[1].de)))
+      assert.equal(await page.locator('.card-example-de').textContent(), entry.examples[0].it)
+      assert.ok(!await page.locator('.flashcard').innerText().then(text => text.includes(entry.examples[1].it)))
       await checkMoreExamples(page, entry, entry.examples[0])
       await assertViewport(page, 'flashcard back', '.flashcard, .flashcard-next')
       await saveScreenshot(page, 'flashcard-back-360.png')
@@ -367,54 +378,44 @@ function completedReverseFixture(learnedLessonId = bundle.lesson.lessonId) {
     }
   }
   assert.equal(Object.keys(state.reverseProgress).length, 15)
-  commit({ type: 'select-lesson', lessonId: 'lesson-04' })
   return state
 }
 
 async function playUntilReverse(page) {
-  for (let index = 0; index < 8; index++) {
-    const state = await readState(page), task = state.session.queue[state.session.cursor]
+  // The Italian milestone has one real lesson, so due original-direction reviews
+  // may precede its reverse/new-card block. Complete those genuine tasks first.
+  for (let index = 0; index < 150; index++) {
+    const state = await readState(page), session = state.session, task = session.queue[session.cursor]
     if (task.kind === 'reverse-card') return state
-    assert.equal(task.kind, 'flashcard', 'reverse cards are interleaved into the new-card block')
-    if (!task.revealed) await clickAndSave(page, page.getByRole('button', { name: 'چرخاندن کارت و نمایش معنی', exact: true }))
-    await clickAndSave(page, page.locator('.flashcard-next'))
-  }
-  throw new Error('No reverse card appeared among the seven planned cards')
-}
-
-function oldVersionTwoDraft() {
-  const now = new Date().toISOString()
-  let state = transition(createInitialState(lessonOneBundle, 'Europe/Berlin'), { type: 'start-session', sessionId: 'existing-v2-session', seed: 7 }, lessonOneBundle, now)
-  for (let index = 0; index < 30; index++) {
-    const task = state.session.queue[state.session.cursor]
-    if (state.session.feedback) state = transition(state, { type: 'next', taskId: task.taskId }, lessonOneBundle, now)
-    else if (task.kind === 'flashcard') {
-      state = transition(state, { type: 'reveal-card', taskId: task.taskId }, lessonOneBundle, now)
-      state = transition(state, { type: 'next', taskId: task.taskId }, lessonOneBundle, now)
-    } else if (task.kind === 'choose-meaning') state = transition(state, { type: 'answer', taskId: task.taskId, attemptId: `existing-${index}`, answer: task.entryId }, lessonOneBundle, now)
-    else {
-      assert.ok(task.kind === 'cloze' || task.kind === 'write-word')
-      state = transition(state, { type: 'draft', taskId: task.taskId, value: 'mein alter Entwurf' }, lessonOneBundle, now)
-      state = transition(state, { type: 'pause' }, lessonOneBundle, now)
-      const old = structuredClone(state)
-      old.schemaVersion = 2
-      delete old.activeLessonId
-      delete old.savedSessions
-      delete old.reverseProgress
-      delete old.reverseReviews
-      delete old.session.lessonId
-      validateVersionTwoState(old, lessonOneBundle)
-      return old
+    if (session.feedback) { await continueFeedback(page, state); continue }
+    if (task.kind === 'flashcard') {
+      if (!task.revealed) await clickAndSave(page, page.getByRole('button', { name: 'چرخاندن کارت و نمایش معنی', exact: true }))
+      await clickAndSave(page, page.locator('.flashcard-next'))
+    } else if (task.kind === 'choose-meaning') {
+      await clickAndSave(page, page.locator('.meaning-option').nth(task.optionIds.indexOf(task.entryId)))
+    } else if (task.kind === 'cloze' || task.kind === 'write-word') {
+      const entry = bundle.entries.find(entry => entry.entryId === task.entryId)
+      const answer = task.kind === 'cloze' ? entry.cloze.acceptedAnswers[0] : entry.writing.acceptedAnswers[0]
+      await page.getByLabel('پاسخ تو', { exact: true }).fill(answer)
+      await waitState(page, state => state.session.draft === answer)
+      await clickAndSave(page, page.getByRole('button', { name: 'بررسی پاسخ', exact: false }))
+    } else if (task.kind === 'choose-article') {
+      const entry = bundle.entries.find(entry => entry.entryId === task.entryId)
+      await clickAndSave(page, page.locator('.article-option').nth(task.options.indexOf(entry.nounData.article)))
+    } else {
+      const id = task.entryIds.find(id => !task.matchedEntryIds.includes(id))
+      await page.locator('.match-column').nth(0).locator('.match-tile').nth(task.leftOrder.indexOf(id)).click()
+      await clickAndSave(page, page.locator('.match-column').nth(1).locator('.match-tile').nth(task.rightOrder.indexOf(id)))
     }
   }
-  throw new Error('Could not construct prior saved session')
+  throw new Error('No reverse card reached after preceding due reviews')
 }
 
 try {
   await readFile('dist/index.html')
   await new Promise(resolve => server.listen(0, '127.0.0.1', resolve))
   origin = `http://127.0.0.1:${server.address().port}`
-  browser = await chromium.launch({ headless: true, ...(process.env.WORTZEIT_CHROMIUM_PATH ? { executablePath: process.env.WORTZEIT_CHROMIUM_PATH, args: ['--no-sandbox', '--disable-dev-shm-usage'] } : {}) })
+  browser = await chromium.launch({ headless: true, ...(process.env.PAROLARIO_CHROMIUM_PATH ? { executablePath: process.env.PAROLARIO_CHROMIUM_PATH, args: ['--no-sandbox', '--disable-dev-shm-usage'] } : {}) })
   const context = await browser.newContext({ viewport: { width: 360, height: 800 }, isMobile: true, hasTouch: true, locale: 'fa-IR', timezoneId: 'Europe/Berlin', reducedMotion: 'reduce' })
   observeContext(context)
   let page = await context.newPage()
@@ -531,15 +532,15 @@ try {
     await cancelled.goto(origin)
     await cancelled.getByRole('alert').filter({ hasText: 'تب دیگری' }).waitFor()
     await cancelled.getByRole('button', { name: 'تلاش دوباره', exact: true }).click()
-    await page.waitForFunction(async () => (await navigator.locks.query()).pending.some(lock => lock.name === 'wortzeit-single-writer'))
+    await page.waitForFunction(async () => (await navigator.locks.query()).pending.some(lock => lock.name === 'parolario-single-writer'))
     assert.deepEqual(await readState(page), stored)
     await cancelled.close()
-    await page.waitForFunction(async () => !(await navigator.locks.query()).pending.some(lock => lock.name === 'wortzeit-single-writer'))
+    await page.waitForFunction(async () => !(await navigator.locks.query()).pending.some(lock => lock.name === 'parolario-single-writer'))
     const queued = await context.newPage()
     await queued.goto(origin)
     await queued.getByRole('alert').filter({ hasText: 'تب دیگری' }).waitFor()
     await queued.getByRole('button', { name: 'تلاش دوباره', exact: true }).click()
-    await page.waitForFunction(async () => (await navigator.locks.query()).pending.some(lock => lock.name === 'wortzeit-single-writer'))
+    await page.waitForFunction(async () => (await navigator.locks.query()).pending.some(lock => lock.name === 'parolario-single-writer'))
     assert.equal(await queued.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }).count(), 0)
     assert.deepEqual(await readState(queued), stored)
     await capture(queued, 'retry-pending-while-owner-active')
@@ -560,177 +561,167 @@ try {
     await saveScreenshot(page, 'phase-two-summary-360.png')
   })
   await context.close()
-  await checkpoint('existing V2 progress migrates; lesson sections isolate 84 words and preserve each draft offline', async () => {
-    const isolated = await browser.newContext({ viewport: { width: 360, height: 800 }, isMobile: true, hasTouch: true, locale: 'fa-IR' })
+  await checkpoint('German schema-4 storage stays untouched while independent Italian progress starts fresh', async () => {
+    const isolated = await browser.newContext()
     observeContext(isolated)
-    const lessonPage = await isolated.newPage()
-    await lessonPage.goto(`${origin}/__test/setup`)
-    const old = oldVersionTwoDraft()
-    await lessonPage.evaluate(old => new Promise((resolve, reject) => {
-      const open = indexedDB.open('wortzeit-progress', 1)
-      open.onupgradeneeded = () => open.result.createObjectStore('user-state')
-      open.onerror = () => reject(open.error)
-      open.onsuccess = () => {
-        const db = open.result, tx = db.transaction('user-state', 'readwrite')
-        tx.objectStore('user-state').put(old, 'current')
-        tx.oncomplete = () => { db.close(); resolve() }
-        tx.onerror = () => reject(tx.error)
-      }
-    }), old)
-    await lessonPage.goto(origin)
-    await lessonPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }).waitFor()
-    const migrated = await readState(lessonPage)
-    assert.equal(migrated.schemaVersion, 4)
-    assert.deepEqual(migrated.progress, old.progress)
-    assert.deepEqual(migrated.attempts, old.attempts)
-    assert.equal(migrated.session.draft, old.session.draft)
-    await lessonPage.getByRole('button', { name: 'درس‌ها', exact: true }).click()
-    assert.equal(await lessonPage.locator('.lesson-card').count(), 6)
-    for (const width of [320, 360, 430, 1280]) {
-      await lessonPage.setViewportSize({ width, height: 850 })
-      assert.equal(await lessonPage.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth), true)
-      await saveScreenshot(lessonPage, `lessons-${width}.png`)
-    }
-    await lessonPage.setViewportSize({ width: 360, height: 800 })
-    await clickAndSave(lessonPage, lessonPage.locator('[data-lesson-id="lesson-04"] .lesson-open-button'))
-    let selected = await readState(lessonPage)
-    assert.equal(selected.activeLessonId, 'lesson-04')
-    assert.equal(selected.savedSessions[lessonOneBundle.lesson.lessonId].draft, old.session.draft)
-    assert.ok(lessonPage.url().includes('lesson=lesson-04'))
-    await lessonPage.getByRole('button', { name: 'واژه‌ها', exact: true }).click()
-    assert.equal(await lessonPage.locator('.word-item').count(), 84)
-    await saveScreenshot(lessonPage, 'lesson-four-words-360.png')
-    await lessonPage.getByRole('button', { name: 'خانه', exact: true }).click()
-    await clickAndSave(lessonPage, lessonPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }))
-    assert.equal(await finishCards(lessonPage), 5)
-    selected = await readState(lessonPage)
-    const task = selected.session.queue[selected.session.cursor]
-    assert.ok(task.entryId.startsWith('a1-l04-'))
-    await clickAndSave(lessonPage, lessonPage.locator('.meaning-option').nth(task.optionIds.indexOf(task.entryId)))
-    await continueFeedback(lessonPage, await readState(lessonPage))
-    await lessonPage.getByLabel('پاسخ تو', { exact: true }).fill('Entwurf aus Lektion vier')
-    await waitState(lessonPage, state => state.session.draft === 'Entwurf aus Lektion vier')
-    await clickAndSave(lessonPage, lessonPage.getByRole('button', { name: 'توقف و بازگشت', exact: true }))
-    await lessonPage.getByRole('button', { name: 'درس‌ها', exact: true }).click()
-    await clickAndSave(lessonPage, lessonPage.locator(`[data-lesson-id="${lessonOneBundle.lesson.lessonId}"] .lesson-open-button`))
-    selected = await readState(lessonPage)
-    assert.equal(selected.session.draft, old.session.draft)
-    assert.deepEqual(selected.progress[old.session.queue[old.session.cursor].entryId], old.progress[old.session.queue[old.session.cursor].entryId])
-    await lessonPage.getByRole('button', { name: 'درس‌ها', exact: true }).click()
-    await clickAndSave(lessonPage, lessonPage.locator('[data-lesson-id="lesson-04"] .lesson-open-button'))
-    assert.equal((await readState(lessonPage)).session.draft, 'Entwurf aus Lektion vier')
-    await lessonPage.locator('.offline-pill').filter({ hasText: 'آمادهٔ آفلاین' }).waitFor()
-    await isolated.setOffline(true)
-    await lessonPage.reload()
-    await lessonPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }).click()
-    await lessonPage.getByLabel('پاسخ تو', { exact: true }).waitFor()
-    assert.equal(await lessonPage.getByLabel('پاسخ تو', { exact: true }).inputValue(), 'Entwurf aus Lektion vier')
-    await saveScreenshot(lessonPage, 'lesson-four-offline-360.png')
-    const ended = await playToEnd(lessonPage)
-    assert.equal(ended.session.introducedEntryIds.length, 5)
-    assert.ok(ended.session.introducedEntryIds.every(id => id.startsWith('a1-l04-')))
-    await isolated.close()
+    try {
+      const isolatedPage = await isolated.newPage()
+      const old = JSON.parse(await readFile('src/storage/fixtures/pre-lesson-five-schema4.json', 'utf8'))
+      await isolatedPage.goto(`${origin}/__test/setup`)
+      await writeState(isolatedPage, old, 'wortzeit-progress')
+      await isolatedPage.goto(origin)
+      await isolatedPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }).waitFor()
+      assert.equal(await readState(isolatedPage), null, 'the Italian app never reads German progress')
+      await clickAndSave(isolatedPage, isolatedPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }))
+      const started = await readState(isolatedPage)
+      assert.equal(started.schemaVersion, 5)
+      assert.equal(started.contentVersion, bundle.contentVersion)
+      assert.ok(Object.keys(started.progress).every(id => id.startsWith('it-a1-l01-')))
+      assert.deepEqual(await readState(isolatedPage, 'wortzeit-progress'), old, 'German database is byte-for-byte logically unchanged')
+    } finally { await isolated.close() }
   })
-  await checkpoint('lesson-five deep link, schema-4 compatibility, lesson 4/5 drafts and offline examples', async () => {
+  await checkpoint('foreign schema-4 data in Italian storage is rejected and preserved on load and retry', async () => {
+    const isolated = await browser.newContext()
+    observeContext(isolated)
+    try {
+      const isolatedPage = await isolated.newPage()
+      const old = JSON.parse(await readFile('src/storage/fixtures/pre-lesson-five-schema4.json', 'utf8'))
+      await isolatedPage.goto(`${origin}/__test/setup`)
+      await writeState(isolatedPage, old)
+      await isolatedPage.goto(origin)
+      await isolatedPage.getByRole('alert').waitFor()
+      assert.equal(await isolatedPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }).count(), 0)
+      assert.deepEqual(await readState(isolatedPage), old)
+      await isolatedPage.getByRole('button', { name: 'تلاش دوباره', exact: true }).click()
+      await isolatedPage.getByRole('alert').waitFor()
+      assert.deepEqual(await readState(isolatedPage), old, 'retry never resets foreign content or schema')
+    } finally { await isolated.close() }
+  })
+  await checkpoint('Italian lesson deep link, 85 source-ordered words, navigation and offline draft recovery', async () => {
     const isolated = await browser.newContext({ viewport: { width: 360, height: 800 }, isMobile: true, hasTouch: true, locale: 'fa-IR', reducedMotion: 'reduce' })
     observeContext(isolated)
-    await installClock(isolated, '2026-11-04T12:00:00.000Z')
-    const lessonPage = await isolated.newPage()
-    const old = JSON.parse(await readFile('src/storage/fixtures/pre-lesson-five-schema4.json', 'utf8'))
-    await lessonPage.goto(`${origin}/__test/setup`)
-    await writeState(lessonPage, old)
-    await lessonPage.goto(`${origin}/?lesson=lesson-05`)
-    await lessonPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }).waitFor()
-    const selected = await readState(lessonPage)
-    assert.equal(selected.activeLessonId, 'lesson-05')
-    for (const key of ['contentVersion', 'progress', 'attempts', 'reverseProgress', 'reverseReviews', 'dailyActivity']) assert.deepEqual(selected[key], old[key])
-    assert.deepEqual(selected.savedSessions['lesson-04'], old.session)
-    assert.deepEqual(selected.savedSessions['a1-lesson-01'], old.savedSessions['a1-lesson-01'])
-    assert.ok((await lessonPage.locator('.hero-panel').innerText()).includes('Endlich ein Zimmer!'))
-    await lessonPage.getByRole('button', { name: 'درس‌ها', exact: true }).click()
-    assert.equal(await lessonPage.locator('.lesson-card').count(), 6)
-    for (const [id, count] of [['a1-lesson-01', 20], ['lesson-04', 84], ['lesson-05', 76], ['lesson-06', 80], ['lesson-07', 55], ['lesson-08', 52]]) {
-      assert.equal(await lessonPage.locator(`[data-lesson-id="${id}"] [role=progressbar]`).getAttribute('aria-valuemax'), String(count))
-    }
-    await saveScreenshot(lessonPage, 'lesson-five-catalog-360.png')
-    await lessonPage.getByRole('button', { name: 'واژه‌ها', exact: true }).click()
-    assert.equal(await lessonPage.locator('.word-item').count(), 76)
-    await lessonPage.getByRole('button', { name: 'خانه', exact: true }).click()
-    await clickAndSave(lessonPage, lessonPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }))
-    let current = await readState(lessonPage)
-    assert.equal(current.session.queue.filter(task => task.kind === 'flashcard').length, 5)
-    for (let guard = 0; guard < 3 && current.session.queue[current.session.cursor].kind === 'reverse-card'; guard++) {
-      assert.equal(await lessonPage.locator('.task-content .speaker-button').count(), 0)
-      await clickAndSave(lessonPage, lessonPage.locator('.reverse-reveal'))
-      await clickAndSave(lessonPage, lessonPage.locator('.reverse-correct'))
-      current = await readState(lessonPage)
-    }
-    const task = current.session.queue[current.session.cursor]
-    assert.equal(task.kind, 'flashcard')
-    const entry = bundle.entries.find(entry => entry.entryId === task.entryId)
-    assert.equal(entry.introducedInLessonId, 'lesson-05')
-    await clickAndSave(lessonPage, lessonPage.getByRole('button', { name: 'چرخاندن کارت و نمایش معنی', exact: true }))
-    assert.equal(await lessonPage.locator('.card-back [lang=de]').innerText(), entry.examples[0].de)
-    await checkMoreExamples(lessonPage, entry, entry.examples[0])
-    await playToEnd(lessonPage, true)
-    const draft = 'Entwurf aus Lektion fünf'
-    await lessonPage.getByLabel('پاسخ تو', { exact: true }).fill(draft)
-    await waitState(lessonPage, state => state.session.draft === draft)
-    await clickAndSave(lessonPage, lessonPage.getByRole('button', { name: 'توقف و بازگشت', exact: true }))
-    const fifth = (await readState(lessonPage)).session
-    await lessonPage.getByRole('button', { name: 'درس‌ها', exact: true }).click()
-    await clickAndSave(lessonPage, lessonPage.locator('[data-lesson-id="lesson-04"] .lesson-open-button'))
-    assert.deepEqual((await readState(lessonPage)).session, old.session)
-    await clickAndSave(lessonPage, lessonPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }), true)
-    assert.equal(await lessonPage.getByLabel('پاسخ تو', { exact: true }).inputValue(), old.session.draft)
-    await clickAndSave(lessonPage, lessonPage.getByRole('button', { name: 'توقف و بازگشت', exact: true }))
-    await lessonPage.getByRole('button', { name: 'درس‌ها', exact: true }).click()
-    await clickAndSave(lessonPage, lessonPage.locator('[data-lesson-id="lesson-05"] .lesson-open-button'))
-    assert.deepEqual((await readState(lessonPage)).session, fifth)
-    await lessonPage.locator('.offline-pill').filter({ hasText: 'آمادهٔ آفلاین' }).waitFor()
-    await isolated.setOffline(true)
-    await lessonPage.reload()
-    await clickAndSave(lessonPage, lessonPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }), true)
-    assert.equal(await lessonPage.getByLabel('پاسخ تو', { exact: true }).inputValue(), draft)
-    current = await readState(lessonPage)
-    assert.deepEqual(current.session.queue, fifth.queue)
-    assert.equal(current.session.cursor, fifth.cursor)
-    await saveScreenshot(lessonPage, 'lesson-five-offline-draft-360.png')
-    const ended = await playToEnd(lessonPage)
-    assert.equal(ended.session.introducedEntryIds.length, 5)
-    assert.ok(ended.session.introducedEntryIds.every(id => id.startsWith('a1-l05-')))
-    await lessonPage.getByRole('button', { name: 'واژه‌ها', exact: true }).click()
-    await lessonPage.locator('.word-item').first().locator('summary').click()
-    assert.ok((await lessonPage.locator('.word-item').first().innerText()).includes(entry.examples[0].de))
-    await checkMoreExamples(lessonPage, entry, entry.examples[0])
-    await isolated.close()
+    try {
+      const lessonPage = await isolated.newPage()
+      const lessonId = bundle.lesson.lessonId
+      await lessonPage.goto(`${origin}/?lesson=${lessonId}`)
+      await lessonPage.getByRole('heading', { name: 'Primi contatti', exact: true }).waitFor()
+      await lessonPage.getByRole('button', { name: 'درس‌ها', exact: true }).click()
+      assert.equal(await lessonPage.locator('.lesson-card').count(), 1)
+      assert.equal(await lessonPage.locator(`[data-lesson-id="${lessonId}"] [role=progressbar]`).getAttribute('aria-valuemax'), '85')
+      for (const width of [320, 360, 430, 1280]) {
+        await lessonPage.setViewportSize({ width, height: 850 })
+        assert.equal(await lessonPage.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth), true)
+        await saveScreenshot(lessonPage, `italian-lessons-${width}.png`)
+      }
+      await lessonPage.setViewportSize({ width: 360, height: 800 })
+      await lessonPage.locator(`[data-lesson-id="${lessonId}"] .lesson-open-button`).click()
+      assert.ok(lessonPage.url().includes(`lesson=${lessonId}`))
+      await lessonPage.getByRole('button', { name: 'واژه‌ها', exact: true }).click()
+      assert.equal(await lessonPage.locator('.word-item').count(), 85)
+      const ordered = [...bundle.entries].sort((a, b) => a.introductionOrder - b.introductionOrder)
+      for (let index = 0; index < ordered.length; index++) {
+        const word = lessonPage.locator('.word-item').nth(index).locator('.german-word').first()
+        assert.equal(await word.innerText(), wordPronunciation(ordered[index]))
+        assert.equal(await word.getAttribute('lang'), 'it')
+      }
+      await saveScreenshot(lessonPage, 'italian-words-360.png')
+      await lessonPage.getByRole('button', { name: 'خانه', exact: true }).click()
+      await clickAndSave(lessonPage, lessonPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }))
+      assert.equal(await finishCards(lessonPage), 5)
+      await playToEnd(lessonPage, true)
+      const draft = 'bozza italiana'
+      await lessonPage.getByLabel('پاسخ تو', { exact: true }).fill(draft)
+      await waitState(lessonPage, state => state.session.draft === draft)
+      await clickAndSave(lessonPage, lessonPage.getByRole('button', { name: 'توقف و بازگشت', exact: true }))
+      const paused = await readState(lessonPage)
+      await lessonPage.getByRole('button', { name: 'درس‌ها', exact: true }).click()
+      await lessonPage.locator(`[data-lesson-id="${lessonId}"] .lesson-open-button`).click()
+      assert.deepEqual((await readState(lessonPage)).session.queue, paused.session.queue)
+      assert.equal((await readState(lessonPage)).session.draft, draft)
+      await lessonPage.locator('.offline-pill').filter({ hasText: 'آمادهٔ آفلاین' }).waitFor()
+      await isolated.setOffline(true)
+      await lessonPage.reload()
+      await clickAndSave(lessonPage, lessonPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }), true)
+      await lessonPage.getByLabel('پاسخ تو', { exact: true }).waitFor()
+      assert.equal(await lessonPage.getByLabel('پاسخ تو', { exact: true }).inputValue(), draft)
+      const restored = await readState(lessonPage)
+      assert.deepEqual(restored.session.queue, paused.session.queue)
+      assert.equal(restored.session.cursor, paused.session.cursor)
+      assert.deepEqual(restored.progress, paused.progress)
+      await saveScreenshot(lessonPage, 'italian-offline-draft-360.png')
+      const ended = await playToEnd(lessonPage)
+      assert.equal(ended.session.introducedEntryIds.length, 5)
+      assert.ok(ended.session.introducedEntryIds.every(id => id.startsWith('it-a1-l01-')))
+    } finally { await isolated.close() }
   })
-  await checkpoint('direct lesson-four link recovers after first write abort and never reuses an unlocked writer', async () => {
+  await checkpoint('direct Italian lesson link recovers after first load abort and never reuses an unlocked writer', async () => {
     const isolated = await browser.newContext()
     observeContext(isolated)
     await isolated.addInitScript(() => {
-      const original = IDBObjectStore.prototype.put
-      IDBObjectStore.prototype.put = function (...args) {
+      const original = IDBObjectStore.prototype.get
+      IDBObjectStore.prototype.get = function (...args) {
         const result = original.apply(this, args)
-        if (sessionStorage.getItem('first-selection-aborted') !== 'yes') {
-          sessionStorage.setItem('first-selection-aborted', 'yes')
+        if (sessionStorage.getItem('first-load-aborted') !== 'yes') {
+          sessionStorage.setItem('first-load-aborted', 'yes')
           this.transaction.abort()
         }
         return result
       }
     })
-    const failed = await isolated.newPage()
-    await failed.goto(`${origin}/?lesson=lesson-04`)
-    await failed.getByRole('button', { name: 'تلاش دوباره', exact: true }).waitFor()
-    await failed.waitForFunction(async () => !(await navigator.locks.query()).held.some(lock => lock.name === 'wortzeit-single-writer'))
-    assert.equal(await readState(failed), null)
-    await failed.getByRole('button', { name: 'تلاش دوباره', exact: true }).click()
-    await failed.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }).waitFor()
-    assert.equal((await readState(failed)).activeLessonId, 'lesson-04')
-    const second = await isolated.newPage()
-    await second.goto(origin)
-    await second.getByRole('alert').filter({ hasText: 'تب دیگری' }).waitFor()
-    await isolated.close()
+    try {
+      const failed = await isolated.newPage()
+      await failed.goto(`${origin}/?lesson=${bundle.lesson.lessonId}`)
+      await failed.getByRole('button', { name: 'تلاش دوباره', exact: true }).waitFor()
+      await failed.waitForFunction(async () => !(await navigator.locks.query()).held.some(lock => lock.name === 'parolario-single-writer'))
+      assert.equal(await readState(failed), null)
+      await failed.getByRole('button', { name: 'تلاش دوباره', exact: true }).click()
+      await failed.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }).waitFor()
+      await clickAndSave(failed, failed.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }))
+      assert.equal((await readState(failed)).activeLessonId, bundle.lesson.lessonId)
+      const second = await isolated.newPage()
+      await second.goto(origin)
+      await second.getByRole('alert').filter({ hasText: 'تب دیگری' }).waitFor()
+    } finally { await isolated.close() }
+  })
+  await checkpoint('failed answer write preserves progress and retries the same answer exactly once', async () => {
+    const isolated = await browser.newContext({ viewport: { width: 360, height: 800 }, isMobile: true, hasTouch: true, locale: 'fa-IR', reducedMotion: 'reduce' })
+    observeContext(isolated)
+    try {
+      const answerPage = await isolated.newPage()
+      await answerPage.goto(origin)
+      await answerPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }).waitFor()
+      await clickAndSave(answerPage, answerPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }))
+      await finishCards(answerPage)
+      const before = await readState(answerPage)
+      const task = before.session.queue[before.session.cursor]
+      assert.equal(task.kind, 'choose-meaning')
+      await answerPage.evaluate(answerCount => {
+        const original = IDBObjectStore.prototype.put
+        let aborted = false
+        IDBObjectStore.prototype.put = function (...args) {
+          const result = original.apply(this, args)
+          if (!aborted && args[0]?.attempts?.length > answerCount) {
+            aborted = true
+            this.transaction.abort()
+          }
+          return result
+        }
+      }, before.attempts.length)
+      await answerPage.locator('.meaning-option').nth(task.optionIds.indexOf(task.entryId)).click()
+      await answerPage.locator('.storage-error[role=alert]').waitFor()
+      const failed = await readState(answerPage)
+      assert.deepEqual(failed.attempts, before.attempts)
+      assert.deepEqual(failed.progress, before.progress)
+      assert.equal(failed.session.cursor, before.session.cursor)
+      await answerPage.getByRole('button', { name: 'تلاش دوباره', exact: true }).click()
+      const recovered = await waitState(answerPage, state => state.attempts.length === before.attempts.length + 1)
+      assert.equal(recovered.attempts.at(-1).correct, true)
+      assert.equal(recovered.attempts.at(-1).taskId, task.taskId)
+      assert.equal(new Set(recovered.attempts.map(attempt => attempt.attemptId)).size, recovered.attempts.length)
+      await answerPage.reload()
+      await answerPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }).waitFor()
+      assert.deepEqual((await readState(answerPage)).attempts, recovered.attempts)
+    } finally { await isolated.close() }
   })
   await checkpoint('daily target uses a modal with contained keyboard focus and reachable continue control', async () => {
     const isolated = await browser.newContext({ viewport: { width: 320, height: 568 }, isMobile: true, hasTouch: true, locale: 'fa-IR', timezoneId: 'Europe/Berlin', reducedMotion: 'reduce' })
@@ -761,7 +752,7 @@ try {
     await assertViewport(targetPage, 'after goal acknowledgement', '.flashcard')
     await isolated.close()
   })
-  await checkpoint('V3 learned evidence activates cross-lesson reverse cards; reveal, lesson switching and offline reload preserve the answer', async () => {
+  await checkpoint('Italian learned evidence activates reverse cards; reveal, navigation and offline reload preserve the answer', async () => {
     const isolated = await browser.newContext({ viewport: { width: 360, height: 800 }, isMobile: true, hasTouch: true, locale: 'fa-IR', timezoneId: 'Europe/Berlin', reducedMotion: 'reduce' })
     observeContext(isolated)
     const clockNow = '2026-11-01T12:00:00.000Z'
@@ -769,14 +760,11 @@ try {
     const reversePage = await isolated.newPage()
     await reversePage.goto(`${origin}/__test/setup`)
     const old = completedReverseFixture()
-    old.schemaVersion = 3
-    delete old.reverseProgress
-    delete old.reverseReviews
     await writeState(reversePage, old)
     await reversePage.goto(origin)
     await reversePage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }).waitFor()
     let current = await readState(reversePage)
-    assert.equal(current.schemaVersion, 4)
+    assert.equal(current.schemaVersion, 5)
     assert.equal(Object.keys(current.reverseProgress).length, 15)
     assert.equal(current.reverseReviews.length, 0)
     assert.deepEqual(current.progress, old.progress)
@@ -789,21 +777,21 @@ try {
     assert.equal(newIds.length, 5)
     assert.equal(reverseTasks.length, 2)
     assert.equal(new Set(reverseTasks.map(task => task.entryId)).size, 2)
-    assert.ok(reverseTasks.every(task => !newIds.includes(task.entryId) && bundle.entries.find(entry => entry.entryId === task.entryId).introducedInLessonId === lessonOneBundle.lesson.lessonId))
+    assert.ok(reverseTasks.every(task => !newIds.includes(task.entryId) && bundle.entries.find(entry => entry.entryId === task.entryId).introducedInLessonId === bundle.lesson.lessonId))
     assert.ok(reverseTasks.every(task => Date.parse(current.reverseProgress[task.entryId].nextDueAt) <= Date.parse(clockNow)))
     current = await playUntilReverse(reversePage)
     const task = current.session.queue[current.session.cursor]
     const entry = bundle.entries.find(entry => entry.entryId === task.entryId)
     const previous = structuredClone(current.progress[task.entryId])
     assert.ok((await reversePage.locator('.reverse-card').innerText()).includes(entry.meaningFa))
-    assert.ok(!(await reversePage.locator('.task-content').innerText()).includes(entry.lemma), 'German answer stays hidden before reveal')
+    assert.equal(await reversePage.locator('.task-content [lang=it]').count(), 0, 'Italian answer stays hidden before reveal')
     assert.equal(await reversePage.getByRole('button', { name: 'مثال‌های بیشتر', exact: true }).count(), 0)
     await assertViewport(reversePage, 'reverse Persian front', '.reverse-reveal')
     await saveScreenshot(reversePage, 'reverse-front-360.png')
     await clickAndSave(reversePage, reversePage.locator('.reverse-reveal'))
     assert.ok((await reversePage.locator('.reverse-card').innerText()).includes(entry.lemma))
-    if (entry.nounData) assert.ok((await reversePage.locator('.reverse-card').innerText()).includes(entry.nounData.article))
-    assert.equal(await reversePage.locator('.reverse-example [lang=de]').innerText(), entry.examples[1].de)
+    if (entry.nounData?.article) assert.ok((await reversePage.locator('.reverse-card').innerText()).includes(entry.nounData.article))
+    assert.equal(await reversePage.locator('.reverse-example [lang=it]').innerText(), entry.examples[1].it)
     assert.ok((await reversePage.locator('.reverse-example').innerText()).includes(entry.examples[1].fa))
     await checkMoreExamples(reversePage, entry, entry.examples[1])
     await assertViewport(reversePage, 'reverse revealed answer', '.reverse-correct, .reverse-incorrect')
@@ -813,10 +801,10 @@ try {
     await clickAndSave(reversePage, reversePage.getByRole('button', { name: 'توقف و بازگشت', exact: true }))
     await reversePage.getByRole('button', { name: 'درس‌ها', exact: true }).click()
     diagnostics.push({ kind: 'reverse-phase', phase: 'before-first-lesson' })
-    await clickAndSave(reversePage, reversePage.locator(`[data-lesson-id="${lessonOneBundle.lesson.lessonId}"] .lesson-open-button`))
+    await reversePage.locator(`[data-lesson-id="${bundle.lesson.lessonId}"] .lesson-open-button`).click()
     await reversePage.getByRole('button', { name: 'درس‌ها', exact: true }).click()
-    diagnostics.push({ kind: 'reverse-phase', phase: 'before-back-to-four' })
-    await clickAndSave(reversePage, reversePage.locator('[data-lesson-id="lesson-04"] .lesson-open-button'))
+    diagnostics.push({ kind: 'reverse-phase', phase: 'before-back-to-italian-lesson' })
+    await reversePage.locator(`[data-lesson-id="${bundle.lesson.lessonId}"] .lesson-open-button`).click()
     diagnostics.push({ kind: 'reverse-phase', phase: 'before-start-or-resume' })
     await clickAndSave(reversePage, reversePage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }))
     assert.equal((await readState(reversePage)).session.queue[(await readState(reversePage)).session.cursor].revealed, true)
@@ -832,10 +820,10 @@ try {
     assert.equal(current.session.queue[current.session.cursor].taskId, task.taskId)
     assert.deepEqual(current.session.queue, queue)
     assert.deepEqual(current.progress[task.entryId], previous)
-    assert.equal(await reversePage.locator('.reverse-example [lang=de]').innerText(), entry.examples[1].de)
+    assert.equal(await reversePage.locator('.reverse-example [lang=it]').innerText(), entry.examples[1].it)
     await checkMoreExamples(reversePage, entry, entry.examples[1])
     const response = await reversePage.evaluate(async () => {
-      const response = await window.fetch('/content/examples/Lesson-30-B1.json'); return response.json()
+      const response = await window.fetch('/content/examples/italian/Lesson-01-A1.json'); return response.json()
     })
     assert.equal(response.entries.every(row => row.additionalExamples.length === 2), true, 'all source data is available offline')
     diagnostics.push({ kind: 'reverse-phase', phase: 'before-wrong-rating' })
@@ -856,7 +844,7 @@ try {
     assert.ok(correct)
     assert.equal(current.reverseProgress[correct.entryId].intervalDays, 3)
     assert.equal(current.reverseProgress[correct.entryId].nextDueAt, '2026-11-04T12:00:00.000Z')
-    assert.equal(current.activeLessonId, 'lesson-04')
+    assert.equal(current.activeLessonId, bundle.lesson.lessonId)
     assert.equal(current.session.introducedEntryIds.length, 5)
     const ratedIds = current.reverseReviews.map(item => item.entryId)
     diagnostics.push({ kind: 'reverse-phase', phase: 'before-start-or-resume' })
@@ -898,88 +886,55 @@ try {
       assert.equal(await examplePage.locator('.reverse-example').count(), 0)
       await clickAndSave(examplePage, examplePage.locator('.reverse-reveal'))
       const expected = entry.examples[(priorCount + 1) % 3]
-      assert.equal(await examplePage.locator('.reverse-example [lang=de]').innerText(), expected.de)
+      assert.equal(await examplePage.locator('.reverse-example [lang=it]').innerText(), expected.it)
       await checkMoreExamples(examplePage, entry, expected)
       await assertViewport(examplePage, `rotating example ${priorCount}`, '.reverse-correct, .reverse-incorrect')
       await examplePage.reload()
       await examplePage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }).click()
       await examplePage.locator('.reverse-correct').waitFor()
-      assert.equal(await examplePage.locator('.reverse-example [lang=de]').innerText(), expected.de)
+      assert.equal(await examplePage.locator('.reverse-example [lang=it]').innerText(), expected.it)
       assert.equal((await readState(examplePage)).reverseReviews.length, priorCount)
       await isolated.close()
     }
   })
-  await checkpoint('lesson-five cloze cues distinguish bathroom and fetching forms in mobile and keyboard viewports', async () => {
+  await checkpoint('Italian cloze cues distinguish infinitive, person and polite address in mobile and keyboard viewports', async () => {
     const now = '2026-11-01T12:00:00.000Z'
-    for (const lemma of ['Bad', 'Badezimmer', 'bringen']) {
-      const entry = bundle.entries.find(entry => entry.introducedInLessonId === 'lesson-05' && entry.lemma === lemma)
-      // Introduce the tested word directly so this UI check does not depend on textbook page order.
+    for (const lemma of ['essere', 'Lei', 'lei']) {
+      const entry = bundle.entries.find(entry => entry.lemma === lemma)
+      assert.ok(entry, `real Italian cue target exists: ${lemma}`)
       const fixtureBundle = { ...bundle, entries: bundle.entries.map(item => item === entry ? { ...item, introductionOrder: 0 } : item) }
-      const selected = transition(createInitialState(bundle, 'Europe/Berlin'), { type: 'select-lesson', lessonId: 'lesson-05' }, bundle, now)
-      const state = transition(selected, { type: 'start-session', sessionId: `fifth-cue-${lemma}`, seed: 4 }, fixtureBundle, now)
-      state.session.queue = [{ taskId: `fifth-cue-${lemma}:cloze`, kind: 'cloze', entryId: entry.entryId, cycleKind: 'initial' }]
+      const state = transition(createInitialState(bundle, 'Europe/Berlin'), { type: 'start-session', sessionId: `italian-cue-${lemma}`, seed: 4 }, fixtureBundle, now)
+      state.session.queue = [{ taskId: `italian-cue-${lemma}:cloze`, kind: 'cloze', entryId: entry.entryId, cycleKind: 'initial' }]
       state.session.cursor = 0
       state.session.feedback = null
       validateState(state, bundle)
       const isolated = await browser.newContext({ viewport: { width: 360, height: 800 }, isMobile: true, hasTouch: true, locale: 'fa-IR', reducedMotion: 'reduce' })
       observeContext(isolated)
       await installClock(isolated, now)
-      const cuePage = await isolated.newPage()
-      await cuePage.goto(`${origin}/__test/setup`)
-      await writeState(cuePage, state)
-      await cuePage.goto(`${origin}/?lesson=lesson-05`)
-      await clickAndSave(cuePage, cuePage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }), true)
-      assert.equal(await cuePage.locator('.cloze-question .writing-cue').innerText(), entry.writing.cueFa)
-      assert.equal(await cuePage.locator('.cloze-question .speech-text').count(), 1)
-      await assertViewport(cuePage, `lesson-five ${lemma} cloze cue`, '.answer-form input, .answer-form button')
-      await cuePage.getByLabel('پاسخ تو', { exact: true }).fill(entry.lemma)
-      await waitState(cuePage, value => value.session.draft === entry.lemma)
-      await checkKeyboardViewport(cuePage, true)
-      assert.equal(await cuePage.locator('.writing-cue').isVisible(), true)
-      await isolated.close()
+      try {
+        const cuePage = await isolated.newPage()
+        await cuePage.goto(`${origin}/__test/setup`)
+        await writeState(cuePage, state)
+        await cuePage.goto(`${origin}/?lesson=${bundle.lesson.lessonId}`)
+        await clickAndSave(cuePage, cuePage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }), true)
+        assert.equal(await cuePage.locator('.cloze-question .writing-cue').innerText(), entry.cloze.cueFa ?? entry.writing.cueFa)
+        assert.equal(await cuePage.locator('.cloze-question .speech-text').count(), 1)
+        await assertViewport(cuePage, `Italian ${lemma} cloze cue`, '.answer-form input, .answer-form button')
+        const answer = entry.cloze.acceptedAnswers[0]
+        await cuePage.getByLabel('پاسخ تو', { exact: true }).fill(answer)
+        await waitState(cuePage, value => value.session.draft === answer)
+        await checkKeyboardViewport(cuePage, true)
+        assert.equal(await cuePage.locator('.writing-cue').isVisible(), true)
+      } finally { await isolated.close() }
     }
   })
-  await checkpoint('native pronunciation: visible German, default speed, dialog and navigation cancellation without learning or rotation changes', async () => {
+  await checkpoint('browser pronunciation with simulated Italian voices: default speed, dialog and navigation cancellation without learning or rotation changes', async () => {
     await checkPronunciation({ browser, origin, bundle, observeContext, writeState, readState, learningSnapshot, clickAndSave, assertViewport, saveScreenshot, completedReverseFixture, installClock })
   })
   await checkpoint('pronunciation on visible exercise text preserves hidden answers and matching selection', async () => {
     await checkExercisePronunciation({ browser, origin, bundle, observeContext, writeState, readState, learningSnapshot,
       clickAndSave, assertViewport, completedReverseFixture, installClock })
   })
-  await checkpoint('lesson-five pronunciation and hidden reverse answers with real lesson-five review history', async () => {
-    await checkPronunciation({ browser, origin, bundle, observeContext, writeState, readState, learningSnapshot, clickAndSave, assertViewport, saveScreenshot,
-      completedReverseFixture: () => completedReverseFixture('lesson-05'), installClock, lessonId: 'lesson-05' })
-  })
-  for (const [label, lessonId, title, count, firstWord] of [
-    ['lesson-six', 'lesson-06', 'Kleider machen Freunde', 80, 'freundlich'],
-    ['lesson-seven', 'lesson-07', 'Grüezi in der Schweiz', 55, 'der Bahnhof'],
-    ['lesson-eight', 'lesson-08', 'Mmh, das schmeckt!', 52, 'geschlossen'],
-  ]) {
-    await checkpoint(label + ' deep link, printed page order, offline and pronunciation', async () => {
-      const context = await browser.newContext({ viewport: { width: 360, height: 800 }, isMobile: true, hasTouch: true, locale: 'fa-IR' })
-      observeContext(context)
-      try {
-        const page = await context.newPage()
-        await page.goto(`${origin}/?lesson=${lessonId}`)
-        await page.getByRole('heading', { name: title }).waitFor()
-        await page.getByRole('button', { name: 'واژه‌ها', exact: true }).click()
-        assert.equal(await page.locator('.word-item').count(), count)
-        assert.equal(await page.locator('.word-item').first().locator('.german-word').first().innerText(), firstWord)
-        await page.locator('.offline-pill').filter({ hasText: 'آمادهٔ آفلاین' }).waitFor()
-        await context.setOffline(true)
-        await page.reload()
-        await clickAndSave(page, page.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }))
-        const state = await readState(page)
-        assert.equal(state.activeLessonId, lessonId)
-        const lesson = bundle.lessons.find(item => item.lessonId === lessonId)
-        assert.deepEqual(state.session.queue.filter(task => task.kind === 'flashcard').map(task => task.entryId), lesson.introducedEntryIds.slice(0, 5))
-      } finally {
-        await context.close()
-      }
-      await checkPronunciation({ browser, origin, bundle, observeContext, writeState, readState, learningSnapshot, clickAndSave, assertViewport, saveScreenshot,
-        completedReverseFixture: () => completedReverseFixture(lessonId), installClock, lessonId })
-    })
-  }
   await checkpoint('real IndexedDB atomic abort, optimistic concurrency and load/recovery', async () => {
     const isolated = await browser.newContext()
     observeContext(isolated)
@@ -1017,5 +972,5 @@ try {
 } finally {
   await browser?.close()
   await new Promise(resolve => server.close(resolve))
-  await writeFile(path.join(directory, 'browser-report.json'), JSON.stringify({ at: new Date().toISOString(), checkpointFilter: process.env.WORTZEIT_BROWSER_CHECKPOINT ?? null, results, diagnostics, exercisedKinds: [...exercisedKinds] }, null, 2))
+  await writeFile(path.join(directory, 'browser-report.json'), JSON.stringify({ at: new Date().toISOString(), checkpointFilter: process.env.PAROLARIO_BROWSER_CHECKPOINT ?? null, results, diagnostics, exercisedKinds: [...exercisedKinds] }, null, 2))
 }

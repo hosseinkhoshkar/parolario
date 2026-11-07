@@ -61,8 +61,8 @@ export function deriveInitialReverseProgress(state: CompletionState, bundle: Con
   }
   for (const entry of bundle.entries) {
     const clean = evidence.get(entry.entryId)
-    if (!clean?.meaning || !clean.writing || entry.nounData && !clean.article) continue
-    const completedAt = [clean.meaning, clean.writing, ...(entry.nounData ? [clean.article!] : [])].sort().at(-1)!
+    if (!clean?.meaning || !clean.writing || entry.nounData?.article && !clean.article) continue
+    const completedAt = [clean.meaning, clean.writing, ...(entry.nounData?.article ? [clean.article!] : [])].sort().at(-1)!
     result[entry.entryId] = { entryId: entry.entryId, completedAt, lastReviewedAt: null,
       nextDueAt: calendarDaysAfter(completedAt, REVERSE_INITIAL_DAYS, state.settings.studyTimeZone),
       successStreak: 0, correctCount: 0, incorrectCount: 0, intervalDays: REVERSE_INITIAL_DAYS }

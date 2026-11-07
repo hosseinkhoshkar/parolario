@@ -1,7 +1,7 @@
 {
-  "id": "/",
-  "name": "Wortzeit · وقتِ واژه‌ها",
-  "short_name": "Wortzeit",
+  "id": "/parolario",
+  "name": "Parolario · وقتِ واژه‌ها",
+  "short_name": "Parolario",
   "lang": "fa",
   "dir": "rtl",
   "start_url": "/",

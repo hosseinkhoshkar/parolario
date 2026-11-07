@@ -1,0 +1,1539 @@
+{
+  "version": 1,
+  "language": "it",
+  "sourceFile": "reference/vocabulary/italian/Lesson-01-A1.txt",
+  "lessonNumber": 1,
+  "level": "A1",
+  "entries": [
+    {
+      "row": 1,
+      "sourceKey": "italian-Lesson-01-A1:001",
+      "word": "a domani!",
+      "meaningFa": "تا فردا!",
+      "additionalExamples": [
+        {
+          "it": "Prima di uscire, Paolo dice: «A domani!».",
+          "fa": "پائولو پیش از بیرون‌رفتن می‌گوید: «تا فردا!»",
+          "origin": "authored"
+        },
+        {
+          "it": "A domani! Ci vediamo a scuola alle nove.",
+          "fa": "تا فردا! ساعت نه در مدرسه همدیگر را می‌بینیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "sourceKey": "italian-Lesson-01-A1:002",
+      "word": "a presto!",
+      "meaningFa": "به‌زودی می‌بینمت؛ فعلاً خداحافظ!",
+      "additionalExamples": [
+        {
+          "it": "Grazie per la visita, a presto!",
+          "fa": "ممنون که به دیدنم آمدی، به‌زودی می‌بینمت!",
+          "origin": "authored"
+        },
+        {
+          "it": "A presto! Ti telefono questa settimana.",
+          "fa": "به‌زودی می‌بینمت! این هفته به تو تلفن می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "sourceKey": "italian-Lesson-01-A1:003",
+      "word": "alla prossima volta!",
+      "meaningFa": "تا دفعهٔ بعد!",
+      "additionalExamples": [
+        {
+          "it": "La lezione è finita: alla prossima volta!",
+          "fa": "درس تمام شد؛ تا دفعهٔ بعد!",
+          "origin": "authored"
+        },
+        {
+          "it": "Alla prossima volta! Porta anche il tuo quaderno.",
+          "fa": "تا دفعهٔ بعد! دفترت را هم بیاور.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "sourceKey": "italian-Lesson-01-A1:004",
+      "word": "americano",
+      "meaningFa": "آمریکایی؛ صورت مذکر",
+      "additionalExamples": [
+        {
+          "it": "Il mio amico è americano e vive a Roma.",
+          "fa": "دوست من آمریکایی است و در رم زندگی می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Sono americano, ma mia madre è italiana.",
+          "fa": "من آمریکایی هستم، اما مادرم ایتالیایی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "sourceKey": "italian-Lesson-01-A1:005",
+      "word": "anche",
+      "meaningFa": "هم؛ نیز",
+      "additionalExamples": [
+        {
+          "it": "Studio italiano e anche francese.",
+          "fa": "من ایتالیایی و همچنین فرانسوی می‌خوانم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Marta viene anche domani.",
+          "fa": "مارتا فردا هم می‌آید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "sourceKey": "italian-Lesson-01-A1:006",
+      "word": "anch’io",
+      "meaningFa": "من هم",
+      "additionalExamples": [
+        {
+          "it": "Tu studi italiano? Anch’io!",
+          "fa": "تو ایتالیایی می‌خوانی؟ من هم همین‌طور!",
+          "origin": "authored"
+        },
+        {
+          "it": "Anch’io ho un cellulare nuovo.",
+          "fa": "من هم یک تلفن همراه نو دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "sourceKey": "italian-Lesson-01-A1:007",
+      "word": "argentino",
+      "meaningFa": "آرژانتینی؛ صورت مذکر",
+      "additionalExamples": [
+        {
+          "it": "Diego è argentino, di Buenos Aires.",
+          "fa": "دیگو آرژانتینی و اهل بوئنوس‌آیرس است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il nuovo studente è argentino.",
+          "fa": "زبان‌آموز جدید آرژانتینی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "sourceKey": "italian-Lesson-01-A1:008",
+      "word": "arrivederci!",
+      "meaningFa": "خداحافظ!",
+      "additionalExamples": [
+        {
+          "it": "Il cliente saluta: «Arrivederci!».",
+          "fa": "مشتری خداحافظی می‌کند: «خداحافظ!»",
+          "origin": "authored"
+        },
+        {
+          "it": "Arrivederci! Grazie per il caffè.",
+          "fa": "خداحافظ! ممنون بابت قهوه.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 9,
+      "sourceKey": "italian-Lesson-01-A1:009",
+      "word": "arrivederLa!",
+      "meaningFa": "خداحافظ!؛ خطاب محترمانه",
+      "additionalExamples": [
+        {
+          "it": "Grazie, signora Rossi, arrivederLa!",
+          "fa": "متشکرم، خانم روسی؛ خداحافظ!",
+          "origin": "authored"
+        },
+        {
+          "it": "ArrivederLa! È stato un piacere parlare con Lei.",
+          "fa": "خداحافظ! از صحبت با شما خوشحال شدم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 10,
+      "sourceKey": "italian-Lesson-01-A1:010",
+      "word": "ascoltare",
+      "meaningFa": "گوش‌دادن",
+      "additionalExamples": [
+        {
+          "it": "Mi piace ascoltare la musica italiana.",
+          "fa": "دوست دارم به موسیقی ایتالیایی گوش بدهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Puoi ascoltare questo dialogo due volte.",
+          "fa": "می‌توانی این گفت‌وگو را دو بار گوش کنی.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 11,
+      "sourceKey": "italian-Lesson-01-A1:011",
+      "word": "austriaco / austriaca",
+      "meaningFa": "اتریشی؛ صورت مذکر / مؤنث",
+      "additionalExamples": [
+        {
+          "it": "Stefan è austriaco, di Vienna.",
+          "fa": "اشتفان اتریشی و اهل وین است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il mio compagno è austriaco e parla italiano.",
+          "fa": "هم‌کلاسی من اتریشی است و ایتالیایی صحبت می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 12,
+      "sourceKey": "italian-Lesson-01-A1:012",
+      "word": "avere",
+      "meaningFa": "داشتن",
+      "additionalExamples": [
+        {
+          "it": "È bello avere amici in Italia.",
+          "fa": "داشتن دوست در ایتالیا خوب است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Per questo esercizio devi avere una penna.",
+          "fa": "برای این تمرین باید یک خودکار داشته باشی.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "sourceKey": "italian-Lesson-01-A1:013",
+      "word": "buona giornata!",
+      "meaningFa": "روز خوبی داشته باشی / باشید!",
+      "additionalExamples": [
+        {
+          "it": "Grazie e buona giornata!",
+          "fa": "متشکرم و روز خوبی داشته باشید!",
+          "origin": "authored"
+        },
+        {
+          "it": "Buona giornata! Ci sentiamo stasera.",
+          "fa": "روز خوبی داشته باشی! امشب با هم صحبت می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 14,
+      "sourceKey": "italian-Lesson-01-A1:014",
+      "word": "buona sera!",
+      "meaningFa": "عصر بخیر؛ سلام در عصر و شب",
+      "additionalExamples": [
+        {
+          "it": "Il cameriere entra e dice: «Buona sera!».",
+          "fa": "پیشخدمت وارد می‌شود و می‌گوید: «عصر بخیر!»",
+          "origin": "authored"
+        },
+        {
+          "it": "Buona sera! Abbiamo un tavolo per due.",
+          "fa": "عصر بخیر! ما یک میز برای دو نفر داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 15,
+      "sourceKey": "italian-Lesson-01-A1:015",
+      "word": "buonanotte!",
+      "meaningFa": "شب بخیر!؛ هنگام خداحافظی شب یا رفتن به خواب",
+      "additionalExamples": [
+        {
+          "it": "La mamma spegne la luce: «Buonanotte!».",
+          "fa": "مادر چراغ را خاموش می‌کند: «شب بخیر!»",
+          "origin": "authored"
+        },
+        {
+          "it": "Buonanotte! Domani mi alzo presto.",
+          "fa": "شب بخیر! فردا زود بیدار می‌شوم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 16,
+      "sourceKey": "italian-Lesson-01-A1:016",
+      "word": "buongiorno!",
+      "meaningFa": "سلام؛ صبح بخیر؛ روز بخیر",
+      "additionalExamples": [
+        {
+          "it": "Entro in classe e saluto: «Buongiorno!».",
+          "fa": "وارد کلاس می‌شوم و سلام می‌کنم: «صبح بخیر!»",
+          "origin": "authored"
+        },
+        {
+          "it": "Buongiorno! Vorrei un caffè, per favore.",
+          "fa": "صبح بخیر! لطفاً یک قهوه می‌خواهم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 17,
+      "sourceKey": "italian-Lesson-01-A1:017",
+      "word": "il cellulare",
+      "meaningFa": "تلفن همراه",
+      "additionalExamples": [
+        {
+          "it": "Il mio cellulare è sul tavolo.",
+          "fa": "تلفن همراه من روی میز است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Hai il cellulare di Marco?",
+          "fa": "آیا تلفن همراه مارکو پیش تو است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 18,
+      "sourceKey": "italian-Lesson-01-A1:018",
+      "word": "chiamarsi",
+      "meaningFa": "نام داشتن؛ اسمِ کسی چیزی بودن",
+      "additionalExamples": [
+        {
+          "it": "Buonasera, mi chiamo Silvia Conti.",
+          "fa": "عصر بخیر، اسم من سیلویا کونتی است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Lui si chiama Pietro e lei si chiama Anna.",
+          "fa": "اسم او پیترو است و اسم آن خانم آنا است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 19,
+      "sourceKey": "italian-Lesson-01-A1:019",
+      "word": "ci vediamo!",
+      "meaningFa": "می‌بینمت؛ باز همدیگر را می‌بینیم!",
+      "additionalExamples": [
+        {
+          "it": "Ora vado a casa, ci vediamo!",
+          "fa": "حالا به خانه می‌روم؛ باز همدیگر را می‌بینیم!",
+          "origin": "authored"
+        },
+        {
+          "it": "Ci vediamo! Ti aspetto davanti alla scuola.",
+          "fa": "می‌بینمت! جلوی مدرسه منتظرت هستم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 20,
+      "sourceKey": "italian-Lesson-01-A1:020",
+      "word": "ciao!",
+      "meaningFa": "سلام؛ خداحافظ؛ خودمانی",
+      "additionalExamples": [
+        {
+          "it": "Vedo il mio amico e dico: «Ciao!».",
+          "fa": "دوستم را می‌بینم و می‌گویم: «سلام!»",
+          "origin": "authored"
+        },
+        {
+          "it": "Ciao! Vado a casa, a domani.",
+          "fa": "خداحافظ! من به خانه می‌روم؛ تا فردا.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 21,
+      "sourceKey": "italian-Lesson-01-A1:021",
+      "word": "cognome",
+      "meaningFa": "نام خانوادگی",
+      "additionalExamples": [
+        {
+          "it": "Il mio cognome è Ferri.",
+          "fa": "نام خانوادگی من فِرّی است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Come si scrive il Suo cognome?",
+          "fa": "نام خانوادگی شما چطور نوشته می‌شود؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 22,
+      "sourceKey": "italian-Lesson-01-A1:022",
+      "word": "come",
+      "meaningFa": "چطور؛ چگونه",
+      "additionalExamples": [
+        {
+          "it": "Come si pronuncia questa parola?",
+          "fa": "این واژه چطور تلفظ می‌شود؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Come vai a scuola, a piedi o in autobus?",
+          "fa": "چطور به مدرسه می‌روی؛ پیاده یا با اتوبوس؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 23,
+      "sourceKey": "italian-Lesson-01-A1:023",
+      "word": "come si chiama?",
+      "meaningFa": "اسم شما چیست؟؛ محترمانه",
+      "additionalExamples": [
+        {
+          "it": "Buongiorno, come si chiama?",
+          "fa": "صبح بخیر، اسم شما چیست؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Scusi, come si chiama? Non sento bene.",
+          "fa": "ببخشید، اسم شما چیست؟ خوب نمی‌شنوم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 24,
+      "sourceKey": "italian-Lesson-01-A1:024",
+      "word": "come si scrive?",
+      "meaningFa": "چطور نوشته می‌شود؟؛ املایش چیست؟",
+      "additionalExamples": [
+        {
+          "it": "Il Suo nome, come si scrive?",
+          "fa": "اسم شما چطور نوشته می‌شود؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Come si scrive? Con una o due lettere t?",
+          "fa": "چطور نوشته می‌شود؟ با یک حرف تی یا دو حرف تی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 25,
+      "sourceKey": "italian-Lesson-01-A1:025",
+      "word": "come stai?",
+      "meaningFa": "حالت چطور است؟؛ خودمانی",
+      "additionalExamples": [
+        {
+          "it": "Ciao, Elena, come stai?",
+          "fa": "سلام اِلنا، حالت چطور است؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Come stai? Oggi hai un po’ di tempo?",
+          "fa": "حالت چطور است؟ امروز کمی وقت داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 26,
+      "sourceKey": "italian-Lesson-01-A1:026",
+      "word": "come ti chiami?",
+      "meaningFa": "اسم تو چیست؟؛ خودمانی",
+      "additionalExamples": [
+        {
+          "it": "Ciao, io sono Nora, come ti chiami?",
+          "fa": "سلام، من نورا هستم؛ اسم تو چیست؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Come ti chiami? Scrivi il tuo nome qui.",
+          "fa": "اسم تو چیست؟ نامت را اینجا بنویس.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 27,
+      "sourceKey": "italian-Lesson-01-A1:027",
+      "word": "come, scusa?",
+      "meaningFa": "ببخشید، چی گفتی؟؛ درخواست تکرار، خودمانی",
+      "additionalExamples": [
+        {
+          "it": "Come, scusa? Il telefono non funziona bene.",
+          "fa": "ببخشید، چی گفتی؟ تلفن خوب کار نمی‌کند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Come, scusa? Puoi parlare più piano?",
+          "fa": "ببخشید، چی گفتی؟ می‌توانی آرام‌تر صحبت کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 28,
+      "sourceKey": "italian-Lesson-01-A1:028",
+      "word": "come, scusi?",
+      "meaningFa": "ببخشید، چه فرمودید؟؛ درخواست تکرار، محترمانه",
+      "additionalExamples": [
+        {
+          "it": "Come, scusi? Non capisco il numero.",
+          "fa": "ببخشید، چه فرمودید؟ شماره را متوجه نمی‌شوم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Come, scusi? Può ripetere l’indirizzo?",
+          "fa": "ببخشید، چه فرمودید؟ می‌توانید نشانی را تکرار کنید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 29,
+      "sourceKey": "italian-Lesson-01-A1:029",
+      "word": "il compagno",
+      "meaningFa": "هم‌کلاسی؛ هم‌تمرینی",
+      "additionalExamples": [
+        {
+          "it": "Il mio compagno di corso si chiama Davide.",
+          "fa": "اسم هم‌کلاسی من داویده است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Lavoro con un compagno di classe.",
+          "fa": "من با یک هم‌کلاسی کار می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 30,
+      "sourceKey": "italian-Lesson-01-A1:030",
+      "word": "il corso",
+      "meaningFa": "دوره؛ دورهٔ آموزشی",
+      "additionalExamples": [
+        {
+          "it": "Il corso di italiano comincia lunedì.",
+          "fa": "دورهٔ ایتالیایی دوشنبه شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questo corso è per principianti.",
+          "fa": "این دوره برای مبتدی‌ها است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 31,
+      "sourceKey": "italian-Lesson-01-A1:031",
+      "word": "di",
+      "meaningFa": "از؛ برای بیان مبدأ",
+      "additionalExamples": [
+        {
+          "it": "Sono di Milano, ma abito a Torino.",
+          "fa": "من اهل میلان هستم، اما در تورین زندگی می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Giulia è di Firenze.",
+          "fa": "جولیا اهل فلورانس است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 32,
+      "sourceKey": "italian-Lesson-01-A1:032",
+      "word": "di dove sei?",
+      "meaningFa": "اهل کجا هستی؟؛ خودمانی",
+      "additionalExamples": [
+        {
+          "it": "Io sono di Pisa, e tu di dove sei?",
+          "fa": "من اهل پیزا هستم؛ و تو اهل کجا هستی؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Di dove sei? Sei di questa città?",
+          "fa": "اهل کجا هستی؟ اهل همین شهر هستی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 33,
+      "sourceKey": "italian-Lesson-01-A1:033",
+      "word": "di dov’è?",
+      "meaningFa": "اهل کجا هستید؟؛ محترمانه",
+      "additionalExamples": [
+        {
+          "it": "Scusi, di dov’è? Di Napoli?",
+          "fa": "ببخشید، اهل کجا هستید؟ اهل ناپل؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Di dov’è? Il Suo accento è molto bello.",
+          "fa": "اهل کجا هستید؟ لهجهٔ شما خیلی زیبا است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 34,
+      "sourceKey": "italian-Lesson-01-A1:034",
+      "word": "il dialogo",
+      "meaningFa": "گفت‌وگو؛ مکالمه",
+      "additionalExamples": [
+        {
+          "it": "Leggiamo un dialogo molto breve.",
+          "fa": "یک گفت‌وگوی خیلی کوتاه می‌خوانیم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il dialogo è tra due amici.",
+          "fa": "این گفت‌وگو بین دو دوست است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 35,
+      "sourceKey": "italian-Lesson-01-A1:035",
+      "word": "la domanda",
+      "meaningFa": "پرسش؛ سؤال",
+      "additionalExamples": [
+        {
+          "it": "Ho una domanda per il professore.",
+          "fa": "من یک سؤال از استاد دارم.",
+          "origin": "authored"
+        },
+        {
+          "it": "La prima domanda è facile.",
+          "fa": "سؤال اول آسان است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 36,
+      "sourceKey": "italian-Lesson-01-A1:036",
+      "word": "dottore / dottor",
+      "meaningFa": "دکتر؛ عنوان خطاب",
+      "additionalExamples": [
+        {
+          "it": "Buongiorno, dottore. Mi chiamo Luca.",
+          "fa": "صبح بخیر، دکتر. اسم من لوکا است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Scusi, dottore, posso entrare?",
+          "fa": "ببخشید، دکتر، می‌توانم وارد شوم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 37,
+      "sourceKey": "italian-Lesson-01-A1:037",
+      "word": "dove",
+      "meaningFa": "کجا",
+      "additionalExamples": [
+        {
+          "it": "Dove abiti adesso?",
+          "fa": "الان کجا زندگی می‌کنی؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Dove si trova la scuola di italiano?",
+          "fa": "مدرسهٔ ایتالیایی کجا است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 38,
+      "sourceKey": "italian-Lesson-01-A1:038",
+      "word": "e",
+      "meaningFa": "و",
+      "additionalExamples": [
+        {
+          "it": "Marco e Sara sono amici.",
+          "fa": "مارکو و سارا دوست هستند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Ho una penna e un quaderno.",
+          "fa": "من یک خودکار و یک دفتر دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 39,
+      "sourceKey": "italian-Lesson-01-A1:039",
+      "word": "essere",
+      "meaningFa": "بودن",
+      "additionalExamples": [
+        {
+          "it": "Voglio essere puntuale.",
+          "fa": "می‌خواهم وقت‌شناس باشم.",
+          "origin": "authored"
+        },
+        {
+          "it": "È bello essere qui con voi.",
+          "fa": "اینجابودن در کنار شما خوب است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 40,
+      "sourceKey": "italian-Lesson-01-A1:040",
+      "word": "francese",
+      "meaningFa": "فرانسوی؛ برای مذکر و مؤنث",
+      "additionalExamples": [
+        {
+          "it": "La mia amica è francese, di Lione.",
+          "fa": "دوست من فرانسوی و اهل لیون است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Paul è francese e studia a Bologna.",
+          "fa": "پل فرانسوی است و در بولونیا درس می‌خواند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 41,
+      "sourceKey": "italian-Lesson-01-A1:041",
+      "word": "l’indirizzo",
+      "meaningFa": "نشانی؛ آدرس",
+      "additionalExamples": [
+        {
+          "it": "Scrivo il mio indirizzo sul foglio.",
+          "fa": "نشانی خودم را روی برگه می‌نویسم.",
+          "origin": "authored"
+        },
+        {
+          "it": "L’indirizzo della scuola è qui.",
+          "fa": "نشانی مدرسه اینجا است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 42,
+      "sourceKey": "italian-Lesson-01-A1:042",
+      "word": "inglese",
+      "meaningFa": "انگلیسی؛ برای مذکر و مؤنث",
+      "additionalExamples": [
+        {
+          "it": "David è inglese, di Liverpool.",
+          "fa": "دیوید انگلیسی و اهل لیورپول است.",
+          "origin": "authored"
+        },
+        {
+          "it": "La mia compagna è inglese e vive in Italia.",
+          "fa": "هم‌کلاسی من انگلیسی است و در ایتالیا زندگی می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 43,
+      "sourceKey": "italian-Lesson-01-A1:043",
+      "word": "io",
+      "meaningFa": "من",
+      "additionalExamples": [
+        {
+          "it": "Tu sei Anna e io sono Roberto.",
+          "fa": "تو آنا هستی و من روبرتو هستم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Io abito vicino alla scuola.",
+          "fa": "من نزدیک مدرسه زندگی می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 44,
+      "sourceKey": "italian-Lesson-01-A1:044",
+      "word": "irlandese",
+      "meaningFa": "ایرلندی؛ برای مذکر و مؤنث",
+      "additionalExamples": [
+        {
+          "it": "Il mio vicino è irlandese.",
+          "fa": "همسایهٔ من ایرلندی است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Sono irlandese, ma adesso vivo a Firenze.",
+          "fa": "من ایرلندی هستم، اما الان در فلورانس زندگی می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 45,
+      "sourceKey": "italian-Lesson-01-A1:045",
+      "word": "italiano / italiana",
+      "meaningFa": "ایتالیایی؛ صورت مذکر / مؤنث",
+      "additionalExamples": [
+        {
+          "it": "Paolo è italiano, di Venezia.",
+          "fa": "پائولو ایتالیایی و اهل ونیز است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il mio nuovo amico è italiano.",
+          "fa": "دوست جدید من ایتالیایی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 46,
+      "sourceKey": "italian-Lesson-01-A1:046",
+      "word": "leggere",
+      "meaningFa": "خواندن",
+      "additionalExamples": [
+        {
+          "it": "Mi piace leggere un libro la sera.",
+          "fa": "دوست دارم شب‌ها کتاب بخوانم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Puoi leggere la prima frase?",
+          "fa": "می‌توانی جملهٔ اول را بخوانی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 47,
+      "sourceKey": "italian-Lesson-01-A1:047",
+      "word": "Lei",
+      "meaningFa": "شما؛ خطاب محترمانه به یک نفر",
+      "additionalExamples": [
+        {
+          "it": "Scusi, Lei parla italiano?",
+          "fa": "ببخشید، آیا شما ایتالیایی صحبت می‌کنید؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Lei ha una prenotazione, signora?",
+          "fa": "خانم، آیا شما رزرو دارید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 48,
+      "sourceKey": "italian-Lesson-01-A1:048",
+      "word": "lei",
+      "meaningFa": "او؛ برای زن",
+      "additionalExamples": [
+        {
+          "it": "Lui è Luca e lei è Sofia.",
+          "fa": "آن آقا لوکا است و آن خانم سوفیا است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Anna è qui: lei è la mia amica.",
+          "fa": "آنا اینجا است؛ او دوست من است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 49,
+      "sourceKey": "italian-Lesson-01-A1:049",
+      "word": "la lezione",
+      "meaningFa": "درس",
+      "additionalExamples": [
+        {
+          "it": "La lezione finisce alle dieci.",
+          "fa": "درس ساعت ده تمام می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "it": "Oggi abbiamo una lezione di italiano.",
+          "fa": "امروز یک جلسه درس ایتالیایی داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 50,
+      "sourceKey": "italian-Lesson-01-A1:050",
+      "word": "lui",
+      "meaningFa": "او؛ برای مرد",
+      "additionalExamples": [
+        {
+          "it": "Questo è mio fratello: lui studia a Roma.",
+          "fa": "این برادر من است؛ او در رم درس می‌خواند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Lui si chiama Enrico e abita qui.",
+          "fa": "اسم او انریکو است و اینجا زندگی می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 51,
+      "sourceKey": "italian-Lesson-01-A1:051",
+      "word": "ma",
+      "meaningFa": "اما؛ ولی",
+      "additionalExamples": [
+        {
+          "it": "Sono stanco, ma studio ancora un po’.",
+          "fa": "خسته هستم، اما کمی دیگر درس می‌خوانم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Voglio un caffè, ma senza zucchero.",
+          "fa": "یک قهوه می‌خواهم، ولی بدون شکر.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 52,
+      "sourceKey": "italian-Lesson-01-A1:052",
+      "word": "mi chiamo…",
+      "meaningFa": "اسم من … است",
+      "additionalExamples": [
+        {
+          "it": "Ciao, mi chiamo Laura Bassi.",
+          "fa": "سلام، اسم من لائورا باسی است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Mi chiamo Giorgio, e tu?",
+          "fa": "اسم من جورجو است؛ و تو؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 53,
+      "sourceKey": "italian-Lesson-01-A1:053",
+      "word": "la nazionalità",
+      "meaningFa": "ملیت",
+      "additionalExamples": [
+        {
+          "it": "La mia nazionalità è italiana.",
+          "fa": "ملیت من ایتالیایی است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Qual è la Sua nazionalità?",
+          "fa": "ملیت شما چیست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 54,
+      "sourceKey": "italian-Lesson-01-A1:054",
+      "word": "no",
+      "meaningFa": "نه؛ خیر",
+      "additionalExamples": [
+        {
+          "it": "Vuoi un tè? No, grazie.",
+          "fa": "چای می‌خواهی؟ نه، ممنون.",
+          "origin": "authored"
+        },
+        {
+          "it": "No, oggi non posso venire.",
+          "fa": "نه، امروز نمی‌توانم بیایم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 55,
+      "sourceKey": "italian-Lesson-01-A1:055",
+      "word": "il nome",
+      "meaningFa": "نام؛ اسم",
+      "additionalExamples": [
+        {
+          "it": "Il tuo nome è molto bello.",
+          "fa": "اسم تو خیلی زیبا است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Scrivi il nome in alto.",
+          "fa": "نام را در بالای صفحه بنویس.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 56,
+      "sourceKey": "italian-Lesson-01-A1:056",
+      "word": "non",
+      "meaningFa": "نـ؛ نه؛ نشانهٔ منفی‌کردن فعل",
+      "additionalExamples": [
+        {
+          "it": "Oggi non ho tempo.",
+          "fa": "امروز وقت ندارم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Maria non è a casa.",
+          "fa": "ماریا در خانه نیست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 57,
+      "sourceKey": "italian-Lesson-01-A1:057",
+      "word": "il numero",
+      "meaningFa": "عدد؛ شماره",
+      "additionalExamples": [
+        {
+          "it": "Il numero della mia casa è venti.",
+          "fa": "شمارهٔ خانهٔ من بیست است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Scrivi un numero da zero a dieci.",
+          "fa": "یک عدد از صفر تا ده بنویس.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 58,
+      "sourceKey": "italian-Lesson-01-A1:058",
+      "word": "il numero di telefono",
+      "meaningFa": "شمارهٔ تلفن",
+      "additionalExamples": [
+        {
+          "it": "Ho il tuo numero di telefono sul cellulare.",
+          "fa": "شمارهٔ تلفن تو را در تلفن همراهم دارم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il mio numero di telefono è sul biglietto.",
+          "fa": "شمارهٔ تلفن من روی کارت است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 59,
+      "sourceKey": "italian-Lesson-01-A1:059",
+      "word": "il Paese",
+      "meaningFa": "کشور",
+      "additionalExamples": [
+        {
+          "it": "Il mio Paese è molto piccolo.",
+          "fa": "کشور من خیلی کوچک است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Nel tuo Paese si parla italiano?",
+          "fa": "آیا در کشور تو ایتالیایی صحبت می‌کنند؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 60,
+      "sourceKey": "italian-Lesson-01-A1:060",
+      "word": "la parola",
+      "meaningFa": "واژه؛ کلمه",
+      "additionalExamples": [
+        {
+          "it": "Questa parola è nuova per me.",
+          "fa": "این واژه برای من جدید است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Come si pronuncia la parola ciao?",
+          "fa": "واژهٔ چائو چطور تلفظ می‌شود؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 61,
+      "sourceKey": "italian-Lesson-01-A1:061",
+      "word": "però",
+      "meaningFa": "اما؛ بااین‌حال",
+      "additionalExamples": [
+        {
+          "it": "Il libro è piccolo, però è utile.",
+          "fa": "کتاب کوچک است، اما مفید است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Non ho il quaderno, però ho una penna.",
+          "fa": "دفتر ندارم، اما یک خودکار دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 62,
+      "sourceKey": "italian-Lesson-01-A1:062",
+      "word": "la persona",
+      "meaningFa": "شخص؛ فرد",
+      "additionalExamples": [
+        {
+          "it": "C’è una persona davanti alla porta.",
+          "fa": "یک نفر جلوی در است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questa persona si chiama Angela.",
+          "fa": "اسم این شخص آنجلا است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 63,
+      "sourceKey": "italian-Lesson-01-A1:063",
+      "word": "piacere!",
+      "meaningFa": "از آشنایی خوشوقتم!",
+      "additionalExamples": [
+        {
+          "it": "Sono Lucia, piacere!",
+          "fa": "من لوچیا هستم، از آشنایی خوشوقتم!",
+          "origin": "authored"
+        },
+        {
+          "it": "Piacere! Questo è il mio amico Matteo.",
+          "fa": "از آشنایی خوشوقتم! این دوست من ماتئو است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 64,
+      "sourceKey": "italian-Lesson-01-A1:064",
+      "word": "portoghese",
+      "meaningFa": "پرتغالی؛ برای مذکر و مؤنث",
+      "additionalExamples": [
+        {
+          "it": "Miguel è portoghese, di Lisbona.",
+          "fa": "میگل پرتغالی و اهل لیسبون است.",
+          "origin": "authored"
+        },
+        {
+          "it": "La nuova insegnante è portoghese.",
+          "fa": "معلم جدید پرتغالی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 65,
+      "sourceKey": "italian-Lesson-01-A1:065",
+      "word": "professore",
+      "meaningFa": "استاد؛ معلم مرد",
+      "additionalExamples": [
+        {
+          "it": "Scusi, professore, ho una domanda.",
+          "fa": "ببخشید، استاد، یک سؤال دارم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Buona sera, professore, ci vediamo domani.",
+          "fa": "عصر بخیر، استاد، فردا همدیگر را می‌بینیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 66,
+      "sourceKey": "italian-Lesson-01-A1:066",
+      "word": "qual è il Suo indirizzo?",
+      "meaningFa": "نشانی شما چیست؟؛ محترمانه",
+      "additionalExamples": [
+        {
+          "it": "Scusi, signora, qual è il Suo indirizzo?",
+          "fa": "ببخشید خانم، نشانی شما چیست؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Qual è il Suo indirizzo? Devo inviarLe una lettera.",
+          "fa": "نشانی شما چیست؟ باید نامه‌ای برایتان بفرستم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 67,
+      "sourceKey": "italian-Lesson-01-A1:067",
+      "word": "qual è il tuo numero di telefono?",
+      "meaningFa": "شمارهٔ تلفن تو چیست؟؛ خودمانی",
+      "additionalExamples": [
+        {
+          "it": "Luca, qual è il tuo numero di telefono?",
+          "fa": "لوکا، شمارهٔ تلفن تو چیست؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Qual è il tuo numero di telefono? Voglio chiamarti domani.",
+          "fa": "شمارهٔ تلفن تو چیست؟ می‌خواهم فردا به تو زنگ بزنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 68,
+      "sourceKey": "italian-Lesson-01-A1:068",
+      "word": "qual è…?",
+      "meaningFa": "… چیست؟؛ برای پرسیدن مشخصات",
+      "additionalExamples": [
+        {
+          "it": "Qual è il nome della scuola?",
+          "fa": "نام مدرسه چیست؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Qual è il tuo cognome, per favore?",
+          "fa": "لطفاً نام خانوادگی تو چیست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 69,
+      "sourceKey": "italian-Lesson-01-A1:069",
+      "word": "ripetere",
+      "meaningFa": "تکرارکردن",
+      "additionalExamples": [
+        {
+          "it": "Puoi ripetere la domanda, per favore?",
+          "fa": "می‌توانی لطفاً سؤال را تکرار کنی؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Devo ripetere questo esercizio.",
+          "fa": "باید این تمرین را تکرار کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 70,
+      "sourceKey": "italian-Lesson-01-A1:070",
+      "word": "la risposta",
+      "meaningFa": "پاسخ؛ جواب",
+      "additionalExamples": [
+        {
+          "it": "La tua risposta è giusta.",
+          "fa": "پاسخ تو درست است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Non conosco la risposta a questa domanda.",
+          "fa": "پاسخ این سؤال را نمی‌دانم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 71,
+      "sourceKey": "italian-Lesson-01-A1:071",
+      "word": "salutare",
+      "meaningFa": "سلام‌کردن؛ خداحافظی‌کردن",
+      "additionalExamples": [
+        {
+          "it": "Prima di andare via, voglio salutare tutti.",
+          "fa": "پیش از رفتن می‌خواهم با همه خداحافظی کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "È gentile salutare quando entri in classe.",
+          "fa": "وقتی وارد کلاس می‌شوی، سلام‌کردن کار مؤدبانه‌ای است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 72,
+      "sourceKey": "italian-Lesson-01-A1:072",
+      "word": "il saluto",
+      "meaningFa": "سلام یا خداحافظی؛ عبارتِ خوشامد یا بدرود",
+      "additionalExamples": [
+        {
+          "it": "Questo è un saluto informale.",
+          "fa": "این یک عبارت سلام یا خداحافظیِ خودمانی است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Un saluto a tutti e a presto!",
+          "fa": "به همه سلام می‌رسانم؛ به‌زودی می‌بینمتان!",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 73,
+      "sourceKey": "italian-Lesson-01-A1:073",
+      "word": "salve!",
+      "meaningFa": "سلام!؛ سلام بدون صمیمیتِ ciao",
+      "additionalExamples": [
+        {
+          "it": "Il nuovo vicino entra: «Salve!».",
+          "fa": "همسایهٔ جدید وارد می‌شود: «سلام!»",
+          "origin": "authored"
+        },
+        {
+          "it": "Salve! Cerca qualcuno?",
+          "fa": "سلام! دنبال کسی می‌گردید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 74,
+      "sourceKey": "italian-Lesson-01-A1:074",
+      "word": "scrivere",
+      "meaningFa": "نوشتن",
+      "additionalExamples": [
+        {
+          "it": "Voglio scrivere il mio nome sul quaderno.",
+          "fa": "می‌خواهم نامم را روی دفتر بنویسم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Puoi scrivere più lentamente?",
+          "fa": "می‌توانی آهسته‌تر بنویسی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 75,
+      "sourceKey": "italian-Lesson-01-A1:075",
+      "word": "scusa",
+      "meaningFa": "ببخش؛ ببخشید؛ خطاب خودمانی",
+      "additionalExamples": [
+        {
+          "it": "Scusa, questo posto è libero?",
+          "fa": "ببخشید، این جا خالی است؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Scusa, ho sbagliato numero.",
+          "fa": "ببخشید، شماره را اشتباه گرفته‌ام.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 76,
+      "sourceKey": "italian-Lesson-01-A1:076",
+      "word": "scusi",
+      "meaningFa": "ببخشید؛ خطاب محترمانه",
+      "additionalExamples": [
+        {
+          "it": "Scusi, dov’è la stazione?",
+          "fa": "ببخشید، ایستگاه کجا است؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Scusi, posso fare una domanda?",
+          "fa": "ببخشید، می‌توانم یک سؤال بپرسم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 77,
+      "sourceKey": "italian-Lesson-01-A1:077",
+      "word": "sì",
+      "meaningFa": "بله؛ آری",
+      "additionalExamples": [
+        {
+          "it": "Sei pronto? Sì, possiamo cominciare.",
+          "fa": "آماده‌ای؟ بله، می‌توانیم شروع کنیم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Sì, il mio nome è Alessio.",
+          "fa": "بله، اسم من آلسیو است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 78,
+      "sourceKey": "italian-Lesson-01-A1:078",
+      "word": "la signora",
+      "meaningFa": "خانم؛ عنوان خطاب محترمانه به زن",
+      "additionalExamples": [
+        {
+          "it": "La signora Rossi è molto gentile.",
+          "fa": "خانم روسی خیلی مهربان است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Scusi, signora, questa borsa è Sua?",
+          "fa": "ببخشید خانم، این کیف مال شما است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 79,
+      "sourceKey": "italian-Lesson-01-A1:079",
+      "word": "il signore / il signor",
+      "meaningFa": "آقا؛ عنوان خطاب محترمانه به مرد",
+      "additionalExamples": [
+        {
+          "it": "Il signore vicino alla finestra è mio zio.",
+          "fa": "آن آقایی که کنار پنجره است، عموی من است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Buongiorno, signore, desidera un caffè?",
+          "fa": "صبح بخیر آقا، قهوه میل دارید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 80,
+      "sourceKey": "italian-Lesson-01-A1:080",
+      "word": "spagnolo / spagnola",
+      "meaningFa": "اسپانیایی؛ صورت مذکر / مؤنث",
+      "additionalExamples": [
+        {
+          "it": "Javier è spagnolo, di Madrid.",
+          "fa": "خاویر اسپانیایی و اهل مادرید است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il ragazzo al tavolo è spagnolo.",
+          "fa": "پسری که پشت میز است اسپانیایی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 81,
+      "sourceKey": "italian-Lesson-01-A1:081",
+      "word": "il Suo",
+      "meaningFa": "مال شما؛ ـِ شما، خطاب محترمانه و همراه اسم مذکر مفرد",
+      "additionalExamples": [
+        {
+          "it": "È questo il Suo quaderno, signore?",
+          "fa": "آقا، آیا این دفتر شما است؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Il Suo indirizzo è scritto qui.",
+          "fa": "نشانی شما اینجا نوشته شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 82,
+      "sourceKey": "italian-Lesson-01-A1:082",
+      "word": "svizzero / svizzera",
+      "meaningFa": "سوئیسی؛ صورت مذکر / مؤنث",
+      "additionalExamples": [
+        {
+          "it": "Luca è svizzero, di Lugano.",
+          "fa": "لوکا سوئیسی و اهل لوگانو است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Sono svizzero e parlo anche italiano.",
+          "fa": "من سوئیسی هستم و ایتالیایی هم صحبت می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 83,
+      "sourceKey": "italian-Lesson-01-A1:083",
+      "word": "tedesco / tedesca",
+      "meaningFa": "آلمانی؛ صورت مذکر / مؤنث",
+      "additionalExamples": [
+        {
+          "it": "Felix è tedesco, di Amburgo.",
+          "fa": "فلیکس آلمانی و اهل هامبورگ است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il mio collega è tedesco e abita a Milano.",
+          "fa": "همکار من آلمانی است و در میلان زندگی می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 84,
+      "sourceKey": "italian-Lesson-01-A1:084",
+      "word": "tu",
+      "meaningFa": "تو؛ خطاب خودمانی",
+      "additionalExamples": [
+        {
+          "it": "Io vado a casa, e tu?",
+          "fa": "من به خانه می‌روم؛ و تو؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Tu hai una penna blu?",
+          "fa": "آیا تو یک خودکار آبی داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 85,
+      "sourceKey": "italian-Lesson-01-A1:085",
+      "word": "il tuo",
+      "meaningFa": "مال تو؛ ـِ تو، همراه اسم مذکر مفرد",
+      "additionalExamples": [
+        {
+          "it": "Questo è il tuo libro?",
+          "fa": "آیا این کتاب تو است؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Il tuo compagno di corso è simpatico.",
+          "fa": "هم‌کلاسی تو دوست‌داشتنی است.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

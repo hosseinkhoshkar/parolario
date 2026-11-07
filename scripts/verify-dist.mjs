@@ -4,9 +4,9 @@ import { readdir, readFile, mkdir, writeFile } from 'node:fs/promises'
 import { createContext, runInContext } from 'node:vm'
 import path from 'node:path'
 
-const root = path.resolve('dist'), origin = 'https://wortzeit.test/'
+const root = path.resolve('dist'), origin = 'https://parolario.test/'
 const html = await readFile(path.join(root, 'index.html'), 'utf8')
-const buildId = html.match(/name="wortzeit-build" content="([a-f0-9]+)"/)?.[1]
+const buildId = html.match(/name="parolario-build" content="([a-f0-9]+)"/)?.[1]
 assert.ok(buildId)
 assert.ok(html.includes('lang="fa" dir="rtl"'))
 const workerSource = await readFile(path.join(root, 'sw.js'), 'utf8')
@@ -44,6 +44,7 @@ function environment(failInstall = false) {
       }
     },
     match: async request => { for (const store of stores.values()) { const value = store.get(request.url); if (value) return value.clone() } },
+    keys: async () => [...stores.keys()],
     delete: async name => stores.delete(name),
   }
   const self = { registration: { scope: origin }, location: { origin: new URL(origin).origin },
@@ -64,10 +65,10 @@ async function readiness(env) {
   return result
 }
 assert.equal((await readiness(complete)).ready, true)
-assert.equal((await readiness(complete)).version, `wortzeit-shell-${buildId}`)
+assert.equal((await readiness(complete)).version, `parolario-shell-${buildId}`)
 let navigation
 complete.handlers.fetch({ request: { method: 'GET', mode: 'navigate', url: origin }, respondWith: value => { navigation = value } })
-assert.ok((await (await navigation).text()).includes('Wortzeit'))
+assert.ok((await (await navigation).text()).includes('Parolario'))
 const store = [...complete.stores.values()][0]
 store.delete(new URL(assets[0], origin).href)
 assert.equal((await readiness(complete)).ready, false)
@@ -75,9 +76,19 @@ const failed = environment(true)
 failed.handlers.install({ waitUntil: promise => { installation = promise } })
 await assert.rejects(installation, /Incomplete download/)
 assert.equal(failed.stores.size, 0, 'Failed install removes its incomplete cache')
+// A foreign application's cache must never satisfy an Italian request.
+const foreignUrl = new URL('foreign-only.js', origin).href
+complete.stores.set('wortzeit-shell-historical', new Map([[foreignUrl, new Response('German cached data')]]))
+let requestResult
+complete.handlers.fetch({ request: { method: 'GET', mode: 'cors', url: foreignUrl }, respondWith: value => { requestResult = value } })
+await assert.rejects(requestResult, /offline/)
+const oldItalianUrl = new URL('old-italian-asset.js', origin).href
+complete.stores.set('parolario-shell-historical', new Map([[oldItalianUrl, new Response('Italian immutable asset')]]))
+complete.handlers.fetch({ request: { method: 'GET', mode: 'cors', url: oldItalianUrl }, respondWith: value => { requestResult = value } })
+assert.equal(await (await requestResult).text(), 'Italian immutable asset')
 await mkdir('test-results', { recursive: true })
 const report = { at: new Date().toISOString(), buildId, assets: assets.length,
-  checks: ['all required files exist', 'matching HTML/code/worker identity', 'PNG icon dimensions', 'complete cache verified', 'missing asset rejected', 'failed install removed', 'offline navigation fallback simulated'],
+  checks: ['all required files exist', 'matching HTML/code/worker identity', 'PNG icon dimensions', 'complete cache verified', 'missing asset rejected', 'failed install removed', 'offline navigation fallback simulated', 'foreign cache never used', 'older Italian immutable asset remains available'],
   limit: 'Node worker simulation and artifact checks; not an actual browser or mobile acceptance test' }
 await writeFile('test-results/dist-report.json', JSON.stringify(report, null, 2))
 console.log(`PASS ${report.checks.length} artifact/worker checks; ${assets.length} assets; build ${buildId}`)

@@ -1,50 +1,25 @@
-﻿# قرارداد داده و ذخیرهٔ نسخهٔ۳
+# قرارداد دادهٔ مستقل ایتالیایی — schema۵
 
-منبع دقیق typeها [contracts/index.ts](../src/contracts/index.ts) و قراردادهای منجمد قدیمی [legacy-v1.ts](../src/contracts/legacy-v1.ts) و [legacy-v2.ts](../src/contracts/legacy-v2.ts) هستند. schema=3، policy=learning-policy-v2، normalization=answer-normalization-v2 و content=course-a1-lessons-01-04-v1 مستقل‌اند. شناسه‌های همان۲۰ مدخل ثابت‌اند و۸۴ مدخل درس چهارم شناسهٔ جدید مستقل دارند.
-
-## بخش‌های درس و ادامهٔ مستقل
-
-ContentBundle فهرست lessons دارد؛ lesson پیش‌فرض برای سازگاری بسته‌های تک‌درس حفظ شده است. AppState یک progress/attempts/dailyActivity مشترک، activeLessonId و savedSessions دارد. Session.lessonId مالک درس را مشخص می‌کند. select-lesson جلسهٔ فعلی را paused و بایگانی، و جلسهٔ درس مقصد را بازیابی می‌کند؛ متن، صف و بازخورد از بین نمی‌روند. session فعال در savedSessions دوباره ذخیره نمی‌شود. واژه‌های جدید، مرور، بازی و آمار هر بخش متعلق به همان درس‌اند؛ todayActiveMs مجموع فعالیت روز بین درس‌هاست.
+[نوع‌های اجرایی](../src/contracts/index.ts) مرجع دقیق‌اند. schema۵، policy=learning-policy-v2، normalization=italian-answer-normalization-v1 و content=nuovo-espresso-a1-it-v1 مستقل‌اند. این تغییر، مهاجرت دادهٔ آلمانی نیست. [نسخهٔ تاریخی قرارداد](../reference/legacy-wortzeit/docs/data-contract.md) برای سابقه حفظ شده است.
 
 ## محتوا
 
-Entry علاوه بر معنی/نقش/منابع/مثال authored و cloze، فیلد writing با promptFa، cueFa، acceptedAnswers صریح و caseSensitive دارد. پاسخ اول صورت معیار است. جایگزین‌ها از فهرست بازبینی‌شده می‌آیند. choose-article فقط برای nounData دارای آرتیکل معلوم فعال است. هیچ مثال به کتاب نسبت داده نشده و coverage=partial باقی است.
+Lesson.titleIt و Example.it جای فیلدهای زبان قبلی را گرفته‌اند. lessonId=it-a1-lesson-01 و شناسهٔ هر مدخل it-a1-l01-NNN از شمارهٔ ثابت سطر فایل مرجع می‌آید؛ تغییر مرتب‌سازی نباید شناسه را عوض کند. sourceHeadword/sourceRow متن و شمارهٔ اصلی را حفظ می‌کنند. introductionOrder از صفحهٔ چاپی و رتبهٔ محل منبع می‌آید.
 
-## پیشرفت و جلسه
+Entry نقش دستوری، معنی، occurrence و sourceRefIds واقعی دارد. Example.origin برابر quoted یا authored است؛ quoted دارای sourceRefId همان مدخل است. نمونهٔ اول عین گزیدهٔ کتاب، دو نمونهٔ بعد تألیفی‌اند. writing پاسخ معیارِ مدخل و cue فارسی دارد. cloze پاسخ‌های مستقل و cue جدا می‌تواند داشته باشد تا صورت صرف‌شده با مصدر اشتباه نشود؛ بازسازی پاسخ معیار باید دقیقاً مثال تألیفیِ اشاره‌شده را بسازد.
 
-AppState شامل progress، attempts، session، savedSessions، activeLessonId، assistanceEvents، dailyActivity و activityEventIds است؛ settings منطقهٔ مطالعه، سقف۵ و targetActiveMs=1200000 را دارد. محتوا در snapshot کپی نمی‌شود.
+nounData شامل article nullable، gender مستقل nullable و number است. آرتیکل‌های مجاز il/lo/la/l'/i/gli/le؛ برای l' جنس باید مستقلاً معلوم باشد. فقط اسم با آرتیکل معلوم article-skill و choose-article می‌گیرد؛ اسم نامعلوم نیز مدخل معتبر است. plural نامعلوم null می‌ماند و توضیح دارد. نمونهٔ جمعی حدس زده نمی‌شود.
 
-- EntryProgress موعد، پله، تاریخ‌های مرور مستقل و pendingError با reason و شمارندهٔ سه پاسخ دیگر دارد. skills شامل meaning، writing و articleِ قابل اعمال است؛ هر مهارت correct/wrong/assisted/unassistedCorrect/lastAttemptAt دارد.
-- Attempt پاسخ خام، نتیجه، independent، assisted، normalizationVersion، سؤال/جلسه/مدخل و زمان/روز را حفظ می‌کند. قدیمی‌ها normalization-v1 می‌مانند و دوباره نمره‌دهی نمی‌شوند.
-- AssistanceEvent با eventId پایدار، سؤال/جلسه/مدخل و kind جدا ثبت می‌شود؛ کمک غلطِ ساختگی نیست.
-- Session صف/ترتیب تصادفی، cursor، draft، feedback، activeMs و تأیید هدف با targetAcknowledged/targetAcknowledgedDate دارد؛ تأیید ادامه فقط برای همان روز مطالعه است. فلشکارت، معنی، جای خالی، نوشتن، آرتیکل و اتصال با قابلیت داده انتخاب می‌شوند. وضعیت assisted سؤال ماندگار است.
-- فعالیت با eventId، sessionId، from/to و elapsedMs یکتا commit می‌شود. ساعت monotonic فقط زمان فعال و قابل مشاهده را نمونه‌برداری می‌کند؛ موتور با ورودی زمان و منطقه، سهم روزها را محاسبه می‌کند. زمان بسته‌بودن از timestamp قدیمی استنتاج نمی‌شود.
+NFC، trim و یکسان‌کردن فاصله مجازند؛ حذف اکسان، stemming و صورت صرفیِ حدسی مجاز نیست. caseSensitive و acceptedAnswers صریح‌اند. نقل کتاب، معنی و locator در sync بازنویسی نمی‌شوند.
 
-## مالکیت و commit
+## پیشرفت و تراکنش
 
-APIهای محتوا، موتور و ذخیرهٔ مرحلهٔ۱ حفظ می‌شوند. موتور خالص و بدون DOM/شبکه/IndexedDB است. ui فقط command و visibility ارائه می‌کند. controller زمان و صف commit/retry را مدیریت می‌کند. تمام پاسخ و موعد و cursor/feedback در یک snapshot transaction IndexedDB ثبت می‌شوند. revision و expectedRevision مانع بازنویسی state کهنه‌اند؛ eventId/attemptId تکراری اثر دوباره ندارد.
+progress، attempts، skills، assistanceEvents، reverseProgress/reverseReviews، dailyActivity، session و savedSessions همان قرارداد رفتاری موجود را حفظ می‌کنند. زمان مطالعه و هدف بین درس‌ها مشترک است؛ session.lessonId مالک صف و draft است. select-lesson جلسهٔ فعلی را paused بایگانی و مقصد را بازیابی می‌کند.
 
-قفل Web Locks تا پایان صف writer حفظ می‌شود؛ shutdown کار تازه را رد و صف پذیرفته‌شده را جمع می‌کند. probe اولیه ifAvailable و retry صریح signalدار و صف‌شونده است؛ این دو option با هم استفاده نمی‌شوند. نتیجهٔ دیررس startup لغوشده writer نمی‌سازد. pagehide/cleanup تکراری idempotent است.
+پاسخ/تاریخچه/بازخورد/موعد/cursor در یک snapshot و یک تراکنش ثبت می‌شوند. expectedRevision مانع writer کهنه است؛ attemptId و eventId تکراری دوباره شمرده نمی‌شوند. validator شکل داده، شمارنده‌ها در برابر تاریخچه، مالکیت درس، آرتیکل، بازخورد و شواهد مرور معکوس را بررسی می‌کند.
 
-## مهاجرت و ناسازگاری
+IndexedDB=parolario-progress، object store=user-state، key=current، قفل parolario-single-writer. migrateState فقط schema و محتوای فعلی را اعتبارسنجی و clone می‌کند؛ هر نسخه/محتوای بیگانه بدون تغییر داده رد می‌شود. هیچ خوانندهٔ frozen آلمانی در مسیر اجرایی ذخیره وارد نمی‌شود.
 
-validator نسخهٔ۱ در [storage/legacy-v1.ts](../src/storage/legacy-v1.ts) منجمد است. loadState فقط نسخهٔ۱ شناخته‌شده را پس از validation و نگاشت هویت به۲ ارتقا می‌دهد: پاسخ‌ها، شناسه‌ها، موعد/پله/تاریخ‌ها، صف/cursor/draft/feedback حفظ؛ فقط فیلدهای جدید افزوده و مهارت‌ها از تاریخچهٔ موجود استخراج می‌شوند. زمان قدیمی حدس زده نمی‌شود. migration با revision+1 در همان transaction نوشته می‌شود؛ شکست، دادهٔ قدیمی را دست‌نخورده باقی می‌گذارد. کلید پشتیبان یا قابلیت export/import اضافه نمی‌شود.
+## مثال‌های تکمیلی
 
-دادهٔ نسخهٔ۲ شناخته‌شده با reader منجمد۲ بررسی و سپس به۳ تبدیل می‌شود؛ session قدیمی به درس اول با شناسهٔ اصلی a1-lesson-01 تعلق می‌گیرد. همهٔ مهارت‌ها، پاسخ‌ها، فعالیت‌ها و وضعیت‌های قبلی حفظ می‌شوند. نسخهٔ۳ تک‌درسِ شناخته‌شده نیز می‌تواند به فهرست جدید ارتقا یابد. ارتقا در همان transaction ذخیره می‌شود و شکست، snapshot قبلی را حفظ می‌کند.
-
-نسخهٔ۳ در load بعدی دوباره مهاجرت نمی‌کند. دادهٔ خراب یا ناشناخته حفظ و صریحاً رد می‌شود. abort پیش از commit مسیر برگشت است؛ reader قدیمی پس از ثبت۳ باید fail-closed باشد، نه reset یا نوشتن دادهٔ قدیمی. بازگشت اجرایی به reader قدیمی بدون تبدیل معکوس پشتیبانی نمی‌شود.
-
-cache مستقل از پیشرفت است. آمادگی cache باید با شناسهٔ buildِ همین کد تطبیق یابد. داده به origin و پروفایل همین مرورگر تعلق دارد و حذف دادهٔ سایت/eviction می‌تواند آن را حذف کند.
-
-## سازگاری بازطراحی جلسه
-در بازطراحی ۲۰۲۶-۱۰-۳۱ schema۳، شناسه‌های task و قرارداد feedback/next عوض نشده‌اند. صف جلسه‌های تازه همهٔ کارت‌های جدید را پیش از تمرین همان دسته قرار می‌دهد؛ صف جلسهٔ ذخیره‌شده بازچینی نمی‌شود. رابط اتصال با فرمان next پس از بازخورد کوتاه ادامه می‌دهد؛ پاسخ و feedback قبل از ادامه ذخیره می‌شوند.
-
-## مرحلهٔ مرور معکوس
-درخواست جدید و قرارداد نسخه۴، رفتار موبایل و پذیرش در [برنامهٔ مرور معکوس](reverse-review-plan.md) تعریف شده و در موارد تعارض بر سابقهٔ بالا اولویت دارد.
-
-## مرحلهٔ فعال مثال‌ها
-دامنه، قرارداد دادهٔ جانبی و پذیرش در [برنامهٔ مثال‌های تکمیلی](examples-plan.md) تعریف شده‌اند.
-
-## افزودن درس‌های ۵ تا ۸ به کاتالوگ
-
-قرارداد جاری ذخیره همچنان schema۴ است؛ بخش‌های بالاتر سابقهٔ نسخه۳ هستند. درس‌های فعال ۱/۴/۵/۶/۷/۸ با ۲۰/۸۴/۷۶/۸۰/۵۵/۵۲ مدخل از یک registry می‌آیند. افزودن درس‌های ۵ تا ۸، `contentVersion: course-a1-lessons-01-04-v1` را تغییر نمی‌دهد: validatorهای نسخه۲/۳ که validator فعلی۴ نیز از آن‌ها استفاده می‌کند، برابری دقیق این رشته را بررسی می‌کنند. این رشته شناسهٔ سازگاری است؛ build hash مستقل، cache محتوای تازه را تعیین می‌کند. ذخیرهٔ۴ قبلی بدون migration، تغییر revision یا بازنویسی صف خوانده می‌شود؛ خوانش نسخه‌های۱/۲/۳ نیز حفظ است. [fixture و معیارهای پذیرش](lesson-five-acceptance.md).
+reference/vocabulary/italian/Lesson-01-A1.txt منبع انسانیِ ثابت و public/content/examples/italian/Lesson-01-A1.json دادهٔ تألیفی بازبینی‌شده است. sync:examples تطبیق سطر/کلید/متن، جفت زبانی، تکرار و تعداد را بررسی می‌کند و تنها italian-source.json و additional-examples.ts اجرایی را به صورت قطعی می‌سازد. build hash برای تازگی cache مستقل از contentVersion است.

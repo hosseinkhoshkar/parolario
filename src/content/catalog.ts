@@ -1,22 +1,15 @@
 import type { ContentBundle } from '../contracts/index.ts'
 import { lessonBundles } from './lessons.ts'
-import { extendEntryExamples } from './extend-examples.ts'
-
 export { lessonBundles }
-
-/** The original lesson IDs and all twenty existing entry identities stay unchanged. */
-export const courseBundle: ContentBundle = {
-  // Save compatibility identifier: the schema-4 reader compares this exactly.
-  // Additive lessons keep it; the PWA build hash independently refreshes assets.
-  contentVersion: 'course-a1-lessons-01-04-v1',
-  lesson: lessonBundles[0].lesson,
-  lessons: lessonBundles.map(bundle => bundle.lesson),
-  sources: [...new Map(lessonBundles.flatMap(bundle => bundle.sources).map(source => [source.sourceId, source])).values()],
-  sourceRefs: lessonBundles.flatMap(bundle => bundle.sourceRefs),
-  entries: lessonBundles.flatMap(bundle => bundle.entries).map(extendEntryExamples),
-  provenance: {
-    file: lessonBundles.map(bundle => bundle.provenance.file).join('؛ '),
-    reviewStatus: 'excerpt-checked',
-    noteFa: 'درس اول شامل همان ۲۰ مدخل قبلی است. درس‌های چهارم تا هشتم تمام ۸۴، ۷۶، ۸۰، ۵۵ و ۵۲ مدخل فایل گزیدهٔ خود را دارند. معنی، آرتیکل و ارجاع‌ها با همین فایل‌ها تطبیق داده شده‌اند؛ تأیید جامع اصل کتاب نیست. مثال‌ها و جمله‌های تمرین تألیفی‌اند.',
-  },
+/** Registry aggregation preserves independently sourced future lessons. */
+export function combineLessonBundles(bundles: ContentBundle[]): ContentBundle {
+  if (!bundles.length) throw new Error('An active course requires a sourced lesson')
+  if (bundles.some(bundle => bundle.contentVersion !== bundles[0].contentVersion)) throw new Error('Incompatible lesson content identity')
+  return { contentVersion: bundles[0].contentVersion, lesson: bundles[0].lesson,
+    lessons: bundles.map(bundle => bundle.lesson),
+    sources: [...new Map(bundles.flatMap(bundle => bundle.sources).map(source => [source.sourceId, source])).values()],
+    sourceRefs: bundles.flatMap(bundle => bundle.sourceRefs), entries: bundles.flatMap(bundle => bundle.entries),
+    provenance: { file: bundles.map(bundle => bundle.provenance.file).join('؛ '), reviewStatus: 'excerpt-checked',
+      noteFa: bundles.map(bundle => bundle.provenance.noteFa).join(' ') } }
 }
+export const courseBundle: ContentBundle = combineLessonBundles(lessonBundles)

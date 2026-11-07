@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict'
 import { test } from 'node:test'
-import { lessonOneBundle } from '../content/lesson-one.ts'
+import { lessonOneBundle } from '../testing/legacy-fixture.ts'
 import type { AppState, ContentBundle, Entry, LearningCommand, SessionTask } from '../contracts/index.ts'
 import { createInitialState, currentTask, getEntryStatus, getHomeStats, summarizeSession, transition } from './engine.ts'
 
@@ -236,7 +236,7 @@ test('adaptive tasks address weak writing/article before new cards and remain bo
   assert.ok(state.session!.queue.filter(item => item.taskId.includes(':adaptive-')).length <= 4)
   // A noun's wrong article selects an article task, never one for a verb.
   state = reach(start(bundle), task => task.kind === 'choose-article', NOW, bundle)
-  state = answer(state, noun.nounData!.article === 'der' ? 'die' : 'der', NOW, bundle)
+  state = answer(state, noun.nounData!.article === 'il' ? 'la' : 'il', NOW, bundle)
   state = command(state, { type: 'end-session' }, NOW, bundle)
   state = command(state, { type: 'start-session', sessionId: 'article-weak', seed: 30 }, NOW, bundle)
   const articleIndex = state.session!.queue.findIndex(task => task.kind === 'choose-article' && task.entryId === noun.entryId)

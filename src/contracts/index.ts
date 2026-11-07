@@ -1,7 +1,7 @@
 /** Multi-lesson state. Frozen v1/v2 contracts support lossless progress upgrades. */
-export const SCHEMA_VERSION = 4 as const
+export const SCHEMA_VERSION = 5 as const
 export const POLICY_VERSION = 'learning-policy-v2' as const
-export const NORMALIZATION_VERSION = 'answer-normalization-v2' as const
+export const NORMALIZATION_VERSION = 'italian-answer-normalization-v1' as const
 export const TARGET_ACTIVE_MS = 1_200_000 as const
 export const REVIEW_DAYS = [1, 3, 7, 14, 30] as const
 
@@ -17,11 +17,13 @@ export interface SourceRef {
   lessonId: string
   locator: string
 }
+export type ItalianArticle = 'il' | 'lo' | 'la' | "l'" | 'i' | 'gli' | 'le'
 export interface Example {
   exampleId: string
-  de: string
+  it: string
   fa: string
-  origin: 'authored'
+  origin: 'authored' | 'quoted'
+  sourceRefId?: string
 }
 export interface Entry {
   entryId: string
@@ -30,11 +32,14 @@ export interface Entry {
   lemma: string
   partOfSpeech: 'noun' | 'verb' | 'adjective' | 'adverb' | 'pronoun' | 'phrase' | 'other'
   meaningFa: string
-  nounData?: { article: 'der' | 'die' | 'das'; plural: string | null; pluralNote: string }
+  sourceHeadword?: string
+  sourceRow?: number
+  formNoteFa?: string
+  nounData?: { article: ItalianArticle | null; gender: 'masculine' | 'feminine' | null; number: 'singular' | 'plural'; plural: string | null; pluralNote: string }
   sourceRefIds: string[]
   occurrences: { lessonId: string; sourceRefIds: string[] }[]
   examples: Example[]
-  cloze: { sentence: string; translationFa: string; acceptedAnswers: string[]; exampleId: string }
+  cloze: { cueFa?: string; sentence: string; translationFa: string; acceptedAnswers: string[]; exampleId: string }
   writing: { promptFa: string; cueFa: string; acceptedAnswers: string[]; caseSensitive: boolean }
   meaningOptionEntryIds: string[]
   enabledExercises: ('flashcard' | 'choose-meaning' | 'cloze' | 'match' | 'write-word' | 'choose-article')[]
@@ -42,7 +47,7 @@ export interface Entry {
 }
 export interface LessonDefinition {
   lessonId: string
-  titleDe: string
+  titleIt: string
   titleFa: string
   level: 'A1'
   coverage: 'partial'
@@ -85,7 +90,7 @@ export type SessionTask = (
   | { taskId: string; kind: 'choose-meaning'; entryId: string; optionIds: string[] }
   | { taskId: string; kind: 'cloze'; entryId: string; cycleKind: CycleKind }
   | { taskId: string; kind: 'write-word'; entryId: string; cycleKind: CycleKind }
-  | { taskId: string; kind: 'choose-article'; entryId: string; options: ('der' | 'die' | 'das')[] }
+  | { taskId: string; kind: 'choose-article'; entryId: string; options: ItalianArticle[] }
   | { taskId: string; kind: 'match'; entryIds: string[]; leftOrder: string[]; rightOrder: string[]; matchedEntryIds: string[] }
 ) & { assisted?: boolean }
 export interface Attempt {
@@ -98,7 +103,7 @@ export interface Attempt {
   correct: boolean
   independent: boolean
   assisted: boolean
-  normalizationVersion: 'answer-normalization-v1' | typeof NORMALIZATION_VERSION
+  normalizationVersion: typeof NORMALIZATION_VERSION
   at: string
   studyDate: string
 }
@@ -155,7 +160,7 @@ export interface ReverseReview {
   studyDate: string
 }
 export interface AppState {
-  schemaVersion: 4
+  schemaVersion: 5
   learningPolicyVersion: typeof POLICY_VERSION
   contentVersion: string
   revision: number
@@ -214,7 +219,7 @@ export interface LessonSummary {
   due: number
   stabilized: number
 }
-export interface WortzeitUIProps {
+export interface ParolarioUIProps {
   bundle: ContentBundle
   state: AppState
   stats: HomeStats

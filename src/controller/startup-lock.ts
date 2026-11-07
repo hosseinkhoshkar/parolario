@@ -1,4 +1,4 @@
-export const WRITER_LOCK_NAME = 'wortzeit-single-writer'
+export const WRITER_LOCK_NAME = 'parolario-single-writer'
 
 interface WriterLocks {
   request(name: string, options: LockOptions, callback: (lock: Lock | null) => Promise<void>): Promise<void>

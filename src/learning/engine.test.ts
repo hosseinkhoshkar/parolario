@@ -6,7 +6,7 @@ import { createInitialState, currentTask, getEntryStatus, getHomeStats, normaliz
 const NOW = '2026-01-01T12:00:00.000Z'
 const bundle: ContentBundle = {
   contentVersion: 'test-v1', sources: [], sourceRefs: [],
-  lesson: { lessonId: 'lesson-1', titleDe: 'Lektion', titleFa: 'درس', level: 'A1', coverage: 'partial', introducedEntryIds: [] },
+  lesson: { lessonId: 'lesson-1', titleIt: 'Lektion', titleFa: 'درس', level: 'A1', coverage: 'partial', introducedEntryIds: [] },
   provenance: { file: 'test', reviewStatus: 'excerpt-checked', noteFa: 'fixture' },
   entries: Array.from({ length: 8 }, (_, index): Entry => ({
     entryId: `word-${index}`, introducedInLessonId: 'lesson-1', introductionOrder: index,

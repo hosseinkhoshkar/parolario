@@ -7,9 +7,9 @@ import { createElement } from 'react'
 import { renderToStaticMarkup as renderMarkup } from 'react-dom/server'
 import type { ReactNode } from 'react'
 import ts from 'typescript'
-import type { ContentBundle, Entry, EntryProgress, LessonDefinition, SessionTask, WortzeitUIProps } from '../contracts/index.ts'
-import { lessonOneBundle as bundle } from '../content/lesson-one.ts'
-import { courseBundle } from '../content/catalog.ts'
+import type { ContentBundle, Entry, EntryProgress, LessonDefinition, SessionTask, ParolarioUIProps } from '../contracts/index.ts'
+import { lessonOneBundle as bundle } from '../testing/legacy-fixture.ts'
+import { courseBundle as italianCourse } from '../content/catalog.ts'
 import { createInitialState } from '../learning/engine.ts'
 
 // Native Node does not load TSX/CSS. Compile the real view in memory and render it
@@ -29,7 +29,8 @@ function renderToStaticMarkup(element: ReactNode) {
 }
 const now = '2026-10-28T12:00:00.000Z'
 
-function propsFor(task: SessionTask): WortzeitUIProps {
+function propsFor(task: SessionTask, targetBundle = bundle): ParolarioUIProps {
+  const bundle = targetBundle
   const state = createInitialState(bundle, 'Europe/Berlin')
   state.session = {
     sessionId: 'ui-session', lessonId: bundle.lesson.lessonId, contentVersion: bundle.contentVersion, state: 'active', startedAt: now,
@@ -37,7 +38,7 @@ function propsFor(task: SessionTask): WortzeitUIProps {
     activeMs: 0, targetAcknowledged: false, targetAcknowledgedDate: null,
   }
   return {
-    bundle, state, stats: { introduced: 0, due: 0, newCount: 20, correct: 0, totalAnswers: 0, nextDueAt: null, todayActiveMs: 0, stabilized: 0 },
+    bundle, state, stats: { introduced: 0, due: 0, newCount: bundle.entries.length, correct: 0, totalAnswers: 0, nextDueAt: null, todayActiveMs: 0, stabilized: 0 },
     summary: { practiced: 0, introduced: 0, correct: 0, totalAnswers: 0, needsReview: 0, remaining: 1, nextDueAt: null, activeMs: 0, assisted: 0 },
     statuses: Object.fromEntries(bundle.entries.map(entry => [entry.entryId, 'new'])), now,
     busy: false, error: null, offlineStatus: 'unavailable', onCommand: async () => {}, onRetry: () => {},
@@ -51,7 +52,7 @@ const noun = bundle.entries.find(entry => entry.nounData)!
 const verb = bundle.entries.find(entry => entry.partOfSpeech === 'verb')!
 const writing = (entry: Entry): SessionTask => ({ taskId: 'write', kind: 'write-word', entryId: entry.entryId, cycleKind: 'scheduled' })
 
-test('writing displays only Persian prompt/cue before answering, with German LTR draft input', () => {
+test('writing displays only Persian prompt/cue before answering, with Italian LTR draft input', () => {
   const task = writing(noun)
   const props = propsFor(task)
   props.state.session!.draft = 'An'
@@ -60,20 +61,20 @@ test('writing displays only Persian prompt/cue before answering, with German LTR
   assert.ok(html.includes(noun.writing.cueFa))
   assert.ok(!html.includes(noun.writing.acceptedAnswers[0]))
   assert.ok(!html.includes('speaker-button'), 'writing cannot play a hidden answer or sentence')
-  assert.match(html, /id="german-answer" lang="de" dir="ltr"/u)
+  assert.match(html, /id="italian-answer" lang="it" dir="ltr"/u)
   assert.match(html, /value="An"/u)
   assert.match(html, /نمایش پاسخ/u)
 })
 
-test('article question hides the article until feedback and provides all three touch options', () => {
-  const task: SessionTask = { taskId: 'article', kind: 'choose-article', entryId: noun.entryId, options: ['das', 'der', 'die'] }
+test('article question hides the article until feedback and provides all supplied Italian touch options', () => {
+  const task: SessionTask = { taskId: 'article', kind: 'choose-article', entryId: noun.entryId, options: ['lo', 'il', 'la', "l'"] }
   const props = propsFor(task)
   const html = renderTask(task, props)
   assert.ok(html.includes(noun.lemma))
   assert.ok(!html.includes('class="article"'))
   assert.match(html, /speaker-button/u, 'the visible noun can be played without its hidden article')
-  for (const option of task.options) assert.ok(html.includes(`>${option}</button>`))
-  props.state.session!.feedback = { attemptId: 'a', entryId: noun.entryId, correct: true, expectedAnswer: noun.nounData!.article, explanationFa: 'ثبت شد', assisted: false }
+  for (const option of task.options) assert.ok(html.includes(`>${escapedText(option)}</button>`))
+  props.state.session!.feedback = { attemptId: 'a', entryId: noun.entryId, correct: true, expectedAnswer: noun.nounData!.article!, explanationFa: 'ثبت شد', assisted: false }
   const answered = renderTask(task, props)
   assert.match(answered, /class="article"/u)
   assert.ok(answered.includes(noun.meaningFa))
@@ -82,7 +83,7 @@ test('article question hides the article until feedback and provides all three t
 test('accepted written variants still show the canonical answer and assisted evidence explicitly', () => {
   const task = writing(noun)
   const props = propsFor(task)
-  props.state.session!.draft = noun.writing.acceptedAnswers[0].toLocaleLowerCase('de')
+  props.state.session!.draft = noun.writing.acceptedAnswers[0].toLocaleLowerCase('it')
   props.state.session!.feedback = { attemptId: 'a', entryId: noun.entryId, correct: true, expectedAnswer: noun.writing.acceptedAnswers[0], explanationFa: 'ثبت شد', assisted: true }
   const html = renderTask(task, props)
   assert.match(html, /صورت معیار:/u)
@@ -113,21 +114,21 @@ test('skill details separate all four counts and mark article inapplicable to a 
 })
 
 // A synthetic fourth-lesson fixture checks view separation without claiming book coverage.
-const lessonFour: LessonDefinition = { lessonId: 'lesson-04', titleDe: 'Spiel und Spaß', titleFa: 'بازی و سرگرمی', level: 'A1', coverage: 'partial', introducedEntryIds: ['fixture-four'] }
-const fourthWord: Entry = { ...noun, entryId: 'fixture-four', introducedInLessonId: 'lesson-04', lemma: 'Kurs', meaningFa: 'دورهٔ آزمایشی چهارم', sourceRefIds: ['fixture-four-ref'], occurrences: [{ lessonId: 'lesson-04', sourceRefIds: ['fixture-four-ref'] }] }
+const lessonFour: LessonDefinition = { lessonId: 'lesson-04', titleIt: 'In classe', titleFa: 'بازی و سرگرمی', level: 'A1', coverage: 'partial', introducedEntryIds: ['fixture-four'] }
+const fourthWord: Entry = { ...noun, entryId: 'fixture-four', introducedInLessonId: 'lesson-04', lemma: 'corso', meaningFa: 'دورهٔ آزمایشی چهارم', sourceRefIds: ['fixture-four-ref'], occurrences: [{ lessonId: 'lesson-04', sourceRefIds: ['fixture-four-ref'] }] }
 const course: ContentBundle = { ...bundle, lessons: [bundle.lesson, lessonFour], entries: [...bundle.entries, fourthWord], sourceRefs: [...bundle.sourceRefs, { sourceRefId: 'fixture-four-ref', sourceId: bundle.sources[0].sourceId, lessonId: 'lesson-04', locator: 'fixture, not book content' }] }
 
 test('lesson cards expose each ready lesson independently with real counts and active selection', () => {
   const html = renderToStaticMarkup(createElement(view.LessonCards, { activeLessonId: 'lesson-04', disabled: false, onChoose: async () => {}, summaries: [
     { lesson: bundle.lesson, total: 20, introduced: 5, due: 2, stabilized: 0 },
-    { lesson: lessonFour, total: 84, introduced: 0, due: 0, stabilized: 0 },
+    { lesson: lessonFour, total: 1, introduced: 0, due: 0, stabilized: 0 },
   ] }))
   assert.equal((html.match(/data-lesson-id=/gu) ?? []).length, 2)
   assert.ok(html.includes(`data-lesson-id="${bundle.lesson.lessonId}"`))
   assert.match(html, /class="lesson-card lesson-current" data-lesson-id="lesson-04"/u)
   assert.ok(html.includes('ورود به درس اول') && html.includes('ورود به درس چهارم'))
-  assert.ok(html.includes('Ich und die anderen') && html.includes('Spiel und Spaß'))
-  assert.match(html, /aria-valuemax="84" aria-valuenow="0"/u)
+  assert.ok(html.includes('Ich und die anderen') && html.includes('In classe'))
+  assert.match(html, /aria-valuemax="1" aria-valuenow="0"/u)
   assert.ok(!html.includes('lesson-02') && !html.includes('lesson-03'))
 })
 
@@ -137,11 +138,11 @@ test('selected lesson home uses its title and count while retaining a visible le
   props.state.activeLessonId = lessonFour.lessonId
   props.state.session = null
   props.activeLesson = lessonFour
-  const html = renderToStaticMarkup(createElement(view.WortzeitUI, props))
+  const html = renderToStaticMarkup(createElement(view.ParolarioUI, props))
   const hero = html.match(/<section class="hero-panel">([\s\S]*?)<\/section>/u)?.[1] ?? ''
-  assert.ok(hero.includes('Spiel und Spaß') && hero.includes('درس چهارم'))
+  assert.ok(hero.includes('In classe') && hero.includes('درس چهارم'))
   assert.ok(!hero.includes('Ich und die anderen') && !hero.includes('درس اول'))
-  assert.match(html, /Lektion 04/u)
+  assert.match(html, /Lezione 04/u)
   assert.match(html, /تغییر درس/u)
   assert.match(html, /دسترسی به درس‌ها/u)
   assert.match(html, /واژه‌های معرفی‌شده در بسته" aria-valuemin="0" aria-valuemax="1"/u)
@@ -154,39 +155,44 @@ test('fourth lesson vocabulary renders only that lesson and keeps unrelated entr
   const entries = view.lessonEntries(course, lessonFour.lessonId)
   const html = renderToStaticMarkup(createElement(view.LessonWordList, { entries, props: { ...props, statuses: { ...props.statuses, 'fixture-four': 'new' } } }))
   assert.equal(entries.length, 1)
-  assert.ok(html.includes('دورهٔ آزمایشی چهارم') && html.includes('Kurs'))
+  assert.ok(html.includes('دورهٔ آزمایشی چهارم') && html.includes('corso'))
   const main = [...html.matchAll(/class="word-item-main">([\s\S]*?)<\/span><span class="word-status/gu)]
   assert.equal(main.length, 1)
   assert.match(html, /class="speech-text"/u)
-  assert.ok(!html.includes('speaker-button'), 'vocabulary uses its German text instead of a speaker icon')
-  assert.ok(main[0][1].includes('Kurs') && main[0][1].includes('دورهٔ آزمایشی چهارم'))
+  assert.ok(!html.includes('speaker-button'), 'vocabulary uses its Italian text instead of a speaker icon')
+  assert.ok(main[0][1].includes('corso') && main[0][1].includes('دورهٔ آزمایشی چهارم'))
   assert.ok(!main[0][1].includes('Hallo') && !main[0][1].includes('Familienname'))
-  assert.match(html, /lang="de" dir="ltr"/u)
+  assert.match(html, /lang="it" dir="ltr"/u)
 })
 
 
-test('lesson-five vocabulary follows its flashcard introduction order', () => {
-  const entries: Entry[] = view.lessonEntries(courseBundle, 'lesson-05')
-  const fifth = courseBundle.lessons!.find(lesson => lesson.lessonId === 'lesson-05')!
-  assert.equal(entries.length, 76)
-  assert.deepEqual(entries.map(entry => entry.entryId), fifth.introducedEntryIds)
-  assert.deepEqual(entries.slice(0, 5).map(entry => entry.lemma), ['Es geht', 'Internet', 'Vermieter', 'abholen', 'ausziehen'])
+test('Italian lesson vocabulary follows its flashcard introduction order and printed pages', () => {
+  const lesson = italianCourse.lesson
+  const entries: Entry[] = view.lessonEntries(italianCourse, lesson.lessonId)
+  assert.equal(entries.length, 85)
+  assert.deepEqual(entries.map(entry => entry.entryId), lesson.introducedEntryIds)
+  assert.deepEqual(entries.slice(0, 5).map(entry => entry.entryId), lesson.introducedEntryIds.slice(0, 5))
+  const pages = entries.map(entry => Math.min(...entry.sourceRefIds.map(id => {
+    const ref = italianCourse.sourceRefs.find(item => item.sourceRefId === id)!
+    return Number(ref.locator.match(/چاپی (\d+)/u)![1])
+  })))
+  assert.deepEqual(pages, [...pages].sort((a, b) => a - b))
 })
 
-test('reverse card conceals every German answer and example until persisted reveal', () => {
+test('reverse card conceals every Italian answer and example until persisted reveal', () => {
   const task: SessionTask = { taskId: 'reverse', kind: 'reverse-card', entryId: noun.entryId, revealed: false }
   const html = renderTask(task)
   assert.ok(html.includes(noun.meaningFa))
   assert.ok(html.includes(noun.writing.cueFa))
   assert.ok(!html.includes(noun.lemma))
-  assert.ok(!html.includes(noun.examples[0].de))
+  assert.ok(!html.includes(noun.examples[0].it))
   assert.ok(!html.includes('reverse-rating'))
-  assert.ok(!html.includes('speaker-button'), 'hidden German has no audio control')
+  assert.ok(!html.includes('speaker-button'), 'hidden Italian has no audio control')
   assert.match(html, /reverse-reveal/u)
   assert.match(html, /نمایش پاسخ/u)
 })
 
-test('revealed reverse card restores German article and self-assessment without ordinary next', () => {
+test('revealed reverse card restores Italian article and self-assessment without ordinary next', () => {
   const task: SessionTask = { taskId: 'reverse', kind: 'reverse-card', entryId: noun.entryId, revealed: true }
   const html = renderTask(task)
   assert.ok(html.includes(noun.lemma))
@@ -194,8 +200,8 @@ test('revealed reverse card restores German article and self-assessment without 
   assert.match(html, /درست گفتم/u)
   assert.match(html, /اشتباه گفتم/u)
   assert.match(html, /ارجاع این واژه/u)
-  assert.match(html, /پخش تلفظ واژهٔ آلمانی/u)
-  assert.match(html, /پخش تلفظ جملهٔ آلمانی/u)
+  assert.match(html, /پخش تلفظ واژهٔ ایتالیایی/u)
+  assert.match(html, /پخش تلفظ جملهٔ ایتالیایی/u)
   assert.ok(!html.includes('reverse-reveal'))
   assert.ok(!html.includes('feedback-next'))
 })
@@ -223,7 +229,7 @@ test('reverse review summary reports self-assessed recall separately from origin
     { reviewId: 'r2', sessionId: 's', taskId: 't2', entryId: verb.entryId, correct: false, at: now, studyDate: '2026-10-28' },
   ]
   const html = renderToStaticMarkup(createElement(view.ReverseReviewSummary, { reviews }))
-  assert.match(html, /ارزیابی شخصی فارسی به آلمانی/u)
+  assert.match(html, /ارزیابی شخصی فارسی به ایتالیایی/u)
   assert.match(html, /<strong>۲<\/strong> واژه/u)
   assert.match(html, /<strong>۱<\/strong> درست گفتم/u)
   assert.match(html, /<strong>۱<\/strong> اشتباه گفتم/u)
@@ -241,8 +247,8 @@ test('daily target prompt uses a labelled native dialog and explicit continuatio
 
 
 const expandedNoun: Entry = { ...noun, examples: [noun.examples[0],
-  { exampleId: 'ui-extra-1', de: 'Das ist ein neuer Beispielsatz.', fa: 'این یک جملهٔ نمونهٔ تازه است.', origin: 'authored' },
-  { exampleId: 'ui-extra-2', de: 'Wir lesen diesen Satz zusammen.', fa: 'ما این جمله را با هم می‌خوانیم.', origin: 'authored' },
+  { exampleId: 'ui-extra-1', it: 'Questa è una frase nuova.', fa: 'این یک جملهٔ نمونهٔ تازه است.', origin: 'authored' },
+  { exampleId: 'ui-extra-2', it: 'Leggiamo questa frase insieme.', fa: 'ما این جمله را با هم می‌خوانیم.', origin: 'authored' },
 ] }
 function expandedProps(task: SessionTask) {
   const props = propsFor(task)
@@ -255,15 +261,15 @@ test('initial learning keeps the original example on the card and offers extras 
   const props = expandedProps(task)
   const hidden = renderTask(task, props)
   assert.ok(!hidden.includes('مثال‌های بیشتر'))
-  assert.ok(!hidden.includes(expandedNoun.examples[1].de))
+  assert.ok(!hidden.includes(expandedNoun.examples[1].it))
   task.revealed = true
   const html = renderTask(task, props)
   const back = html.match(/class="card-face card-back"[\s\S]*?class="card-detail-row"/u)?.[0] ?? ''
-  assert.ok(back.includes(expandedNoun.examples[0].de))
-  assert.ok(!back.includes(expandedNoun.examples[1].de) && !back.includes(expandedNoun.examples[2].de))
+  assert.ok(back.includes(expandedNoun.examples[0].it))
+  assert.ok(!back.includes(expandedNoun.examples[1].it) && !back.includes(expandedNoun.examples[2].it))
   assert.match(html, /مثال‌های بیشتر/u)
-  assert.ok(html.includes(expandedNoun.examples[1].de) && html.includes(expandedNoun.examples[1].fa))
-  assert.ok(html.includes(expandedNoun.examples[2].de) && html.includes(expandedNoun.examples[2].fa))
+  assert.ok(html.includes(expandedNoun.examples[1].it) && html.includes(expandedNoun.examples[1].fa))
+  assert.ok(html.includes(expandedNoun.examples[2].it) && html.includes(expandedNoun.examples[2].fa))
 })
 
 test('reverse sentence rotates only with completed review history, not rendering or manual example access', () => {
@@ -275,8 +281,8 @@ test('reverse sentence rotates only with completed review history, not rendering
     const before = structuredClone(props.state)
     const html = renderTask(task, props)
     const direct = html.match(/class="reverse-example">([\s\S]*?)<div class="card-detail-row"/u)?.[1] ?? ''
-    assert.ok(direct.includes(expandedNoun.examples[index].de) && direct.includes(expandedNoun.examples[index].fa))
-    for (let other = 0; other < 3; other++) if (other !== index) assert.ok(!direct.includes(expandedNoun.examples[other].de))
+    assert.ok(direct.includes(expandedNoun.examples[index].it) && direct.includes(expandedNoun.examples[index].fa))
+    for (let other = 0; other < 3; other++) if (other !== index) assert.ok(!direct.includes(expandedNoun.examples[other].it))
     assert.match(html, /این جمله را بلند بخوان/u)
     assert.match(html, /دیدن مثال‌ها امتیاز مرور را تغییر نمی‌دهد/u)
     assert.equal(renderTask(task, props), html)
@@ -287,62 +293,97 @@ test('reverse sentence rotates only with completed review history, not rendering
 test('unrevealed reverse card exposes no original or additional examples or extra-example control', () => {
   const task: SessionTask = { taskId: 'reverse-hidden-extras', kind: 'reverse-card', entryId: noun.entryId, revealed: false }
   const html = renderTask(task, expandedProps(task))
-  for (const example of expandedNoun.examples) { assert.ok(!html.includes(example.de)); assert.ok(!html.includes(example.fa)) }
+  for (const example of expandedNoun.examples) { assert.ok(!html.includes(example.it)); assert.ok(!html.includes(example.fa)) }
   assert.ok(!html.includes('مثال‌های بیشتر'))
 })
 
 test('word details retain the original sentence and allow manual access to the two paired additional examples', () => {
   const props = expandedProps({ taskId: 'card', kind: 'flashcard', entryId: noun.entryId, revealed: true })
   const html = renderToStaticMarkup(createElement(view.LessonWordList, { entries: [expandedNoun], props }))
-  for (const example of expandedNoun.examples) { assert.ok(html.includes(example.de)); assert.ok(html.includes(example.fa)) }
+  for (const example of expandedNoun.examples) { assert.ok(html.includes(example.it)); assert.ok(html.includes(example.fa)) }
   assert.match(html, /مثال‌های بیشتر/u)
   assert.equal((html.match(/<dialog/gu) ?? []).length, 2, 'examples and sources are separate dialogs')
 })
 
-test('the active catalog renders six lesson cards with independent counts and eighth-lesson selection', () => {
-  const summaries = courseBundle.lessons!.map(lesson => ({ lesson,
-    total: courseBundle.entries.filter(entry => entry.introducedInLessonId === lesson.lessonId).length,
+function escapedText(text: string) {
+  return text.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;').replaceAll("'", '&#x27;')
+}
+
+test('the active Italian catalog renders the ready lesson with its real count and active selection', () => {
+  const summaries = italianCourse.lessons!.map(lesson => ({ lesson,
+    total: italianCourse.entries.filter(entry => entry.introducedInLessonId === lesson.lessonId).length,
     introduced: 0, due: 0, stabilized: 0,
   }))
-  const html = renderToStaticMarkup(createElement(view.LessonCards, { activeLessonId: 'lesson-08', disabled: false, onChoose: async () => {}, summaries }))
-  assert.equal((html.match(/data-lesson-id=/gu) ?? []).length, 6)
-  for (const count of [20, 84, 76, 80, 55, 52]) assert.ok(html.includes(`aria-valuemax="${count}"`))
-  assert.ok(html.includes('Endlich ein Zimmer!') && html.includes('بالاخره یک اتاق!'))
-  assert.ok(html.includes('Kleider machen Freunde') && html.includes('لباس و دوستان تازه'))
-  assert.ok(html.includes('Grüezi in der Schweiz') && html.includes('سلام از سوئیس'))
-  assert.ok(html.includes('Mmh, das schmeckt!') && html.includes('چه خوشمزه!'))
-  assert.match(html, /class="lesson-card lesson-current" data-lesson-id="lesson-08"/u)
-  assert.match(html, /ورود به درس پنجم/u)
+  const html = renderToStaticMarkup(createElement(view.LessonCards, { activeLessonId: italianCourse.lesson.lessonId, disabled: false, onChoose: async () => {}, summaries }))
+  assert.equal((html.match(/data-lesson-id=/gu) ?? []).length, 1)
+  assert.ok(html.includes('aria-valuemax="85"'))
+  assert.ok(html.includes('Primi contatti') && html.includes(italianCourse.lesson.titleFa))
+  assert.ok(html.includes(`class="lesson-card lesson-current" data-lesson-id="${italianCourse.lesson.lessonId}"`))
+  assert.match(html, /ورود به درس اول/u)
+  assert.match(html, /Lezione 01/u)
+  for (const legacy of ['Endlich ein Zimmer!', 'Kleider machen Freunde', 'Grüezi in der Schweiz', 'Mmh, das schmeckt!']) assert.ok(!html.includes(legacy))
 })
 
-test('all 76 real lesson-five reverse answers stay hidden until reveal, then expose bilingual examples and pronunciation', () => {
-  for (const entry of courseBundle.entries.filter(entry => entry.introducedInLessonId === 'lesson-05')) {
-    const task: SessionTask = { taskId: 'fifth-reverse-ui', kind: 'reverse-card', entryId: entry.entryId, revealed: false }
-    const props = propsFor(task)
-    props.bundle = courseBundle
-    props.state.activeLessonId = 'lesson-05'
+test('all 85 Italian reverse answers stay hidden until reveal, then expose paired examples and pronunciation', () => {
+  assert.equal(italianCourse.entries.length, 85)
+  for (const entry of italianCourse.entries) {
+    const task: SessionTask = { taskId: `italian-reverse-${entry.entryId}`, kind: 'reverse-card', entryId: entry.entryId, revealed: false }
+    const props = propsFor(task, italianCourse)
     const hidden = renderTask(task, props)
-    assert.ok(!hidden.includes(entry.lemma))
-    assert.ok(!hidden.includes('speaker-button') && !hidden.includes('مثال‌های بیشتر'))
-    for (const example of entry.examples) assert.ok(!hidden.includes(example.de) && !hidden.includes(example.fa))
+    assert.ok(!hidden.includes('reverse-answer') && !hidden.includes('lang="it"'), entry.entryId)
+    assert.ok(!hidden.includes('speaker-button') && !hidden.includes('مثال‌های بیشتر'), entry.entryId)
+    for (const example of entry.examples) assert.ok(!hidden.includes(escapedText(example.it)), entry.entryId)
     const revealed = renderTask({ ...task, revealed: true }, props)
-    assert.ok(revealed.includes(entry.lemma))
-    assert.ok(revealed.includes(entry.examples[1].de) && revealed.includes(entry.examples[1].fa))
-    assert.match(revealed, /پخش تلفظ واژهٔ آلمانی/u)
-    assert.match(revealed, /پخش تلفظ جملهٔ آلمانی/u)
+    assert.ok(revealed.includes(escapedText(entry.lemma)), entry.entryId)
+    assert.ok(revealed.includes(escapedText(entry.examples[1].it)) && revealed.includes(escapedText(entry.examples[1].fa)), entry.entryId)
+    assert.match(revealed, /پخش تلفظ واژهٔ ایتالیایی/u)
+    assert.match(revealed, /پخش تلفظ جملهٔ ایتالیایی/u)
     assert.match(revealed, /مثال‌های بیشتر/u)
   }
 })
 
-test('real lesson-five clozes show Persian cues to distinguish Bad/Badezimmer and overlapping fetching verbs', () => {
-  for (const lemma of ['Bad', 'Badezimmer', 'abholen', 'holen', 'bringen', 'mitbringen']) {
-    const entry = courseBundle.entries.find(entry => entry.introducedInLessonId === 'lesson-05' && entry.lemma === lemma)!
-    const task: SessionTask = { taskId: 'fifth-cloze-cue', kind: 'cloze', entryId: entry.entryId, cycleKind: 'initial' }
-    const props = propsFor(task)
-    props.bundle = courseBundle
+test('all Italian clozes show their Persian cues without exposing the hidden word to audio', () => {
+  assert.equal(italianCourse.entries.length, 85)
+  for (const entry of italianCourse.entries) {
+    const task: SessionTask = { taskId: `italian-cloze-${entry.entryId}`, kind: 'cloze', entryId: entry.entryId, cycleKind: 'initial' }
+    const props = propsFor(task, italianCourse)
     const html = renderTask(task, props)
-    assert.ok(html.includes(entry.cloze.translationFa))
-    assert.ok(html.includes(`<p class="writing-cue">${entry.writing.cueFa}</p>`))
+    assert.ok(html.includes(escapedText(entry.cloze.translationFa)), entry.entryId)
+    assert.ok(html.includes(`<p class="writing-cue">${escapedText(entry.cloze.cueFa ?? entry.writing.cueFa)}</p>`), entry.entryId)
     assert.equal((html.match(/class="speech-text"/gu) ?? []).length, 1, 'only the visible sentence has a playback control')
   }
+})
+
+test('quoted book examples and authored examples display distinct provenance labels', () => {
+  const entry = italianCourse.entries[0]
+  const task: SessionTask = { taskId: 'quoted-card', kind: 'flashcard', entryId: entry.entryId, revealed: true }
+  const html = renderTask(task, propsFor(task, italianCourse))
+  assert.equal(entry.examples[0].origin, 'quoted')
+  assert.ok(html.includes(`data-source-ref-id="${entry.examples[0].sourceRefId}"`))
+  assert.match(html, /مثال از کتاب/u)
+  assert.match(html, /مثال تألیفی/u)
+})
+
+test('unknown noun article is hidden and the article skill is explicitly inapplicable', () => {
+  const unknown: Entry = { ...noun, nounData: { ...noun.nounData!, article: null, gender: null } }
+  const html = renderToStaticMarkup(createElement(view.SkillDetails, { entry: unknown }))
+  assert.match(html, /برای این مدخل کاربرد ندارد/u)
+  const props = propsFor(writing(unknown))
+  props.bundle = { ...bundle, entries: [unknown] }
+  const wordHtml = renderToStaticMarkup(createElement(view.LessonWordList, { entries: [unknown], props }))
+  assert.ok(!wordHtml.includes('class="article"') && !wordHtml.includes('null'))
+})
+
+test('cloze assistance reveals its inflected target and keeps the infinitive writing cue separate', () => {
+  const inflected: Entry = { ...verb, lemma: 'essere', cloze: { ...verb.cloze,
+    sentence: 'Io ___ italiano.', acceptedAnswers: ['sono'], cueFa: 'صورت اول‌شخص مفرد را بنویس.' } }
+  const task: SessionTask = { taskId: 'inflected-cloze', kind: 'cloze', entryId: inflected.entryId, cycleKind: 'initial', assisted: true }
+  const props = propsFor(task)
+  props.bundle = { ...bundle, entries: bundle.entries.map(entry => entry.entryId === inflected.entryId ? inflected : entry) }
+  props.state.assistanceEvents.push({ eventId: 'inflected-help', sessionId: 'ui-session', taskId: task.taskId,
+    entryId: inflected.entryId, kind: 'answer', at: now, studyDate: '2026-10-28' })
+  const html = renderTask(task, props)
+  assert.ok(html.includes(inflected.cloze.cueFa!))
+  assert.match(html, />sono<\/button>/u)
+  assert.ok(!html.includes('>essere</button>'))
 })

@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict'
 import { test } from 'node:test'
-import { lessonOneBundle as bundle } from '../content/lesson-one.ts'
+import { lessonOneBundle as bundle } from '../testing/legacy-fixture.ts'
 import { createInitialState, currentTask, transition } from '../learning/engine.ts'
 import { CommandWriter } from './writer.ts'
 import type { AppState } from '../contracts/index.ts'

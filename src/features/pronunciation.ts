@@ -2,7 +2,7 @@ import type { Entry } from '../contracts/index.ts'
 
 export const speechMessages = {
   unsupported: 'این مرورگر از پخش تلفظ پشتیبانی نمی‌کند.',
-  noVoice: 'صدای آلمانی در دسترس نیست؛ تنظیمات صدای دستگاه را بررسی کن.',
+  noVoice: 'صدای ایتالیایی در دسترس نیست؛ تنظیمات صدای دستگاه را بررسی کن.',
   failed: 'پخش تلفظ انجام نشد؛ دوباره امتحان کن.',
 }
 type Synthesis = Pick<SpeechSynthesis, 'getVoices' | 'speak' | 'cancel' | 'addEventListener' | 'removeEventListener'>
@@ -16,12 +16,13 @@ interface SpeechSnapshot {
 }
 
 export function wordPronunciation(entry: Entry): string {
-  return entry.nounData ? `${entry.nounData.article} ${entry.lemma}` : entry.lemma
+  const article = entry.nounData?.article
+  return article ? `${article}${article === "l'" ? '' : ' '}${entry.lemma}` : entry.lemma
 }
 
-export function selectGermanVoice(voices: SpeechSynthesisVoice[]): SpeechSynthesisVoice | undefined {
+export function selectItalianVoice(voices: SpeechSynthesisVoice[]): SpeechSynthesisVoice | undefined {
   const lang = (voice: SpeechSynthesisVoice) => voice.lang.toLowerCase().replaceAll('_', '-')
-  return voices.find(voice => lang(voice) === 'de-de') ?? voices.find(voice => /^de(?:-|$)/u.test(lang(voice)))
+  return voices.find(voice => lang(voice) === 'it-it') ?? voices.find(voice => /^it(?:-|$)/u.test(lang(voice)))
 }
 
 // No learning commands or storage snapshots enter this controller. Identity is
@@ -38,7 +39,7 @@ export function createPronunciation(environment: SpeechEnvironment) {
   }
   const readVoices = () => {
     try { voices = synthesis?.getVoices() ?? [] } catch { voices = [] }
-    if (selectGermanVoice(voices) && snapshot.message === speechMessages.noVoice) publish({ message: null })
+    if (selectItalianVoice(voices) && snapshot.message === speechMessages.noVoice) publish({ message: null })
   }
   const stop = () => {
     if (!current) return
@@ -60,7 +61,7 @@ export function createPronunciation(environment: SpeechEnvironment) {
       stop()
       if (!synthesis || !createUtterance) { publish({ message: speechMessages.unsupported }); return }
       readVoices()
-      const voice = selectGermanVoice(voices)
+      const voice = selectItalianVoice(voices)
       if (!voice) { publish({ message: speechMessages.noVoice }); return }
       try {
         const utterance = createUtterance(text)

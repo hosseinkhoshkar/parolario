@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict'
 import { test } from 'node:test'
 import type { AppState, LearningCommand, SessionTask } from '../contracts/index.ts'
-import { courseBundle as bundle } from '../content/catalog.ts'
+import { courseBundle as bundle } from '../testing/legacy-fixture.ts'
 import { createInitialState, currentTask, transition } from './engine.ts'
 import { validateState } from '../storage/index.ts'
 import { calendarDaysAfter, deriveInitialReverseProgress, initializeReverseProgress, mixReverseCards,

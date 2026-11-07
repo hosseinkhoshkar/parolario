@@ -1,16 +1,13 @@
 import { POLICY_VERSION, SCHEMA_VERSION } from '../contracts/index.ts'
 import type { AppState, ContentBundle, Session } from '../contracts/index.ts'
-import type { Session as VersionThreeSession } from '../contracts/legacy-v3.ts'
-import { migrateVersionThreeState, validateVersionThreeState } from './legacy-v3.ts'
+import { StorageError, validateLearningState } from './validate-learning-state.ts'
+export { StorageError } from './validate-learning-state.ts'
 import { deriveInitialReverseProgress, scheduleReverseReview, reverseStudyDate as studyDate, REVERSE_ACTIVATION_COUNT, REVERSE_MAX_PER_SESSION } from '../learning/reverse.ts'
 
-export const DATABASE_NAME = 'wortzeit-progress'
+export const DATABASE_NAME = 'parolario-progress'
 export const STORE_NAME = 'user-state'
 const STATE_KEY = 'current'
 
-export class StorageError extends Error {
-  constructor(message: string) { super(message); this.name = 'StorageError' }
-}
 function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === 'object' && value !== null && !Array.isArray(value)
 }
@@ -20,7 +17,7 @@ function integer(value: unknown, min = 0, max = Number.MAX_SAFE_INTEGER): boolea
 const validDate = (value: unknown): value is string => typeof value === 'string'
   && /^\d{4}-\d{2}-\d{2}T/.test(value) && Number.isFinite(Date.parse(value))
 
-/** Project legacy directions unchanged through their frozen evidence validator. */
+/** Check original-direction evidence and independent reverse-review history without legacy migration. */
 export function validateState(value: unknown, bundle: ContentBundle): asserts value is AppState {
   const fail = (): never => { throw new StorageError('اطلاعات ذخیره‌شده ناقص یا ناسازگار است. داده‌های قبلی حفظ شده‌اند؛ حافظهٔ سایت را پاک نکنید.') }
   if (!isRecord(value) || value.schemaVersion !== SCHEMA_VERSION || !isRecord(value.reverseProgress)
@@ -28,7 +25,7 @@ export function validateState(value: unknown, bundle: ContentBundle): asserts va
   const state = value as unknown as AppState
   const known = new Set(bundle.entries.map(entry => entry.entryId))
   const sessions = [state.session, ...Object.values(state.savedSessions)].filter((session): session is Session => session !== null)
-  const project = (session: Session | null): VersionThreeSession | null => {
+  const project = (session: Session | null): Session | null => {
     if (session === null) return null
     if (!isRecord(session) || !Array.isArray(session.queue) || !integer(session.cursor, 0, session.queue.length)
       || !['active', 'paused', 'ended'].includes(session.state)) fail()
@@ -48,14 +45,14 @@ export function validateState(value: unknown, bundle: ContentBundle): asserts va
     const reverseCurrent = session.queue[session.cursor]?.kind === 'reverse-card'
     if (reverseCurrent && session.feedback !== null) fail()
     return { ...session,
-      queue: session.queue.filter(task => task.kind !== 'reverse-card') as VersionThreeSession['queue'],
+      queue: session.queue.filter(task => task.kind !== 'reverse-card'),
       cursor: session.queue.slice(0, session.cursor).filter(task => task.kind !== 'reverse-card').length,
       ...(reverseCurrent ? { state: 'ended' as const } : {}),
     }
   }
   if (Object.values(state.savedSessions).some(session => isRecord(session) && session.state === 'active')) fail()
   try {
-    validateVersionThreeState({ ...state, schemaVersion: 3, session: project(state.session),
+    validateLearningState({ ...state, session: project(state.session),
       savedSessions: Object.fromEntries(Object.entries(state.savedSessions).map(([id, session]) => [id, project(session)])) }, bundle)
   } catch { fail() }
   // Original-direction evidence determines eligibility; reverse history alone never invents it.
@@ -107,18 +104,10 @@ export function validateState(value: unknown, bundle: ContentBundle): asserts va
   }
 }
 
+/** Italian storage starts at schema 5; foreign/unknown snapshots are rejected, never reset. */
 export function migrateState(value: unknown, bundle: ContentBundle): AppState {
-  if (isRecord(value) && value.schemaVersion === SCHEMA_VERSION) {
-    validateState(value, bundle)
-    return structuredClone(value)
-  }
-  // Frozen readers reject malformed or unknown snapshots; do not reset them.
-  const old = migrateVersionThreeState(value, bundle)
-  const state: AppState = { ...old, schemaVersion: SCHEMA_VERSION,
-    revision: (value as { revision: number }).revision + 1, reverseProgress: {}, reverseReviews: [] }
-  state.reverseProgress = deriveInitialReverseProgress(state, bundle)
-  validateState(state, bundle)
-  return state
+  validateState(value, bundle)
+  return structuredClone(value)
 }
 
 function openDatabase(): Promise<IDBDatabase> {

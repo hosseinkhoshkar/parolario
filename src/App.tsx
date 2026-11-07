@@ -8,7 +8,7 @@ import { holdWriterLock } from './controller/startup-lock.ts'
 import { ActivityTracker } from './controller/activity.ts'
 import { loadState, saveState } from './storage/index.ts'
 import { prepareOffline } from './pwa/offline.ts'
-import { WortzeitUI } from './features/WortzeitUI.tsx'
+import { ParolarioUI } from './features/WortzeitUI.tsx'
 
 const bundle = courseBundle
 const message = (error: unknown) => error instanceof Error ? error.message : 'ذخیره انجام نشد؛ دوباره تلاش کنید.'
@@ -73,7 +73,7 @@ export default function App() {
     } else {
       cancel = holdWriterLock(navigator.locks, bootAttempt > 0, {
         load: boot,
-        blocked: () => failed(new Error('Wortzeit در تب دیگری باز است. آن تب را ببندید و دوباره تلاش کنید.')),
+        blocked: () => failed(new Error('Parolario در تب دیگری باز است. آن تب را ببندید و دوباره تلاش کنید.')),
         failed,
       })
     }
@@ -158,12 +158,12 @@ export default function App() {
   }
 
   if (!state) return <main className="boot-screen" dir="rtl" lang="fa">
-    <div className="boot-mark" aria-hidden="true">W</div><h1>Wortzeit</h1>
+    <div className="boot-mark" aria-hidden="true">P</div><h1>Parolario</h1>
     {error ? <><p role="alert">{error}</p><button type="button" disabled={busy} onClick={retry}>تلاش دوباره</button></>
       : <p role="status">{bootAttempt > 0 ? 'در حال گرفتن دسترسی و بازیابی جلسه…' : 'در حال آماده‌کردن واژه‌ها…'}</p>}
   </main>
 
-  return <WortzeitUI bundle={bundle} state={state} stats={getHomeStats(state, bundle, now)}
+  return <ParolarioUI bundle={bundle} state={state} stats={getHomeStats(state, bundle, now)}
     summary={summarizeSession(state, now)} statuses={Object.fromEntries(bundle.entries.map(entry =>
       [entry.entryId, getEntryStatus(state, entry.entryId, now)]))} now={now} busy={busy}
     error={error} offlineStatus={offlineStatus} onCommand={onCommand} onRetry={retry}

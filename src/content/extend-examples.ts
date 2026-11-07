@@ -9,7 +9,7 @@ export function extendEntryExamples(entry: Entry): Entry {
   for (const additional of additions) {
     const existing = examples.find(example => example.exampleId === additional.exampleId)
     if (existing) {
-      if (existing.de !== additional.de || existing.fa !== additional.fa || existing.origin !== additional.origin) {
+      if (existing.it !== additional.it || existing.fa !== additional.fa || existing.origin !== additional.origin) {
         throw new Error(`Conflicting authored example identity: ${additional.exampleId}`)
       }
     } else examples.push(additional)

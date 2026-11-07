@@ -22,9 +22,9 @@ hash.update(readFileSync('vite.config.ts'))
 const buildId = hash.digest('hex').slice(0, 16)
 
 export default defineConfig({
-  define: { 'import.meta.env.VITE_WORTZEIT_BUILD_ID': JSON.stringify(buildId) },
+  define: { 'import.meta.env.VITE_PAROLARIO_BUILD_ID': JSON.stringify(buildId) },
   plugins: [react(), {
-    name: 'wortzeit-shell-identity',
-    transformIndexHtml: () => [{ tag: 'meta', attrs: { name: 'wortzeit-build', content: buildId }, injectTo: 'head' }],
+    name: 'parolario-shell-identity',
+    transformIndexHtml: () => [{ tag: 'meta', attrs: { name: 'parolario-build', content: buildId }, injectTo: 'head' }],
   }],
 })

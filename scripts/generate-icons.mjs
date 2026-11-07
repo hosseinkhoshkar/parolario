@@ -14,8 +14,9 @@ function distance(x, y, a, b) {
   const t = Math.max(0, Math.min(1, ((x - a[0]) * (b[0] - a[0]) + (y - a[1]) * (b[1] - a[1])) / ((b[0] - a[0]) ** 2 + (b[1] - a[1]) ** 2)))
   return Math.hypot(x - a[0] - t * (b[0] - a[0]), y - a[1] - t * (b[1] - a[1]))
 }
+const points = [[55, 145], [55, 48], [106, 48], [132, 66], [132, 91], [106, 108], [55, 108]]
 for (const size of [192, 512]) {
-  const raw = Buffer.alloc((size * 4 + 1) * size), points = [[39, 65], [62, 132], [96, 79], [130, 132], [151, 76]]
+  const raw = Buffer.alloc((size * 4 + 1) * size)
   for (let y = 0; y < size; y++) for (let x = 0; x < size; x++) {
     const px = x * 192 / size, py = y * 192 / size
     let color = [36, 89, 75, 255]
@@ -26,3 +27,5 @@ for (const size of [192, 512]) {
   const header = Buffer.alloc(13); header.writeUInt32BE(size); header.writeUInt32BE(size, 4); header[8] = 8; header[9] = 6
   await writeFile(`public/icon-${size}.png`, Buffer.concat([Buffer.from([137, 80, 78, 71, 13, 10, 26, 10]), chunk('IHDR', header), chunk('IDAT', deflateSync(raw)), chunk('IEND', Buffer.alloc(0))]))
 }
+
+await writeFile('public/icon.svg', `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="192" height="192" rx="42" fill="#24594b"/><circle cx="140" cy="49" r="13" fill="#f9c66d"/><path d="M${points.map(point => point.join(' ')).join(' ')}" fill="none" stroke="#fff8e9" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/></svg>\n`)

@@ -1,3 +1,4 @@
+import { hasArticle } from './articles.ts'
 import { REVIEW_DAYS } from '../contracts/index.ts'
 import type { Entry, EntryProgress, SkillProgress } from '../contracts/index.ts'
 
@@ -9,7 +10,7 @@ export function createProgress(entry: Entry, now: string): EntryProgress {
     entryId: entry.entryId, introducedAt: now, initialRecallPending: true,
     nextDueAt: null, intervalIndex: 0, lastSuccessDate: null,
     scheduledReviewDates: [], correctCount: 0, wrongCount: 0, pendingError: null,
-    skills: { meaning: emptySkill(), writing: emptySkill(), article: entry.partOfSpeech === 'noun' ? emptySkill() : null },
+    skills: { meaning: emptySkill(), writing: emptySkill(), article: hasArticle(entry) ? emptySkill() : null },
   }
 }
 

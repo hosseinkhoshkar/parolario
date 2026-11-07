@@ -10,10 +10,10 @@ async function files(directory) {
 const assets = (await files(root)).filter(file => !file.endsWith('sw.js'))
 assets.sort()
 const html = await readFile(path.join(root, 'index.html'), 'utf8')
-const version = html.match(/name="wortzeit-build" content="([a-f0-9]+)"/)?.[1]
+const version = html.match(/name="parolario-build" content="([a-f0-9]+)"/)?.[1]
 if (!version) throw new Error('Missing build identity; refusing to generate an unversioned offline shell')
 const urls = assets.map(file => `./${path.relative(root, file).replaceAll('\\', '/')}`)
-const worker = `const CACHE = 'wortzeit-shell-${version}';
+const worker = `const CACHE = 'parolario-shell-${version}';
 const ASSETS = ${JSON.stringify(urls)};
 const urls = ASSETS.map(asset => new URL(asset, self.registration.scope).href);
 self.addEventListener('install', event => event.waitUntil((async () => {
@@ -32,7 +32,15 @@ self.addEventListener('fetch', event => {
       try { return await fetch(event.request); }
       catch { return await cache.match(new URL('./index.html', self.registration.scope).href) || Response.error(); }
     }
-    return await cache.match(event.request) || await caches.match(event.request) || fetch(event.request);
+    const current = await cache.match(event.request);
+    if (current) return current;
+    for (const key of await caches.keys()) {
+      if (key !== CACHE && key.startsWith('parolario-shell-')) {
+        const older = await (await caches.open(key)).match(event.request);
+        if (older) return older;
+      }
+    }
+    return fetch(event.request);
   })());
 });
 self.addEventListener('message', event => {

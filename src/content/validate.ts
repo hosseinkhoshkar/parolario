@@ -1,20 +1,9 @@
 import type { ContentBundle } from '../contracts/index.ts'
 
-// Only explicitly listed, standard keyboard transliterations are accepted.
-// Arbitrary spelling variations and inflections are never generated as answers.
-const approvedAlternativeByCanonical: Record<string, readonly string[]> = {
-  Tschüss: ['Tschuess'],
-  heißen: ['heissen'],
-}
-
-function validAcceptedAnswers(answers: string[], canonical: string): boolean {
-  const keyboardForm = canonical.replace(/[äöüÄÖÜß]/g, letter => ({ ä: 'ae', ö: 'oe', ü: 'ue', Ä: 'Ae', Ö: 'Oe', Ü: 'Ue', ß: 'ss' })[letter]!)
-  const ssForm = canonical.replace(/ß/g, 'ss')
-  const approved = [...(approvedAlternativeByCanonical[canonical] ?? []), ...(keyboardForm !== canonical ? [keyboardForm] : []), ...(ssForm !== canonical ? [ssForm] : [])]
-  return answers.length > 0 && answers[0] === canonical
-    && new Set(answers).size === answers.length
-    && answers.every((answer, index) => answer.trim() === answer && answer === answer.normalize('NFC')
-      && answer.length > 0 && (index === 0 || approved.includes(answer)))
+import { hasArticle, ARTICLE_OPTIONS } from '../learning/articles.ts'
+function validAcceptedAnswers(answers: string[], canonical?: string): boolean {
+  return answers.length > 0 && (!canonical || answers[0] === canonical) && new Set(answers).size === answers.length
+    && answers.every(answer => answer.length > 0 && answer.trim() === answer && answer === answer.normalize('NFC'))
 }
 
 /** Fail before showing an exercise when its data is incomplete or inconsistent. */
@@ -31,7 +20,7 @@ export function validateContent(bundle: ContentBundle): string[] {
   if (new Set(ids).size !== ids.length) errors.push('Duplicate entry ID.')
   if (new Set(bundle.sources.map((source) => source.sourceId)).size !== bundle.sources.length) errors.push('Duplicate source ID.')
   if (refIds.size !== bundle.sourceRefs.length) errors.push('Duplicate source reference ID.')
-  if (lessons.some(lesson => lesson.coverage !== 'partial' || !lesson.titleDe.trim() || !lesson.titleFa.trim()) || bundle.provenance.reviewStatus !== 'excerpt-checked' || !bundle.provenance.noteFa) errors.push('Excerpt coverage or review status is missing.')
+  if (lessons.some(lesson => lesson.coverage !== 'partial' || !lesson.titleIt.trim() || !lesson.titleFa.trim()) || bundle.provenance.reviewStatus !== 'excerpt-checked' || !bundle.provenance.noteFa) errors.push('Excerpt coverage or review status is missing.')
   for (const lesson of lessons) {
     const entries = bundle.entries.filter(entry => entry.introducedInLessonId === lesson.lessonId)
     const expected = entries.map(entry => entry.entryId)
@@ -48,13 +37,15 @@ export function validateContent(bundle: ContentBundle): string[] {
     if (!entry.sourceRefIds.length || new Set(entry.sourceRefIds).size !== entry.sourceRefIds.length || entry.sourceRefIds.some((id) => !refIds.has(id))) errors.push(`Broken entry source refs: ${at}`)
     if (!entry.occurrences.length || entry.occurrences.some((occurrence) => !lessonIds.has(occurrence.lessonId) || !occurrence.sourceRefIds.length || occurrence.sourceRefIds.some((id) => !entry.sourceRefIds.includes(id) || bundle.sourceRefs.find(ref => ref.sourceRefId === id)?.lessonId !== occurrence.lessonId)) || entry.sourceRefIds.some((id) => !entry.occurrences.some((occurrence) => occurrence.sourceRefIds.includes(id)))) errors.push(`Broken occurrences: ${at}`)
     if (entry.partOfSpeech === 'noun') {
-      if (!entry.nounData || !['der', 'die', 'das'].includes(entry.nounData.article) || (entry.nounData.plural === null && !entry.nounData.pluralNote.trim())) errors.push(`Incomplete noun data: ${at}`)
+      if (!entry.nounData || entry.nounData.article !== null && !ARTICLE_OPTIONS.includes(entry.nounData.article) || (entry.nounData.plural === null && !entry.nounData.pluralNote.trim())) errors.push(`Incomplete noun data: ${at}`)
     } else if (entry.nounData) errors.push(`Non-noun has article data: ${at}`)
+    if (entry.nounData?.article === "l'" && !entry.nounData.gender) errors.push(`Elided article requires explicit gender: ${at}`)
+    if (entry.examples.some(example => example.origin === 'quoted' && (!example.sourceRefId || !entry.sourceRefIds.includes(example.sourceRefId)))) errors.push(`Unreferenced quotation: ${at}`)
     const hasArticleExercise = entry.enabledExercises.includes('choose-article')
-    if (hasArticleExercise !== Boolean(entry.partOfSpeech === 'noun' && entry.nounData && ['der', 'die', 'das'].includes(entry.nounData.article))) errors.push(`Article exercise does not match noun eligibility: ${at}`)
-    if (!entry.examples.length || new Set(entry.examples.map((example) => example.exampleId)).size !== entry.examples.length || entry.examples.some((example) => !example.exampleId || example.origin !== 'authored' || !example.de.trim() || !example.fa.trim())) errors.push(`Invalid authored example: ${at}`)
+    if (hasArticleExercise !== hasArticle(entry)) errors.push(`Article exercise does not match noun eligibility: ${at}`)
+    if (entry.examples.length !== 3 || new Set(entry.examples.map((example) => example.exampleId)).size !== entry.examples.length || entry.examples.some((example) => !example.exampleId || !['quoted', 'authored'].includes(example.origin) || !example.it.trim() || !example.fa.trim())) errors.push(`Invalid Italian example: ${at}`)
     const example = entry.examples.find((candidate) => candidate.exampleId === entry.cloze.exampleId)
-    if (!example || entry.cloze.sentence.split('___').length !== 2 || !entry.cloze.translationFa.trim() || !validAcceptedAnswers(entry.cloze.acceptedAnswers, entry.lemma) || entry.cloze.sentence.replace('___', entry.cloze.acceptedAnswers[0]) !== example.de) errors.push(`Invalid cloze: ${at}`)
+    if (!example || entry.cloze.sentence.split('___').length !== 2 || !entry.cloze.translationFa.trim() || !validAcceptedAnswers(entry.cloze.acceptedAnswers) || entry.cloze.sentence.replace('___', entry.cloze.acceptedAnswers[0]) !== example.it) errors.push(`Invalid cloze: ${at}`)
     if (!entry.writing || !entry.writing.promptFa.trim() || !entry.writing.cueFa.trim() || typeof entry.writing.caseSensitive !== 'boolean' || !validAcceptedAnswers(entry.writing.acceptedAnswers, entry.lemma)) errors.push(`Invalid writing prompt or accepted answers: ${at}`)
     const optionIds = entry.meaningOptionEntryIds
     if (optionIds.length !== 4 || new Set(optionIds).size !== 4 || !optionIds.includes(at) || optionIds.some((id) => byId.get(id)?.introducedInLessonId !== entry.introducedInLessonId) || new Set(optionIds.map((id) => byId.get(id)?.meaningFa)).size !== 4) errors.push(`Invalid meaning options: ${at}`)

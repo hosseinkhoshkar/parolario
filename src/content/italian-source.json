@@ -1,0 +1,767 @@
+[
+  {
+    "row": 1,
+    "word": "a domani!",
+    "meaningFa": "تا فردا!",
+    "locator": "کتاب درسی و تمرین: PDF 16، چاپی 16؛ Caffè culturale 1، حباب گفت‌وگوی خداحافظی",
+    "exampleIt": "A domani!",
+    "exampleFa": "تا فردا!",
+    "noteFa": ""
+  },
+  {
+    "row": 2,
+    "word": "a presto!",
+    "meaningFa": "به‌زودی می‌بینمت؛ فعلاً خداحافظ!",
+    "locator": "کتاب درسی و تمرین: PDF 16، چاپی 16؛ Caffè culturale 1، حباب گفت‌وگوی خداحافظی",
+    "exampleIt": "A presto!",
+    "exampleFa": "به‌زودی می‌بینمت!",
+    "noteFa": ""
+  },
+  {
+    "row": 3,
+    "word": "alla prossima volta!",
+    "meaningFa": "تا دفعهٔ بعد!",
+    "locator": "کتاب درسی و تمرین: PDF 16، چاپی 16؛ Caffè culturale 1، عبارت‌های پایین صفحه",
+    "exampleIt": "Alla prossima volta!",
+    "exampleFa": "تا دفعهٔ بعد!",
+    "noteFa": ""
+  },
+  {
+    "row": 4,
+    "word": "americano",
+    "meaningFa": "آمریکایی؛ صورت مذکر",
+    "locator": "کتاب درسی و تمرین: PDF 15، چاپی 15؛ Videocorso 1، تمرین ۳، جملهٔ d از فهرست Laura",
+    "exampleIt": "Ma no, Chris è americano, di Boston!",
+    "exampleFa": "نه بابا، کریس آمریکایی و اهل بوستون است!",
+    "noteFa": "فقط صورت مذکرِ دیده‌شده در این نمونه درج شده است."
+  },
+  {
+    "row": 5,
+    "word": "anche",
+    "meaningFa": "هم؛ نیز",
+    "locator": "کتاب درسی و تمرین: PDF 12، چاپی 12؛ بخش E inoltre، تمرین ۲، گفت‌وگوی شمارهٔ تماس",
+    "exampleIt": "Però ho anche il cellulare:",
+    "exampleFa": "اما تلفن همراه هم دارم:",
+    "noteFa": "نقلِ بخش پیوستهٔ جمله تا پیش از جای خالیِ شماره؛ شماره‌ای افزوده نشده است."
+  },
+  {
+    "row": 6,
+    "word": "anch’io",
+    "meaningFa": "من هم",
+    "locator": "کتاب درسی و تمرین: PDF 7، چاپی 7؛ تمرین ۲، گفت‌وگوی ۳",
+    "exampleIt": "Anch’io mi chiamo Gucci, Paola Gucci.",
+    "exampleFa": "نام من هم گوچی است، پائولا گوچی.",
+    "noteFa": "صورت کوتاه‌شدهٔ anche io؛ این ساخت برای معرفی نام به‌کار رفته است."
+  },
+  {
+    "row": 7,
+    "word": "argentino",
+    "meaningFa": "آرژانتینی؛ صورت مذکر",
+    "locator": "کتاب درسی و تمرین: PDF 15، چاپی 15؛ Videocorso 1، تمرین ۳، جملهٔ c از فهرست Laura",
+    "exampleIt": "Lui è argentino. Si chiama Rodrigo.",
+    "exampleFa": "او آرژانتینی است. اسمش رودریگو است.",
+    "noteFa": "فقط صورت مذکرِ دیده‌شده در این نمونه درج شده است."
+  },
+  {
+    "row": 8,
+    "word": "arrivederci!",
+    "meaningFa": "خداحافظ!",
+    "locator": "کتاب درسی و تمرین: PDF 16، چاپی 16؛ Caffè culturale 1، حباب گفت‌وگوی خداحافظی",
+    "exampleIt": "Arrivederci!",
+    "exampleFa": "خداحافظ!",
+    "noteFa": ""
+  },
+  {
+    "row": 9,
+    "word": "arrivederLa!",
+    "meaningFa": "خداحافظ!؛ خطاب محترمانه",
+    "locator": "کتاب درسی و تمرین: PDF 16، چاپی 16؛ Caffè culturale 1، عبارت‌های پایین صفحه",
+    "exampleIt": "ArrivederLa!",
+    "exampleFa": "خداحافظ!",
+    "noteFa": "بزرگی L مطابق صورت چاپ‌شدهٔ کتاب حفظ شده است."
+  },
+  {
+    "row": 10,
+    "word": "ascoltare",
+    "meaningFa": "گوش‌دادن",
+    "locator": "کتاب درسی و تمرین: PDF 8، چاپی 8؛ تمرین ۵، دستور زیر عنوان L’alfabeto",
+    "exampleIt": "Ascolta e ripeti.",
+    "exampleFa": "گوش کن و تکرار کن.",
+    "noteFa": "صورت مدخل، مصدر آموزشی است؛ صورت موجود در متن Ascolta است."
+  },
+  {
+    "row": 11,
+    "word": "austriaco / austriaca",
+    "meaningFa": "اتریشی؛ صورت مذکر / مؤنث",
+    "locator": "کتاب درسی و تمرین: PDF 10، چاپی 10؛ تمرین ۹، حباب گفت‌وگوی ۱",
+    "exampleIt": "No, sono austriaca.",
+    "exampleFa": "نه، من اتریشی هستم.",
+    "noteFa": "هر دو صورت در جدول ملیت‌های همین صفحه آمده‌اند؛ مثال با صورت مؤنث است."
+  },
+  {
+    "row": 12,
+    "word": "avere",
+    "meaningFa": "داشتن",
+    "locator": "کتاب درسی و تمرین: PDF 12، چاپی 12؛ بخش E inoltre، تمرین ۲، گفت‌وگوی شمارهٔ تماس",
+    "exampleIt": "Però ho anche il cellulare:",
+    "exampleFa": "اما تلفن همراه هم دارم:",
+    "noteFa": "مصدر avere در جدول همین صفحه و صورت ho در مثال چاپ شده‌اند؛ نقل تا پیش از جای خالی شماره است."
+  },
+  {
+    "row": 13,
+    "word": "buona giornata!",
+    "meaningFa": "روز خوبی داشته باشی / باشید!",
+    "locator": "کتاب درسی و تمرین: PDF 16، چاپی 16؛ Caffè culturale 1، حباب گفت‌وگوی خداحافظی",
+    "exampleIt": "Buona giornata!",
+    "exampleFa": "روز خوبی داشته باشید!",
+    "noteFa": "دعای خیر هنگام خداحافظی است."
+  },
+  {
+    "row": 14,
+    "word": "buona sera!",
+    "meaningFa": "عصر بخیر؛ سلام در عصر و شب",
+    "locator": "کتاب درسی و تمرین: PDF 6، چاپی 6؛ تمرین ۱، حباب تصویر بالا سمت چپ",
+    "exampleIt": "Buona sera, signora!",
+    "exampleFa": "عصر بخیر، خانم!",
+    "noteFa": "املای دوکلمه‌ایِ کتاب حفظ شده است."
+  },
+  {
+    "row": 15,
+    "word": "buonanotte!",
+    "meaningFa": "شب بخیر!؛ هنگام خداحافظی شب یا رفتن به خواب",
+    "locator": "کتاب درسی و تمرین: PDF 16، چاپی 16؛ Caffè culturale 1، نمودار سلام و خداحافظی",
+    "exampleIt": "Buonanotte!",
+    "exampleFa": "شب بخیر!",
+    "noteFa": "کتاب در نمودار صورت پیوستهٔ Buonanotte! و در حباب، صورت جدا را نیز دارد؛ مدخل مطابق نمودار است."
+  },
+  {
+    "row": 16,
+    "word": "buongiorno!",
+    "meaningFa": "سلام؛ صبح بخیر؛ روز بخیر",
+    "locator": "کتاب درسی و تمرین: PDF 6، چاپی 6؛ تمرین ۱، حباب تصویر پایین سمت راست",
+    "exampleIt": "Buongiorno, professore!",
+    "exampleFa": "صبح بخیر، استاد!",
+    "noteFa": ""
+  },
+  {
+    "row": 17,
+    "word": "il cellulare",
+    "meaningFa": "تلفن همراه",
+    "locator": "کتاب درسی و تمرین: PDF 12، چاپی 12؛ بخش E inoltre، تمرین ۲، گفت‌وگوی شمارهٔ تماس",
+    "exampleIt": "Però ho anche il cellulare:",
+    "exampleFa": "اما تلفن همراه هم دارم:",
+    "noteFa": "آرتیکل il در همین نقل آمده است؛ مثال تا پیش از جای خالی شماره نقل شده است."
+  },
+  {
+    "row": 18,
+    "word": "chiamarsi",
+    "meaningFa": "نام داشتن؛ اسمِ کسی چیزی بودن",
+    "locator": "کتاب درسی و تمرین: PDF 7، چاپی 7؛ تمرین ۲، گفت‌وگوی ۳",
+    "exampleIt": "Anch’io mi chiamo Gucci, Paola Gucci.",
+    "exampleFa": "نام من هم گوچی است، پائولا گوچی.",
+    "noteFa": "مصدر chiamarsi در جدول همین صفحه آمده است؛ mi chiamo صورت اول‌شخص آن است."
+  },
+  {
+    "row": 19,
+    "word": "ci vediamo!",
+    "meaningFa": "می‌بینمت؛ باز همدیگر را می‌بینیم!",
+    "locator": "کتاب درسی و تمرین: PDF 16، چاپی 16؛ Caffè culturale 1، حباب گفت‌وگوی خداحافظی",
+    "exampleIt": "Ciao Valerio, ci vediamo!",
+    "exampleFa": "خداحافظ والریو، باز همدیگر را می‌بینیم!",
+    "noteFa": ""
+  },
+  {
+    "row": 20,
+    "word": "ciao!",
+    "meaningFa": "سلام؛ خداحافظ؛ خودمانی",
+    "locator": "کتاب درسی و تمرین: PDF 6، چاپی 6؛ تمرین ۱، حباب تصویر بالا سمت راست",
+    "exampleIt": "Ciao, Anna!",
+    "exampleFa": "سلام، آنا!",
+    "noteFa": "در این مثال سلام است؛ کاربرد خداحافظی نیز در صفحهٔ ۱۶ چاپ شده است."
+  },
+  {
+    "row": 21,
+    "word": "cognome",
+    "meaningFa": "نام خانوادگی",
+    "locator": "کتاب درسی و تمرین: PDF 12، چاپی 12؛ بخش E inoltre، تمرین ۴، فهرست داخل پرانتز",
+    "exampleIt": "nome, cognome, Paese di provenienza, numero di telefono",
+    "exampleFa": "نام، نام خانوادگی، کشور مبدأ، شمارهٔ تلفن",
+    "noteFa": "مثال، فهرستی پیوسته از متن کتاب است و جمله نیست. در این نمونه آرتیکل چاپ نشده و به سرمدخل نیز اضافه نشده است."
+  },
+  {
+    "row": 22,
+    "word": "come",
+    "meaningFa": "چطور؛ چگونه",
+    "locator": "کتاب درسی و تمرین: PDF 9، چاپی 9؛ تمرین ۷، گفت‌وگوی نمونه",
+    "exampleIt": "Come si scrive?",
+    "exampleFa": "چطور نوشته می‌شود؟",
+    "noteFa": ""
+  },
+  {
+    "row": 23,
+    "word": "come si chiama?",
+    "meaningFa": "اسم شما چیست؟؛ محترمانه",
+    "locator": "کتاب درسی و تمرین: PDF 7، چاپی 7؛ تمرین ۲، گفت‌وگوی ۳",
+    "exampleIt": "Scusi, Lei come si chiama?",
+    "exampleFa": "ببخشید، اسم شما چیست؟",
+    "noteFa": "در این نمونه Lei خطاب محترمانه به یک نفر است."
+  },
+  {
+    "row": 24,
+    "word": "come si scrive?",
+    "meaningFa": "چطور نوشته می‌شود؟؛ املایش چیست؟",
+    "locator": "کتاب درسی و تمرین: PDF 9، چاپی 9؛ تمرین ۷، گفت‌وگوی نمونه",
+    "exampleIt": "Come si scrive?",
+    "exampleFa": "چطور نوشته می‌شود؟",
+    "noteFa": ""
+  },
+  {
+    "row": 25,
+    "word": "come stai?",
+    "meaningFa": "حالت چطور است؟؛ خودمانی",
+    "locator": "کتاب درسی و تمرین: PDF 15، چاپی 15؛ Videocorso 1، تمرین ۴، حباب تصویر b",
+    "exampleIt": "Ehi Federico! Come stai?",
+    "exampleFa": "سلام فدریکو! حالت چطور است؟",
+    "noteFa": "حباب به صورت دست‌نویس در خود کتاب چاپ شده است."
+  },
+  {
+    "row": 26,
+    "word": "come ti chiami?",
+    "meaningFa": "اسم تو چیست؟؛ خودمانی",
+    "locator": "کتاب درسی و تمرین: PDF 9، چاپی 9؛ تمرین ۷، گفت‌وگوی نمونه",
+    "exampleIt": "Come ti chiami?",
+    "exampleFa": "اسم تو چیست؟",
+    "noteFa": ""
+  },
+  {
+    "row": 27,
+    "word": "come, scusa?",
+    "meaningFa": "ببخشید، چی گفتی؟؛ درخواست تکرار، خودمانی",
+    "locator": "کتاب درسی و تمرین: PDF 12، چاپی 12؛ بخش E inoltre، تمرین ۲، کادر آبی",
+    "exampleIt": "Come, scusa?",
+    "exampleFa": "ببخشید، چی گفتی؟",
+    "noteFa": ""
+  },
+  {
+    "row": 28,
+    "word": "come, scusi?",
+    "meaningFa": "ببخشید، چه فرمودید؟؛ درخواست تکرار، محترمانه",
+    "locator": "کتاب درسی و تمرین: PDF 12، چاپی 12؛ بخش E inoltre، تمرین ۲، متن گفت‌وگو",
+    "exampleIt": "Come, scusi?",
+    "exampleFa": "ببخشید، چه فرمودید؟",
+    "noteFa": ""
+  },
+  {
+    "row": 29,
+    "word": "il compagno",
+    "meaningFa": "هم‌کلاسی؛ هم‌تمرینی",
+    "locator": "کتاب درسی و تمرین: PDF 9، چاپی 9؛ تمرین ۷، نخستین جملهٔ دستور",
+    "exampleIt": "Ascolta il breve dialogo e lavora con un compagno.",
+    "exampleFa": "به گفت‌وگوی کوتاه گوش کن و با یک هم‌کلاسی کار کن.",
+    "noteFa": "در بافت تمرین کلاسی به هم‌تمرینی اشاره دارد؛ آرتیکل معین سرمدخل آموزشی است، در جمله un آمده است."
+  },
+  {
+    "row": 30,
+    "word": "il corso",
+    "meaningFa": "دوره؛ دورهٔ آموزشی",
+    "locator": "کتاب درسی و تمرین: PDF 149، چاپی 149؛ Esercizi 1، کادر consiglio پایین صفحه",
+    "exampleIt": "alla fine del corso",
+    "exampleFa": "در پایان دوره",
+    "noteFa": "نمونه عبارتی پیوسته از جملهٔ راهنماست، نه جملهٔ مستقل. صورت پایهٔ آموزشی است؛ del ترکیب di + il است."
+  },
+  {
+    "row": 31,
+    "word": "di",
+    "meaningFa": "از؛ برای بیان مبدأ",
+    "locator": "کتاب درسی و تمرین: PDF 13، چاپی 13؛ Grammatica، بخش La preposizione di",
+    "exampleIt": "Sono di Genova.",
+    "exampleFa": "من اهل جنوا هستم.",
+    "noteFa": "معنیِ مدخل مربوط به کاربرد همین درس است؛ همهٔ کاربردهای di را پوشش نمی‌دهد."
+  },
+  {
+    "row": 32,
+    "word": "di dove sei?",
+    "meaningFa": "اهل کجا هستی؟؛ خودمانی",
+    "locator": "کتاب درسی و تمرین: PDF 10، چاپی 10؛ تمرین ۸، کادر آبی",
+    "exampleIt": "Tu di dove sei?",
+    "exampleFa": "تو اهل کجا هستی؟",
+    "noteFa": ""
+  },
+  {
+    "row": 33,
+    "word": "di dov’è?",
+    "meaningFa": "اهل کجا هستید؟؛ محترمانه",
+    "locator": "کتاب درسی و تمرین: PDF 10، چاپی 10؛ تمرین ۸، کادر آبی",
+    "exampleIt": "Lei di dov’è?",
+    "exampleFa": "شما اهل کجا هستید؟",
+    "noteFa": "در این مثال Lei خطاب محترمانه است؛ همین ساخت با سوم‌شخص نیز به‌کار می‌رود."
+  },
+  {
+    "row": 34,
+    "word": "il dialogo",
+    "meaningFa": "گفت‌وگو؛ مکالمه",
+    "locator": "کتاب درسی و تمرین: PDF 7، چاپی 7؛ تمرین ۲، دستور پیش از گفت‌وگوها",
+    "exampleIt": "Leggi il dialogo e verifica.",
+    "exampleFa": "گفت‌وگو را بخوان و بررسی کن.",
+    "noteFa": ""
+  },
+  {
+    "row": 35,
+    "word": "la domanda",
+    "meaningFa": "پرسش؛ سؤال",
+    "locator": "کتاب درسی و تمرین: PDF 14، چاپی 14؛ Videocorso 1، عنوان تمرین ۲",
+    "exampleIt": "Guarda il video e rispondi alle domande.",
+    "exampleFa": "ویدئو را ببین و به پرسش‌ها پاسخ بده.",
+    "noteFa": "صورت مفردِ آموزشی است؛ در متن alle domande ترکیب a + le و جمع اسم آمده است."
+  },
+  {
+    "row": 36,
+    "word": "dottore / dottor",
+    "meaningFa": "دکتر؛ عنوان خطاب",
+    "locator": "کتاب درسی و تمرین: PDF 13، چاپی 13؛ Grammatica، بخش dottore, professore, signore",
+    "exampleIt": "Buongiorno, dottor Visconti.",
+    "exampleFa": "صبح بخیر، دکتر ویسکونتی.",
+    "noteFa": "هر دو صورت در همین بخش آمده‌اند؛ کتاب پیش از نام خانوادگی صورت dottor را نشان می‌دهد."
+  },
+  {
+    "row": 37,
+    "word": "dove",
+    "meaningFa": "کجا",
+    "locator": "کتاب درسی و تمرین: PDF 13، چاپی 13؛ Grammatica، بخش Gli interrogativi",
+    "exampleIt": "Di dove sei?",
+    "exampleFa": "اهل کجا هستی؟",
+    "noteFa": ""
+  },
+  {
+    "row": 38,
+    "word": "e",
+    "meaningFa": "و",
+    "locator": "کتاب درسی و تمرین: PDF 7، چاپی 7؛ تمرین ۲، گفت‌وگوی ۱",
+    "exampleIt": "Ciao, sono Valeria, e tu come ti chiami?",
+    "exampleFa": "سلام، من والریا هستم، و اسم تو چیست؟",
+    "noteFa": "e بدون نشانه به معنی «و» است؛ با è به معنی «است» یکی نیست."
+  },
+  {
+    "row": 39,
+    "word": "essere",
+    "meaningFa": "بودن",
+    "locator": "کتاب درسی و تمرین: PDF 13، چاپی 13؛ Grammatica، بخش La preposizione di",
+    "exampleIt": "Sono di Genova.",
+    "exampleFa": "من اهل جنوا هستم.",
+    "noteFa": "مصدر essere در جدول همان صفحه آمده است؛ sono در این جمله اول‌شخص مفرد است."
+  },
+  {
+    "row": 40,
+    "word": "francese",
+    "meaningFa": "فرانسوی؛ برای مذکر و مؤنث",
+    "locator": "کتاب درسی و تمرین: PDF 10، چاپی 10؛ تمرین ۹، حباب گفت‌وگوی ۲",
+    "exampleIt": "Lei è francese?",
+    "exampleFa": "آیا شما فرانسوی هستید؟",
+    "noteFa": "یکسان‌بودن دو صورت در جدول همین صفحه دیده می‌شود."
+  },
+  {
+    "row": 41,
+    "word": "l’indirizzo",
+    "meaningFa": "نشانی؛ آدرس",
+    "locator": "کتاب درسی و تمرین: PDF 12، چاپی 12؛ بخش E inoltre، تمرین ۲، آغاز گفت‌وگو",
+    "exampleIt": "Qual è il Suo indirizzo?",
+    "exampleFa": "نشانی شما چیست؟",
+    "noteFa": "l’ صورت آموزشیِ حرف تعریف پیش از واکه است؛ در جمله به علت حضور صفت ملکی، il Suo indirizzo آمده است."
+  },
+  {
+    "row": 42,
+    "word": "inglese",
+    "meaningFa": "انگلیسی؛ برای مذکر و مؤنث",
+    "locator": "کتاب درسی و تمرین: PDF 14، چاپی 14؛ Videocorso 1، تمرین ۱، گزینهٔ b کنار تصویر ۲",
+    "exampleIt": "Lei si chiama Ann: è inglese, di Manchester.",
+    "exampleFa": "نام او اَن است؛ او انگلیسی و اهل منچستر است.",
+    "noteFa": "این متن یکی از گزینه‌های چاپ‌شده است؛ انتخاب درستِ ویدئو تأیید نشده است. Lei در این جمله «او، زن» است."
+  },
+  {
+    "row": 43,
+    "word": "io",
+    "meaningFa": "من",
+    "locator": "کتاب درسی و تمرین: PDF 10، چاپی 10؛ تمرین ۹، حباب گفت‌وگوی ۳",
+    "exampleIt": "Io sono tedesco.",
+    "exampleFa": "من آلمانی هستم.",
+    "noteFa": ""
+  },
+  {
+    "row": 44,
+    "word": "irlandese",
+    "meaningFa": "ایرلندی؛ برای مذکر و مؤنث",
+    "locator": "کتاب درسی و تمرین: PDF 10، چاپی 10؛ تمرین ۸، گفت‌وگوی سمت چپ",
+    "exampleIt": "No, sono irlandese.",
+    "exampleFa": "نه، من ایرلندی هستم.",
+    "noteFa": "یکسان‌بودن دو صورت در جدول همین صفحه دیده می‌شود."
+  },
+  {
+    "row": 45,
+    "word": "italiano / italiana",
+    "meaningFa": "ایتالیایی؛ صورت مذکر / مؤنث",
+    "locator": "کتاب درسی و تمرین: PDF 10، چاپی 10؛ تمرین ۸، گفت‌وگوی سمت راست",
+    "exampleIt": "Sono italiana, di Genova.",
+    "exampleFa": "من ایتالیایی و اهل جنوا هستم.",
+    "noteFa": "هر دو صورت در جدول همین صفحه آمده‌اند؛ مثال با صورت مؤنث است."
+  },
+  {
+    "row": 46,
+    "word": "leggere",
+    "meaningFa": "خواندن",
+    "locator": "کتاب درسی و تمرین: PDF 7، چاپی 7؛ تمرین ۲، دستور پیش از گفت‌وگوها",
+    "exampleIt": "Leggi il dialogo e verifica.",
+    "exampleFa": "گفت‌وگو را بخوان و بررسی کن.",
+    "noteFa": "صورت مدخل، مصدر آموزشی است؛ صورت موجود در متن Leggi است."
+  },
+  {
+    "row": 47,
+    "word": "Lei",
+    "meaningFa": "شما؛ خطاب محترمانه به یک نفر",
+    "locator": "کتاب درسی و تمرین: PDF 7، چاپی 7؛ تمرین ۲، گفت‌وگوی ۳",
+    "exampleIt": "Scusi, Lei come si chiama?",
+    "exampleFa": "ببخشید، اسم شما چیست؟",
+    "noteFa": "این مدخل مربوط به خطاب محترمانه است و از lei به معنی «او، زن» جدا شده است."
+  },
+  {
+    "row": 48,
+    "word": "lei",
+    "meaningFa": "او؛ برای زن",
+    "locator": "کتاب درسی و تمرین: PDF 15، چاپی 15؛ Videocorso 1، تمرین ۳، جملهٔ a از فهرست Laura",
+    "exampleIt": "No, lei è Olga.",
+    "exampleFa": "نه، او اولگا است.",
+    "noteFa": "متن جملهٔ چاپ‌شده نقل شده است؛ ترتیب پاسخ‌های تمرین یا محتوای ویدئو بازسازی نشده است."
+  },
+  {
+    "row": 49,
+    "word": "la lezione",
+    "meaningFa": "درس",
+    "locator": "کتاب درسی و تمرین: PDF 16، چاپی 16؛ Caffè culturale 1، دستور پیش از عبارت‌های پایین صفحه",
+    "exampleIt": "E ora, alla fine della lezione, saluta i tuoi compagni.",
+    "exampleFa": "و حالا در پایان درس، با هم‌کلاسی‌هایت خداحافظی کن.",
+    "noteFa": "صورت پایهٔ آموزشی است؛ در متن della lezione ترکیب di + la آمده است."
+  },
+  {
+    "row": 50,
+    "word": "lui",
+    "meaningFa": "او؛ برای مرد",
+    "locator": "کتاب درسی و تمرین: PDF 14، چاپی 14؛ Videocorso 1، تمرین ۲، پرسش زیر تصویر ۱",
+    "exampleIt": "Come si chiama lui?",
+    "exampleFa": "اسم او چیست؟",
+    "noteFa": ""
+  },
+  {
+    "row": 51,
+    "word": "ma",
+    "meaningFa": "اما؛ ولی",
+    "locator": "کتاب درسی و تمرین: PDF 15، چاپی 15؛ Videocorso 1، تمرین ۳، جملهٔ d از فهرست Laura",
+    "exampleIt": "Ma no, Chris è americano, di Boston!",
+    "exampleFa": "نه بابا، کریس آمریکایی و اهل بوستون است!",
+    "noteFa": "Ma no در این بافت برای اصلاح حرف طرف مقابل است."
+  },
+  {
+    "row": 52,
+    "word": "mi chiamo…",
+    "meaningFa": "اسم من … است",
+    "locator": "کتاب درسی و تمرین: PDF 7، چاپی 7؛ تمرین ۲، گفت‌وگوی ۳",
+    "exampleIt": "Anch’io mi chiamo Gucci, Paola Gucci.",
+    "exampleFa": "نام من هم گوچی است، پائولا گوچی.",
+    "noteFa": "سه‌نقطه در سرمدخل محل نام شخص است و بخشی از مثال نیست."
+  },
+  {
+    "row": 53,
+    "word": "la nazionalità",
+    "meaningFa": "ملیت",
+    "locator": "کتاب درسی و تمرین: PDF 10، چاپی 10؛ تمرین ۹، متن بالای جدول کشورها و ملیت‌ها",
+    "exampleIt": "Leggi. Alla fine puoi aggiungere il nome del tuo Paese e della tua nazionalità.",
+    "exampleFa": "بخوان. در پایان می‌توانی نام کشور و ملیت خودت را اضافه کنی.",
+    "noteFa": "صورت پایهٔ آموزشی است؛ در نقل della tua nazionalità آمده است. معنی واژه «ملیت» است."
+  },
+  {
+    "row": 54,
+    "word": "no",
+    "meaningFa": "نه؛ خیر",
+    "locator": "کتاب درسی و تمرین: PDF 10، چاپی 10؛ تمرین ۸، گفت‌وگوی سمت چپ",
+    "exampleIt": "No, sono irlandese.",
+    "exampleFa": "نه، من ایرلندی هستم.",
+    "noteFa": ""
+  },
+  {
+    "row": 55,
+    "word": "il nome",
+    "meaningFa": "نام؛ اسم",
+    "locator": "کتاب درسی و تمرین: PDF 7، چاپی 7؛ تمرین ۲، بخش Cosa dici quando…",
+    "exampleIt": "chiedi il nome (con il Lei)",
+    "exampleFa": "نام را با خطاب محترمانهٔ «شما» می‌پرسی.",
+    "noteFa": "نمونه بخشی از راهنمای چاپ‌شدهٔ تمرین است، نه جملهٔ تکمیل‌شدهٔ یک گفت‌وگو."
+  },
+  {
+    "row": 56,
+    "word": "non",
+    "meaningFa": "نـ؛ نه؛ نشانهٔ منفی‌کردن فعل",
+    "locator": "کتاب درسی و تمرین: PDF 13، چاپی 13؛ Grammatica، توضیح ضمیرهای شخصی",
+    "exampleIt": "In genere non sono necessari.",
+    "exampleFa": "به‌طور کلی لازم نیستند.",
+    "noteFa": "مرجع جمله ضمیرهای شخصی است؛ مثال یک جملهٔ کامل از توضیح دستور است."
+  },
+  {
+    "row": 57,
+    "word": "il numero",
+    "meaningFa": "عدد؛ شماره",
+    "locator": "کتاب درسی و تمرین: PDF 12، چاپی 12؛ بخش E inoltre، عنوان تمرین ۳",
+    "exampleIt": "Che numero è?",
+    "exampleFa": "چه عددی است؟",
+    "noteFa": "در نمونه آرتیکل نیامده است؛ آرتیکل معین سرمدخل آموزشی است."
+  },
+  {
+    "row": 58,
+    "word": "il numero di telefono",
+    "meaningFa": "شمارهٔ تلفن",
+    "locator": "کتاب درسی و تمرین: PDF 13، چاپی 13؛ Grammatica، بخش Gli interrogativi",
+    "exampleIt": "Qual è il tuo numero di telefono?",
+    "exampleFa": "شمارهٔ تلفن تو چیست؟",
+    "noteFa": ""
+  },
+  {
+    "row": 59,
+    "word": "il Paese",
+    "meaningFa": "کشور",
+    "locator": "کتاب درسی و تمرین: PDF 16، چاپی 16؛ Caffè culturale 1، کادر فرهنگی پایین صفحه",
+    "exampleIt": "Nel tuo Paese è normale abbracciare una persona per salutarla?",
+    "exampleFa": "آیا در کشور تو معمول است که برای سلام‌کردن کسی را در آغوش بگیرند؟",
+    "noteFa": "صورت پایه با آرتیکل آموزشی درج شده؛ در نقل کتاب Nel صورت ترکیبی in + il است. بزرگی P مطابق این کاربرد کتاب حفظ شده است."
+  },
+  {
+    "row": 60,
+    "word": "la parola",
+    "meaningFa": "واژه؛ کلمه",
+    "locator": "کتاب درسی و تمرین: PDF 146، چاپی 146؛ Esercizi 1، عنوان تمرین ۴",
+    "exampleIt": "Trova la parola nascosta.",
+    "exampleFa": "واژهٔ پنهان را پیدا کن.",
+    "noteFa": "این نمونه از دستور چاپ‌شدهٔ تمرین نقل شده است."
+  },
+  {
+    "row": 61,
+    "word": "però",
+    "meaningFa": "اما؛ بااین‌حال",
+    "locator": "کتاب درسی و تمرین: PDF 12، چاپی 12؛ بخش E inoltre، تمرین ۲، گفت‌وگوی شمارهٔ تماس",
+    "exampleIt": "Però ho anche il cellulare:",
+    "exampleFa": "اما تلفن همراه هم دارم:",
+    "noteFa": "نقل تا پیش از جای خالی شماره است."
+  },
+  {
+    "row": 62,
+    "word": "la persona",
+    "meaningFa": "شخص؛ فرد",
+    "locator": "کتاب درسی و تمرین: PDF 16، چاپی 16؛ Caffè culturale 1، کادر فرهنگی پایین صفحه",
+    "exampleIt": "Nel tuo Paese è normale abbracciare una persona per salutarla?",
+    "exampleFa": "آیا در کشور تو معمول است که برای سلام‌کردن کسی را در آغوش بگیرند؟",
+    "noteFa": "آرتیکل معین سرمدخل آموزشی است؛ در نمونه una persona آمده است."
+  },
+  {
+    "row": 63,
+    "word": "piacere!",
+    "meaningFa": "از آشنایی خوشوقتم!",
+    "locator": "کتاب درسی و تمرین: PDF 7، چاپی 7؛ تمرین ۲، گفت‌وگوی ۲",
+    "exampleIt": "Piacere, Carlo De Giuli.",
+    "exampleFa": "از آشنایی خوشوقتم، کارلو دِ جولی هستم.",
+    "noteFa": "کاربرد معرفی خود است؛ «هستم» برای طبیعی‌بودن ترجمهٔ فارسی افزوده شده است."
+  },
+  {
+    "row": 64,
+    "word": "portoghese",
+    "meaningFa": "پرتغالی؛ برای مذکر و مؤنث",
+    "locator": "کتاب درسی و تمرین: PDF 147، چاپی 147؛ Esercizi 1، تمرین ۷، گفت‌وگوی A",
+    "exampleIt": "No, sono portoghese, e Lei? È italiano?",
+    "exampleFa": "نه، من پرتغالی هستم؛ و شما؟ ایتالیایی هستید؟",
+    "noteFa": "یکسان‌بودن صورت مذکر و مؤنث در جدول صفحهٔ ۱۰ آمده است."
+  },
+  {
+    "row": 65,
+    "word": "professore",
+    "meaningFa": "استاد؛ معلم مرد",
+    "locator": "کتاب درسی و تمرین: PDF 6، چاپی 6؛ تمرین ۱، حباب تصویر پایین سمت راست",
+    "exampleIt": "Buongiorno, professore!",
+    "exampleFa": "صبح بخیر، استاد!",
+    "noteFa": "این مثال خطاب مستقیم است و بدون آرتیکل نقل می‌شود؛ آرتیکل به نقل افزوده نشده است."
+  },
+  {
+    "row": 66,
+    "word": "qual è il Suo indirizzo?",
+    "meaningFa": "نشانی شما چیست؟؛ محترمانه",
+    "locator": "کتاب درسی و تمرین: PDF 12، چاپی 12؛ بخش E inoltre، تمرین ۲، آغاز گفت‌وگو",
+    "exampleIt": "Qual è il Suo indirizzo?",
+    "exampleFa": "نشانی شما چیست؟",
+    "noteFa": ""
+  },
+  {
+    "row": 67,
+    "word": "qual è il tuo numero di telefono?",
+    "meaningFa": "شمارهٔ تلفن تو چیست؟؛ خودمانی",
+    "locator": "کتاب درسی و تمرین: PDF 13، چاپی 13؛ Grammatica، بخش Gli interrogativi",
+    "exampleIt": "Qual è il tuo numero di telefono?",
+    "exampleFa": "شمارهٔ تلفن تو چیست؟",
+    "noteFa": ""
+  },
+  {
+    "row": 68,
+    "word": "qual è…?",
+    "meaningFa": "… چیست؟؛ برای پرسیدن مشخصات",
+    "locator": "کتاب درسی و تمرین: PDF 13، چاپی 13؛ Grammatica، بخش Gli interrogativi",
+    "exampleIt": "Qual è il tuo numero di telefono?",
+    "exampleFa": "شمارهٔ تلفن تو چیست؟",
+    "noteFa": "املای qual è بدون آپاستروف است؛ سه‌نقطهٔ سرمدخل محل ادامهٔ سؤال است."
+  },
+  {
+    "row": 69,
+    "word": "ripetere",
+    "meaningFa": "تکرارکردن",
+    "locator": "کتاب درسی و تمرین: PDF 8، چاپی 8؛ تمرین ۵، دستور زیر عنوان L’alfabeto",
+    "exampleIt": "Ascolta e ripeti.",
+    "exampleFa": "گوش کن و تکرار کن.",
+    "noteFa": "صورت مدخل، مصدر آموزشی است؛ صورت موجود در متن ripeti است."
+  },
+  {
+    "row": 70,
+    "word": "la risposta",
+    "meaningFa": "پاسخ؛ جواب",
+    "locator": "کتاب درسی و تمرین: PDF 147، چاپی 147؛ Esercizi 1، عنوان تمرین ۵",
+    "exampleIt": "Collega le domande con le risposte giuste.",
+    "exampleFa": "پرسش‌ها را به پاسخ‌های درست وصل کن.",
+    "noteFa": "صورت مفردِ آموزشی است؛ در متن le risposte، جمع اسم آمده است."
+  },
+  {
+    "row": 71,
+    "word": "salutare",
+    "meaningFa": "سلام‌کردن؛ خداحافظی‌کردن",
+    "locator": "کتاب درسی و تمرین: PDF 16، چاپی 16؛ Caffè culturale 1، دستور پیش از عبارت‌های پایین صفحه",
+    "exampleIt": "E ora, alla fine della lezione, saluta i tuoi compagni.",
+    "exampleFa": "و حالا در پایان درس، با هم‌کلاسی‌هایت خداحافظی کن.",
+    "noteFa": "صورت مدخل، مصدر آموزشی است؛ saluta صورت موجود در متن است و در این بافت معنای خداحافظی دارد."
+  },
+  {
+    "row": 72,
+    "word": "il saluto",
+    "meaningFa": "سلام یا خداحافظی؛ عبارتِ خوشامد یا بدرود",
+    "locator": "کتاب درسی و تمرین: PDF 15، چاپی 15؛ Videocorso 1، پایان عنوان تمرین ۴",
+    "exampleIt": "Abbina i saluti.",
+    "exampleFa": "عبارت‌های سلام و خداحافظی را جور کن.",
+    "noteFa": "صورت مفردِ آموزشی است؛ در متن i saluti، جمع اسم آمده است."
+  },
+  {
+    "row": 73,
+    "word": "salve!",
+    "meaningFa": "سلام!؛ سلام بدون صمیمیتِ ciao",
+    "locator": "کتاب درسی و تمرین: PDF 16، چاپی 16؛ Caffè culturale 1، ردیف سلام هنگام ورود",
+    "exampleIt": "Ciao! / Salve!",
+    "exampleFa": "سلام! / سلام!",
+    "noteFa": "این نمونه دو عبارت جایگزینِ چاپ‌شده در نمودار است، نه گفت‌وگوی دو نفر."
+  },
+  {
+    "row": 74,
+    "word": "scrivere",
+    "meaningFa": "نوشتن",
+    "locator": "کتاب درسی و تمرین: PDF 9، چاپی 9؛ تمرین ۷، گفت‌وگوی نمونه",
+    "exampleIt": "Come si scrive?",
+    "exampleFa": "چطور نوشته می‌شود؟",
+    "noteFa": "مصدر scrivere در واژگان آغاز درس، صفحهٔ ۵ آمده است؛ scrive صورت صرف‌شده در مثال است."
+  },
+  {
+    "row": 75,
+    "word": "scusa",
+    "meaningFa": "ببخش؛ ببخشید؛ خطاب خودمانی",
+    "locator": "کتاب درسی و تمرین: PDF 12، چاپی 12؛ بخش E inoltre، تمرین ۲، کادر آبی",
+    "exampleIt": "Come, scusa?",
+    "exampleFa": "ببخشید، چی گفتی؟",
+    "noteFa": "در این بافت برای درخواست تکرار است."
+  },
+  {
+    "row": 76,
+    "word": "scusi",
+    "meaningFa": "ببخشید؛ خطاب محترمانه",
+    "locator": "کتاب درسی و تمرین: PDF 7، چاپی 7؛ تمرین ۲، گفت‌وگوی ۳",
+    "exampleIt": "Scusi, Lei come si chiama?",
+    "exampleFa": "ببخشید، اسم شما چیست؟",
+    "noteFa": ""
+  },
+  {
+    "row": 77,
+    "word": "sì",
+    "meaningFa": "بله؛ آری",
+    "locator": "کتاب درسی و تمرین: PDF 7، چاپی 7؛ تمرین ۲، گفت‌وگوی ۴",
+    "exampleIt": "Sì, sono io, e Lei è il signor...?",
+    "exampleFa": "بله، خودم هستم، و شما آقای … هستید؟",
+    "noteFa": "سه‌نقطه در خودِ جملهٔ کتاب وجود دارد؛ پاسخ یا نامی جایگزین نشده است."
+  },
+  {
+    "row": 78,
+    "word": "la signora",
+    "meaningFa": "خانم؛ عنوان خطاب محترمانه به زن",
+    "locator": "کتاب درسی و تمرین: PDF 7، چاپی 7؛ تمرین ۲، گفت‌وگوی ۴",
+    "exampleIt": "La signora Genovesi?",
+    "exampleFa": "خانم جنووزی؟",
+    "noteFa": "پرسش کوتاه برای شناسایی مخاطب است؛ جمله‌ای به آن افزوده نشده است."
+  },
+  {
+    "row": 79,
+    "word": "il signore / il signor",
+    "meaningFa": "آقا؛ عنوان خطاب محترمانه به مرد",
+    "locator": "کتاب درسی و تمرین: PDF 13، چاپی 13؛ Per comunicare، عبارت‌های آغاز صفحه",
+    "exampleIt": "Buona sera, signor Muti!",
+    "exampleFa": "عصر بخیر، آقای موتی!",
+    "noteFa": "il signore در جدول پایین همین صفحه و signor پیش از نام خانوادگی در مثال آمده‌اند."
+  },
+  {
+    "row": 80,
+    "word": "spagnolo / spagnola",
+    "meaningFa": "اسپانیایی؛ صورت مذکر / مؤنث",
+    "locator": "کتاب درسی و تمرین: PDF 147، چاپی 147؛ Esercizi 1، تمرین ۵، پرسش ۵",
+    "exampleIt": "Sei spagnolo?",
+    "exampleFa": "آیا تو اسپانیایی هستی؟",
+    "noteFa": "هر دو صورت در جدول صفحهٔ ۱۰ آمده‌اند؛ مثال با صورت مذکر است."
+  },
+  {
+    "row": 81,
+    "word": "il Suo",
+    "meaningFa": "مال شما؛ ـِ شما، خطاب محترمانه و همراه اسم مذکر مفرد",
+    "locator": "کتاب درسی و تمرین: PDF 12، چاپی 12؛ بخش E inoltre، تمرین ۲، آغاز گفت‌وگو",
+    "exampleIt": "Qual è il Suo indirizzo?",
+    "exampleFa": "نشانی شما چیست؟",
+    "noteFa": "بزرگی S مطابق خطاب محترمانهٔ چاپ‌شده حفظ شده است."
+  },
+  {
+    "row": 82,
+    "word": "svizzero / svizzera",
+    "meaningFa": "سوئیسی؛ صورت مذکر / مؤنث",
+    "locator": "کتاب درسی و تمرین: PDF 147، چاپی 147؛ Esercizi 1، تمرین ۵، پاسخ b",
+    "exampleIt": "No, sono svizzero.",
+    "exampleFa": "نه، من سوئیسی هستم.",
+    "noteFa": "هر دو صورت در جدول صفحهٔ ۱۰ آمده‌اند؛ مثال با صورت مذکر است."
+  },
+  {
+    "row": 83,
+    "word": "tedesco / tedesca",
+    "meaningFa": "آلمانی؛ صورت مذکر / مؤنث",
+    "locator": "کتاب درسی و تمرین: PDF 10، چاپی 10؛ تمرین ۸، گفت‌وگوی سمت راست",
+    "exampleIt": "Sei tedesco?",
+    "exampleFa": "آیا تو آلمانی هستی؟",
+    "noteFa": "هر دو صورت در جدول همین صفحه آمده‌اند؛ مثال با صورت مذکر است."
+  },
+  {
+    "row": 84,
+    "word": "tu",
+    "meaningFa": "تو؛ خطاب خودمانی",
+    "locator": "کتاب درسی و تمرین: PDF 10، چاپی 10؛ تمرین ۸، کادر آبی",
+    "exampleIt": "Tu di dove sei?",
+    "exampleFa": "تو اهل کجا هستی؟",
+    "noteFa": ""
+  },
+  {
+    "row": 85,
+    "word": "il tuo",
+    "meaningFa": "مال تو؛ ـِ تو، همراه اسم مذکر مفرد",
+    "locator": "کتاب درسی و تمرین: PDF 13، چاپی 13؛ Grammatica، بخش Gli interrogativi",
+    "exampleIt": "Qual è il tuo numero di telefono?",
+    "exampleFa": "شمارهٔ تلفن تو چیست؟",
+    "noteFa": "در اینجا صفت ملکی است؛ صورت‌های دیگر در این مدخل آموزش داده نمی‌شوند."
+  }
+]

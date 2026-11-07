@@ -1,0 +1,1943 @@
+[
+  {
+    "sourceRow": 1,
+    "entryId": "it-a1-l01-001",
+    "lemma": "a domani!",
+    "partOfSpeech": "phrase",
+    "cueFa": "عبارت خداحافظیِ دوواژه‌ای برای دیدار در روز بعد را با ! بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "a domani!"
+    ],
+    "cloze": {
+      "sentence": "Prima di uscire, Paolo dice: «___».",
+      "translationFa": "پائولو پیش از بیرون‌رفتن می‌گوید: «تا فردا!»",
+      "acceptedAnswers": [
+        "A domani!"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت خداحافظیِ دوواژه‌ای برای دیدار در روز بعد را با ! بنویس."
+    },
+    "sourceOrder": 73
+  },
+  {
+    "sourceRow": 2,
+    "entryId": "it-a1-l01-002",
+    "lemma": "a presto!",
+    "partOfSpeech": "phrase",
+    "cueFa": "عبارت دوواژه‌ایِ خداحافظی با آرزوی دیدارِ به‌زودی را با ! بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "a presto!"
+    ],
+    "cloze": {
+      "sentence": "Grazie per la visita, ___",
+      "translationFa": "ممنون که به دیدنم آمدی، به‌زودی می‌بینمت!",
+      "acceptedAnswers": [
+        "a presto!"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت دوواژه‌ایِ خداحافظی با آرزوی دیدارِ به‌زودی را با ! بنویس."
+    },
+    "sourceOrder": 72
+  },
+  {
+    "sourceRow": 3,
+    "entryId": "it-a1-l01-003",
+    "lemma": "alla prossima volta!",
+    "partOfSpeech": "phrase",
+    "cueFa": "عبارت سه‌واژه‌ایِ خداحافظی به معنی «تا دفعهٔ بعد» را با ! بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "alla prossima volta!"
+    ],
+    "cloze": {
+      "sentence": "La lezione è finita: ___",
+      "translationFa": "درس تمام شد؛ تا دفعهٔ بعد!",
+      "acceptedAnswers": [
+        "alla prossima volta!"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت سه‌واژه‌ایِ خداحافظی به معنی «تا دفعهٔ بعد» را با ! بنویس."
+    },
+    "sourceOrder": 76
+  },
+  {
+    "sourceRow": 4,
+    "entryId": "it-a1-l01-004",
+    "lemma": "americano",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفت ملیت آمریکایی را برای یک مرد، به صورت مذکر مفرد بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "americano"
+    ],
+    "cloze": {
+      "sentence": "Il mio amico è ___ e vive a Roma.",
+      "translationFa": "دوست من آمریکایی است و در رم زندگی می‌کند.",
+      "acceptedAnswers": [
+        "americano"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفت ملیت آمریکایی را برای یک مرد، به صورت مذکر مفرد بنویس."
+    },
+    "sourceOrder": 64
+  },
+  {
+    "sourceRow": 5,
+    "entryId": "it-a1-l01-005",
+    "lemma": "anche",
+    "partOfSpeech": "adverb",
+    "cueFa": "قید یک‌واژه‌ایِ «هم؛ نیز» را بنویس؛ نه شکل ترکیبیِ «من هم».",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "anche"
+    ],
+    "cloze": {
+      "sentence": "Studio italiano e ___ francese.",
+      "translationFa": "من ایتالیایی و همچنین فرانسوی می‌خوانم.",
+      "acceptedAnswers": [
+        "anche"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "قید یک‌واژه‌ایِ «هم؛ نیز» را بنویس؛ نه شکل ترکیبیِ «من هم»."
+    },
+    "sourceOrder": 41
+  },
+  {
+    "sourceRow": 6,
+    "entryId": "it-a1-l01-006",
+    "lemma": "anch’io",
+    "partOfSpeech": "phrase",
+    "cueFa": "صورت کوتاه‌شدهٔ دو بخشِ «من هم» را با آپاستروف بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "anch’io",
+      "anch'io"
+    ],
+    "cloze": {
+      "sentence": "Tu studi italiano? ___!",
+      "translationFa": "تو ایتالیایی می‌خوانی؟ من هم همین‌طور!",
+      "acceptedAnswers": [
+        "Anch’io",
+        "Anch'io"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صورت کوتاه‌شدهٔ دو بخشِ «من هم» را با آپاستروف بنویس."
+    },
+    "sourceOrder": 12
+  },
+  {
+    "sourceRow": 7,
+    "entryId": "it-a1-l01-007",
+    "lemma": "argentino",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفت ملیت آرژانتینی را برای یک مرد، به صورت مذکر مفرد بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "argentino"
+    ],
+    "cloze": {
+      "sentence": "Diego è ___, di Buenos Aires.",
+      "translationFa": "دیگو آرژانتینی و اهل بوئنوس‌آیرس است.",
+      "acceptedAnswers": [
+        "argentino"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفت ملیت آرژانتینی را برای یک مرد، به صورت مذکر مفرد بنویس."
+    },
+    "sourceOrder": 62
+  },
+  {
+    "sourceRow": 8,
+    "entryId": "it-a1-l01-008",
+    "lemma": "arrivederci!",
+    "partOfSpeech": "phrase",
+    "cueFa": "صورت عمومی و تک‌واژه‌ایِ خداحافظی این درس را با علامت تعجب بنویس؛ صورت ویژهٔ محترمانه منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "arrivederci!"
+    ],
+    "cloze": {
+      "sentence": "Il cliente saluta: «___».",
+      "translationFa": "مشتری خداحافظی می‌کند: «خداحافظ!»",
+      "acceptedAnswers": [
+        "Arrivederci!"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صورت عمومی و تک‌واژه‌ایِ خداحافظی این درس را با علامت تعجب بنویس؛ صورت ویژهٔ محترمانه منظور نیست."
+    },
+    "sourceOrder": 70
+  },
+  {
+    "sourceRow": 9,
+    "entryId": "it-a1-l01-009",
+    "lemma": "arrivederLa!",
+    "partOfSpeech": "phrase",
+    "cueFa": "صورت ویژهٔ خداحافظی محترمانه را با حرف «اِل» بزرگ در بخش خطاب و علامت تعجب بنویس.",
+    "caseSensitive": true,
+    "acceptedAnswers": [
+      "arrivederLa!",
+      "ArrivederLa!"
+    ],
+    "cloze": {
+      "sentence": "Grazie, signora Rossi, ___",
+      "translationFa": "متشکرم، خانم روسی؛ خداحافظ!",
+      "acceptedAnswers": [
+        "arrivederLa!",
+        "ArrivederLa!"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صورت ویژهٔ خداحافظی محترمانه را با حرف «اِل» بزرگ در بخش خطاب و علامت تعجب بنویس."
+    },
+    "sourceOrder": 77
+  },
+  {
+    "sourceRow": 10,
+    "entryId": "it-a1-l01-010",
+    "lemma": "ascoltare",
+    "partOfSpeech": "verb",
+    "cueFa": "فعلِ شنیدنِ با توجه و گوش‌دادن را به صورت مصدر بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "ascoltare"
+    ],
+    "cloze": {
+      "sentence": "Mi piace ___ la musica italiana.",
+      "translationFa": "دوست دارم به موسیقی ایتالیایی گوش بدهم.",
+      "acceptedAnswers": [
+        "ascoltare"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فعلِ شنیدنِ با توجه و گوش‌دادن را به صورت مصدر بنویس."
+    },
+    "sourceOrder": 18
+  },
+  {
+    "sourceRow": 11,
+    "entryId": "it-a1-l01-011",
+    "lemma": "austriaco",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفت ملیت اتریشی را برای یک مرد، به صورت مذکر مفرد بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "austriaco"
+    ],
+    "cloze": {
+      "sentence": "Stefan è ___, di Vienna.",
+      "translationFa": "اشتفان اتریشی و اهل وین است.",
+      "acceptedAnswers": [
+        "austriaco"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفت ملیت اتریشی را برای یک مرد، به صورت مذکر مفرد بنویس."
+    },
+    "sourceOrder": 33
+  },
+  {
+    "sourceRow": 12,
+    "entryId": "it-a1-l01-012",
+    "lemma": "avere",
+    "partOfSpeech": "verb",
+    "cueFa": "فعلِ داشتن را در حالت مصدر بنویس، نه صورت صرف‌شدهٔ آن.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "avere"
+    ],
+    "cloze": {
+      "sentence": "È bello ___ amici in Italia.",
+      "translationFa": "داشتن دوست در ایتالیا خوب است.",
+      "acceptedAnswers": [
+        "avere"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فعلِ داشتن را در حالت مصدر بنویس، نه صورت صرف‌شدهٔ آن."
+    },
+    "sourceOrder": 40
+  },
+  {
+    "sourceRow": 13,
+    "entryId": "it-a1-l01-013",
+    "lemma": "buona giornata!",
+    "partOfSpeech": "phrase",
+    "cueFa": "عبارت دوواژه‌ایِ آرزوی یک روز خوب هنگام خداحافظی را با ! بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "buona giornata!"
+    ],
+    "cloze": {
+      "sentence": "Grazie e ___",
+      "translationFa": "متشکرم و روز خوبی داشته باشید!",
+      "acceptedAnswers": [
+        "buona giornata!"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت دوواژه‌ایِ آرزوی یک روز خوب هنگام خداحافظی را با ! بنویس."
+    },
+    "sourceOrder": 71
+  },
+  {
+    "sourceRow": 14,
+    "entryId": "it-a1-l01-014",
+    "lemma": "buona sera!",
+    "partOfSpeech": "phrase",
+    "cueFa": "سلامِ دوواژه‌ایِ عصر و شب را مطابق املای جدا در این درس، با ! بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "buona sera!"
+    ],
+    "cloze": {
+      "sentence": "Il cameriere entra e dice: «___».",
+      "translationFa": "پیشخدمت وارد می‌شود و می‌گوید: «عصر بخیر!»",
+      "acceptedAnswers": [
+        "Buona sera!"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "سلامِ دوواژه‌ایِ عصر و شب را مطابق املای جدا در این درس، با ! بنویس."
+    },
+    "sourceOrder": 1
+  },
+  {
+    "sourceRow": 15,
+    "entryId": "it-a1-l01-015",
+    "lemma": "buonanotte!",
+    "partOfSpeech": "phrase",
+    "cueFa": "شب‌بخیرِ هنگام رفتن به خواب را به صورت یک کلمه و با ! بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "buonanotte!"
+    ],
+    "cloze": {
+      "sentence": "La mamma spegne la luce: «___».",
+      "translationFa": "مادر چراغ را خاموش می‌کند: «شب بخیر!»",
+      "acceptedAnswers": [
+        "Buonanotte!"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "شب‌بخیرِ هنگام رفتن به خواب را به صورت یک کلمه و با ! بنویس."
+    },
+    "sourceOrder": 68
+  },
+  {
+    "sourceRow": 16,
+    "entryId": "it-a1-l01-016",
+    "lemma": "buongiorno!",
+    "partOfSpeech": "phrase",
+    "cueFa": "سلامِ یک‌کلمه‌ایِ صبح یا روز را با ! بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "buongiorno!"
+    ],
+    "cloze": {
+      "sentence": "Entro in classe e saluto: «___».",
+      "translationFa": "وارد کلاس می‌شوم و سلام می‌کنم: «صبح بخیر!»",
+      "acceptedAnswers": [
+        "Buongiorno!"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "سلامِ یک‌کلمه‌ایِ صبح یا روز را با ! بنویس."
+    },
+    "sourceOrder": 3
+  },
+  {
+    "sourceRow": 17,
+    "entryId": "it-a1-l01-017",
+    "lemma": "cellulare",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ مفردِ تلفن همراه را بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "cellulare"
+    ],
+    "cloze": {
+      "sentence": "Il mio ___ è sul tavolo.",
+      "translationFa": "تلفن همراه من روی میز است.",
+      "acceptedAnswers": [
+        "cellulare"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ مفردِ تلفن همراه را بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 42,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 18,
+    "entryId": "it-a1-l01-018",
+    "lemma": "chiamarsi",
+    "partOfSpeech": "verb",
+    "cueFa": "فعلِ انعکاسیِ نام‌داشتن را در حالت مصدر کامل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "chiamarsi"
+    ],
+    "cloze": {
+      "sentence": "Buonasera, ___ Silvia Conti.",
+      "translationFa": "عصر بخیر، اسم من سیلویا کونتی است.",
+      "acceptedAnswers": [
+        "mi chiamo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صورت اول‌شخصِ «اسم من … است» را در جای خالی بنویس؛ مصدر لازم نیست."
+    },
+    "sourceOrder": 14
+  },
+  {
+    "sourceRow": 19,
+    "entryId": "it-a1-l01-019",
+    "lemma": "ci vediamo!",
+    "partOfSpeech": "phrase",
+    "cueFa": "عبارت دوواژه‌ایِ «باز همدیگر را می‌بینیم» را با ! بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "ci vediamo!"
+    ],
+    "cloze": {
+      "sentence": "Ora vado a casa, ___",
+      "translationFa": "حالا به خانه می‌روم؛ باز همدیگر را می‌بینیم!",
+      "acceptedAnswers": [
+        "ci vediamo!"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت دوواژه‌ایِ «باز همدیگر را می‌بینیم» را با ! بنویس."
+    },
+    "sourceOrder": 69
+  },
+  {
+    "sourceRow": 20,
+    "entryId": "it-a1-l01-020",
+    "lemma": "ciao!",
+    "partOfSpeech": "phrase",
+    "cueFa": "سلام یا خداحافظیِ خودمانی و چهارحرفی را با ! بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "ciao!"
+    ],
+    "cloze": {
+      "sentence": "Vedo il mio amico e dico: «___».",
+      "translationFa": "دوستم را می‌بینم و می‌گویم: «سلام!»",
+      "acceptedAnswers": [
+        "Ciao!"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "سلام یا خداحافظیِ خودمانی و چهارحرفی را با ! بنویس."
+    },
+    "sourceOrder": 2
+  },
+  {
+    "sourceRow": 21,
+    "entryId": "it-a1-l01-021",
+    "lemma": "cognome",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ نام خانوادگی را به صورت مفرد و بدون آرتیکل بنویس؛ نام کوچک منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "cognome"
+    ],
+    "cloze": {
+      "sentence": "Il mio ___ è Ferri.",
+      "translationFa": "نام خانوادگی من فِرّی است.",
+      "acceptedAnswers": [
+        "cognome"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ نام خانوادگی را به صورت مفرد و بدون آرتیکل بنویس؛ نام کوچک منظور نیست."
+    },
+    "sourceOrder": 47,
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است. آرتیکل و جنسیت با شاهد صریح این مدخل تثبیت نشده‌اند؛ تمرین آرتیکل غیرفعال است."
+    }
+  },
+  {
+    "sourceRow": 22,
+    "entryId": "it-a1-l01-022",
+    "lemma": "come",
+    "partOfSpeech": "adverb",
+    "cueFa": "واژهٔ پرسشیِ یک‌کلمه‌ایِ «چطور؛ چگونه» را بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "come"
+    ],
+    "cloze": {
+      "sentence": "___ si pronuncia questa parola?",
+      "translationFa": "این واژه چطور تلفظ می‌شود؟",
+      "acceptedAnswers": [
+        "Come"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "واژهٔ پرسشیِ یک‌کلمه‌ایِ «چطور؛ چگونه» را بنویس."
+    },
+    "sourceOrder": 22
+  },
+  {
+    "sourceRow": 23,
+    "entryId": "it-a1-l01-023",
+    "lemma": "come si chiama?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش کاملِ نام با خطاب محترمانه، بدون ضمیر مستقلِ «شما» و با علامت سؤال ایتالیایی.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "come si chiama?"
+    ],
+    "cloze": {
+      "sentence": "Buongiorno, ___",
+      "translationFa": "صبح بخیر، اسم شما چیست؟",
+      "acceptedAnswers": [
+        "come si chiama?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش کاملِ نام با خطاب محترمانه، بدون ضمیر مستقلِ «شما» و با علامت سؤال ایتالیایی."
+    },
+    "sourceOrder": 11
+  },
+  {
+    "sourceRow": 24,
+    "entryId": "it-a1-l01-024",
+    "lemma": "come si scrive?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش سه‌واژه‌ای دربارهٔ املای نام را با ? بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "come si scrive?"
+    ],
+    "cloze": {
+      "sentence": "Il Suo nome, ___",
+      "translationFa": "اسم شما چطور نوشته می‌شود؟",
+      "acceptedAnswers": [
+        "come si scrive?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش سه‌واژه‌ای دربارهٔ املای نام را با ? بنویس."
+    },
+    "sourceOrder": 23
+  },
+  {
+    "sourceRow": 25,
+    "entryId": "it-a1-l01-025",
+    "lemma": "come stai?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش دوواژه‌ایِ حال‌و‌احوال با خطاب خودمانی را با ? بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "come stai?"
+    ],
+    "cloze": {
+      "sentence": "Ciao, Elena, ___",
+      "translationFa": "سلام اِلنا، حالت چطور است؟",
+      "acceptedAnswers": [
+        "come stai?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش دوواژه‌ایِ حال‌و‌احوال با خطاب خودمانی را با ? بنویس."
+    },
+    "sourceOrder": 66
+  },
+  {
+    "sourceRow": 26,
+    "entryId": "it-a1-l01-026",
+    "lemma": "come ti chiami?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش کاملِ نام با خطاب خودمانی، بدون ضمیر مستقلِ «تو» و با علامت سؤال ایتالیایی.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "come ti chiami?"
+    ],
+    "cloze": {
+      "sentence": "Ciao, io sono Nora, ___",
+      "translationFa": "سلام، من نورا هستم؛ اسم تو چیست؟",
+      "acceptedAnswers": [
+        "come ti chiami?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش کاملِ نام با خطاب خودمانی، بدون ضمیر مستقلِ «تو» و با علامت سؤال ایتالیایی."
+    },
+    "sourceOrder": 21
+  },
+  {
+    "sourceRow": 27,
+    "entryId": "it-a1-l01-027",
+    "lemma": "come, scusa?",
+    "partOfSpeech": "phrase",
+    "cueFa": "درخواست تکرارِ خودمانی را با واژهٔ پرسشی، ویرگول، صورت خودمانیِ «ببخش» و علامت سؤال کامل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "come, scusa?"
+    ],
+    "cloze": {
+      "sentence": "___ Il telefono non funziona bene.",
+      "translationFa": "ببخشید، چی گفتی؟ تلفن خوب کار نمی‌کند.",
+      "acceptedAnswers": [
+        "Come, scusa?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "درخواست تکرارِ خودمانی را با واژهٔ پرسشی، ویرگول، صورت خودمانیِ «ببخش» و علامت سؤال کامل بنویس."
+    },
+    "sourceOrder": 44
+  },
+  {
+    "sourceRow": 28,
+    "entryId": "it-a1-l01-028",
+    "lemma": "come, scusi?",
+    "partOfSpeech": "phrase",
+    "cueFa": "درخواست تکرارِ محترمانه را با واژهٔ پرسشی، ویرگول، صورت محترمانهٔ «ببخشید» و علامت سؤال کامل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "come, scusi?"
+    ],
+    "cloze": {
+      "sentence": "___ Non capisco il numero.",
+      "translationFa": "ببخشید، چه فرمودید؟ شماره را متوجه نمی‌شوم.",
+      "acceptedAnswers": [
+        "Come, scusi?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "درخواست تکرارِ محترمانه را با واژهٔ پرسشی، ویرگول، صورت محترمانهٔ «ببخشید» و علامت سؤال کامل بنویس."
+    },
+    "sourceOrder": 43
+  },
+  {
+    "sourceRow": 29,
+    "entryId": "it-a1-l01-029",
+    "lemma": "compagno",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ مذکرِ هم‌کلاسی یا هم‌تمرینی را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "compagno"
+    ],
+    "cloze": {
+      "sentence": "Il mio ___ di corso si chiama Davide.",
+      "translationFa": "اسم هم‌کلاسی من داویده است.",
+      "acceptedAnswers": [
+        "compagno"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ مذکرِ هم‌کلاسی یا هم‌تمرینی را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 20,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است. صورت پایهٔ مفرد برای آموزش ثبت شده است؛ متن منبع ممکن است آرتیکل نامعین، صورت ترکیبی یا جمع را داشته باشد."
+    }
+  },
+  {
+    "sourceRow": 30,
+    "entryId": "it-a1-l01-030",
+    "lemma": "corso",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ دورهٔ آموزشی را به صورت مفرد و بدون آرتیکل بنویس؛ یک جلسهٔ درس منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "corso"
+    ],
+    "cloze": {
+      "sentence": "Il ___ di italiano comincia lunedì.",
+      "translationFa": "دورهٔ ایتالیایی دوشنبه شروع می‌شود.",
+      "acceptedAnswers": [
+        "corso"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ دورهٔ آموزشی را به صورت مفرد و بدون آرتیکل بنویس؛ یک جلسهٔ درس منظور نیست."
+    },
+    "sourceOrder": 85,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است. صورت پایهٔ مفرد برای آموزش ثبت شده است؛ متن منبع ممکن است آرتیکل نامعین، صورت ترکیبی یا جمع را داشته باشد."
+    }
+  },
+  {
+    "sourceRow": 31,
+    "entryId": "it-a1-l01-031",
+    "lemma": "di",
+    "partOfSpeech": "other",
+    "cueFa": "حرف اضافهٔ دوحرفیِ بیان مبدأ را بنویس؛ مانند «اهلِ یک شهر بودن».",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "di"
+    ],
+    "cloze": {
+      "sentence": "Sono ___ Milano, ma abito a Torino.",
+      "translationFa": "من اهل میلان هستم، اما در تورین زندگی می‌کنم.",
+      "acceptedAnswers": [
+        "di"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "حرف اضافهٔ دوحرفیِ بیان مبدأ را بنویس؛ مانند «اهلِ یک شهر بودن»."
+    },
+    "sourceOrder": 52
+  },
+  {
+    "sourceRow": 32,
+    "entryId": "it-a1-l01-032",
+    "lemma": "di dove sei?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش سه‌واژه‌ایِ «اهل کجا هستی؟» را بدون ضمیر مستقلِ «تو» و با علامت سؤال ایتالیایی بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "di dove sei?"
+    ],
+    "cloze": {
+      "sentence": "Io sono di Pisa, e tu ___",
+      "translationFa": "من اهل پیزا هستم؛ و تو اهل کجا هستی؟",
+      "acceptedAnswers": [
+        "di dove sei?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش سه‌واژه‌ایِ «اهل کجا هستی؟» را بدون ضمیر مستقلِ «تو» و با علامت سؤال ایتالیایی بنویس."
+    },
+    "sourceOrder": 30
+  },
+  {
+    "sourceRow": 33,
+    "entryId": "it-a1-l01-033",
+    "lemma": "di dov’è?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش کوتاهِ «اهل کجا هستید؟» را بدون ضمیر مستقلِ «شما»، با صورت کوتاه‌شدهٔ دارای آپاستروف و علامت سؤال بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "di dov’è?",
+      "di dov'è?"
+    ],
+    "cloze": {
+      "sentence": "Scusi, ___ Di Napoli?",
+      "translationFa": "ببخشید، اهل کجا هستید؟ اهل ناپل؟",
+      "acceptedAnswers": [
+        "di dov’è?",
+        "di dov'è?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش کوتاهِ «اهل کجا هستید؟» را بدون ضمیر مستقلِ «شما»، با صورت کوتاه‌شدهٔ دارای آپاستروف و علامت سؤال بنویس."
+    },
+    "sourceOrder": 31
+  },
+  {
+    "sourceRow": 34,
+    "entryId": "it-a1-l01-034",
+    "lemma": "dialogo",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ گفت‌وگو یا مکالمه را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "dialogo"
+    ],
+    "cloze": {
+      "sentence": "Leggiamo un ___ molto breve.",
+      "translationFa": "یک گفت‌وگوی خیلی کوتاه می‌خوانیم.",
+      "acceptedAnswers": [
+        "dialogo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ گفت‌وگو یا مکالمه را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 6,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 35,
+    "entryId": "it-a1-l01-035",
+    "lemma": "domanda",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ «پرسش؛ سؤال» را به صورت مفرد و بدون آرتیکل بنویس؛ پاسخ منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "domanda"
+    ],
+    "cloze": {
+      "sentence": "Ho una ___ per il professore.",
+      "translationFa": "من یک سؤال از استاد دارم.",
+      "acceptedAnswers": [
+        "domanda"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «پرسش؛ سؤال» را به صورت مفرد و بدون آرتیکل بنویس؛ پاسخ منظور نیست."
+    },
+    "sourceOrder": 59,
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است. صورت پایهٔ مفرد برای آموزش ثبت شده است؛ متن منبع ممکن است آرتیکل نامعین، صورت ترکیبی یا جمع را داشته باشد."
+    }
+  },
+  {
+    "sourceRow": 36,
+    "entryId": "it-a1-l01-036",
+    "lemma": "dottore",
+    "partOfSpeech": "noun",
+    "cueFa": "عنوانِ خطاب «دکتر» را به صورت کاملِ مفرد و بدون آرتیکل بنویس؛ شکل کوتاهِ پیش از نام خانوادگی منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "dottore"
+    ],
+    "cloze": {
+      "sentence": "Buongiorno, ___. Mi chiamo Luca.",
+      "translationFa": "صبح بخیر، دکتر. اسم من لوکا است.",
+      "acceptedAnswers": [
+        "dottore"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عنوانِ خطاب «دکتر» را به صورت کاملِ مفرد و بدون آرتیکل بنویس؛ شکل کوتاهِ پیش از نام خانوادگی منظور نیست."
+    },
+    "sourceOrder": 50,
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است. آرتیکل و جنسیت با شاهد صریح این مدخل تثبیت نشده‌اند؛ تمرین آرتیکل غیرفعال است."
+    }
+  },
+  {
+    "sourceRow": 37,
+    "entryId": "it-a1-l01-037",
+    "lemma": "dove",
+    "partOfSpeech": "adverb",
+    "cueFa": "واژهٔ پرسشیِ یک‌کلمه‌ایِ «کجا» را بنویس؛ حرف اضافهٔ مبدأ اضافه نکن.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "dove"
+    ],
+    "cloze": {
+      "sentence": "___ abiti adesso?",
+      "translationFa": "الان کجا زندگی می‌کنی؟",
+      "acceptedAnswers": [
+        "Dove"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "واژهٔ پرسشیِ یک‌کلمه‌ایِ «کجا» را بنویس؛ حرف اضافهٔ مبدأ اضافه نکن."
+    },
+    "sourceOrder": 53
+  },
+  {
+    "sourceRow": 38,
+    "entryId": "it-a1-l01-038",
+    "lemma": "e",
+    "partOfSpeech": "other",
+    "cueFa": "حرف ربطِ یک‌حرفیِ «و» را بدون اکسان بنویس؛ فعلِ «است» منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "e"
+    ],
+    "cloze": {
+      "sentence": "Marco ___ Sara sono amici.",
+      "translationFa": "مارکو و سارا دوست هستند.",
+      "acceptedAnswers": [
+        "e"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "حرف ربطِ یک‌حرفیِ «و» را بدون اکسان بنویس؛ فعلِ «است» منظور نیست."
+    },
+    "sourceOrder": 7
+  },
+  {
+    "sourceRow": 39,
+    "entryId": "it-a1-l01-039",
+    "lemma": "essere",
+    "partOfSpeech": "verb",
+    "cueFa": "فعلِ «بودن» را در حالت مصدر بنویس؛ شکل صرف‌شدهٔ «هستم» منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "essere"
+    ],
+    "cloze": {
+      "sentence": "Voglio ___ puntuale.",
+      "translationFa": "می‌خواهم وقت‌شناس باشم.",
+      "acceptedAnswers": [
+        "essere"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فعلِ «بودن» را در حالت مصدر بنویس؛ شکل صرف‌شدهٔ «هستم» منظور نیست."
+    },
+    "sourceOrder": 51
+  },
+  {
+    "sourceRow": 40,
+    "entryId": "it-a1-l01-040",
+    "lemma": "francese",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ ملیت فرانسوی را در حالت مفرد بنویس؛ برای مذکر و مؤنث یک شکل دارد.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "francese"
+    ],
+    "cloze": {
+      "sentence": "La mia amica è ___, di Lione.",
+      "translationFa": "دوست من فرانسوی و اهل لیون است.",
+      "acceptedAnswers": [
+        "francese"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ ملیت فرانسوی را در حالت مفرد بنویس؛ برای مذکر و مؤنث یک شکل دارد."
+    },
+    "sourceOrder": 34
+  },
+  {
+    "sourceRow": 41,
+    "entryId": "it-a1-l01-041",
+    "lemma": "indirizzo",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ نشانی یا آدرس را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "indirizzo"
+    ],
+    "cloze": {
+      "sentence": "Scrivo il mio ___ sul foglio.",
+      "translationFa": "نشانی خودم را روی برگه می‌نویسم.",
+      "acceptedAnswers": [
+        "indirizzo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ نشانی یا آدرس را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 38,
+    "nounData": {
+      "article": "l'",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است. آرتیکل l' صورت کوتاه آموزشی است؛ جنسیت مذکر از il Suo indirizzo در متن است، نه از خود l'."
+    }
+  },
+  {
+    "sourceRow": 42,
+    "entryId": "it-a1-l01-042",
+    "lemma": "inglese",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ ملیت انگلیسی را در حالت مفرد بنویس؛ زبان انگلیسی در این سؤال منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "inglese"
+    ],
+    "cloze": {
+      "sentence": "David è ___, di Liverpool.",
+      "translationFa": "دیوید انگلیسی و اهل لیورپول است.",
+      "acceptedAnswers": [
+        "inglese"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ ملیت انگلیسی را در حالت مفرد بنویس؛ زبان انگلیسی در این سؤال منظور نیست."
+    },
+    "sourceOrder": 58
+  },
+  {
+    "sourceRow": 43,
+    "entryId": "it-a1-l01-043",
+    "lemma": "io",
+    "partOfSpeech": "pronoun",
+    "cueFa": "ضمیرِ فاعلیِ «من» را بنویس؛ عبارتِ «من هم» منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "io"
+    ],
+    "cloze": {
+      "sentence": "Tu sei Anna e ___ sono Roberto.",
+      "translationFa": "تو آنا هستی و من روبرتو هستم.",
+      "acceptedAnswers": [
+        "io"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "ضمیرِ فاعلیِ «من» را بنویس؛ عبارتِ «من هم» منظور نیست."
+    },
+    "sourceOrder": 35
+  },
+  {
+    "sourceRow": 44,
+    "entryId": "it-a1-l01-044",
+    "lemma": "irlandese",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ ملیت ایرلندی را در حالت مفرد بنویس؛ برای مذکر و مؤنث یک شکل دارد.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "irlandese"
+    ],
+    "cloze": {
+      "sentence": "Il mio vicino è ___.",
+      "translationFa": "همسایهٔ من ایرلندی است.",
+      "acceptedAnswers": [
+        "irlandese"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ ملیت ایرلندی را در حالت مفرد بنویس؛ برای مذکر و مؤنث یک شکل دارد."
+    },
+    "sourceOrder": 26
+  },
+  {
+    "sourceRow": 45,
+    "entryId": "it-a1-l01-045",
+    "lemma": "italiano",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ ملیت ایتالیایی را برای یک مرد، به صورت مذکر مفرد بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "italiano"
+    ],
+    "cloze": {
+      "sentence": "Paolo è ___, di Venezia.",
+      "translationFa": "پائولو ایتالیایی و اهل ونیز است.",
+      "acceptedAnswers": [
+        "italiano"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ ملیت ایتالیایی را برای یک مرد، به صورت مذکر مفرد بنویس."
+    },
+    "sourceOrder": 28
+  },
+  {
+    "sourceRow": 46,
+    "entryId": "it-a1-l01-046",
+    "lemma": "leggere",
+    "partOfSpeech": "verb",
+    "cueFa": "فعلِ «خواندنِ متن» را در حالت مصدر بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "leggere"
+    ],
+    "cloze": {
+      "sentence": "Mi piace ___ un libro la sera.",
+      "translationFa": "دوست دارم شب‌ها کتاب بخوانم.",
+      "acceptedAnswers": [
+        "leggere"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فعلِ «خواندنِ متن» را در حالت مصدر بنویس."
+    },
+    "sourceOrder": 5
+  },
+  {
+    "sourceRow": 47,
+    "entryId": "it-a1-l01-047",
+    "lemma": "Lei",
+    "partOfSpeech": "pronoun",
+    "cueFa": "ضمیر خطاب محترمانهٔ «شما» برای یک نفر را با حرف اول بزرگ بنویس؛ ضمیرِ «او، زن» منظور نیست.",
+    "caseSensitive": true,
+    "acceptedAnswers": [
+      "Lei"
+    ],
+    "cloze": {
+      "sentence": "Scusi, ___ parla italiano?",
+      "translationFa": "ببخشید، آیا شما ایتالیایی صحبت می‌کنید؟",
+      "acceptedAnswers": [
+        "Lei"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "ضمیر خطاب محترمانهٔ «شما» برای یک نفر را با حرف اول بزرگ بنویس؛ ضمیرِ «او، زن» منظور نیست."
+    },
+    "sourceOrder": 10
+  },
+  {
+    "sourceRow": 48,
+    "entryId": "it-a1-l01-048",
+    "lemma": "lei",
+    "partOfSpeech": "pronoun",
+    "cueFa": "ضمیرِ سوم‌شخصِ «او» برای زن را با حروف کوچک بنویس؛ خطاب محترمانه منظور نیست.",
+    "caseSensitive": true,
+    "acceptedAnswers": [
+      "lei"
+    ],
+    "cloze": {
+      "sentence": "Lui è Luca e ___ è Sofia.",
+      "translationFa": "آن آقا لوکا است و آن خانم سوفیا است.",
+      "acceptedAnswers": [
+        "lei"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "ضمیرِ سوم‌شخصِ «او» برای زن را با حروف کوچک بنویس؛ خطاب محترمانه منظور نیست."
+    },
+    "sourceOrder": 61
+  },
+  {
+    "sourceRow": 49,
+    "entryId": "it-a1-l01-049",
+    "lemma": "lezione",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ یک جلسهٔ درس را به صورت مفرد و بدون آرتیکل بنویس؛ دورهٔ کامل منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "lezione"
+    ],
+    "cloze": {
+      "sentence": "La ___ finisce alle dieci.",
+      "translationFa": "درس ساعت ده تمام می‌شود.",
+      "acceptedAnswers": [
+        "lezione"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ یک جلسهٔ درس را به صورت مفرد و بدون آرتیکل بنویس؛ دورهٔ کامل منظور نیست."
+    },
+    "sourceOrder": 74,
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است. صورت پایهٔ مفرد برای آموزش ثبت شده است؛ متن منبع ممکن است آرتیکل نامعین، صورت ترکیبی یا جمع را داشته باشد."
+    }
+  },
+  {
+    "sourceRow": 50,
+    "entryId": "it-a1-l01-050",
+    "lemma": "lui",
+    "partOfSpeech": "pronoun",
+    "cueFa": "ضمیرِ سوم‌شخصِ «او» برای مرد را بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "lui"
+    ],
+    "cloze": {
+      "sentence": "Questo è mio fratello: ___ studia a Roma.",
+      "translationFa": "این برادر من است؛ او در رم درس می‌خواند.",
+      "acceptedAnswers": [
+        "lui"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "ضمیرِ سوم‌شخصِ «او» برای مرد را بنویس."
+    },
+    "sourceOrder": 60
+  },
+  {
+    "sourceRow": 51,
+    "entryId": "it-a1-l01-051",
+    "lemma": "ma",
+    "partOfSpeech": "other",
+    "cueFa": "حرف ربطِ دوحرفیِ «اما؛ ولی» را بنویس؛ قیدِ اکسان‌دارِ «بااین‌حال» منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "ma"
+    ],
+    "cloze": {
+      "sentence": "Sono stanco, ___ studio ancora un po’.",
+      "translationFa": "خسته هستم، اما کمی دیگر درس می‌خوانم.",
+      "acceptedAnswers": [
+        "ma"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "حرف ربطِ دوحرفیِ «اما؛ ولی» را بنویس؛ قیدِ اکسان‌دارِ «بااین‌حال» منظور نیست."
+    },
+    "sourceOrder": 63
+  },
+  {
+    "sourceRow": 52,
+    "entryId": "it-a1-l01-052",
+    "lemma": "mi chiamo",
+    "partOfSpeech": "phrase",
+    "cueFa": "عبارت دوواژه‌ایِ معرفی نامِ خودت را بنویس؛ نام شخص و سه‌نقطه را اضافه نکن.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "mi chiamo"
+    ],
+    "cloze": {
+      "sentence": "Ciao, ___ Laura Bassi.",
+      "translationFa": "سلام، اسم من لائورا باسی است.",
+      "acceptedAnswers": [
+        "mi chiamo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت دوواژه‌ایِ معرفی نامِ خودت را بنویس؛ نام شخص و سه‌نقطه را اضافه نکن."
+    },
+    "sourceOrder": 13
+  },
+  {
+    "sourceRow": 53,
+    "entryId": "it-a1-l01-053",
+    "lemma": "nazionalità",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ ملیت را به صورت مفرد و بدون آرتیکل بنویس؛ اکسانِ پایان واژه را حفظ کن.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "nazionalità"
+    ],
+    "cloze": {
+      "sentence": "La mia ___ è italiana.",
+      "translationFa": "ملیت من ایتالیایی است.",
+      "acceptedAnswers": [
+        "nazionalità"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ ملیت را به صورت مفرد و بدون آرتیکل بنویس؛ اکسانِ پایان واژه را حفظ کن."
+    },
+    "sourceOrder": 32,
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است. صورت پایهٔ مفرد برای آموزش ثبت شده است؛ متن منبع ممکن است آرتیکل نامعین، صورت ترکیبی یا جمع را داشته باشد."
+    }
+  },
+  {
+    "sourceRow": 54,
+    "entryId": "it-a1-l01-054",
+    "lemma": "no",
+    "partOfSpeech": "other",
+    "cueFa": "پاسخِ منفیِ مستقلِ «نه؛ خیر» را بنویس؛ نشانهٔ منفی‌کردن فعل منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "no"
+    ],
+    "cloze": {
+      "sentence": "Vuoi un tè? ___, grazie.",
+      "translationFa": "چای می‌خواهی؟ نه، ممنون.",
+      "acceptedAnswers": [
+        "No"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پاسخِ منفیِ مستقلِ «نه؛ خیر» را بنویس؛ نشانهٔ منفی‌کردن فعل منظور نیست."
+    },
+    "sourceOrder": 25
+  },
+  {
+    "sourceRow": 55,
+    "entryId": "it-a1-l01-055",
+    "lemma": "nome",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ نام کوچک را به صورت مفرد و بدون آرتیکل بنویس؛ نام خانوادگی منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "nome"
+    ],
+    "cloze": {
+      "sentence": "Il tuo ___ è molto bello.",
+      "translationFa": "اسم تو خیلی زیبا است.",
+      "acceptedAnswers": [
+        "nome"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ نام کوچک را به صورت مفرد و بدون آرتیکل بنویس؛ نام خانوادگی منظور نیست."
+    },
+    "sourceOrder": 17,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 56,
+    "entryId": "it-a1-l01-056",
+    "lemma": "non",
+    "partOfSpeech": "adverb",
+    "cueFa": "نشانهٔ منفی‌کردنِ فعل را بنویس؛ پاسخ مستقلِ «نه» منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "non"
+    ],
+    "cloze": {
+      "sentence": "Oggi ___ ho tempo.",
+      "translationFa": "امروز وقت ندارم.",
+      "acceptedAnswers": [
+        "non"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نشانهٔ منفی‌کردنِ فعل را بنویس؛ پاسخ مستقلِ «نه» منظور نیست."
+    },
+    "sourceOrder": 49
+  },
+  {
+    "sourceRow": 57,
+    "entryId": "it-a1-l01-057",
+    "lemma": "numero",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ «عدد؛ شماره» را به صورت مفرد و بدون آرتیکل بنویس؛ عبارت شمارهٔ تلفن را کامل ننویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "numero"
+    ],
+    "cloze": {
+      "sentence": "Il ___ della mia casa è venti.",
+      "translationFa": "شمارهٔ خانهٔ من بیست است.",
+      "acceptedAnswers": [
+        "numero"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «عدد؛ شماره» را به صورت مفرد و بدون آرتیکل بنویس؛ عبارت شمارهٔ تلفن را کامل ننویس."
+    },
+    "sourceOrder": 46,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 58,
+    "entryId": "it-a1-l01-058",
+    "lemma": "numero di telefono",
+    "partOfSpeech": "noun",
+    "cueFa": "گروه اسمیِ سه‌واژه‌ایِ «شمارهٔ تلفن» را بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "numero di telefono"
+    ],
+    "cloze": {
+      "sentence": "Ho il tuo ___ sul cellulare.",
+      "translationFa": "شمارهٔ تلفن تو را در تلفن همراهم دارم.",
+      "acceptedAnswers": [
+        "numero di telefono"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "گروه اسمیِ سه‌واژه‌ایِ «شمارهٔ تلفن» را بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 57,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 59,
+    "entryId": "it-a1-l01-059",
+    "lemma": "Paese",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ کشور را به صورت مفرد و بدون آرتیکل بنویس؛ نام یک کشور خاص را ننویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "Paese"
+    ],
+    "cloze": {
+      "sentence": "Il mio ___ è molto piccolo.",
+      "translationFa": "کشور من خیلی کوچک است.",
+      "acceptedAnswers": [
+        "Paese"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ کشور را به صورت مفرد و بدون آرتیکل بنویس؛ نام یک کشور خاص را ننویس."
+    },
+    "sourceOrder": 78,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است. صورت پایهٔ مفرد برای آموزش ثبت شده است؛ متن منبع ممکن است آرتیکل نامعین، صورت ترکیبی یا جمع را داشته باشد."
+    }
+  },
+  {
+    "sourceRow": 60,
+    "entryId": "it-a1-l01-060",
+    "lemma": "parola",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ یک واژه یا کلمه را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "parola"
+    ],
+    "cloze": {
+      "sentence": "Questa ___ è nuova per me.",
+      "translationFa": "این واژه برای من جدید است.",
+      "acceptedAnswers": [
+        "parola"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ یک واژه یا کلمه را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 80,
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 61,
+    "entryId": "it-a1-l01-061",
+    "lemma": "però",
+    "partOfSpeech": "other",
+    "cueFa": "واژهٔ «اما؛ بااین‌حال» را با اکسان روی حرف آخر بنویس؛ حرف ربطِ دوحرفی منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "però"
+    ],
+    "cloze": {
+      "sentence": "Il libro è piccolo, ___ è utile.",
+      "translationFa": "کتاب کوچک است، اما مفید است.",
+      "acceptedAnswers": [
+        "però"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "واژهٔ «اما؛ بااین‌حال» را با اکسان روی حرف آخر بنویس؛ حرف ربطِ دوحرفی منظور نیست."
+    },
+    "sourceOrder": 39
+  },
+  {
+    "sourceRow": 62,
+    "entryId": "it-a1-l01-062",
+    "lemma": "persona",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ شخص یا فرد را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "persona"
+    ],
+    "cloze": {
+      "sentence": "C’è una ___ davanti alla porta.",
+      "translationFa": "یک نفر جلوی در است.",
+      "acceptedAnswers": [
+        "persona"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ شخص یا فرد را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 79,
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است. صورت پایهٔ مفرد برای آموزش ثبت شده است؛ متن منبع ممکن است آرتیکل نامعین، صورت ترکیبی یا جمع را داشته باشد."
+    }
+  },
+  {
+    "sourceRow": 63,
+    "entryId": "it-a1-l01-063",
+    "lemma": "piacere!",
+    "partOfSpeech": "phrase",
+    "cueFa": "عبارت تک‌واژه‌ایِ خوشوقتی از آشنایی را با ! بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "piacere!"
+    ],
+    "cloze": {
+      "sentence": "Sono Lucia, ___",
+      "translationFa": "من لوچیا هستم، از آشنایی خوشوقتم!",
+      "acceptedAnswers": [
+        "piacere!"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت تک‌واژه‌ایِ خوشوقتی از آشنایی را با ! بنویس."
+    },
+    "sourceOrder": 8
+  },
+  {
+    "sourceRow": 64,
+    "entryId": "it-a1-l01-064",
+    "lemma": "portoghese",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ ملیت پرتغالی را در حالت مفرد بنویس؛ برای مذکر و مؤنث یک شکل دارد.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "portoghese"
+    ],
+    "cloze": {
+      "sentence": "Miguel è ___, di Lisbona.",
+      "translationFa": "میگل پرتغالی و اهل لیسبون است.",
+      "acceptedAnswers": [
+        "portoghese"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ ملیت پرتغالی را در حالت مفرد بنویس؛ برای مذکر و مؤنث یک شکل دارد."
+    },
+    "sourceOrder": 84
+  },
+  {
+    "sourceRow": 65,
+    "entryId": "it-a1-l01-065",
+    "lemma": "professore",
+    "partOfSpeech": "noun",
+    "cueFa": "عنوانِ استاد یا معلم مرد را به صورت کاملِ مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "professore"
+    ],
+    "cloze": {
+      "sentence": "Scusi, ___, ho una domanda.",
+      "translationFa": "ببخشید، استاد، یک سؤال دارم.",
+      "acceptedAnswers": [
+        "professore"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عنوانِ استاد یا معلم مرد را به صورت کاملِ مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 4,
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است. آرتیکل و جنسیت با شاهد صریح این مدخل تثبیت نشده‌اند؛ تمرین آرتیکل غیرفعال است."
+    }
+  },
+  {
+    "sourceRow": 66,
+    "entryId": "it-a1-l01-066",
+    "lemma": "qual è il Suo indirizzo?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش کاملِ نشانیِ مخاطب محترمانه را بنویس؛ حرف «اِس» صفت ملکی بزرگ باشد و سؤال با علامت سؤال ایتالیایی پایان یابد.",
+    "caseSensitive": true,
+    "acceptedAnswers": [
+      "qual è il Suo indirizzo?",
+      "Qual è il Suo indirizzo?"
+    ],
+    "cloze": {
+      "sentence": "Scusi, signora, ___",
+      "translationFa": "ببخشید خانم، نشانی شما چیست؟",
+      "acceptedAnswers": [
+        "qual è il Suo indirizzo?",
+        "Qual è il Suo indirizzo?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش کاملِ نشانیِ مخاطب محترمانه را بنویس؛ حرف «اِس» صفت ملکی بزرگ باشد و سؤال با علامت سؤال ایتالیایی پایان یابد."
+    },
+    "sourceOrder": 36
+  },
+  {
+    "sourceRow": 67,
+    "entryId": "it-a1-l01-067",
+    "lemma": "qual è il tuo numero di telefono?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش کاملِ شمارهٔ تلفن با صفت ملکیِ خودمانی و علامت سؤال ایتالیایی را بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "qual è il tuo numero di telefono?"
+    ],
+    "cloze": {
+      "sentence": "Luca, ___",
+      "translationFa": "لوکا، شمارهٔ تلفن تو چیست؟",
+      "acceptedAnswers": [
+        "qual è il tuo numero di telefono?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش کاملِ شمارهٔ تلفن با صفت ملکیِ خودمانی و علامت سؤال ایتالیایی را بنویس."
+    },
+    "sourceOrder": 55
+  },
+  {
+    "sourceRow": 68,
+    "entryId": "it-a1-l01-068",
+    "lemma": "qual è",
+    "partOfSpeech": "phrase",
+    "cueFa": "فقط آغازِ دوواژه‌ایِ پرسش «… چیست؟» را بنویس؛ اکسان را حفظ کن و بعد از واژهٔ اول آپاستروف نگذار.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "qual è"
+    ],
+    "cloze": {
+      "sentence": "___ il nome della scuola?",
+      "translationFa": "نام مدرسه چیست؟",
+      "acceptedAnswers": [
+        "Qual è"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فقط آغازِ دوواژه‌ایِ پرسش «… چیست؟» را بنویس؛ اکسان را حفظ کن و بعد از واژهٔ اول آپاستروف نگذار."
+    },
+    "sourceOrder": 54
+  },
+  {
+    "sourceRow": 69,
+    "entryId": "it-a1-l01-069",
+    "lemma": "ripetere",
+    "partOfSpeech": "verb",
+    "cueFa": "فعلِ «تکرارکردن» را در حالت مصدر بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "ripetere"
+    ],
+    "cloze": {
+      "sentence": "Puoi ___ la domanda, per favore?",
+      "translationFa": "می‌توانی لطفاً سؤال را تکرار کنی؟",
+      "acceptedAnswers": [
+        "ripetere"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فعلِ «تکرارکردن» را در حالت مصدر بنویس."
+    },
+    "sourceOrder": 19
+  },
+  {
+    "sourceRow": 70,
+    "entryId": "it-a1-l01-070",
+    "lemma": "risposta",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ پاسخ یا جواب را به صورت مفرد و بدون آرتیکل بنویس؛ پرسش منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "risposta"
+    ],
+    "cloze": {
+      "sentence": "La tua ___ è giusta.",
+      "translationFa": "پاسخ تو درست است.",
+      "acceptedAnswers": [
+        "risposta"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ پاسخ یا جواب را به صورت مفرد و بدون آرتیکل بنویس؛ پرسش منظور نیست."
+    },
+    "sourceOrder": 81,
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است. صورت پایهٔ مفرد برای آموزش ثبت شده است؛ متن منبع ممکن است آرتیکل نامعین، صورت ترکیبی یا جمع را داشته باشد."
+    }
+  },
+  {
+    "sourceRow": 71,
+    "entryId": "it-a1-l01-071",
+    "lemma": "salutare",
+    "partOfSpeech": "verb",
+    "cueFa": "فعلِ سلام‌کردن یا خداحافظی‌کردن را در حالت مصدر بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "salutare"
+    ],
+    "cloze": {
+      "sentence": "Prima di andare via, voglio ___ tutti.",
+      "translationFa": "پیش از رفتن می‌خواهم با همه خداحافظی کنم.",
+      "acceptedAnswers": [
+        "salutare"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فعلِ سلام‌کردن یا خداحافظی‌کردن را در حالت مصدر بنویس."
+    },
+    "sourceOrder": 75
+  },
+  {
+    "sourceRow": 72,
+    "entryId": "it-a1-l01-072",
+    "lemma": "saluto",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ مفردِ «عبارت سلام یا خداحافظی» را بدون آرتیکل بنویس؛ فعلِ سلام‌کردن منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "saluto"
+    ],
+    "cloze": {
+      "sentence": "Questo è un ___ informale.",
+      "translationFa": "این یک عبارت سلام یا خداحافظیِ خودمانی است.",
+      "acceptedAnswers": [
+        "saluto"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ مفردِ «عبارت سلام یا خداحافظی» را بدون آرتیکل بنویس؛ فعلِ سلام‌کردن منظور نیست."
+    },
+    "sourceOrder": 65,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است. صورت پایهٔ مفرد برای آموزش ثبت شده است؛ متن منبع ممکن است آرتیکل نامعین، صورت ترکیبی یا جمع را داشته باشد."
+    }
+  },
+  {
+    "sourceRow": 73,
+    "entryId": "it-a1-l01-073",
+    "lemma": "salve!",
+    "partOfSpeech": "phrase",
+    "cueFa": "سلامِ تک‌واژه‌ایِ این درس که از سلام خودمانی رسمی‌تر است را با علامت تعجب بنویس؛ سلام مخصوص صبح یا عصر منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "salve!"
+    ],
+    "cloze": {
+      "sentence": "Il nuovo vicino entra: «___».",
+      "translationFa": "همسایهٔ جدید وارد می‌شود: «سلام!»",
+      "acceptedAnswers": [
+        "Salve!"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "سلامِ تک‌واژه‌ایِ این درس که از سلام خودمانی رسمی‌تر است را با علامت تعجب بنویس؛ سلام مخصوص صبح یا عصر منظور نیست."
+    },
+    "sourceOrder": 67
+  },
+  {
+    "sourceRow": 74,
+    "entryId": "it-a1-l01-074",
+    "lemma": "scrivere",
+    "partOfSpeech": "verb",
+    "cueFa": "فعلِ نوشتن را در حالت مصدر بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "scrivere"
+    ],
+    "cloze": {
+      "sentence": "Voglio ___ il mio nome sul quaderno.",
+      "translationFa": "می‌خواهم نامم را روی دفتر بنویسم.",
+      "acceptedAnswers": [
+        "scrivere"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فعلِ نوشتن را در حالت مصدر بنویس."
+    },
+    "sourceOrder": 24
+  },
+  {
+    "sourceRow": 75,
+    "entryId": "it-a1-l01-075",
+    "lemma": "scusa",
+    "partOfSpeech": "phrase",
+    "cueFa": "فقط واژهٔ عذرخواهیِ خودمانی را بنویس؛ پرسش درخواست تکرار یا صورت محترمانه را ننویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "scusa"
+    ],
+    "cloze": {
+      "sentence": "___, questo posto è libero?",
+      "translationFa": "ببخشید، این جا خالی است؟",
+      "acceptedAnswers": [
+        "Scusa"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فقط واژهٔ عذرخواهیِ خودمانی را بنویس؛ پرسش درخواست تکرار یا صورت محترمانه را ننویس."
+    },
+    "sourceOrder": 45
+  },
+  {
+    "sourceRow": 76,
+    "entryId": "it-a1-l01-076",
+    "lemma": "scusi",
+    "partOfSpeech": "phrase",
+    "cueFa": "فقط واژهٔ عذرخواهیِ محترمانه را بنویس؛ پرسش درخواست تکرار یا صورت خودمانی را ننویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "scusi"
+    ],
+    "cloze": {
+      "sentence": "___, dov’è la stazione?",
+      "translationFa": "ببخشید، ایستگاه کجا است؟",
+      "acceptedAnswers": [
+        "Scusi"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فقط واژهٔ عذرخواهیِ محترمانه را بنویس؛ پرسش درخواست تکرار یا صورت خودمانی را ننویس."
+    },
+    "sourceOrder": 9
+  },
+  {
+    "sourceRow": 77,
+    "entryId": "it-a1-l01-077",
+    "lemma": "sì",
+    "partOfSpeech": "other",
+    "cueFa": "واژهٔ پاسخ مثبتِ «بله» را با اکسان بنویس؛ صورت بدون اکسان درست نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "sì"
+    ],
+    "cloze": {
+      "sentence": "Sei pronto? ___, possiamo cominciare.",
+      "translationFa": "آماده‌ای؟ بله، می‌توانیم شروع کنیم.",
+      "acceptedAnswers": [
+        "Sì"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "واژهٔ پاسخ مثبتِ «بله» را با اکسان بنویس؛ صورت بدون اکسان درست نیست."
+    },
+    "sourceOrder": 16
+  },
+  {
+    "sourceRow": 78,
+    "entryId": "it-a1-l01-078",
+    "lemma": "signora",
+    "partOfSpeech": "noun",
+    "cueFa": "عنوانِ خانم را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "signora"
+    ],
+    "cloze": {
+      "sentence": "La ___ Rossi è molto gentile.",
+      "translationFa": "خانم روسی خیلی مهربان است.",
+      "acceptedAnswers": [
+        "signora"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عنوانِ خانم را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 15,
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 79,
+    "entryId": "it-a1-l01-079",
+    "lemma": "signore",
+    "partOfSpeech": "noun",
+    "cueFa": "عنوانِ آقا را به صورت کاملِ مفرد و بدون آرتیکل بنویس؛ صورت کوتاه پیش از نام خانوادگی منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "signore"
+    ],
+    "cloze": {
+      "sentence": "Il ___ vicino alla finestra è mio zio.",
+      "translationFa": "آن آقایی که کنار پنجره است، عموی من است.",
+      "acceptedAnswers": [
+        "signore"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عنوانِ آقا را به صورت کاملِ مفرد و بدون آرتیکل بنویس؛ صورت کوتاه پیش از نام خانوادگی منظور نیست."
+    },
+    "sourceOrder": 48,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع در گزیدهٔ بررسی‌شده ثبت نشده است؛ صورت جمع حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 80,
+    "entryId": "it-a1-l01-080",
+    "lemma": "spagnolo",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ ملیت اسپانیایی را برای یک مرد، به صورت مذکر مفرد بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "spagnolo"
+    ],
+    "cloze": {
+      "sentence": "Javier è ___, di Madrid.",
+      "translationFa": "خاویر اسپانیایی و اهل مادرید است.",
+      "acceptedAnswers": [
+        "spagnolo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ ملیت اسپانیایی را برای یک مرد، به صورت مذکر مفرد بنویس."
+    },
+    "sourceOrder": 82
+  },
+  {
+    "sourceRow": 81,
+    "entryId": "it-a1-l01-081",
+    "lemma": "il Suo",
+    "partOfSpeech": "phrase",
+    "cueFa": "ترکیب ملکیِ محترمانهٔ همراه اسم مذکر مفرد را با حرف تعریف و حرف «اِس» بزرگ بنویس؛ ضمیرِ تنها منظور نیست.",
+    "caseSensitive": true,
+    "acceptedAnswers": [
+      "il Suo",
+      "Il Suo"
+    ],
+    "cloze": {
+      "sentence": "È questo ___ quaderno, signore?",
+      "translationFa": "آقا، آیا این دفتر شما است؟",
+      "acceptedAnswers": [
+        "il Suo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "ترکیب ملکیِ محترمانهٔ همراه اسم مذکر مفرد را با حرف تعریف و حرف «اِس» بزرگ بنویس؛ ضمیرِ تنها منظور نیست."
+    },
+    "sourceOrder": 37
+  },
+  {
+    "sourceRow": 82,
+    "entryId": "it-a1-l01-082",
+    "lemma": "svizzero",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ ملیت سوئیسی را برای یک مرد، به صورت مذکر مفرد بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "svizzero"
+    ],
+    "cloze": {
+      "sentence": "Luca è ___, di Lugano.",
+      "translationFa": "لوکا سوئیسی و اهل لوگانو است.",
+      "acceptedAnswers": [
+        "svizzero"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ ملیت سوئیسی را برای یک مرد، به صورت مذکر مفرد بنویس."
+    },
+    "sourceOrder": 83
+  },
+  {
+    "sourceRow": 83,
+    "entryId": "it-a1-l01-083",
+    "lemma": "tedesco",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ ملیت آلمانی را برای یک مرد، به صورت مذکر مفرد بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "tedesco"
+    ],
+    "cloze": {
+      "sentence": "Felix è ___, di Amburgo.",
+      "translationFa": "فلیکس آلمانی و اهل هامبورگ است.",
+      "acceptedAnswers": [
+        "tedesco"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ ملیت آلمانی را برای یک مرد، به صورت مذکر مفرد بنویس."
+    },
+    "sourceOrder": 27
+  },
+  {
+    "sourceRow": 84,
+    "entryId": "it-a1-l01-084",
+    "lemma": "tu",
+    "partOfSpeech": "pronoun",
+    "cueFa": "ضمیرِ فاعلیِ خطاب خودمانی به یک نفر را بنویس؛ خطاب محترمانه منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "tu"
+    ],
+    "cloze": {
+      "sentence": "Io vado a casa, e ___?",
+      "translationFa": "من به خانه می‌روم؛ و تو؟",
+      "acceptedAnswers": [
+        "tu"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "ضمیرِ فاعلیِ خطاب خودمانی به یک نفر را بنویس؛ خطاب محترمانه منظور نیست."
+    },
+    "sourceOrder": 29
+  },
+  {
+    "sourceRow": 85,
+    "entryId": "it-a1-l01-085",
+    "lemma": "il tuo",
+    "partOfSpeech": "phrase",
+    "cueFa": "ترکیب ملکیِ خودمانیِ همراه اسم مذکر مفرد را با حرف تعریف بنویس؛ ضمیرِ تنها منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "il tuo"
+    ],
+    "cloze": {
+      "sentence": "Questo è ___ libro?",
+      "translationFa": "آیا این کتاب تو است؟",
+      "acceptedAnswers": [
+        "il tuo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "ترکیب ملکیِ خودمانیِ همراه اسم مذکر مفرد را با حرف تعریف بنویس؛ ضمیرِ تنها منظور نیست."
+    },
+    "sourceOrder": 56
+  }
+]

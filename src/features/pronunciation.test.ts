@@ -1,12 +1,13 @@
 import assert from 'node:assert/strict'
 import { test } from 'node:test'
-import { courseBundle } from '../content/catalog.ts'
-import { createPronunciation, selectGermanVoice, speechMessages, wordPronunciation } from './pronunciation.ts'
+import type { Entry } from '../contracts/index.ts'
+import { lessonOneBundle as fixture } from '../testing/legacy-fixture.ts'
+import { createPronunciation, selectItalianVoice, speechMessages, wordPronunciation } from './pronunciation.ts'
 
 const voice = (lang: string, name = 'device voice') => ({ lang, name } as SpeechSynthesisVoice)
-const german = voice('de-DE')
+const italian = voice('it-IT')
 class MockSynthesis extends EventTarget {
-  voices: SpeechSynthesisVoice[] = [voice('en-US'), voice('de-AT'), german]
+  voices: SpeechSynthesisVoice[] = [voice('en-US'), voice('it_CH'), italian]
   spoken: SpeechSynthesisUtterance[] = []
   cancellations = 0
   failure = false
@@ -28,76 +29,90 @@ function setup() {
   return { synthesis, environment, playback: createPronunciation(environment) }
 }
 
-test('speaks only stored German, noun with its known article and complete separable infinitive', () => {
+const noun: Entry = { ...fixture.entries[0], lemma: 'casa', partOfSpeech: 'noun', nounData: {
+  article: 'la', gender: 'feminine', number: 'singular', plural: null, pluralNote: 'دادهٔ ساختگی آزمون' }, }
+const verb: Entry = { ...fixture.entries[0], lemma: 'chiamarsi', partOfSpeech: 'verb', nounData: undefined }
+
+test('speaks only stored Italian, noun with its known article and complete reflexive infinitive', () => {
   const { synthesis, playback } = setup()
-  const noun = courseBundle.entries.find(entry => entry.lemma === 'Anmeldung')!
-  const verb = courseBundle.entries.find(entry => entry.lemma === 'fernsehen')!
-  assert.ok(noun && verb, 'use existing vocabulary data')
-  assert.equal(wordPronunciation(noun), 'die Anmeldung')
-  assert.equal(wordPronunciation(verb), 'fernsehen')
+  assert.equal(wordPronunciation(noun), 'la casa')
+  assert.equal(wordPronunciation(verb), 'chiamarsi')
   playback.toggle('noun', 'card', wordPronunciation(noun))
   const utterance = synthesis.spoken[0]
-  assert.equal(utterance.text, 'die Anmeldung')
-  assert.equal(utterance.voice, german)
-  assert.equal(utterance.lang, 'de-DE')
+  assert.equal(utterance.text, 'la casa')
+  assert.equal(utterance.voice, italian)
+  assert.equal(utterance.lang, 'it-IT')
   playback.toggle('verb', 'card', wordPronunciation(verb))
-  assert.equal(synthesis.spoken[1].text, 'fernsehen')
+  assert.equal(synthesis.spoken[1].text, 'chiamarsi')
   assert.equal(synthesis.cancellations, 1)
 })
 
-test('voice selection prefers de-DE, then any German language tag, and never a non-German default', () => {
-  const austrian = voice('de-AT')
-  assert.equal(selectGermanVoice([voice('en-US'), austrian, german]), german)
-  assert.equal(selectGermanVoice([voice('en-US'), austrian]), austrian)
-  assert.equal(selectGermanVoice([voice('DE_de')])?.lang, 'DE_de')
-  assert.equal(selectGermanVoice([voice('en-US'), voice('den')]), undefined)
+test('elided articles join the word without a space and never determine its stored gender', () => {
+  const masculine: Entry = { ...noun, lemma: 'amico', nounData: { ...noun.nounData!, article: "l'", gender: 'masculine' } }
+  const feminine: Entry = { ...noun, lemma: 'amica', nounData: { ...noun.nounData!, article: "l'", gender: 'feminine' } }
+  assert.equal(wordPronunciation(masculine), "l'amico")
+  assert.equal(wordPronunciation(feminine), "l'amica")
+  assert.equal(masculine.nounData!.gender, 'masculine')
+  assert.equal(feminine.nounData!.gender, 'feminine')
+  assert.equal(wordPronunciation({ ...noun, lemma: 'cognome', nounData: { ...noun.nounData!, article: null, gender: null } }), 'cognome')
+  for (const article of ['i', 'gli', 'le'] as const) {
+    assert.equal(wordPronunciation({ ...noun, lemma: 'forme', nounData: { ...noun.nounData!, article, number: 'plural' } }), `${article} forme`)
+  }
+})
+
+test('voice selection prefers it-IT, then any Italian language tag, and never a non-Italian default', () => {
+  const swiss = voice('it_CH')
+  assert.equal(selectItalianVoice([voice('en-US'), swiss, italian]), italian)
+  assert.equal(selectItalianVoice([voice('en-US'), swiss]), swiss)
+  assert.equal(selectItalianVoice([voice('IT_it')])?.lang, 'IT_it')
+  assert.equal(selectItalianVoice([voice('en-US'), voice('de-DE'), voice('itn')]), undefined)
   const { playback, synthesis } = setup()
-  synthesis.voices = [austrian]
-  playback.toggle('word', 'card', 'Hallo')
-  assert.equal(synthesis.spoken[0].voice, austrian)
-  assert.equal(synthesis.spoken[0].lang, 'de-AT')
+  synthesis.voices = [swiss]
+  playback.toggle('word', 'card', 'Ciao')
+  assert.equal(synthesis.spoken[0].voice, swiss)
+  assert.equal(synthesis.spoken[0].lang, 'it_CH')
 })
 
 test('late voiceschanged clears missing-voice status without starting audio automatically; cleanup removes listener', () => {
   const { playback, synthesis } = setup()
   synthesis.voices = []
   const disconnect = playback.connect()
-  playback.toggle('word', 'card', 'Hallo')
+  playback.toggle('word', 'card', 'Ciao')
   assert.equal(playback.getSnapshot().message, speechMessages.noVoice)
   assert.equal(synthesis.spoken.length, 0)
-  synthesis.voices = [german]
+  synthesis.voices = [italian]
   synthesis.dispatchEvent(new Event('voiceschanged'))
   assert.equal(playback.getSnapshot().message, null)
   assert.equal(synthesis.spoken.length, 0)
-  playback.toggle('word', 'card', 'Hallo')
-  assert.equal(synthesis.spoken[0].voice, german)
+  playback.toggle('word', 'card', 'Ciao')
+  assert.equal(synthesis.spoken[0].voice, italian)
   disconnect()
   assert.equal(playback.getSnapshot().activeId, null)
   synthesis.voices = []
-  playback.toggle('word', 'card', 'Hallo')
-  synthesis.voices = [german]
+  playback.toggle('word', 'card', 'Ciao')
+  synthesis.voices = [italian]
   synthesis.dispatchEvent(new Event('voiceschanged'))
   assert.equal(playback.getSnapshot().message, speechMessages.noVoice)
 })
 
 test('missing API, missing utterance constructor, and native failures leave playback idle and retryable', () => {
   const unsupported = createPronunciation({})
-  unsupported.toggle('word', 'card', 'Hallo')
+  unsupported.toggle('word', 'card', 'Ciao')
   assert.equal(unsupported.getSnapshot().message, speechMessages.unsupported)
   const { environment, synthesis, playback } = setup()
   const noConstructor = createPronunciation({ synthesis: environment.synthesis })
-  noConstructor.toggle('word', 'card', 'Hallo')
+  noConstructor.toggle('word', 'card', 'Ciao')
   assert.equal(noConstructor.getSnapshot().message, speechMessages.unsupported)
   synthesis.failure = true
-  playback.toggle('word', 'card', 'Hallo')
+  playback.toggle('word', 'card', 'Ciao')
   assert.equal(playback.getSnapshot().activeId, null)
   assert.equal(playback.getSnapshot().message, speechMessages.failed)
   synthesis.failure = false
-  playback.toggle('word', 'card', 'Hallo')
+  playback.toggle('word', 'card', 'Ciao')
   synthesis.spoken[0].onerror?.({ error: 'synthesis-failed' } as SpeechSynthesisErrorEvent)
   assert.equal(playback.getSnapshot().message, speechMessages.failed)
   assert.equal(playback.getSnapshot().activeId, null)
-  playback.toggle('word', 'card', 'Hallo')
+  playback.toggle('word', 'card', 'Ciao')
   assert.equal(playback.getSnapshot().message, null)
   synthesis.spoken[1].onend?.({} as SpeechSynthesisEvent)
   assert.equal(playback.getSnapshot().activeId, null)
@@ -105,7 +120,7 @@ test('missing API, missing utterance constructor, and native failures leave play
 
 test('words and sentences always play at the default rate', () => {
   const { playback, synthesis } = setup()
-  for (const text of ['die Wohnung', 'Wir sehen heute fern.']) {
+  for (const text of ['la casa', 'Oggi leggo una frase.']) {
     playback.toggle(text, 'card', text)
     assert.equal(synthesis.spoken.at(-1)?.rate, 1)
   }
@@ -113,16 +128,16 @@ test('words and sentences always play at the default rate', () => {
 
 test('same button stops; rapid replacement invalidates all old end/error callbacks, including a restarted button', () => {
   const { playback, synthesis } = setup()
-  playback.toggle('word', 'card', 'Hallo')
+  playback.toggle('word', 'card', 'Ciao')
   const first = synthesis.spoken[0]
-  playback.toggle('word', 'card', 'Hallo')
+  playback.toggle('word', 'card', 'Ciao')
   assert.equal(synthesis.spoken.length, 1)
   assert.equal(playback.getSnapshot().activeId, null)
-  playback.toggle('word', 'card', 'Hallo')
+  playback.toggle('word', 'card', 'Ciao')
   first.onend?.({} as SpeechSynthesisEvent)
   first.onerror?.({} as SpeechSynthesisErrorEvent)
   assert.equal(playback.getSnapshot().activeId, 'word')
-  playback.toggle('sentence', 'dialog', 'Wir lesen.')
+  playback.toggle('sentence', 'dialog', 'Leggiamo.')
   synthesis.spoken[1].onend?.({} as SpeechSynthesisEvent)
   synthesis.spoken[1].onerror?.({} as SpeechSynthesisErrorEvent)
   assert.equal(playback.getSnapshot().activeId, 'sentence')
@@ -134,21 +149,21 @@ test('button/surface cleanup only cancels its own audio; global leaving cancels 
   const { playback, synthesis } = setup()
   let updates = 0
   const unsubscribe = playback.subscribe(() => updates++)
-  playback.toggle('example', 'dialog', 'Wir lesen.')
+  playback.toggle('example', 'dialog', 'Leggiamo.')
   playback.stopScope('card')
   playback.stopButton('word')
   assert.equal(synthesis.cancellations, 0)
   playback.stopScope('dialog')
   playback.stopScope('dialog')
   assert.equal(synthesis.cancellations, 1)
-  playback.toggle('word', 'card', 'Hallo')
+  playback.toggle('word', 'card', 'Ciao')
   playback.stopButton('word')
-  playback.toggle('word', 'card', 'Hallo')
+  playback.toggle('word', 'card', 'Ciao')
   playback.stop()
   playback.stop()
   assert.equal(synthesis.cancellations, 3)
   assert.equal(updates, 6)
   unsubscribe()
-  playback.toggle('word', 'card', 'Hallo')
+  playback.toggle('word', 'card', 'Ciao')
   assert.equal(updates, 6)
 })

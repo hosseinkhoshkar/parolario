@@ -1,7 +1,8 @@
+import { hasArticle, articleOptions } from './articles.ts'
 import { NORMALIZATION_VERSION, POLICY_VERSION, SCHEMA_VERSION, TARGET_ACTIVE_MS } from '../contracts/index.ts'
 import type {
   AppState, ContentBundle, Entry, EntryProgress, EntryStatus, HomeStats,
-  LearningCommand, LessonDefinition, Session, SessionSummary, SessionTask,
+  LearningCommand, LessonDefinition, Session, SessionSummary, SessionTask, ItalianArticle,
 } from '../contracts/index.ts'
 import { applySchedule, createProgress, isDue, isStabilized } from './schedule.ts'
 import { initializeReverseProgress, mixReverseCards, reverseStudyDate, scheduleReverseReview, selectReverseEntries, REVERSE_ACTIVATION_COUNT } from './reverse.ts'
@@ -115,8 +116,8 @@ function queueNewEntryPractice(session: Session, entry: Entry, seed: number): vo
       optionIds: shuffled(entry.meaningOptionEntryIds, seed + entry.introductionOrder) },
     ...writtenTasks,
   )
-  if (entry.partOfSpeech === 'noun' && entry.nounData) session.queue.push({ taskId: `${prefix}:article`,
-    kind: 'choose-article', entryId: entry.entryId, options: shuffled(['der', 'die', 'das'] as const, seed + entry.introductionOrder + 1) })
+  if (hasArticle(entry)) session.queue.push({ taskId: `${prefix}:article`,
+    kind: 'choose-article', entryId: entry.entryId, options: shuffled(articleOptions(entry), seed + entry.introductionOrder + 1) })
 }
 
 /** Extra practice is bounded and based on actual skill evidence, never on a time quota. */
@@ -140,11 +141,11 @@ function queueAdaptive(state: AppState, bundle: ContentBundle, seed: number): vo
         entryId: progress.entryId, cycleKind: 'scheduled' })
       added++
     }
-    if (added < 4 && entry.nounData && progress.skills.article
+    if (added < 4 && hasArticle(entry) && progress.skills.article
       && (progress.skills.article.wrong > 0 && progress.skills.article.wrong >= progress.skills.article.unassistedCorrect
         || queuedWriting.has(progress.entryId) && progress.skills.article.unassistedCorrect === 0)) {
       session.queue.push({ taskId: `${session.sessionId}:adaptive-article:${progress.entryId}`, kind: 'choose-article',
-        entryId: progress.entryId, options: shuffled(['der', 'die', 'das'] as const, seed + added) })
+        entryId: progress.entryId, options: shuffled(articleOptions(entry), seed + added) })
       added++
     }
     if (added < 4 && progress.skills.meaning.wrong > 0 && progress.skills.meaning.wrong >= progress.skills.meaning.unassistedCorrect) {
@@ -248,7 +249,7 @@ function markWrong(state: AppState, entryId: string, now: string): void {
 }
 
 function acceptWritten(answers: string[], actual: string, caseSensitive: boolean): boolean {
-  const normalize = (value: string) => caseSensitive ? normalizeAnswer(value) : normalizeAnswer(value).toLocaleLowerCase('de-DE')
+  const normalize = (value: string) => caseSensitive ? normalizeAnswer(value) : normalizeAnswer(value).toLocaleLowerCase('it-IT')
   return answers.some(value => normalize(value) === normalize(actual))
 }
 
@@ -318,7 +319,7 @@ function answer(state: AppState, command: Extract<LearningCommand, { type: 'answ
     if (task.kind === 'choose-meaning' && !task.optionIds.includes(command.answer)) return false
   }
   const entry = entries.get(entryId)!
-  if (task.kind === 'choose-article' && (!entry.nounData || !task.options.includes(command.answer as 'der' | 'die' | 'das'))) return false
+  if (task.kind === 'choose-article' && (!hasArticle(entry) || !task.options.includes(command.answer as ItalianArticle))) return false
   const correct = task.kind === 'cloze' ? acceptWritten(entry.cloze.acceptedAnswers, command.answer, entry.writing.caseSensitive)
     : task.kind === 'write-word' ? acceptWritten(entry.writing.acceptedAnswers, command.answer, entry.writing.caseSensitive)
       : task.kind === 'choose-article' ? command.answer === entry.nounData!.article : command.answer === entryId
