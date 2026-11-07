@@ -30,7 +30,7 @@ test('every new lesson-two row retains its meaning, exact book sample, reference
   const rows = parseItalianSource(readFileSync('reference/vocabulary/italian/Lesson-02-A1.txt','utf8'),'Lesson-02-A1.txt')
   assert.equal(lessonTwoBundle.entries.length,rows.length)
   assert.ok(rows.length>=4)
-  assert.equal(courseBundle.entries.length,85+rows.length)
+  assert.equal(courseBundle.entries.filter(entry => ['it-a1-lesson-01','it-a1-lesson-02'].includes(entry.introducedInLessonId)).length,85+rows.length)
   assert.equal(lessonTwoBundle.lesson.titleIt,'Io e gli altri')
   assert.equal(lessonTwoBundle.lesson.coverage,'partial')
   for (const row of rows) {

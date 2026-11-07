@@ -4,7 +4,7 @@
 
 ## محتوا
 
-Lesson.titleIt و Example.it جای فیلدهای زبان قبلی را گرفته‌اند. lessonIdهای it-a1-lesson-01 و it-a1-lesson-02 و شناسه‌های مدخل it-a1-l01-NNN و it-a1-l02-NNN از شمارهٔ ثابت سطر فایل مرجع می‌آید؛ تغییر مرتب‌سازی نباید شناسه را عوض کند. sourceHeadword/sourceRow متن و شمارهٔ اصلی را حفظ می‌کنند. introductionOrder از صفحهٔ چاپی و رتبهٔ محل منبع می‌آید.
+Lesson.titleIt و Example.it جای فیلدهای زبان قبلی را گرفته‌اند. lessonIdهای it-a1-lesson-01 تا it-a1-lesson-03 و شناسه‌های مدخل it-a1-l01-NNN تا it-a1-l03-NNN از شمارهٔ ثابت سطر فایل مرجع می‌آید؛ تغییر مرتب‌سازی نباید شناسه را عوض کند. sourceHeadword/sourceRow متن و شمارهٔ اصلی را حفظ می‌کنند. introductionOrder از صفحهٔ چاپی و رتبهٔ محل منبع می‌آید.
 
 Entry نقش دستوری، معنی، occurrence و sourceRefIds واقعی دارد. Example.origin برابر quoted یا authored است؛ quoted دارای sourceRefId همان مدخل است. نمونهٔ اول عین گزیدهٔ کتاب، دو نمونهٔ بعد تألیفی‌اند. writing پاسخ معیارِ مدخل و cue فارسی دارد. cloze پاسخ‌های مستقل و cue جدا می‌تواند داشته باشد تا صورت صرف‌شده با مصدر اشتباه نشود؛ بازسازی پاسخ معیار باید دقیقاً مثال تألیفیِ اشاره‌شده را بسازد.
 
@@ -22,7 +22,7 @@ IndexedDB=parolario-progress، object store=user-state، key=current، قفل pa
 
 ## مثال‌های تکمیلی
 
-فایل‌های reference/vocabulary/italian/Lesson-01-A1.txt و Lesson-02-A1.txt منابع انسانی ثابت‌اند و sidecarهای هم‌نام در public/content/examples/italian دادهٔ تألیفی بازبینی‌شده‌اند. sync:examples تطبیق سطر/کلید/متن، جفت زبانی، تکرار و تعداد را بررسی می‌کند و تنها sourceهای اجراییِ جداگانهٔ هر درس و additional-examples.ts را قطعی می‌سازد. build hash برای تازگی cache مستقل از contentVersion است.
+فایل‌های reference/vocabulary/italian/Lesson-01-A1.txt تا Lesson-03-A1.txt منابع انسانی ثابت‌اند و sidecarهای هم‌نام در public/content/examples/italian دادهٔ تألیفی بازبینی‌شده‌اند. sync:examples تطبیق سطر/کلید/متن، جفت زبانی، تکرار و تعداد را بررسی می‌کند و تنها sourceهای اجراییِ جداگانهٔ هر درس و additional-examples.ts را قطعی می‌سازد. build hash برای تازگی cache مستقل از contentVersion است.
 
 ## افزودن درس دوم بدون تغییر schema
 
@@ -33,3 +33,9 @@ meaningGroup اختیاری فقط metadata محتواست و در AppState ذخ
 lesson-two-occurrences.json شامل existing entryId و refهای واقعی است. catalog به مدخل اصلی sourceRefIds و occurrence درس۲ می‌افزاید؛ معرفی، مثال‌ها، پاسخ‌ها و introductionOrder درس۱ همان‌اند. این refs به sourceRefs کاتالوگ اضافه می‌شوند، نه به فهرست معرفی درس۲.
 
 ثابت‌ماندن schema۵ و nuovo-espresso-a1-it-v1، به‌همراه خواندن عین snapshot پیش از افزودن درس۲ و digestهای۸۵مدخل، معیار سازگاری است.
+
+## افزودن درس سوم
+
+italian-source-03.json و lesson-three-pedagogy.json و sidecar مستقل،۱۰۹مدخل به builder مشترک می‌دهند؛ هیچ تغییر schema/مهاجرت لازم نیست. lesson-three-occurrences.json پانزده هویت قبلی را فقط با occurrence/ref جدید وصل می‌کند. helper کاتالوگ شمارهٔ درس را برای شناسهٔ ref به‌کار می‌برد؛ refs تاریخی درس۲ عوض نمی‌شوند.
+
+snapshot پیش از درس۳ در fixtures/pre-lesson-three-schema5.json با۳۵مدخل پیشرفت،۱۱۷پاسخ،۸مرورمعکوس، draft درس۲ و feedback درس۱ از موتور واقعی ساخته شده است؛ دادهٔ شخصی مرورگر نیست. تمام snapshot و digest هستهٔ۱۷۷مدخل قبلی باید بدون بازنویسی حفظ شوند. sourceRefIds/occurrences تنها بخش‌های افزایشی‌اند؛ مثال‌ها، پاسخ‌ها و ترتیب معرفی قدیمی ثابت‌اند.

@@ -10,7 +10,7 @@ test('every discovered source lesson has exactly two authored, paired examples f
   const sources = readdirSync('reference/vocabulary/italian').filter(name => /^Lesson-\d+-(A1|A2|B1)\.txt$/u.test(name))
   assert.equal(lessons.length, sources.length)
   assert.deepEqual(validateExampleCatalog(lessons), [])
-  assert.equal(lessons.length, 2)
+  assert.equal(lessons.length, 3)
   assert.equal(lessons[0].rows.length, 85)
   assert.equal(lessons.reduce((sum: number, lesson: { rows: unknown[] }) => sum + lesson.rows.length, 0), courseBundle.entries.length)
   const sorted = lessons.map((lesson: { catalog: { lessonNumber: number } }) => lesson.catalog.lessonNumber)

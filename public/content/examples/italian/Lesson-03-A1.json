@@ -1,0 +1,1971 @@
+{
+  "version": 1,
+  "language": "it",
+  "sourceFile": "reference/vocabulary/italian/Lesson-03-A1.txt",
+  "lessonNumber": 3,
+  "level": "A1",
+  "entries": [
+    {
+      "row": 1,
+      "sourceKey": "italian-Lesson-03-A1:001",
+      "word": "Buon appetito!",
+      "meaningFa": "نوش جان!",
+      "additionalExamples": [
+        {
+          "it": "A tavola diciamo: «Buon appetito!»",
+          "fa": "سر میز می‌گوییم: «نوش جان!»",
+          "origin": "authored"
+        },
+        {
+          "it": "Il cameriere sorride e dice: «Buon appetito!»",
+          "fa": "پیشخدمت لبخند می‌زند و می‌گوید: «نوش جان!»",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "sourceKey": "italian-Lesson-03-A1:002",
+      "word": "Cosa desidera?",
+      "meaningFa": "چه میل دارید؟؛ محترمانه",
+      "additionalExamples": [
+        {
+          "it": "Buongiorno, signora. Cosa desidera?",
+          "fa": "سلام، خانم. چه میل دارید؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Il cameriere mi chiede: «Cosa desidera?»",
+          "fa": "پیشخدمت از من می‌پرسد: «چه میل دارید؟»",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "sourceKey": "italian-Lesson-03-A1:003",
+      "word": "vorrei",
+      "meaningFa": "میل دارم؛ می‌خواهم؛ درخواست مؤدبانه",
+      "additionalExamples": [
+        {
+          "it": "Per pranzo vorrei una pizza piccola.",
+          "fa": "برای ناهار یک پیتزای کوچک می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Vorrei un tavolo vicino alla finestra, grazie.",
+          "fa": "یک میز نزدیک پنجره می‌خواهم، ممنون.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "sourceKey": "italian-Lesson-03-A1:004",
+      "word": "solo",
+      "meaningFa": "فقط؛ تنها",
+      "additionalExamples": [
+        {
+          "it": "Per me solo acqua, grazie.",
+          "fa": "برای من فقط آب، ممنون.",
+          "origin": "authored"
+        },
+        {
+          "it": "Oggi il bar è aperto solo la mattina.",
+          "fa": "امروز کافه‌بار فقط صبح باز است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "sourceKey": "italian-Lesson-03-A1:005",
+      "word": "un primo",
+      "meaningFa": "غذای اول؛ معمولاً پاستا، برنج یا سوپ",
+      "additionalExamples": [
+        {
+          "it": "Come primo scelgo una zuppa.",
+          "fa": "برای غذای اول یک سوپ انتخاب می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Un primo e un dessert sono sufficienti per me.",
+          "fa": "یک غذای اول و یک دسر برای من کافی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "sourceKey": "italian-Lesson-03-A1:006",
+      "word": "Che cosa avete oggi?",
+      "meaningFa": "امروز چه دارید؟؛ خطاب جمع به کارکنان",
+      "additionalExamples": [
+        {
+          "it": "Scusate, che cosa avete oggi?",
+          "fa": "ببخشید، امروز چه دارید؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Entro in trattoria e chiedo: «Che cosa avete oggi?»",
+          "fa": "وارد غذاخوری می‌شوم و می‌پرسم: «امروز چه دارید؟»",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "sourceKey": "italian-Lesson-03-A1:007",
+      "word": "Prende un caffè?",
+      "meaningFa": "یک قهوه میل می‌کنید؟؛ محترمانه",
+      "additionalExamples": [
+        {
+          "it": "Signora Rossi, prende un caffè?",
+          "fa": "خانم روسی، یک قهوه میل می‌کنید؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Dopo il pranzo il cameriere domanda: «Prende un caffè?»",
+          "fa": "پس از ناهار پیشخدمت می‌پرسد: «یک قهوه میل می‌کنید؟»",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "sourceKey": "italian-Lesson-03-A1:008",
+      "word": "il pane",
+      "meaningFa": "نان",
+      "additionalExamples": [
+        {
+          "it": "Vorrei un po’ di pane con la zuppa.",
+          "fa": "کمی نان همراه سوپ می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il pane è sul piatto piccolo.",
+          "fa": "نان روی بشقاب کوچک است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 9,
+      "sourceKey": "italian-Lesson-03-A1:009",
+      "word": "il conto",
+      "meaningFa": "صورت‌حساب",
+      "additionalExamples": [
+        {
+          "it": "Possiamo avere il conto, per favore?",
+          "fa": "می‌توانیم صورت‌حساب را داشته باشیم، لطفاً؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Il conto è di venti euro.",
+          "fa": "مبلغ صورت‌حساب بیست یورو است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 10,
+      "sourceKey": "italian-Lesson-03-A1:010",
+      "word": "È possibile prenotare un tavolo?",
+      "meaningFa": "آیا می‌توان یک میز رزرو کرد؟",
+      "additionalExamples": [
+        {
+          "it": "Buonasera. È possibile prenotare un tavolo?",
+          "fa": "عصر بخیر. آیا می‌توان یک میز رزرو کرد؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Al telefono chiedo: «È possibile prenotare un tavolo?»",
+          "fa": "پشت تلفن می‌پرسم: «آیا می‌توان یک میز رزرو کرد؟»",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 11,
+      "sourceKey": "italian-Lesson-03-A1:011",
+      "word": "bar",
+      "meaningFa": "کافه‌بار؛ محل نوشیدنی و خوراک سبک",
+      "additionalExamples": [
+        {
+          "it": "Ci vediamo al bar dopo il corso.",
+          "fa": "پس از کلاس در کافه‌بار همدیگر را می‌بینیم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questo bar prepara ottimi panini.",
+          "fa": "این کافه‌بار ساندویچ‌های خیلی خوبی درست می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 12,
+      "sourceKey": "italian-Lesson-03-A1:012",
+      "word": "il caffè",
+      "meaningFa": "قهوه",
+      "additionalExamples": [
+        {
+          "it": "Bevo un caffè dopo pranzo.",
+          "fa": "بعد از ناهار یک قهوه می‌نوشم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il caffè è caldo, aspetta un momento.",
+          "fa": "قهوه داغ است، یک لحظه صبر کن.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "sourceKey": "italian-Lesson-03-A1:013",
+      "word": "panino",
+      "meaningFa": "ساندویچ با نان کوچک",
+      "additionalExamples": [
+        {
+          "it": "Per pranzo compro un panino al formaggio.",
+          "fa": "برای ناهار یک ساندویچ پنیر می‌خرم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questo panino è piccolo ma buono.",
+          "fa": "این ساندویچ کوچک است، اما خوشمزه است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 14,
+      "sourceKey": "italian-Lesson-03-A1:014",
+      "word": "cornetto",
+      "meaningFa": "کروسان؛ شیرینی هلالی",
+      "additionalExamples": [
+        {
+          "it": "Al bar ordino un cornetto alla crema.",
+          "fa": "در کافه‌بار یک کروسان با کرم سفارش می‌دهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Due cornetti e un cappuccino costano sei euro.",
+          "fa": "دو کروسان و یک کاپوچینو شش یورو قیمت دارند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 15,
+      "sourceKey": "italian-Lesson-03-A1:015",
+      "word": "il pesce",
+      "meaningFa": "ماهی؛ به‌عنوان غذا",
+      "additionalExamples": [
+        {
+          "it": "Oggi preferisco il pesce alla carne.",
+          "fa": "امروز ماهی را به گوشت ترجیح می‌دهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "In questo ristorante il pesce è fresco.",
+          "fa": "در این رستوران ماهی تازه است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 16,
+      "sourceKey": "italian-Lesson-03-A1:016",
+      "word": "la pasta",
+      "meaningFa": "پاستا",
+      "additionalExamples": [
+        {
+          "it": "A pranzo mangiamo la pasta al pomodoro.",
+          "fa": "برای ناهار پاستا با سس گوجه‌فرنگی می‌خوریم.",
+          "origin": "authored"
+        },
+        {
+          "it": "La pasta è pronta, venite a tavola!",
+          "fa": "پاستا آماده است، بیایید سر میز!",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 17,
+      "sourceKey": "italian-Lesson-03-A1:017",
+      "word": "la carne",
+      "meaningFa": "گوشت",
+      "additionalExamples": [
+        {
+          "it": "Mia sorella non mangia carne.",
+          "fa": "خواهرم گوشت نمی‌خورد.",
+          "origin": "authored"
+        },
+        {
+          "it": "La carne è nel piatto grande.",
+          "fa": "گوشت داخل بشقاب بزرگ است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 18,
+      "sourceKey": "italian-Lesson-03-A1:018",
+      "word": "l’antipasto",
+      "meaningFa": "پیش‌غذا",
+      "additionalExamples": [
+        {
+          "it": "Come antipasto prendiamo delle verdure.",
+          "fa": "برای پیش‌غذا کمی سبزیجات می‌گیریم.",
+          "origin": "authored"
+        },
+        {
+          "it": "L’antipasto arriva prima della pasta.",
+          "fa": "پیش‌غذا قبل از پاستا می‌رسد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 19,
+      "sourceKey": "italian-Lesson-03-A1:019",
+      "word": "l’acqua minerale",
+      "meaningFa": "آب معدنی",
+      "additionalExamples": [
+        {
+          "it": "Vorrei una bottiglia di acqua minerale.",
+          "fa": "یک بطری آب معدنی می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "L’acqua minerale è già sul tavolo.",
+          "fa": "آب معدنی از قبل روی میز است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 20,
+      "sourceKey": "italian-Lesson-03-A1:020",
+      "word": "il cameriere",
+      "meaningFa": "پیشخدمت مرد",
+      "additionalExamples": [
+        {
+          "it": "Il cameriere porta due piatti.",
+          "fa": "پیشخدمت دو بشقاب می‌آورد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Chiamo il cameriere per chiedere il conto.",
+          "fa": "پیشخدمت را صدا می‌کنم تا صورت‌حساب را بخواهم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 21,
+      "sourceKey": "italian-Lesson-03-A1:021",
+      "word": "contorno",
+      "meaningFa": "غذای کنار بشقاب؛ مخلفات",
+      "additionalExamples": [
+        {
+          "it": "Come contorno scelgo delle patate.",
+          "fa": "برای غذای کنار بشقاب کمی سیب‌زمینی انتخاب می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Con il pesce vorrei anche un contorno.",
+          "fa": "همراه ماهی یک غذای کنار بشقاب هم می‌خواهم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 22,
+      "sourceKey": "italian-Lesson-03-A1:022",
+      "word": "prendere",
+      "meaningFa": "گرفتن؛ سفارش‌دادن غذا یا نوشیدنی",
+      "additionalExamples": [
+        {
+          "it": "Posso prendere una pizza piccola?",
+          "fa": "می‌توانم یک پیتزای کوچک بگیرم؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Anna prende un tè senza zucchero.",
+          "fa": "آنا یک چای بدون شکر می‌گیرد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 23,
+      "sourceKey": "italian-Lesson-03-A1:023",
+      "word": "volere",
+      "meaningFa": "خواستن",
+      "additionalExamples": [
+        {
+          "it": "Non puoi volere tutto.",
+          "fa": "نمی‌توانی همه‌چیز را بخواهی.",
+          "origin": "authored"
+        },
+        {
+          "it": "Voglio una bottiglia d’acqua, grazie.",
+          "fa": "یک بطری آب می‌خواهم، ممنون.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 24,
+      "sourceKey": "italian-Lesson-03-A1:024",
+      "word": "prenotare",
+      "meaningFa": "رزروکردن",
+      "additionalExamples": [
+        {
+          "it": "Vorrei prenotare un tavolo per domani.",
+          "fa": "می‌خواهم برای فردا یک میز رزرو کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Prenotiamo un tavolo per quattro persone.",
+          "fa": "برای چهار نفر یک میز رزرو می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 25,
+      "sourceKey": "italian-Lesson-03-A1:025",
+      "word": "preferire",
+      "meaningFa": "ترجیح‌دادن",
+      "additionalExamples": [
+        {
+          "it": "Puoi preferire il tè, ma qui c’è solo caffè.",
+          "fa": "می‌توانی چای را ترجیح بدهی، اما اینجا فقط قهوه هست.",
+          "origin": "authored"
+        },
+        {
+          "it": "Preferisco mangiare presto la sera.",
+          "fa": "ترجیح می‌دهم شب زود غذا بخورم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 26,
+      "sourceKey": "italian-Lesson-03-A1:026",
+      "word": "l’aranciata",
+      "meaningFa": "نوشیدنی پرتقالی",
+      "additionalExamples": [
+        {
+          "it": "Ordino un’aranciata fresca.",
+          "fa": "یک نوشیدنی پرتقالی خنک سفارش می‌دهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Per i bambini ci sono due aranciate.",
+          "fa": "برای بچه‌ها دو نوشیدنی پرتقالی هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 27,
+      "sourceKey": "italian-Lesson-03-A1:027",
+      "word": "l’aperitivo",
+      "meaningFa": "نوشیدنی پیش از غذا؛ آپریتیف",
+      "additionalExamples": [
+        {
+          "it": "Prima di cena prendiamo un aperitivo.",
+          "fa": "پیش از شام یک نوشیدنیِ پیش از غذا می‌نوشیم.",
+          "origin": "authored"
+        },
+        {
+          "it": "L’aperitivo è sul tavolo vicino alla porta.",
+          "fa": "نوشیدنی پیش از غذا روی میز کنار در است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 28,
+      "sourceKey": "italian-Lesson-03-A1:028",
+      "word": "il bicchiere di latte",
+      "meaningFa": "یک لیوان شیر",
+      "additionalExamples": [
+        {
+          "it": "La bambina beve un bicchiere di latte.",
+          "fa": "دخترک یک لیوان شیر می‌نوشد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Ogni mattina preparo un bicchiere di latte caldo.",
+          "fa": "هر صبح یک لیوان شیر گرم آماده می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 29,
+      "sourceKey": "italian-Lesson-03-A1:029",
+      "word": "lo spumante",
+      "meaningFa": "شراب گازدار",
+      "additionalExamples": [
+        {
+          "it": "Per la festa compriamo lo spumante.",
+          "fa": "برای جشن شراب گازدار می‌خریم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Un bicchiere di spumante per gli adulti, grazie.",
+          "fa": "یک گیلاس شراب گازدار برای بزرگ‌ترها، ممنون.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 30,
+      "sourceKey": "italian-Lesson-03-A1:030",
+      "word": "la spremuta di pompelmo",
+      "meaningFa": "آب گریپ‌فروت تازه",
+      "additionalExamples": [
+        {
+          "it": "Vorrei una spremuta di pompelmo senza ghiaccio.",
+          "fa": "یک آب گریپ‌فروت تازه بدون یخ می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "La spremuta di pompelmo è un po’ amara.",
+          "fa": "آب گریپ‌فروت تازه کمی تلخ است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 31,
+      "sourceKey": "italian-Lesson-03-A1:031",
+      "word": "il cappuccino",
+      "meaningFa": "کاپوچینو",
+      "additionalExamples": [
+        {
+          "it": "A colazione ordino un cappuccino.",
+          "fa": "برای صبحانه یک کاپوچینو سفارش می‌دهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il cappuccino ha una bella schiuma.",
+          "fa": "کاپوچینو کف خوبی دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 32,
+      "sourceKey": "italian-Lesson-03-A1:032",
+      "word": "la birra",
+      "meaningFa": "آبجو",
+      "additionalExamples": [
+        {
+          "it": "Mio padre prende una birra piccola.",
+          "fa": "پدرم یک آبجوی کوچک می‌گیرد.",
+          "origin": "authored"
+        },
+        {
+          "it": "La birra è fredda, puoi berla adesso.",
+          "fa": "آبجو سرد است، الان می‌توانی آن را بنوشی.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 33,
+      "sourceKey": "italian-Lesson-03-A1:033",
+      "word": "la crema",
+      "meaningFa": "کرم شیرینی",
+      "additionalExamples": [
+        {
+          "it": "Questo cornetto è ripieno di crema.",
+          "fa": "این کروسان با کرم پر شده است.",
+          "origin": "authored"
+        },
+        {
+          "it": "La crema è dolce e profuma di vaniglia.",
+          "fa": "کرم شیرین است و بوی وانیل می‌دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 34,
+      "sourceKey": "italian-Lesson-03-A1:034",
+      "word": "la marmellata",
+      "meaningFa": "مربا",
+      "additionalExamples": [
+        {
+          "it": "Sul pane metto la marmellata.",
+          "fa": "روی نان مربا می‌گذارم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Per colazione abbiamo marmellata di fragole.",
+          "fa": "برای صبحانه مربای توت‌فرنگی داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 35,
+      "sourceKey": "italian-Lesson-03-A1:035",
+      "word": "supermercato",
+      "meaningFa": "سوپرمارکت",
+      "additionalExamples": [
+        {
+          "it": "Compro il latte al supermercato.",
+          "fa": "شیر را از سوپرمارکت می‌خرم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il supermercato chiude alle otto.",
+          "fa": "سوپرمارکت ساعت هشت بسته می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 36,
+      "sourceKey": "italian-Lesson-03-A1:036",
+      "word": "la mattina",
+      "meaningFa": "صبح؛ بخش آغاز روز",
+      "additionalExamples": [
+        {
+          "it": "La mattina faccio colazione a casa.",
+          "fa": "صبح در خانه صبحانه می‌خورم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Di mattina il bar è sempre pieno.",
+          "fa": "صبح‌ها کافه‌بار همیشه پر است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 37,
+      "sourceKey": "italian-Lesson-03-A1:037",
+      "word": "il pomeriggio",
+      "meaningFa": "بعدازظهر",
+      "additionalExamples": [
+        {
+          "it": "Nel pomeriggio incontro un amico.",
+          "fa": "بعدازظهر یک دوست را می‌بینم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il ristorante è chiuso il pomeriggio.",
+          "fa": "رستوران بعدازظهر بسته است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 38,
+      "sourceKey": "italian-Lesson-03-A1:038",
+      "word": "la sera",
+      "meaningFa": "عصر و شب؛ بخش پایانی روز",
+      "additionalExamples": [
+        {
+          "it": "La sera ceniamo insieme.",
+          "fa": "عصر با هم شام می‌خوریم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questa sera preparo una pizza.",
+          "fa": "امشب یک پیتزا درست می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 39,
+      "sourceKey": "italian-Lesson-03-A1:039",
+      "word": "il caffè macchiato",
+      "meaningFa": "قهوه با کمی شیر؛ ماکیاتو",
+      "additionalExamples": [
+        {
+          "it": "Per me un caffè macchiato, grazie.",
+          "fa": "برای من یک قهوه با کمی شیر، ممنون.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il caffè macchiato è nella tazzina bianca.",
+          "fa": "قهوهٔ ماکیاتو در فنجان کوچک سفید است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 40,
+      "sourceKey": "italian-Lesson-03-A1:040",
+      "word": "il tè",
+      "meaningFa": "چای",
+      "additionalExamples": [
+        {
+          "it": "Quando fa freddo bevo un tè caldo.",
+          "fa": "وقتی هوا سرد است یک چای گرم می‌نوشم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questo tè al limone è molto buono.",
+          "fa": "این چای لیمویی خیلی خوشمزه است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 41,
+      "sourceKey": "italian-Lesson-03-A1:041",
+      "word": "il limone",
+      "meaningFa": "لیمو",
+      "additionalExamples": [
+        {
+          "it": "Aggiungo una fetta di limone al tè.",
+          "fa": "یک برش لیمو به چای اضافه می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il limone è vicino alla bottiglia.",
+          "fa": "لیمو نزدیک بطری است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 42,
+      "sourceKey": "italian-Lesson-03-A1:042",
+      "word": "il latte",
+      "meaningFa": "شیر",
+      "additionalExamples": [
+        {
+          "it": "Il bambino vuole del latte caldo.",
+          "fa": "کودک کمی شیر گرم می‌خواهد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Non metto il latte nel caffè.",
+          "fa": "داخل قهوه شیر نمی‌ریزم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 43,
+      "sourceKey": "italian-Lesson-03-A1:043",
+      "word": "mangiare",
+      "meaningFa": "خوردن",
+      "additionalExamples": [
+        {
+          "it": "Vuoi mangiare qualcosa con me?",
+          "fa": "می‌خواهی با من چیزی بخوری؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Mangiamo un panino prima del corso.",
+          "fa": "قبل از کلاس یک ساندویچ می‌خوریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 44,
+      "sourceKey": "italian-Lesson-03-A1:044",
+      "word": "ordinare",
+      "meaningFa": "سفارش‌دادن",
+      "additionalExamples": [
+        {
+          "it": "Possiamo ordinare adesso?",
+          "fa": "می‌توانیم الان سفارش بدهیم؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Al ristorante ordiniamo due primi.",
+          "fa": "در رستوران دو غذای اول سفارش می‌دهیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 45,
+      "sourceKey": "italian-Lesson-03-A1:045",
+      "word": "tramezzino",
+      "meaningFa": "ساندویچ مثلثی با نان نرم",
+      "additionalExamples": [
+        {
+          "it": "Per merenda prendo un tramezzino.",
+          "fa": "برای میان‌وعده یک ساندویچ مثلثی می‌گیرم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questo tramezzino ha il pane morbido.",
+          "fa": "این ساندویچ مثلثی نان نرمی دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 46,
+      "sourceKey": "italian-Lesson-03-A1:046",
+      "word": "il gelato",
+      "meaningFa": "بستنی",
+      "additionalExamples": [
+        {
+          "it": "Dopo cena mangio un gelato.",
+          "fa": "پس از شام یک بستنی می‌خورم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il gelato al limone è il mio preferito.",
+          "fa": "بستنی لیمویی بستنی مورد علاقهٔ من است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 47,
+      "sourceKey": "italian-Lesson-03-A1:047",
+      "word": "la pizza",
+      "meaningFa": "پیتزا",
+      "additionalExamples": [
+        {
+          "it": "Stasera prepariamo una pizza a casa.",
+          "fa": "امشب در خانه یک پیتزا درست می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "it": "La pizza è calda e il formaggio è morbido.",
+          "fa": "پیتزا داغ است و پنیر نرم است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 48,
+      "sourceKey": "italian-Lesson-03-A1:048",
+      "word": "il toast",
+      "meaningFa": "ساندویچ تست",
+      "additionalExamples": [
+        {
+          "it": "Vorrei un toast con prosciutto e formaggio.",
+          "fa": "یک ساندویچ تست با ژامبون و پنیر می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il toast è pronto in cinque minuti.",
+          "fa": "ساندویچ تست پنج دقیقه دیگر آماده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 49,
+      "sourceKey": "italian-Lesson-03-A1:049",
+      "word": "il piatto",
+      "meaningFa": "بشقاب؛ در این درس همچنین یک خوراک",
+      "additionalExamples": [
+        {
+          "it": "Metto il pane in un piatto.",
+          "fa": "نان را در یک بشقاب می‌گذارم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questo piatto di pasta è per te.",
+          "fa": "این بشقاب پاستا برای تو است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 50,
+      "sourceKey": "italian-Lesson-03-A1:050",
+      "word": "il menù",
+      "meaningFa": "منو؛ فهرست غذا",
+      "additionalExamples": [
+        {
+          "it": "Leggo il menù prima di ordinare.",
+          "fa": "قبل از سفارش‌دادن منو را می‌خوانم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Sul menù ci sono anche piatti vegetariani.",
+          "fa": "در منو غذاهای گیاهی هم هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 51,
+      "sourceKey": "italian-Lesson-03-A1:051",
+      "word": "prosciutto",
+      "meaningFa": "ژامبون",
+      "additionalExamples": [
+        {
+          "it": "Nel panino c’è del prosciutto.",
+          "fa": "داخل ساندویچ کمی ژامبون هست.",
+          "origin": "authored"
+        },
+        {
+          "it": "Non mangio prosciutto, preferisco il formaggio.",
+          "fa": "ژامبون نمی‌خورم، پنیر را ترجیح می‌دهم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 52,
+      "sourceKey": "italian-Lesson-03-A1:052",
+      "word": "il formaggio",
+      "meaningFa": "پنیر",
+      "additionalExamples": [
+        {
+          "it": "Vorrei un po’ di formaggio sulla pasta.",
+          "fa": "کمی پنیر روی پاستا می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il formaggio è accanto al pane.",
+          "fa": "پنیر کنار نان است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 53,
+      "sourceKey": "italian-Lesson-03-A1:053",
+      "word": "pomodori",
+      "meaningFa": "گوجه‌فرنگی‌ها؛ صورت جمع",
+      "additionalExamples": [
+        {
+          "it": "Per l’insalata compro tre pomodori.",
+          "fa": "برای سالاد سه گوجه‌فرنگی می‌خرم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questi pomodori sono rossi e freschi.",
+          "fa": "این گوجه‌فرنگی‌ها قرمز و تازه هستند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 54,
+      "sourceKey": "italian-Lesson-03-A1:054",
+      "word": "lasagne",
+      "meaningFa": "لازانیا؛ نام غذا با صورت جمع",
+      "additionalExamples": [
+        {
+          "it": "La domenica prepariamo le lasagne.",
+          "fa": "یکشنبه‌ها لازانیا درست می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Le lasagne al forno sono pronte.",
+          "fa": "لازانیای پخته‌شده در فر آماده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 55,
+      "sourceKey": "italian-Lesson-03-A1:055",
+      "word": "risotto",
+      "meaningFa": "ریزوتو؛ خوراک برنج ایتالیایی",
+      "additionalExamples": [
+        {
+          "it": "Oggi cucino un risotto ai funghi.",
+          "fa": "امروز یک ریزوتو با قارچ می‌پزم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questo risotto è caldo e cremoso.",
+          "fa": "این ریزوتو گرم و خامه‌ای است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 56,
+      "sourceKey": "italian-Lesson-03-A1:056",
+      "word": "spaghetti",
+      "meaningFa": "اسپاگتی؛ صورت جمع",
+      "additionalExamples": [
+        {
+          "it": "Per me gli spaghetti al pomodoro.",
+          "fa": "برای من اسپاگتی با سس گوجه‌فرنگی.",
+          "origin": "authored"
+        },
+        {
+          "it": "Gli spaghetti sono nel piatto grande.",
+          "fa": "اسپاگتی داخل بشقاب بزرگ است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 57,
+      "sourceKey": "italian-Lesson-03-A1:057",
+      "word": "il pollo",
+      "meaningFa": "مرغ؛ گوشت مرغ",
+      "additionalExamples": [
+        {
+          "it": "Stasera mangiamo il pollo con le patate.",
+          "fa": "امشب مرغ با سیب‌زمینی می‌خوریم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il pollo è già in forno.",
+          "fa": "مرغ از قبل داخل فر است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 58,
+      "sourceKey": "italian-Lesson-03-A1:058",
+      "word": "l’insalata mista",
+      "meaningFa": "سالاد مخلوط",
+      "additionalExamples": [
+        {
+          "it": "Come contorno vorrei un’insalata mista.",
+          "fa": "برای غذای کنار بشقاب یک سالاد مخلوط می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "L’insalata mista contiene anche pomodori.",
+          "fa": "سالاد مخلوط گوجه‌فرنگی هم دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 59,
+      "sourceKey": "italian-Lesson-03-A1:059",
+      "word": "le patatine fritte",
+      "meaningFa": "سیب‌زمینی سرخ‌کرده",
+      "additionalExamples": [
+        {
+          "it": "Il ragazzo ordina le patatine fritte.",
+          "fa": "پسر سیب‌زمینی سرخ‌کرده سفارش می‌دهد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Le patatine fritte sono un contorno molto richiesto.",
+          "fa": "سیب‌زمینی سرخ‌کرده یک غذای کنار بشقاب پرطرفدار است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 60,
+      "sourceKey": "italian-Lesson-03-A1:060",
+      "word": "frutta fresca",
+      "meaningFa": "میوهٔ تازه",
+      "additionalExamples": [
+        {
+          "it": "Dopo pranzo preferisco la frutta fresca.",
+          "fa": "پس از ناهار میوهٔ تازه را ترجیح می‌دهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "A casa abbiamo sempre della frutta fresca.",
+          "fa": "در خانه همیشه کمی میوهٔ تازه داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 61,
+      "sourceKey": "italian-Lesson-03-A1:061",
+      "word": "fragole",
+      "meaningFa": "توت‌فرنگی‌ها؛ صورت جمع",
+      "additionalExamples": [
+        {
+          "it": "Per il dessert compro delle fragole.",
+          "fa": "برای دسر کمی توت‌فرنگی می‌خرم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Le fragole sono nella ciotola blu.",
+          "fa": "توت‌فرنگی‌ها داخل کاسهٔ آبی هستند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 62,
+      "sourceKey": "italian-Lesson-03-A1:062",
+      "word": "il tiramisù",
+      "meaningFa": "تیرامیسو؛ دسر ایتالیایی",
+      "additionalExamples": [
+        {
+          "it": "Come dessert scelgo il tiramisù.",
+          "fa": "برای دسر تیرامیسو انتخاب می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il tiramisù di questo ristorante è famoso.",
+          "fa": "تیرامیسوی این رستوران معروف است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 63,
+      "sourceKey": "italian-Lesson-03-A1:063",
+      "word": "il ragazzo",
+      "meaningFa": "پسر؛ جوان مذکر",
+      "additionalExamples": [
+        {
+          "it": "Il ragazzo beve un’aranciata.",
+          "fa": "پسر یک نوشیدنی پرتقالی می‌نوشد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Quel ragazzo lavora al bar.",
+          "fa": "آن پسر در کافه‌بار کار می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 64,
+      "sourceKey": "italian-Lesson-03-A1:064",
+      "word": "cotoletta",
+      "meaningFa": "کتلت؛ برش گوشت سوخاری",
+      "additionalExamples": [
+        {
+          "it": "Vorrei una cotoletta con l’insalata.",
+          "fa": "یک کتلت با سالاد می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "La cotoletta è grande e croccante.",
+          "fa": "کتلت بزرگ و ترد است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 65,
+      "sourceKey": "italian-Lesson-03-A1:065",
+      "word": "bere",
+      "meaningFa": "نوشیدن",
+      "additionalExamples": [
+        {
+          "it": "Dopo la passeggiata voglio bere un po’ d’acqua.",
+          "fa": "پس از پیاده‌روی می‌خواهم کمی آب بنوشم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Beviamo un tè mentre aspettiamo.",
+          "fa": "در حال انتظار یک چای می‌نوشیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 66,
+      "sourceKey": "italian-Lesson-03-A1:066",
+      "word": "vino rosso",
+      "meaningFa": "شراب قرمز",
+      "additionalExamples": [
+        {
+          "it": "Con la carne prendiamo del vino rosso.",
+          "fa": "همراه گوشت کمی شراب قرمز می‌گیریم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il vino rosso è nella bottiglia a destra.",
+          "fa": "شراب قرمز در بطری سمت راست است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 67,
+      "sourceKey": "italian-Lesson-03-A1:067",
+      "word": "per piacere",
+      "meaningFa": "لطفاً؛ صورتِ همراه piacere",
+      "additionalExamples": [
+        {
+          "it": "Un altro bicchiere, per piacere.",
+          "fa": "یک لیوان دیگر، لطفاً.",
+          "origin": "authored"
+        },
+        {
+          "it": "Mi passa il pane, per piacere?",
+          "fa": "نان را به من می‌دهید، لطفاً؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 68,
+      "sourceKey": "italian-Lesson-03-A1:068",
+      "word": "gasata",
+      "meaningFa": "گازدار؛ صورت مؤنث برای آب",
+      "additionalExamples": [
+        {
+          "it": "Vorrei una minerale gasata.",
+          "fa": "یک آب معدنی گازدار می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Quest’acqua è gasata, preferisci quella naturale?",
+          "fa": "این آب گازدار است، آن آب بدون گاز را ترجیح می‌دهی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 69,
+      "sourceKey": "italian-Lesson-03-A1:069",
+      "word": "naturale",
+      "meaningFa": "بدون گاز؛ برای آب",
+      "additionalExamples": [
+        {
+          "it": "Per la bambina solo acqua naturale.",
+          "fa": "برای دخترک فقط آب بدون گاز.",
+          "origin": "authored"
+        },
+        {
+          "it": "Una minerale naturale costa due euro.",
+          "fa": "یک آب معدنی بدون گاز دو یورو قیمت دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 70,
+      "sourceKey": "italian-Lesson-03-A1:070",
+      "word": "senza ghiaccio",
+      "meaningFa": "بدون یخ",
+      "additionalExamples": [
+        {
+          "it": "Per me una cola senza ghiaccio.",
+          "fa": "برای من یک نوشابهٔ کولا بدون یخ.",
+          "origin": "authored"
+        },
+        {
+          "it": "Preferisco bere l’aranciata senza ghiaccio.",
+          "fa": "ترجیح می‌دهم نوشیدنی پرتقالی را بدون یخ بنوشم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 71,
+      "sourceKey": "italian-Lesson-03-A1:071",
+      "word": "vino bianco",
+      "meaningFa": "شراب سفید",
+      "additionalExamples": [
+        {
+          "it": "Con il pesce scegliamo del vino bianco.",
+          "fa": "همراه ماهی کمی شراب سفید انتخاب می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il vino bianco è fresco, lo porto a tavola.",
+          "fa": "شراب سفید خنک است، آن را سر میز می‌آورم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 72,
+      "sourceKey": "italian-Lesson-03-A1:072",
+      "word": "riso",
+      "meaningFa": "برنج",
+      "additionalExamples": [
+        {
+          "it": "Come primo preparo del riso con le verdure.",
+          "fa": "برای غذای اول کمی برنج با سبزیجات درست می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il riso è nel sacchetto bianco.",
+          "fa": "برنج داخل کیسهٔ سفید است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 73,
+      "sourceKey": "italian-Lesson-03-A1:073",
+      "word": "il tavolo",
+      "meaningFa": "میز",
+      "additionalExamples": [
+        {
+          "it": "Il nostro tavolo è vicino alla finestra.",
+          "fa": "میز ما نزدیک پنجره است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Sul tavolo ci sono quattro piatti.",
+          "fa": "روی میز چهار بشقاب هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 74,
+      "sourceKey": "italian-Lesson-03-A1:074",
+      "word": "il cucchiaio",
+      "meaningFa": "قاشق",
+      "additionalExamples": [
+        {
+          "it": "Per la minestra mi serve un cucchiaio.",
+          "fa": "برای سوپ به یک قاشق نیاز دارم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il cucchiaio è a destra del piatto.",
+          "fa": "قاشق سمت راست بشقاب است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 75,
+      "sourceKey": "italian-Lesson-03-A1:075",
+      "word": "il coltello",
+      "meaningFa": "چاقو",
+      "additionalExamples": [
+        {
+          "it": "Taglio il pane con il coltello.",
+          "fa": "نان را با چاقو می‌برم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Mi porta un coltello pulito, per favore?",
+          "fa": "یک چاقوی تمیز برایم می‌آورید، لطفاً؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 76,
+      "sourceKey": "italian-Lesson-03-A1:076",
+      "word": "il cucchiaino",
+      "meaningFa": "قاشق چای‌خوری",
+      "additionalExamples": [
+        {
+          "it": "Mescolo il tè con il cucchiaino.",
+          "fa": "چای را با قاشق چای‌خوری هم می‌زنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il cucchiaino è sul piattino.",
+          "fa": "قاشق چای‌خوری روی نعلبکی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 77,
+      "sourceKey": "italian-Lesson-03-A1:077",
+      "word": "il tovagliolo",
+      "meaningFa": "دستمال سفره",
+      "additionalExamples": [
+        {
+          "it": "Metto il tovagliolo sulle ginocchia.",
+          "fa": "دستمال سفره را روی زانوهایم می‌گذارم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questo tovagliolo è pulito.",
+          "fa": "این دستمال سفره تمیز است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 78,
+      "sourceKey": "italian-Lesson-03-A1:078",
+      "word": "l’olio",
+      "meaningFa": "روغن",
+      "additionalExamples": [
+        {
+          "it": "Nell’insalata metto un po’ d’olio.",
+          "fa": "داخل سالاد کمی روغن می‌ریزم.",
+          "origin": "authored"
+        },
+        {
+          "it": "L’olio è nella bottiglia verde.",
+          "fa": "روغن داخل بطری سبز است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 79,
+      "sourceKey": "italian-Lesson-03-A1:079",
+      "word": "l’aceto",
+      "meaningFa": "سرکه",
+      "additionalExamples": [
+        {
+          "it": "Non voglio aceto nell’insalata.",
+          "fa": "داخل سالاد سرکه نمی‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "L’aceto è accanto all’olio.",
+          "fa": "سرکه کنار روغن است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 80,
+      "sourceKey": "italian-Lesson-03-A1:080",
+      "word": "la forchetta",
+      "meaningFa": "چنگال",
+      "additionalExamples": [
+        {
+          "it": "Mangio la pasta con la forchetta.",
+          "fa": "پاستا را با چنگال می‌خورم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Mi manca una forchetta per il secondo.",
+          "fa": "برای غذای دوم یک چنگال کم دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 81,
+      "sourceKey": "italian-Lesson-03-A1:081",
+      "word": "il pepe",
+      "meaningFa": "فلفل",
+      "additionalExamples": [
+        {
+          "it": "Sulla carne metto un po’ di pepe.",
+          "fa": "روی گوشت کمی فلفل می‌ریزم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il pepe è vicino al sale.",
+          "fa": "فلفل کنار نمک است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 82,
+      "sourceKey": "italian-Lesson-03-A1:082",
+      "word": "il sale",
+      "meaningFa": "نمک",
+      "additionalExamples": [
+        {
+          "it": "La zuppa ha poco sale.",
+          "fa": "سوپ نمک کمی دارد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Puoi passarmi il sale, per favore?",
+          "fa": "می‌توانی نمک را به من بدهی، لطفاً؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 83,
+      "sourceKey": "italian-Lesson-03-A1:083",
+      "word": "il bicchiere",
+      "meaningFa": "لیوان",
+      "additionalExamples": [
+        {
+          "it": "Vorrei un bicchiere d’acqua fresca.",
+          "fa": "یک لیوان آب خنک می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il mio bicchiere è vuoto.",
+          "fa": "لیوان من خالی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 84,
+      "sourceKey": "italian-Lesson-03-A1:084",
+      "word": "l’acqua",
+      "meaningFa": "آب",
+      "additionalExamples": [
+        {
+          "it": "Sul tavolo c’è una bottiglia d’acqua.",
+          "fa": "روی میز یک بطری آب هست.",
+          "origin": "authored"
+        },
+        {
+          "it": "Bevo acqua durante il pranzo.",
+          "fa": "هنگام ناهار آب می‌نوشم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 85,
+      "sourceKey": "italian-Lesson-03-A1:085",
+      "word": "la bottiglia",
+      "meaningFa": "بطری",
+      "additionalExamples": [
+        {
+          "it": "Porto una bottiglia d’acqua a tavola.",
+          "fa": "یک بطری آب سر میز می‌آورم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questa bottiglia è quasi vuota.",
+          "fa": "این بطری تقریباً خالی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 86,
+      "sourceKey": "italian-Lesson-03-A1:086",
+      "word": "per favore",
+      "meaningFa": "لطفاً؛ صورتِ همراه favore",
+      "additionalExamples": [
+        {
+          "it": "Due tè al limone, per favore.",
+          "fa": "دو چای لیمویی، لطفاً.",
+          "origin": "authored"
+        },
+        {
+          "it": "Ci porta il menù, per favore?",
+          "fa": "منو را برایمان می‌آورید، لطفاً؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 87,
+      "sourceKey": "italian-Lesson-03-A1:087",
+      "word": "per cortesia",
+      "meaningFa": "لطفاً؛ صورتِ همراه cortesia",
+      "additionalExamples": [
+        {
+          "it": "Un tovagliolo pulito, per cortesia.",
+          "fa": "یک دستمال سفرهٔ تمیز، لطفاً.",
+          "origin": "authored"
+        },
+        {
+          "it": "Vorrei pagare con la carta, per cortesia.",
+          "fa": "می‌خواهم با کارت پرداخت کنم، لطفاً.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 88,
+      "sourceKey": "italian-Lesson-03-A1:088",
+      "word": "ancora",
+      "meaningFa": "باز هم؛ بیشتر",
+      "additionalExamples": [
+        {
+          "it": "Vorrei ancora un po’ di riso.",
+          "fa": "باز هم کمی برنج می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Hai ancora fame dopo la pizza?",
+          "fa": "بعد از پیتزا هنوز گرسنه‌ای؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 89,
+      "sourceKey": "italian-Lesson-03-A1:089",
+      "word": "qualcos’altro",
+      "meaningFa": "چیز دیگری",
+      "additionalExamples": [
+        {
+          "it": "Vuoi qualcos’altro dopo il gelato?",
+          "fa": "بعد از بستنی چیز دیگری می‌خواهی؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Prepariamo qualcos’altro per cena.",
+          "fa": "برای شام چیز دیگری آماده می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 90,
+      "sourceKey": "italian-Lesson-03-A1:090",
+      "word": "dessert",
+      "meaningFa": "دسر",
+      "additionalExamples": [
+        {
+          "it": "Per dessert abbiamo una torta al limone.",
+          "fa": "برای دسر یک کیک لیمویی داریم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Dopo il secondo arriva il dessert.",
+          "fa": "بعد از غذای دوم دسر می‌رسد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 91,
+      "sourceKey": "italian-Lesson-03-A1:091",
+      "word": "macedonia",
+      "meaningFa": "سالاد میوه",
+      "additionalExamples": [
+        {
+          "it": "Come dolce prendo una macedonia.",
+          "fa": "برای شیرینی آخر غذا یک سالاد میوه می‌گیرم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Nella macedonia ci sono mele e fragole.",
+          "fa": "داخل سالاد میوه سیب و توت‌فرنگی هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 92,
+      "sourceKey": "italian-Lesson-03-A1:092",
+      "word": "buono",
+      "meaningFa": "خوب؛ خوشمزه؛ صفت مذکر",
+      "additionalExamples": [
+        {
+          "it": "Questo pane è molto buono.",
+          "fa": "این نان خیلی خوشمزه است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il piatto del giorno è buono e costa poco.",
+          "fa": "غذای روز خوشمزه است و قیمت کمی دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 93,
+      "sourceKey": "italian-Lesson-03-A1:093",
+      "word": "magari",
+      "meaningFa": "شاید؛ مثلاً؛ برای پیشنهاد مردد",
+      "additionalExamples": [
+        {
+          "it": "Dopo pranzo, magari prendiamo un caffè.",
+          "fa": "بعد از ناهار، شاید یک قهوه بگیریم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Magari domani proviamo quel ristorante.",
+          "fa": "شاید فردا آن رستوران را امتحان کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 94,
+      "sourceKey": "italian-Lesson-03-A1:094",
+      "word": "D’accordo.",
+      "meaningFa": "باشه؛ موافقم",
+      "additionalExamples": [
+        {
+          "it": "«Ci vediamo alle otto?» «D’accordo.»",
+          "fa": "«ساعت هشت همدیگر را ببینیم؟» «باشه.»",
+          "origin": "authored"
+        },
+        {
+          "it": "D’accordo, prenoto un tavolo per due.",
+          "fa": "باشه، برای دو نفر یک میز رزرو می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 95,
+      "sourceKey": "italian-Lesson-03-A1:095",
+      "word": "la cucina",
+      "meaningFa": "آشپزی؛ شیوهٔ پخت غذا",
+      "additionalExamples": [
+        {
+          "it": "Mi piace la cucina italiana.",
+          "fa": "آشپزی ایتالیایی را دوست دارم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questo ristorante propone cucina di mare.",
+          "fa": "این رستوران غذاهای دریایی ارائه می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 96,
+      "sourceKey": "italian-Lesson-03-A1:096",
+      "word": "vegetariana",
+      "meaningFa": "گیاهی؛ مؤنث در وصف آشپزی",
+      "additionalExamples": [
+        {
+          "it": "Qui servono cucina vegetariana.",
+          "fa": "اینجا غذای گیاهی سرو می‌کنند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Cerco una trattoria con cucina vegetariana.",
+          "fa": "دنبال یک غذاخوری با آشپزی گیاهی می‌گردم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 97,
+      "sourceKey": "italian-Lesson-03-A1:097",
+      "word": "aperto",
+      "meaningFa": "باز؛ دایر؛ صورت مذکر",
+      "additionalExamples": [
+        {
+          "it": "Il bar è aperto fino alle nove.",
+          "fa": "کافه‌بار تا ساعت نه باز است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questo ristorante è aperto anche la domenica.",
+          "fa": "این رستوران یکشنبه‌ها هم باز است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 98,
+      "sourceKey": "italian-Lesson-03-A1:098",
+      "word": "cena",
+      "meaningFa": "شام",
+      "additionalExamples": [
+        {
+          "it": "Per cena preparo una minestra.",
+          "fa": "برای شام یک سوپ درست می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "La cena è pronta, puoi chiamare gli altri?",
+          "fa": "شام آماده است، می‌توانی بقیه را صدا کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 99,
+      "sourceKey": "italian-Lesson-03-A1:099",
+      "word": "chiuso",
+      "meaningFa": "بسته؛ تعطیل؛ صورت مذکر",
+      "additionalExamples": [
+        {
+          "it": "Il negozio è chiuso oggi.",
+          "fa": "مغازه امروز تعطیل است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questo bar è chiuso il lunedì.",
+          "fa": "این کافه‌بار دوشنبه‌ها تعطیل است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 100,
+      "sourceKey": "italian-Lesson-03-A1:100",
+      "word": "il lunedì",
+      "meaningFa": "دوشنبه",
+      "additionalExamples": [
+        {
+          "it": "Il lunedì mangio sempre a casa.",
+          "fa": "دوشنبه‌ها همیشه در خانه غذا می‌خورم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Lunedì andiamo in quel ristorante.",
+          "fa": "دوشنبه به آن رستوران می‌رویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 101,
+      "sourceKey": "italian-Lesson-03-A1:101",
+      "word": "la prenotazione",
+      "meaningFa": "رزرو؛ عمل رزروکردن",
+      "additionalExamples": [
+        {
+          "it": "Ho una prenotazione per due persone.",
+          "fa": "برای دو نفر رزرو دارم.",
+          "origin": "authored"
+        },
+        {
+          "it": "La prenotazione è a nome Rossi.",
+          "fa": "رزرو به نام روسی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 102,
+      "sourceKey": "italian-Lesson-03-A1:102",
+      "word": "Per quante persone?",
+      "meaningFa": "برای چند نفر؟",
+      "additionalExamples": [
+        {
+          "it": "«Vorrei un tavolo.» «Per quante persone?»",
+          "fa": "«یک میز می‌خواهم.» «برای چند نفر؟»",
+          "origin": "authored"
+        },
+        {
+          "it": "Al telefono il cameriere chiede: «Per quante persone?»",
+          "fa": "پشت تلفن پیشخدمت می‌پرسد: «برای چند نفر؟»",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 103,
+      "sourceKey": "italian-Lesson-03-A1:103",
+      "word": "A che nome?",
+      "meaningFa": "به چه نامی؟",
+      "additionalExamples": [
+        {
+          "it": "«Ho una prenotazione.» «A che nome?»",
+          "fa": "«رزرو دارم.» «به چه نامی؟»",
+          "origin": "authored"
+        },
+        {
+          "it": "Prima di controllare la prenotazione mi chiedono: «A che nome?»",
+          "fa": "قبل از بررسی رزرو از من می‌پرسند: «به چه نامی؟»",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 104,
+      "sourceKey": "italian-Lesson-03-A1:104",
+      "word": "forse",
+      "meaningFa": "شاید؛ احتمالاً",
+      "additionalExamples": [
+        {
+          "it": "Siamo in quattro, forse cinque.",
+          "fa": "چهار نفریم، شاید پنج نفر.",
+          "origin": "authored"
+        },
+        {
+          "it": "Forse il ristorante è già chiuso.",
+          "fa": "شاید رستوران از قبل بسته باشد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 105,
+      "sourceKey": "italian-Lesson-03-A1:105",
+      "word": "a più tardi",
+      "meaningFa": "تا بعد؛ بعداً می‌بینمتان",
+      "additionalExamples": [
+        {
+          "it": "Adesso vado al corso, a più tardi!",
+          "fa": "الان به کلاس می‌روم، تا بعد!",
+          "origin": "authored"
+        },
+        {
+          "it": "Ti telefono dopo cena: a più tardi!",
+          "fa": "بعد از شام به تو تلفن می‌کنم: تا بعد!",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 106,
+      "sourceKey": "italian-Lesson-03-A1:106",
+      "word": "riservato",
+      "meaningFa": "رزروشده؛ صورت مذکر",
+      "additionalExamples": [
+        {
+          "it": "Questo tavolo è riservato.",
+          "fa": "این میز رزرو شده است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il posto vicino alla finestra è riservato.",
+          "fa": "جای نزدیک پنجره رزرو شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 107,
+      "sourceKey": "italian-Lesson-03-A1:107",
+      "word": "avere fame",
+      "meaningFa": "گرسنه‌بودن",
+      "additionalExamples": [
+        {
+          "it": "È normale avere fame prima di cena.",
+          "fa": "طبیعی است که قبل از شام گرسنه باشیم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Dopo il corso ho fame e mangio un panino.",
+          "fa": "پس از کلاس گرسنه‌ام و یک ساندویچ می‌خورم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 108,
+      "sourceKey": "italian-Lesson-03-A1:108",
+      "word": "malato",
+      "meaningFa": "بیمار؛ مریض؛ صورت مذکر",
+      "additionalExamples": [
+        {
+          "it": "Mio fratello è malato e rimane a casa.",
+          "fa": "برادرم بیمار است و در خانه می‌ماند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il cameriere è malato, oggi non lavora.",
+          "fa": "پیشخدمت بیمار است، امروز کار نمی‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 109,
+      "sourceKey": "italian-Lesson-03-A1:109",
+      "word": "la mancia",
+      "meaningFa": "انعام",
+      "additionalExamples": [
+        {
+          "it": "Lasciamo una piccola mancia al cameriere.",
+          "fa": "انعام کوچکی برای پیشخدمت می‌گذاریم.",
+          "origin": "authored"
+        },
+        {
+          "it": "La mancia non è compresa nel conto.",
+          "fa": "انعام در صورت‌حساب حساب نشده است.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

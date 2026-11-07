@@ -1,0 +1,983 @@
+[
+  {
+    "row": 1,
+    "word": "Buon appetito!",
+    "meaningFa": "نوش جان!",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ عنوان درس",
+    "exampleIt": "Buon appetito",
+    "exampleFa": "نوش جان!",
+    "noteFa": "عنوان بدون علامت تعجب چاپ شده؛ علامت تعجب در سرمدخل آموزشی است."
+  },
+  {
+    "row": 2,
+    "word": "Cosa desidera?",
+    "meaningFa": "چه میل دارید؟؛ محترمانه",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ comunicazione، عبارت اول",
+    "exampleIt": "Cosa desidera?",
+    "exampleFa": "چه میل دارید؟",
+    "noteFa": ""
+  },
+  {
+    "row": 3,
+    "word": "vorrei",
+    "meaningFa": "میل دارم؛ می‌خواهم؛ درخواست مؤدبانه",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ comunicazione، عبارت دوم",
+    "exampleIt": "Vorrei solo un primo.",
+    "exampleFa": "فقط یک غذای اول می‌خواهم.",
+    "noteFa": "صورت اول‌شخص شرطیِ volere برای درخواست مؤدبانه؛ با مصدر یکی نیست."
+  },
+  {
+    "row": 4,
+    "word": "solo",
+    "meaningFa": "فقط؛ تنها",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ comunicazione، عبارت دوم",
+    "exampleIt": "Vorrei solo un primo.",
+    "exampleFa": "فقط یک غذای اول می‌خواهم.",
+    "noteFa": ""
+  },
+  {
+    "row": 5,
+    "word": "un primo",
+    "meaningFa": "غذای اول؛ معمولاً پاستا، برنج یا سوپ",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ comunicazione، عبارت دوم",
+    "exampleIt": "Vorrei solo un primo.",
+    "exampleFa": "فقط یک غذای اول می‌خواهم.",
+    "noteFa": "سرمدخل با آرتیکل نامعینِ دیده‌شده است؛ آرتیکل معین در این گزیده تأیید نشده."
+  },
+  {
+    "row": 6,
+    "word": "Che cosa avete oggi?",
+    "meaningFa": "امروز چه دارید؟؛ خطاب جمع به کارکنان",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ comunicazione، عبارت سوم",
+    "exampleIt": "Che cosa avete oggi?",
+    "exampleFa": "امروز چه دارید؟",
+    "noteFa": ""
+  },
+  {
+    "row": 7,
+    "word": "Prende un caffè?",
+    "meaningFa": "یک قهوه میل می‌کنید؟؛ محترمانه",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ comunicazione، عبارت چهارم",
+    "exampleIt": "Prende un caffè?",
+    "exampleFa": "یک قهوه میل می‌کنید؟",
+    "noteFa": ""
+  },
+  {
+    "row": 8,
+    "word": "il pane",
+    "meaningFa": "نان",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ comunicazione، عبارت پنجم؛ آرتیکل: PDF/چاپی39، برچسب IL PANE",
+    "exampleIt": "Scusi, mi porta ancora un po’ di pane?",
+    "exampleFa": "ببخشید، کمی دیگر نان برایم می‌آورید؟",
+    "noteFa": "آرتیکل از برچسب صفحه39 است؛ به نقل صفحه33 اضافه نشده."
+  },
+  {
+    "row": 9,
+    "word": "il conto",
+    "meaningFa": "صورت‌حساب",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ comunicazione، عبارت ششم",
+    "exampleIt": "Il conto, per cortesia.",
+    "exampleFa": "صورت‌حساب، لطفاً.",
+    "noteFa": "عبارت کوتاه درخواست است، نه جملهٔ دارای فعل."
+  },
+  {
+    "row": 10,
+    "word": "È possibile prenotare un tavolo?",
+    "meaningFa": "آیا می‌توان یک میز رزرو کرد؟",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ comunicazione، عبارت هفتم",
+    "exampleIt": "È possibile prenotare un tavolo?",
+    "exampleFa": "آیا می‌توان یک میز رزرو کرد؟",
+    "noteFa": ""
+  },
+  {
+    "row": 11,
+    "word": "bar",
+    "meaningFa": "کافه‌بار؛ محل نوشیدنی و خوراک سبک",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ vocabolario Espresso، ردیف اول؛ آرتیکل: PDF/چاپی35، گزینهٔ «Al bar»",
+    "exampleIt": "bar",
+    "exampleFa": "کافه‌بار",
+    "noteFa": "برچسب واژگان؛ Al bar صفحه35 ترکیب a+il است و آرتیکل/جنس مذکر را نشان می‌دهد؛ صورت جمع مستقلاً تأیید نشده."
+  },
+  {
+    "row": 12,
+    "word": "il caffè",
+    "meaningFa": "قهوه",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ vocabolario Espresso، ردیف دوم؛ آرتیکل: PDF/چاپی43، بخش bene-buono، «Qui il caffè è molto buono.»",
+    "exampleIt": "caffè",
+    "exampleFa": "قهوه",
+    "noteFa": "نقل، برچسب واژگان است؛ آرتیکل از صفحه43 تأیید می‌شود."
+  },
+  {
+    "row": 13,
+    "word": "panino",
+    "meaningFa": "ساندویچ با نان کوچک",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ vocabolario Espresso، ردیف سوم",
+    "exampleIt": "panino",
+    "exampleFa": "ساندویچ با نان کوچک",
+    "noteFa": "برچسب واژگان؛ آرتیکل معین و جمع در گزیده تأیید نشده‌اند."
+  },
+  {
+    "row": 14,
+    "word": "cornetto",
+    "meaningFa": "کروسان؛ شیرینی هلالی",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ vocabolario Espresso، ردیف سوم؛ صورت‌ها: PDF/چاپی35، کادر «un cornetto / due cornetti»",
+    "exampleIt": "cornetto",
+    "exampleFa": "کروسان",
+    "noteFa": "برچسب واژگان؛ cornetti جمعِ نوشته‌شده است، آرتیکل معین نامعلوم می‌ماند."
+  },
+  {
+    "row": 15,
+    "word": "il pesce",
+    "meaningFa": "ماهی؛ به‌عنوان غذا",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ vocabolario Espresso، ردیف چهارم؛ آرتیکل: PDF/چاپی38، «No, preferisco il pesce.»",
+    "exampleIt": "pesce",
+    "exampleFa": "ماهی",
+    "noteFa": "برچسب واژگان؛ آرتیکل از صفحه38 است."
+  },
+  {
+    "row": 16,
+    "word": "la pasta",
+    "meaningFa": "پاستا",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ vocabolario Espresso، ردیف چهارم؛ آرتیکل: PDF/چاپی37، «Vuoi anche tu la pasta o preferisci qualcos’altro?»",
+    "exampleIt": "pasta",
+    "exampleFa": "پاستا",
+    "noteFa": "برچسب واژگان؛ آرتیکل از صفحه37 است."
+  },
+  {
+    "row": 17,
+    "word": "la carne",
+    "meaningFa": "گوشت",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ vocabolario Espresso، ردیف چهارم؛ آرتیکل و جمع: PDF/چاپی43، کادر جمع اسم‌ها",
+    "exampleIt": "carne",
+    "exampleFa": "گوشت",
+    "noteFa": "برچسب واژگان؛ la carne / le carni در صفحه43 چاپ شده‌اند."
+  },
+  {
+    "row": 18,
+    "word": "l’antipasto",
+    "meaningFa": "پیش‌غذا",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ vocabolario Espresso، ردیف پنجم؛ آرتیکل و جنس و جمع: PDF/چاپی43، جدول maschile",
+    "exampleIt": "antipasto",
+    "exampleFa": "پیش‌غذا",
+    "noteFa": "برچسب واژگان؛ l’antipasto / gli antipasti در جدول مذکر است، جنس از آپاستروف استنتاج نشده."
+  },
+  {
+    "row": 19,
+    "word": "l’acqua minerale",
+    "meaningFa": "آب معدنی",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ vocabolario Espresso، ردیف پنجم؛ آرتیکل: PDF/چاپی34، فهرست نوشیدنی‌ها",
+    "exampleIt": "acqua minerale",
+    "exampleFa": "آب معدنی",
+    "noteFa": "برچسب واژگان؛ l’acqua minerale دیده می‌شود، اما جنس مستقل در این گزیده تأیید نشده و تمرین آرتیکل غیرفعال است."
+  },
+  {
+    "row": 20,
+    "word": "il cameriere",
+    "meaningFa": "پیشخدمت مرد",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ vocabolario Espresso، ردیف ششم؛ آرتیکل: PDF/چاپی37، «Ecco l’ordinazione che ha preso il cameriere.»",
+    "exampleIt": "cameriere",
+    "exampleFa": "پیشخدمت مرد",
+    "noteFa": "برچسب واژگان؛ جنس و آرتیکل از il cameriere صفحه37 است."
+  },
+  {
+    "row": 21,
+    "word": "contorno",
+    "meaningFa": "غذای کنار بشقاب؛ مخلفات",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ vocabolario Espresso، ردیف ششم",
+    "exampleIt": "contorno",
+    "exampleFa": "غذای کنار بشقاب",
+    "noteFa": "برچسب واژگان؛ Contorni در منوی صفحه36 آمده، آرتیکل معین تأیید نشده."
+  },
+  {
+    "row": 22,
+    "word": "prendere",
+    "meaningFa": "گرفتن؛ سفارش‌دادن غذا یا نوشیدنی",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ vocabolario Espresso، ردیف آخر",
+    "exampleIt": "prendere",
+    "exampleFa": "گرفتن؛ سفارش‌دادن",
+    "noteFa": "مصدرِ چاپ‌شده است؛ در سفارش با صورت صرف‌شده به کار می‌رود."
+  },
+  {
+    "row": 23,
+    "word": "volere",
+    "meaningFa": "خواستن",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ vocabolario Espresso، ردیف ماقبل آخر",
+    "exampleIt": "volere",
+    "exampleFa": "خواستن",
+    "noteFa": "مصدرِ چاپ‌شده است؛ vorrei مدخلِ صورت مؤدبانهٔ مستقل دارد."
+  },
+  {
+    "row": 24,
+    "word": "prenotare",
+    "meaningFa": "رزروکردن",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ vocabolario Espresso، ردیف ماقبل آخر",
+    "exampleIt": "prenotare",
+    "exampleFa": "رزروکردن",
+    "noteFa": "مصدرِ چاپ‌شده است."
+  },
+  {
+    "row": 25,
+    "word": "preferire",
+    "meaningFa": "ترجیح‌دادن",
+    "locator": "کتاب درسی و تمرین: PDF 33، چاپی 33؛ vocabolario Espresso، ردیف آخر",
+    "exampleIt": "preferire",
+    "exampleFa": "ترجیح‌دادن",
+    "noteFa": "مصدرِ چاپ‌شده است."
+  },
+  {
+    "row": 26,
+    "word": "l’aranciata",
+    "meaningFa": "نوشیدنی پرتقالی",
+    "locator": "کتاب درسی و تمرین: PDF 34، چاپی 34؛ تمرین1، فهرست نوشیدنی‌ها، سطر اول، مورد اول",
+    "exampleIt": "l’aranciata",
+    "exampleFa": "نوشیدنی پرتقالی",
+    "noteFa": "برچسب فهرست؛ جنس از صورت «due aranciate» صفحه35 و الگوی مؤنث -a در صفحه43 قابل تأیید است؛ آرتیکل به‌تنهایی دلیل جنس نیست."
+  },
+  {
+    "row": 27,
+    "word": "l’aperitivo",
+    "meaningFa": "نوشیدنی پیش از غذا؛ آپریتیف",
+    "locator": "کتاب درسی و تمرین: PDF 34، چاپی 34؛ تمرین1، فهرست نوشیدنی‌ها، سطر اول، مورد دوم؛ جنس و جمع: PDF/چاپی43، جدول maschile",
+    "exampleIt": "l’aperitivo",
+    "exampleFa": "نوشیدنی پیش از غذا",
+    "noteFa": "برچسب فهرست؛ l’aperitivo / gli aperitivi در جدول مذکر چاپ شده‌اند."
+  },
+  {
+    "row": 28,
+    "word": "il bicchiere di latte",
+    "meaningFa": "یک لیوان شیر",
+    "locator": "کتاب درسی و تمرین: PDF 34، چاپی 34؛ تمرین1، فهرست نوشیدنی‌ها، سطر اول، مورد سوم",
+    "exampleIt": "il bicchiere di latte",
+    "exampleFa": "لیوان شیر",
+    "noteFa": "عبارت اسمیِ دیده‌شده با il؛ سرمدخل اجرایی bicchiere di latte است."
+  },
+  {
+    "row": 29,
+    "word": "lo spumante",
+    "meaningFa": "شراب گازدار",
+    "locator": "کتاب درسی و تمرین: PDF 34، چاپی 34؛ تمرین1، فهرست نوشیدنی‌ها، سطر دوم، مورد اول؛ جنس و جمع: PDF/چاپی43، جدول maschile",
+    "exampleIt": "lo spumante",
+    "exampleFa": "شراب گازدار",
+    "noteFa": "برچسب فهرست؛ lo spumante / gli spumanti در جدول مذکر است."
+  },
+  {
+    "row": 30,
+    "word": "la spremuta di pompelmo",
+    "meaningFa": "آب گریپ‌فروت تازه",
+    "locator": "کتاب درسی و تمرین: PDF 34، چاپی 34؛ تمرین1، فهرست نوشیدنی‌ها، سطر دوم، مورد دوم",
+    "exampleIt": "la spremuta di pompelmo",
+    "exampleFa": "آب گریپ‌فروت تازه",
+    "noteFa": "برچسب فهرست؛ جمع این عبارت در گزیده نیامده."
+  },
+  {
+    "row": 31,
+    "word": "il cappuccino",
+    "meaningFa": "کاپوچینو",
+    "locator": "کتاب درسی و تمرین: PDF 34، چاپی 34؛ تمرین1، فهرست نوشیدنی‌ها، سطر دوم، مورد سوم",
+    "exampleIt": "il cappuccino",
+    "exampleFa": "کاپوچینو",
+    "noteFa": "برچسب فهرست با آرتیکل مذکر؛ جمع نامعلوم می‌ماند."
+  },
+  {
+    "row": 32,
+    "word": "la birra",
+    "meaningFa": "آبجو",
+    "locator": "کتاب درسی و تمرین: PDF 34، چاپی 34؛ تمرین1، فهرست نوشیدنی‌ها، سطر دوم، مورد چهارم؛ جمع: PDF/چاپی158، تمرین3، birre",
+    "exampleIt": "la birra",
+    "exampleFa": "آبجو",
+    "noteFa": "برچسب فهرست؛ صورت birre جداگانه در تمرین آمده است."
+  },
+  {
+    "row": 33,
+    "word": "la crema",
+    "meaningFa": "کرم شیرینی",
+    "locator": "کتاب درسی و تمرین: PDF 35، چاپی 35؛ عنوان تمرین3",
+    "exampleIt": "Con la crema o con la marmellata?",
+    "exampleFa": "با کرم یا با مربا؟",
+    "noteFa": "عبارت پرسشی عنوان است، نه جملهٔ کامل دارای فعل."
+  },
+  {
+    "row": 34,
+    "word": "la marmellata",
+    "meaningFa": "مربا",
+    "locator": "کتاب درسی و تمرین: PDF 35، چاپی 35؛ عنوان تمرین3؛ جمع: PDF/چاپی158، تمرین3، marmellate",
+    "exampleIt": "Con la crema o con la marmellata?",
+    "exampleFa": "با کرم یا با مربا؟",
+    "noteFa": "عبارت پرسشی عنوان است، نه جملهٔ کامل دارای فعل."
+  },
+  {
+    "row": 35,
+    "word": "supermercato",
+    "meaningFa": "سوپرمارکت",
+    "locator": "کتاب درسی و تمرین: PDF 35، چاپی 35؛ تمرین3، گزینه‌های dove، گزینهٔ سوم",
+    "exampleIt": "Al supermercato",
+    "exampleFa": "در سوپرمارکت",
+    "noteFa": "گزینهٔ مکان است، نه جمله؛ Al ترکیب a+il است."
+  },
+  {
+    "row": 36,
+    "word": "la mattina",
+    "meaningFa": "صبح؛ بخش آغاز روز",
+    "locator": "کتاب درسی و تمرین: PDF 35، چاپی 35؛ تمرین3، گزینه‌های quando، گزینهٔ اول",
+    "exampleIt": "La mattina",
+    "exampleFa": "صبح",
+    "noteFa": "گزینهٔ زمان، نه جملهٔ کامل."
+  },
+  {
+    "row": 37,
+    "word": "il pomeriggio",
+    "meaningFa": "بعدازظهر",
+    "locator": "کتاب درسی و تمرین: PDF 35، چاپی 35؛ تمرین3، گزینه‌های quando، گزینهٔ دوم",
+    "exampleIt": "Il pomeriggio",
+    "exampleFa": "بعدازظهر",
+    "noteFa": "گزینهٔ زمان، نه جملهٔ کامل."
+  },
+  {
+    "row": 38,
+    "word": "la sera",
+    "meaningFa": "عصر و شب؛ بخش پایانی روز",
+    "locator": "کتاب درسی و تمرین: PDF 35، چاپی 35؛ تمرین3، گزینه‌های quando، گزینهٔ سوم",
+    "exampleIt": "La sera",
+    "exampleFa": "عصر و شب",
+    "noteFa": "گزینهٔ زمان، نه جملهٔ کامل."
+  },
+  {
+    "row": 39,
+    "word": "il caffè macchiato",
+    "meaningFa": "قهوه با کمی شیر؛ ماکیاتو",
+    "locator": "کتاب درسی و تمرین: PDF 35، چاپی 35؛ تمرین3، پاسخ اول مشتری",
+    "exampleIt": "Io prendo un cornetto e un caffè macchiato.",
+    "exampleFa": "من یک کروسان و یک قهوهٔ ماکیاتو می‌گیرم.",
+    "noteFa": "عبارت اسمی؛ جنس/آرتیکلِ caffè در صفحه43 آمده، صفت macchiato صورت مذکر مشاهده‌شده است."
+  },
+  {
+    "row": 40,
+    "word": "il tè",
+    "meaningFa": "چای",
+    "locator": "کتاب درسی و تمرین: PDF 35، چاپی 35؛ تمرین3، پاسخ مشتری دوم؛ آرتیکل و جمع: PDF/چاپی43، جدول «ma: il tè / i tè»",
+    "exampleIt": "Anch’io vorrei un cornetto e poi... un tè al limone.",
+    "exampleFa": "من هم یک کروسان و بعد... یک چای لیمویی می‌خواهم.",
+    "noteFa": "تکیهٔ پایانی حفظ شود؛ tè در جمع تغییر نمی‌کند."
+  },
+  {
+    "row": 41,
+    "word": "il limone",
+    "meaningFa": "لیمو",
+    "locator": "کتاب درسی و تمرین: PDF 35، چاپی 35؛ تمرین3، پاسخ مشتری دوم",
+    "exampleIt": "Anch’io vorrei un cornetto e poi... un tè al limone.",
+    "exampleFa": "من هم یک کروسان و بعد... یک چای لیمویی می‌خواهم.",
+    "noteFa": "al limone ترکیب a+il است؛ نقل کامل حفظ شده است."
+  },
+  {
+    "row": 42,
+    "word": "il latte",
+    "meaningFa": "شیر",
+    "locator": "کتاب درسی و تمرین: PDF 35، چاپی 35؛ تمرین3، پاسخ پس از «E Lei che cosa prende?»",
+    "exampleIt": "Mmm, solo un tè al latte.",
+    "exampleFa": "هوم، فقط یک چای با شیر.",
+    "noteFa": "al latte ترکیب a+il است."
+  },
+  {
+    "row": 43,
+    "word": "mangiare",
+    "meaningFa": "خوردن",
+    "locator": "کتاب درسی و تمرین: PDF 35، چاپی 35؛ تمرین3 صفحه35، پرسش زیر گفت‌وگو",
+    "exampleIt": "Che cosa prendono da mangiare?",
+    "exampleFa": "برای خوردن چه سفارش می‌دهند؟",
+    "noteFa": "مصدر در عبارت da mangiare؛ جملهٔ پرسشی چاپ‌شده نقل شده است."
+  },
+  {
+    "row": 44,
+    "word": "ordinare",
+    "meaningFa": "سفارش‌دادن",
+    "locator": "کتاب درسی و تمرین: PDF 35، چاپی 35؛ عنوان تمرین4",
+    "exampleIt": "Ordinare",
+    "exampleFa": "سفارش‌دادن",
+    "noteFa": "مصدر در عنوان؛ با prendere یکی نیست و cue آن را متمایز می‌کند."
+  },
+  {
+    "row": 45,
+    "word": "tramezzino",
+    "meaningFa": "ساندویچ مثلثی با نان نرم",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ تمرین5، برچسب تصویر پایین چپ",
+    "exampleIt": "tramezzino",
+    "exampleFa": "ساندویچ مثلثی",
+    "noteFa": "برچسب تصویر؛ آرتیکل و جمع تأیید نشده‌اند."
+  },
+  {
+    "row": 46,
+    "word": "il gelato",
+    "meaningFa": "بستنی",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ تمرین5، برچسب تصویر پایین وسط؛ آرتیکل و جمع: PDF/چاپی38، جدول «il gelato / i gelati»",
+    "exampleIt": "gelato",
+    "exampleFa": "بستنی",
+    "noteFa": "برچسب تصویر؛ صورت‌های معین و جمع در صفحه38 چاپ شده‌اند."
+  },
+  {
+    "row": 47,
+    "word": "la pizza",
+    "meaningFa": "پیتزا",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ تمرین5، برچسب تصویر پایین راست؛ آرتیکل و جمع: PDF/چاپی38، جدول «la pizza / le pizze»",
+    "exampleIt": "pizza",
+    "exampleFa": "پیتزا",
+    "noteFa": "برچسب تصویر؛ صورت‌های معین و جمع در صفحه38 چاپ شده‌اند."
+  },
+  {
+    "row": 48,
+    "word": "il toast",
+    "meaningFa": "ساندویچ تست",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ تمرین5، برچسب تصویر بالا راست؛ آرتیکل و جمع: PDF/چاپی43، جدول «il toast / i toast»",
+    "exampleIt": "toast",
+    "exampleFa": "ساندویچ تست",
+    "noteFa": "برچسب تصویر؛ toast در جمع تغییر نمی‌کند."
+  },
+  {
+    "row": 49,
+    "word": "il piatto",
+    "meaningFa": "بشقاب؛ در این درس همچنین یک خوراک",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ عنوان تمرین6؛ آرتیکل: PDF/چاپی39، برچسب IL PIATTO",
+    "exampleIt": "Quali piatti conosci?",
+    "exampleFa": "کدام غذاها را می‌شناسی؟",
+    "noteFa": "معنی ظرف و خوراک در یک مدخل است؛ piatti صورت جمع در عنوان است."
+  },
+  {
+    "row": 50,
+    "word": "il menù",
+    "meaningFa": "منو؛ فهرست غذا",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ تمرین6، دستور",
+    "exampleIt": "Guarda il menù e scrivi il nome del piatto sotto ogni disegno.",
+    "exampleFa": "به منو نگاه کن و نام غذا را زیر هر تصویر بنویس.",
+    "noteFa": "اکسان ù در menù حفظ شود؛ این نمونه دستور تمرین است."
+  },
+  {
+    "row": 51,
+    "word": "prosciutto",
+    "meaningFa": "ژامبون",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ منو، Antipasti، سطر اول",
+    "exampleIt": "Prosciutto e formaggio",
+    "exampleFa": "ژامبون و پنیر",
+    "noteFa": "عبارت منو؛ آرتیکل تأیید نشده."
+  },
+  {
+    "row": 52,
+    "word": "il formaggio",
+    "meaningFa": "پنیر",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ منو، Antipasti، سطر اول؛ آرتیکل: PDF/چاپی42، گزینهٔ «il formaggio»",
+    "exampleIt": "Prosciutto e formaggio",
+    "exampleFa": "ژامبون و پنیر",
+    "noteFa": "عبارت منو، نه جمله؛ آرتیکل از صفحه42 است."
+  },
+  {
+    "row": 53,
+    "word": "pomodori",
+    "meaningFa": "گوجه‌فرنگی‌ها؛ صورت جمع",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ منو، Antipasti، سطر دوم",
+    "exampleIt": "Pomodori ripieni",
+    "exampleFa": "گوجه‌فرنگی شکم‌پر",
+    "noteFa": "هدف جمعِ چاپ‌شده است؛ مفرد و آرتیکلِ دیده‌نشده ساخته نمی‌شوند."
+  },
+  {
+    "row": 54,
+    "word": "lasagne",
+    "meaningFa": "لازانیا؛ نام غذا با صورت جمع",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ منو، Primi piatti، سطر سوم",
+    "exampleIt": "Lasagne al forno",
+    "exampleFa": "لازانیا در فر",
+    "noteFa": "هدف همان جمعِ چاپ‌شده است؛ آرتیکل معین در تمرین160 جای خالی است و تکمیل نشده."
+  },
+  {
+    "row": 55,
+    "word": "risotto",
+    "meaningFa": "ریزوتو؛ خوراک برنج ایتالیایی",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ منو، Primi piatti، سطر چهارم",
+    "exampleIt": "Risotto ai funghi",
+    "exampleFa": "ریزوتو با قارچ",
+    "noteFa": "عبارت منو؛ آرتیکل نامعلوم."
+  },
+  {
+    "row": 56,
+    "word": "spaghetti",
+    "meaningFa": "اسپاگتی؛ صورت جمع",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ منو، Primi piatti، سطر آخر؛ آرتیکل: PDF/چاپی37، «per me gli spaghetti.»",
+    "exampleIt": "Spaghetti al pomodoro",
+    "exampleFa": "اسپاگتی با سس گوجه‌فرنگی",
+    "noteFa": "هدف جمع؛ gli در گفت‌وگوی صفحه37 دیده می‌شود."
+  },
+  {
+    "row": 57,
+    "word": "il pollo",
+    "meaningFa": "مرغ؛ گوشت مرغ",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ منو، Secondi piatti، بخش Carne؛ آرتیکل: PDF/چاپی159، تمرین6، «Con il pollo noi»",
+    "exampleIt": "Pollo allo spiedo",
+    "exampleFa": "مرغ بریان روی سیخ",
+    "noteFa": "عبارت منو؛ در ارجاع159 فقط بخش نوشته‌شده مبنای آرتیکل است، فعلِ جای خالی کامل نشده."
+  },
+  {
+    "row": 58,
+    "word": "l’insalata mista",
+    "meaningFa": "سالاد مخلوط",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ منو، Contorni؛ آرتیکل/جنسِ insalata: PDF/چاپی43، جدول femminile",
+    "exampleIt": "Insalata mista",
+    "exampleFa": "سالاد مخلوط",
+    "noteFa": "صفت mista صورت مؤنث مشاهده‌شده؛ insalata / insalate در جدول مؤنث صفحه43 است."
+  },
+  {
+    "row": 59,
+    "word": "le patatine fritte",
+    "meaningFa": "سیب‌زمینی سرخ‌کرده",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ منو، Contorni؛ آرتیکل: PDF/چاپی37، «una cotoletta con le patatine fritte.»",
+    "exampleIt": "Patatine fritte",
+    "exampleFa": "سیب‌زمینی سرخ‌کرده",
+    "noteFa": "هدف عبارت جمع؛ آرتیکل از گفت‌وگوی37 است."
+  },
+  {
+    "row": 60,
+    "word": "frutta fresca",
+    "meaningFa": "میوهٔ تازه",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ منو، Dessert؛ جنس/آرتیکل این عبارت مستقلاً تأیید نشده",
+    "exampleIt": "Frutta fresca",
+    "exampleFa": "میوهٔ تازه",
+    "noteFa": "نام جمعی غذا است؛ در اجرا آرتیکل نامعلوم می‌ماند و la آموزشیِ تأییدنشده وارد تمرین نمی‌شود."
+  },
+  {
+    "row": 61,
+    "word": "fragole",
+    "meaningFa": "توت‌فرنگی‌ها؛ صورت جمع",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ منو، Dessert؛ جنس مفرد: PDF/چاپی160، تمرین8، «la fragola»",
+    "exampleIt": "Fragole",
+    "exampleFa": "توت‌فرنگی‌ها",
+    "noteFa": "هدف جمعِ چاپ‌شده است؛ آرتیکل معینِ جمع در متن دیده نشده و در اجرا نامعلوم می‌ماند."
+  },
+  {
+    "row": 62,
+    "word": "il tiramisù",
+    "meaningFa": "تیرامیسو؛ دسر ایتالیایی",
+    "locator": "کتاب درسی و تمرین: PDF 36، چاپی 36؛ منو، Dessert؛ آرتیکل: PDF/چاپی40، «o il tiramisù, molto buono.»",
+    "exampleIt": "Tiramisù",
+    "exampleFa": "تیرامیسو",
+    "noteFa": "نام دسر؛ اکسان پایانی حفظ شود."
+  },
+  {
+    "row": 63,
+    "word": "il ragazzo",
+    "meaningFa": "پسر؛ جوان مذکر",
+    "locator": "کتاب درسی و تمرین: PDF 37، چاپی 37؛ تمرین7، گفت‌وگو",
+    "exampleIt": "E per il ragazzo?",
+    "exampleFa": "و برای پسر؟",
+    "noteFa": ""
+  },
+  {
+    "row": 64,
+    "word": "cotoletta",
+    "meaningFa": "کتلت؛ برش گوشت سوخاری",
+    "locator": "کتاب درسی و تمرین: PDF 37، چاپی 37؛ تمرین7، گفت‌وگو",
+    "exampleIt": "Mmm, una cotoletta con le patatine fritte.",
+    "exampleFa": "هوم، یک کتلت با سیب‌زمینی سرخ‌کرده.",
+    "noteFa": "una جنس مؤنث را نشان می‌دهد، اما آرتیکل معین در این گزیده تأیید نشده."
+  },
+  {
+    "row": 65,
+    "word": "bere",
+    "meaningFa": "نوشیدن",
+    "locator": "کتاب درسی و تمرین: PDF 37، چاپی 37؛ تمرین7، گفت‌وگو",
+    "exampleIt": "E da bere?",
+    "exampleFa": "و برای نوشیدن؟",
+    "noteFa": "مصدر در عبارت da bere، به معنی نوشیدنیِ مورد سفارش."
+  },
+  {
+    "row": 66,
+    "word": "vino rosso",
+    "meaningFa": "شراب قرمز",
+    "locator": "کتاب درسی و تمرین: PDF 37، چاپی 37؛ تمرین7، گفت‌وگو",
+    "exampleIt": "Un quarto di vino rosso e mezza minerale, per piacere.",
+    "exampleFa": "یک‌چهارم لیتر شراب قرمز و نیم لیتر آب معدنی، لطفاً.",
+    "noteFa": "نام نوشیدنی؛ آرتیکل معین در این گزیده تأیید نشده و در اجرا null است."
+  },
+  {
+    "row": 67,
+    "word": "per piacere",
+    "meaningFa": "لطفاً؛ صورتِ همراه piacere",
+    "locator": "کتاب درسی و تمرین: PDF 37، چاپی 37؛ تمرین7، گفت‌وگو",
+    "exampleIt": "Un quarto di vino rosso e mezza minerale, per piacere.",
+    "exampleFa": "یک‌چهارم لیتر شراب قرمز و نیم لیتر آب معدنی، لطفاً.",
+    "noteFa": "با دو عبارت مؤدبانهٔ per favore / per cortesia هم‌گروه است."
+  },
+  {
+    "row": 68,
+    "word": "gasata",
+    "meaningFa": "گازدار؛ صورت مؤنث برای آب",
+    "locator": "کتاب درسی و تمرین: PDF 37، چاپی 37؛ تمرین7، گفت‌وگو",
+    "exampleIt": "Gasata o naturale?",
+    "exampleFa": "گازدار یا بدون گاز؟",
+    "noteFa": "هدف مؤنث مشاهده‌شده است؛ صورت مذکرِ ندیده ساخته نشده."
+  },
+  {
+    "row": 69,
+    "word": "naturale",
+    "meaningFa": "بدون گاز؛ برای آب",
+    "locator": "کتاب درسی و تمرین: PDF 37، چاپی 37؛ تمرین7، گفت‌وگو",
+    "exampleIt": "Gasata o naturale?",
+    "exampleFa": "گازدار یا بدون گاز؟",
+    "noteFa": "در این بافت به آب بدون گاز اشاره می‌کند."
+  },
+  {
+    "row": 70,
+    "word": "senza ghiaccio",
+    "meaningFa": "بدون یخ",
+    "locator": "کتاب درسی و تمرین: PDF 37، چاپی 37؛ تمرین7، آخرین پاسخ",
+    "exampleIt": "Mmm... una coca... senza ghiaccio.",
+    "exampleFa": "هوم... یک نوشابهٔ کولا... بدون یخ.",
+    "noteFa": ""
+  },
+  {
+    "row": 71,
+    "word": "vino bianco",
+    "meaningFa": "شراب سفید",
+    "locator": "کتاب درسی و تمرین: PDF 38، چاپی 38؛ تمرین8، زوج واژگانِ سطر دوم",
+    "exampleIt": "vino bianco/vino rosso",
+    "exampleFa": "شراب سفید/شراب قرمز",
+    "noteFa": "زوج واژگان، نه جمله؛ آرتیکل معین تأیید نشده و در اجرا null است."
+  },
+  {
+    "row": 72,
+    "word": "riso",
+    "meaningFa": "برنج",
+    "locator": "کتاب درسی و تمرین: PDF 38، چاپی 38؛ تمرین8، زوج واژگانِ سطر سوم",
+    "exampleIt": "pasta/riso",
+    "exampleFa": "پاستا/برنج",
+    "noteFa": "زوج واژگان، نه جمله؛ آرتیکل معین تأیید نشده و در اجرا null است."
+  },
+  {
+    "row": 73,
+    "word": "il tavolo",
+    "meaningFa": "میز",
+    "locator": "کتاب درسی و تمرین: PDF 39، چاپی 39؛ عنوان تمرین10",
+    "exampleIt": "Che cosa manca sul tavolo?",
+    "exampleFa": "روی میز چه چیزی کم است؟",
+    "noteFa": "sul ترکیب su+il است."
+  },
+  {
+    "row": 74,
+    "word": "il cucchiaio",
+    "meaningFa": "قاشق",
+    "locator": "کتاب درسی و تمرین: PDF 39، چاپی 39؛ تمرین10، برچسب وسایل میز، بالا وسط",
+    "exampleIt": "IL CUCCHIAIO",
+    "exampleFa": "قاشق",
+    "noteFa": "برچسب تصویر با حروف بزرگ حفظ شده."
+  },
+  {
+    "row": 75,
+    "word": "il coltello",
+    "meaningFa": "چاقو",
+    "locator": "کتاب درسی و تمرین: PDF 39، چاپی 39؛ تمرین10، برچسب وسایل میز، سمت چپ",
+    "exampleIt": "IL COLTELLO",
+    "exampleFa": "چاقو",
+    "noteFa": "برچسب تصویر با حروف بزرگ حفظ شده."
+  },
+  {
+    "row": 76,
+    "word": "il cucchiaino",
+    "meaningFa": "قاشق چای‌خوری",
+    "locator": "کتاب درسی و تمرین: PDF 39، چاپی 39؛ تمرین10، برچسب وسایل میز، وسط",
+    "exampleIt": "IL CUCCHIAINO",
+    "exampleFa": "قاشق چای‌خوری",
+    "noteFa": "برچسب تصویر با حروف بزرگ حفظ شده."
+  },
+  {
+    "row": 77,
+    "word": "il tovagliolo",
+    "meaningFa": "دستمال سفره",
+    "locator": "کتاب درسی و تمرین: PDF 39، چاپی 39؛ تمرین10، برچسب وسایل میز، وسط",
+    "exampleIt": "IL TOVAGLIOLO",
+    "exampleFa": "دستمال سفره",
+    "noteFa": "برچسب تصویر با حروف بزرگ حفظ شده."
+  },
+  {
+    "row": 78,
+    "word": "l’olio",
+    "meaningFa": "روغن",
+    "locator": "کتاب درسی و تمرین: PDF 39، چاپی 39؛ تمرین10، برچسب وسایل میز، بالا راست",
+    "exampleIt": "L’OLIO",
+    "exampleFa": "روغن",
+    "noteFa": "برچسب تصویر؛ جنس مستقل از l’ در این گزیده معلوم نیست و تمرین آرتیکل غیرفعال است."
+  },
+  {
+    "row": 79,
+    "word": "l’aceto",
+    "meaningFa": "سرکه",
+    "locator": "کتاب درسی و تمرین: PDF 39، چاپی 39؛ تمرین10، برچسب وسایل میز، راست",
+    "exampleIt": "L’ACETO",
+    "exampleFa": "سرکه",
+    "noteFa": "برچسب تصویر؛ جنس مستقل از l’ در این گزیده معلوم نیست و تمرین آرتیکل غیرفعال است."
+  },
+  {
+    "row": 80,
+    "word": "la forchetta",
+    "meaningFa": "چنگال",
+    "locator": "کتاب درسی و تمرین: PDF 39، چاپی 39؛ تمرین10، برچسب وسایل میز، چپ پایین",
+    "exampleIt": "LA FORCHETTA",
+    "exampleFa": "چنگال",
+    "noteFa": "برچسب تصویر با حروف بزرگ حفظ شده."
+  },
+  {
+    "row": 81,
+    "word": "il pepe",
+    "meaningFa": "فلفل",
+    "locator": "کتاب درسی و تمرین: PDF 39، چاپی 39؛ تمرین10، برچسب وسایل میز، راست پایین",
+    "exampleIt": "IL PEPE",
+    "exampleFa": "فلفل",
+    "noteFa": "برچسب تصویر با حروف بزرگ حفظ شده."
+  },
+  {
+    "row": 82,
+    "word": "il sale",
+    "meaningFa": "نمک",
+    "locator": "کتاب درسی و تمرین: PDF 39، چاپی 39؛ تمرین10، برچسب وسایل میز، وسط پایین",
+    "exampleIt": "IL SALE",
+    "exampleFa": "نمک",
+    "noteFa": "برچسب تصویر با حروف بزرگ حفظ شده."
+  },
+  {
+    "row": 83,
+    "word": "il bicchiere",
+    "meaningFa": "لیوان",
+    "locator": "کتاب درسی و تمرین: PDF 39، چاپی 39؛ تمرین10، برچسب وسایل میز، پایین چپ؛ جمع: PDF/چاپی43، جدول maschile",
+    "exampleIt": "IL BICCHIERE",
+    "exampleFa": "لیوان",
+    "noteFa": "برچسب تصویر؛ bicchieri صورت جمع تأییدشده در43 است."
+  },
+  {
+    "row": 84,
+    "word": "l’acqua",
+    "meaningFa": "آب",
+    "locator": "کتاب درسی و تمرین: PDF 39، چاپی 39؛ تمرین10، برچسب وسایل میز، پایین",
+    "exampleIt": "L’ACQUA",
+    "exampleFa": "آب",
+    "noteFa": "برچسب تصویر؛ جنس مستقل از l’ معلوم نیست و تمرین آرتیکل غیرفعال است."
+  },
+  {
+    "row": 85,
+    "word": "la bottiglia",
+    "meaningFa": "بطری",
+    "locator": "کتاب درسی و تمرین: PDF 39، چاپی 39؛ تمرین10، برچسب وسایل میز، پایین راست",
+    "exampleIt": "LA BOTTIGLIA",
+    "exampleFa": "بطری",
+    "noteFa": "برچسب تصویر با حروف بزرگ حفظ شده."
+  },
+  {
+    "row": 86,
+    "word": "per favore",
+    "meaningFa": "لطفاً؛ صورتِ همراه favore",
+    "locator": "کتاب درسی و تمرین: PDF 40، چاپی 40؛ عنوان تمرین11",
+    "exampleIt": "Il conto, per favore!",
+    "exampleFa": "صورت‌حساب، لطفاً!",
+    "noteFa": "با per piacere و per cortesia هم‌گروه است."
+  },
+  {
+    "row": 87,
+    "word": "per cortesia",
+    "meaningFa": "لطفاً؛ صورتِ همراه cortesia",
+    "locator": "کتاب درسی و تمرین: PDF 40، چاپی 40؛ تمرین11، بانک واژگان؛ تکرار صفحه33، «Il conto, per cortesia.»",
+    "exampleIt": "per cortesia",
+    "exampleFa": "لطفاً",
+    "noteFa": "عبارتِ بانک واژگان، نه جمله؛ ترتیب معرفی بر اساس نقلِ این مدخل در40 است."
+  },
+  {
+    "row": 88,
+    "word": "ancora",
+    "meaningFa": "باز هم؛ بیشتر",
+    "locator": "کتاب درسی و تمرین: PDF 40، چاپی 40؛ تمرین11، بخش نوشته‌شدهٔ گفت‌وگو",
+    "exampleIt": "Mi porta ancora mezza minerale,",
+    "exampleFa": "باز هم نیم لیتر آب معدنی برایم می‌آورید،",
+    "noteFa": "قطعهٔ پیوستهٔ چاپ‌شده پیش از جای خالی نقل شده؛ جای خالی تکمیل نشده است."
+  },
+  {
+    "row": 89,
+    "word": "qualcos’altro",
+    "meaningFa": "چیز دیگری",
+    "locator": "کتاب درسی و تمرین: PDF 40، چاپی 40؛ تمرین11، پاسخ پیشخدمت",
+    "exampleIt": "Certo, signora. Desidera ancora qualcos’altro?",
+    "exampleFa": "حتماً، خانم. چیز دیگری هم میل دارید؟",
+    "noteFa": ""
+  },
+  {
+    "row": 90,
+    "word": "dessert",
+    "meaningFa": "دسر",
+    "locator": "کتاب درسی و تمرین: PDF 40، چاپی 40؛ تمرین11، بخش پیوستهٔ پاسخ پیشخدمت",
+    "exampleIt": "Come dessert abbiamo gelato, macedonia,",
+    "exampleFa": "برای دسر بستنی و سالاد میوه داریم،",
+    "noteFa": "قطعهٔ پیوستهٔ یک سطر؛ آرتیکل معین برای dessert تأیید نشده و در اجرا null است."
+  },
+  {
+    "row": 91,
+    "word": "macedonia",
+    "meaningFa": "سالاد میوه",
+    "locator": "کتاب درسی و تمرین: PDF 40، چاپی 40؛ تمرین11، بخش پیوستهٔ پاسخ پیشخدمت",
+    "exampleIt": "Come dessert abbiamo gelato, macedonia,",
+    "exampleFa": "برای دسر بستنی و سالاد میوه داریم،",
+    "noteFa": "قطعهٔ متن؛ آرتیکل معین تأیید نشده و در اجرا null است."
+  },
+  {
+    "row": 92,
+    "word": "buono",
+    "meaningFa": "خوب؛ خوشمزه؛ صفت مذکر",
+    "locator": "کتاب درسی و تمرین: PDF 40، چاپی 40؛ تمرین11، ادامهٔ پیوستهٔ پاسخ پیشخدمت",
+    "exampleIt": "frutta fresca o il tiramisù, molto buono.",
+    "exampleFa": "میوهٔ تازه یا تیرامیسو که خیلی خوشمزه است.",
+    "noteFa": "این قطعهٔ جمله است؛ صفت buono با قید bene متفاوت است."
+  },
+  {
+    "row": 93,
+    "word": "magari",
+    "meaningFa": "شاید؛ مثلاً؛ برای پیشنهاد مردد",
+    "locator": "کتاب درسی و تمرین: PDF 40، چاپی 40؛ تمرین11، بخش نوشته‌شدهٔ پاسخ مشتری پس از جای خالی",
+    "exampleIt": "Ah, un momento, magari un caffè!",
+    "exampleFa": "آه، یک لحظه، شاید یک قهوه!",
+    "noteFa": "فقط قطعهٔ نوشته‌شده نقل شده؛ بخش قبل از آن تکمیل نشده."
+  },
+  {
+    "row": 94,
+    "word": "D’accordo.",
+    "meaningFa": "باشه؛ موافقم",
+    "locator": "کتاب درسی و تمرین: PDF 40، چاپی 40؛ تمرین11، آخرین پاسخ",
+    "exampleIt": "D’accordo.",
+    "exampleFa": "باشه.",
+    "noteFa": ""
+  },
+  {
+    "row": 95,
+    "word": "la cucina",
+    "meaningFa": "آشپزی؛ شیوهٔ پخت غذا",
+    "locator": "کتاب درسی و تمرین: PDF 41، چاپی 41؛ تمرین13، گزارهٔ a",
+    "exampleIt": "Teresa preferisce la cucina di mare.",
+    "exampleFa": "ترزا غذاهای دریایی را ترجیح می‌دهد.",
+    "noteFa": "این مدخل معنی آشپزی/خوراک دارد، نه اتاق آشپزخانه."
+  },
+  {
+    "row": 96,
+    "word": "vegetariana",
+    "meaningFa": "گیاهی؛ مؤنث در وصف آشپزی",
+    "locator": "کتاب درسی و تمرین: PDF 41، چاپی 41؛ تمرین13، آگهی La zucca magica",
+    "exampleIt": "Cucina vegetariana",
+    "exampleFa": "آشپزی گیاهی",
+    "noteFa": "عبارت آگهی؛ هدف صفت مؤنث مشاهده‌شده است."
+  },
+  {
+    "row": 97,
+    "word": "aperto",
+    "meaningFa": "باز؛ دایر؛ صورت مذکر",
+    "locator": "کتاب درسی و تمرین: PDF 41، چاپی 41؛ تمرین13، آگهی La zucca magica",
+    "exampleIt": "Aperto solo a cena",
+    "exampleFa": "فقط برای شام باز است.",
+    "noteFa": "عبارت آگهی با صورت مذکر؛ مقابل chiuso."
+  },
+  {
+    "row": 98,
+    "word": "cena",
+    "meaningFa": "شام",
+    "locator": "کتاب درسی و تمرین: PDF 41، چاپی 41؛ تمرین13، آگهی La zucca magica",
+    "exampleIt": "Aperto solo a cena",
+    "exampleFa": "فقط برای شام باز است.",
+    "noteFa": "آرتیکل معین مستقلاً در گزیده تأیید نشده و در اجرا null است."
+  },
+  {
+    "row": 99,
+    "word": "chiuso",
+    "meaningFa": "بسته؛ تعطیل؛ صورت مذکر",
+    "locator": "کتاب درسی و تمرین: PDF 41، چاپی 41؛ تمرین13، آگهی La zucca magica",
+    "exampleIt": "Chiuso il lunedì",
+    "exampleFa": "دوشنبه تعطیل است.",
+    "noteFa": "عبارت آگهی با صورت مذکر؛ مقابل aperto."
+  },
+  {
+    "row": 100,
+    "word": "il lunedì",
+    "meaningFa": "دوشنبه",
+    "locator": "کتاب درسی و تمرین: PDF 41، چاپی 41؛ تمرین13، آگهی La zucca magica",
+    "exampleIt": "Chiuso il lunedì",
+    "exampleFa": "دوشنبه تعطیل است.",
+    "noteFa": "کاربرد il lunedì اینجا تکرار هفتگی را می‌رساند؛ اکسان حفظ شود."
+  },
+  {
+    "row": 101,
+    "word": "la prenotazione",
+    "meaningFa": "رزرو؛ عمل رزروکردن",
+    "locator": "کتاب درسی و تمرین: PDF 41، چاپی 41؛ تمرین13، آگهی Trattoria Zia Caterina",
+    "exampleIt": "È gradita la prenotazione",
+    "exampleFa": "رزرو قبلی مطلوب است.",
+    "noteFa": "جملهٔ آگهی؛ با مصدر prenotare مدخل نقشی متفاوت است."
+  },
+  {
+    "row": 102,
+    "word": "Per quante persone?",
+    "meaningFa": "برای چند نفر؟",
+    "locator": "کتاب درسی و تمرین: PDF 42، چاپی 42؛ E inoltre1، جملهٔ شماره2",
+    "exampleIt": "Certo. Per quante persone?",
+    "exampleFa": "حتماً. برای چند نفر؟",
+    "noteFa": ""
+  },
+  {
+    "row": 103,
+    "word": "A che nome?",
+    "meaningFa": "به چه نامی؟",
+    "locator": "کتاب درسی و تمرین: PDF 42، چاپی 42؛ E inoltre1، جملهٔ شماره3",
+    "exampleIt": "D’accordo. E a che nome?",
+    "exampleFa": "باشه. و به چه نامی؟",
+    "noteFa": ""
+  },
+  {
+    "row": 104,
+    "word": "forse",
+    "meaningFa": "شاید؛ احتمالاً",
+    "locator": "کتاب درسی و تمرین: PDF 42، چاپی 42؛ E inoltre1، پاسخ c",
+    "exampleIt": "Sei, forse sette.",
+    "exampleFa": "شش نفر، شاید هفت نفر.",
+    "noteFa": "در این بافت برآورد تعداد؛ با magari در یک گروه احتمالی است."
+  },
+  {
+    "row": 105,
+    "word": "a più tardi",
+    "meaningFa": "تا بعد؛ بعداً می‌بینمتان",
+    "locator": "کتاب درسی و تمرین: PDF 42، چاپی 42؛ E inoltre1، جملهٔ شماره6",
+    "exampleIt": "Prego, si figuri! A più tardi.",
+    "exampleFa": "خواهش می‌کنم، اختیار دارید! تا بعد.",
+    "noteFa": "عبارت پایانی همان جمله؛ با a presto! یکی نیست."
+  },
+  {
+    "row": 106,
+    "word": "riservato",
+    "meaningFa": "رزروشده؛ صورت مذکر",
+    "locator": "کتاب درسی و تمرین: PDF 42، چاپی 42؛ عنوان E inoltre2",
+    "exampleIt": "Tavolo riservato",
+    "exampleFa": "میز رزروشده",
+    "noteFa": "عبارت اسمی، نه جملهٔ کامل."
+  },
+  {
+    "row": 107,
+    "word": "avere fame",
+    "meaningFa": "گرسنه‌بودن",
+    "locator": "کتاب درسی و تمرین: PDF 44، چاپی 44؛ ویدئوکورس3، تمرین3a، نوشتهٔ بالون",
+    "exampleIt": "Ma non hai fame?",
+    "exampleFa": "مگر گرسنه نیستی؟",
+    "noteFa": "صورت مصدر آموزشی از hai fame جداست؛ ویدئو شنیده نشده، فقط متن بالون نقل شده."
+  },
+  {
+    "row": 108,
+    "word": "malato",
+    "meaningFa": "بیمار؛ مریض؛ صورت مذکر",
+    "locator": "کتاب درسی و تمرین: PDF 45، چاپی 45؛ ویدئوکورس3، تمرین4، پاسخ پیشخدمت شماره5",
+    "exampleIt": "Il cuoco è malato.",
+    "exampleFa": "آشپز بیمار است.",
+    "noteFa": "هدف آموزشی malato است؛ cuoco هویت قدیمی دارد و دوباره معرفی نمی‌شود."
+  },
+  {
+    "row": 109,
+    "word": "la mancia",
+    "meaningFa": "انعام",
+    "locator": "کتاب درسی و تمرین: PDF 162، چاپی 162؛ تمرین13، INFOBOX، بند3",
+    "exampleIt": "Ricordate che la mancia non è obbligatoria;",
+    "exampleFa": "به یاد داشته باشید که انعام اجباری نیست؛",
+    "noteFa": "قطعهٔ پیوستهٔ چاپ‌شده تا نقطه‌ویرگول؛ جملهٔ بعدی به نقل اضافه نشده."
+  }
+]

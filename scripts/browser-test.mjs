@@ -601,7 +601,7 @@ try {
       assert.deepEqual(await readState(isolatedPage), old, 'retry never resets foreign content or schema')
     } finally { await isolated.close() }
   })
-  await checkpoint('both Italian lesson deep links, source-ordered vocabularies, navigation and offline draft recovery', async () => {
+  await checkpoint('all three Italian lesson deep links, source-ordered vocabularies, navigation and offline draft recovery', async () => {
     for (const lesson of bundle.lessons ?? [bundle.lesson]) {
       const isolated = await browser.newContext({ viewport: { width: 360, height: 800 }, isMobile: true, hasTouch: true, locale: 'fa-IR', reducedMotion: 'reduce' })
       observeContext(isolated)
@@ -609,7 +609,7 @@ try {
         const lessonPage = await isolated.newPage()
         const lessonId = lesson.lessonId
         const entries = bundle.entries.filter(entry => entry.introducedInLessonId === lessonId)
-        const screenshotPrefix = lessonId === bundle.lesson.lessonId ? 'italian' : 'italian-lesson-two'
+        const screenshotPrefix = lessonId === bundle.lesson.lessonId ? 'italian' : `italian-lesson-${lessonId.slice(-2)}`
         await lessonPage.goto(`${origin}/?lesson=${lessonId}`)
         await lessonPage.getByRole('heading', { name: lesson.titleIt, exact: true }).waitFor()
         await lessonPage.getByRole('button', { name: 'درس‌ها', exact: true }).click()
@@ -622,6 +622,7 @@ try {
         }
         await lessonPage.setViewportSize({ width: 360, height: 800 })
         await lessonPage.locator(`[data-lesson-id="${lessonId}"] .lesson-open-button`).click()
+        await lessonPage.getByRole('heading', { name: lesson.titleIt, exact: true }).waitFor()
         assert.ok(lessonPage.url().includes(`lesson=${lessonId}`))
         await lessonPage.getByRole('button', { name: 'واژه‌ها', exact: true }).click()
         assert.equal(await lessonPage.locator('.word-item').count(), entries.length)
@@ -780,6 +781,74 @@ try {
       assert.deepEqual(withSecond.reverseReviews, baseline.reverseReviews)
       assert.ok(withSecond.session.introducedEntryIds.every(id => bundle.entries.find(entry => entry.entryId === id).introducedInLessonId === 'it-a1-lesson-02'))
       await saveScreenshot(savedPage, 'pre-lesson-two-save-restored-360.png')
+    } finally { await isolated.close() }
+  })
+  await checkpoint('pre-lesson-three save restores both old sessions and keeps third-lesson draft through switching and offline reload', async () => {
+    const baseline = JSON.parse(await readFile('src/storage/fixtures/pre-lesson-three-schema5.json', 'utf8'))
+    validateState(baseline, bundle)
+    const firstId = 'it-a1-lesson-01', secondId = 'it-a1-lesson-02', thirdId = 'it-a1-lesson-03'
+    const isolated = await browser.newContext({ viewport: { width: 360, height: 800 }, isMobile: true, hasTouch: true, locale: 'fa-IR', reducedMotion: 'reduce' })
+    observeContext(isolated)
+    await installClock(isolated, '2026-11-09T10:05:00.000Z')
+    try {
+      const savedPage = await isolated.newPage()
+      const select = async lessonId => {
+        await savedPage.getByRole('button', { name: 'درس‌ها', exact: true }).click()
+        await savedPage.locator(`[data-lesson-id="${lessonId}"] .lesson-open-button`).click()
+        const state = await waitState(savedPage, state => state.activeLessonId === lessonId)
+        await savedPage.getByRole('heading', { name: bundle.lessons.find(lesson => lesson.lessonId === lessonId).titleIt, exact: true }).waitFor()
+        return state
+      }
+      await savedPage.goto(`${origin}/__test/setup`)
+      await writeState(savedPage, baseline)
+      await savedPage.goto(origin)
+      await savedPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }).waitFor()
+      assert.deepEqual(await readState(savedPage), baseline, 'all fields from the real two-lesson save survive unchanged')
+      await select(firstId)
+      assert.deepEqual((await readState(savedPage)).session, baseline.savedSessions[firstId])
+      assert.ok((await readState(savedPage)).session.feedback.correct)
+      await select(secondId)
+      assert.deepEqual((await readState(savedPage)).session, baseline.session)
+      await clickAndSave(savedPage, savedPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }), true)
+      assert.equal(await savedPage.getByLabel('پاسخ تو', { exact: true }).inputValue(), baseline.session.draft)
+      await clickAndSave(savedPage, savedPage.getByRole('button', { name: 'توقف و بازگشت', exact: true }))
+      const oldPaused = await readState(savedPage)
+      await select(thirdId)
+      await clickAndSave(savedPage, savedPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }))
+      const withThird = await readState(savedPage)
+      for (const [id, progress] of Object.entries(baseline.progress)) assert.deepEqual(withThird.progress[id], progress)
+      assert.deepEqual(withThird.attempts, baseline.attempts)
+      assert.deepEqual(withThird.reverseReviews, baseline.reverseReviews)
+      assert.deepEqual(withThird.savedSessions[secondId], oldPaused.session)
+      assert.deepEqual(withThird.savedSessions[firstId], baseline.savedSessions[firstId])
+      assert.equal(withThird.session.queue.filter(task => task.kind === 'flashcard').length, 5)
+      assert.equal(withThird.session.introducedEntryIds.length, 1, 'only the visible first card is introduced before the others are studied')
+      assert.ok(withThird.session.introducedEntryIds.every(id => id.startsWith('it-a1-l03-')))
+      await playToEnd(savedPage, true)
+      assert.equal((await readState(savedPage)).session.introducedEntryIds.length, 5)
+      const draft = 'bozza della terza lezione'
+      await savedPage.getByLabel('پاسخ تو', { exact: true }).fill(draft)
+      await waitState(savedPage, state => state.session.draft === draft)
+      await clickAndSave(savedPage, savedPage.getByRole('button', { name: 'توقف و بازگشت', exact: true }))
+      const thirdPaused = await readState(savedPage)
+      await select(firstId)
+      assert.deepEqual((await readState(savedPage)).session, baseline.savedSessions[firstId])
+      await select(secondId)
+      assert.equal((await readState(savedPage)).session.draft, baseline.session.draft)
+      await select(thirdId)
+      assert.deepEqual((await readState(savedPage)).session, thirdPaused.session)
+      await savedPage.locator('.offline-pill.offline-ready').waitFor()
+      await isolated.setOffline(true)
+      await savedPage.reload()
+      await savedPage.getByRole('heading', { name: 'Buon appetito', exact: true }).waitFor()
+      await clickAndSave(savedPage, savedPage.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }), true)
+      assert.equal(await savedPage.getByLabel('پاسخ تو', { exact: true }).inputValue(), draft)
+      const restored = await readState(savedPage)
+      assert.deepEqual(restored.session.queue, thirdPaused.session.queue)
+      assert.deepEqual(restored.progress, thirdPaused.progress)
+      assert.deepEqual(restored.attempts, thirdPaused.attempts)
+      assert.deepEqual(restored.savedSessions, thirdPaused.savedSessions)
+      await saveScreenshot(savedPage, 'lesson-three-switch-offline-draft-360.png')
     } finally { await isolated.close() }
   })
   await checkpoint('direct Italian lesson link recovers after first load abort and never reuses an unlocked writer', async () => {
@@ -1070,6 +1139,12 @@ try {
   await checkpoint('lesson two article reads only its noun and cloze reads only visible text without changing matching or learning', async () => {
     await checkExercisePronunciation({ browser, origin, bundle, observeContext, writeState, readState, learningSnapshot,
       clickAndSave, assertViewport, completedReverseFixture, installClock, lessonId: 'it-a1-lesson-02' })
+  })
+  await checkpoint('lesson three Italian pronunciation preserves hidden reverse answers and independent learning state', async () => {
+    await checkPronunciation({ browser, origin, bundle, observeContext, writeState, readState, learningSnapshot, clickAndSave,
+      assertViewport, saveScreenshot, completedReverseFixture, installClock, lessonId: 'it-a1-lesson-03' })
+    await checkExercisePronunciation({ browser, origin, bundle, observeContext, writeState, readState, learningSnapshot,
+      clickAndSave, assertViewport, completedReverseFixture, installClock, lessonId: 'it-a1-lesson-03' })
   })
   await checkpoint('real IndexedDB atomic abort, optimistic concurrency and load/recovery', async () => {
     const isolated = await browser.newContext()

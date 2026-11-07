@@ -2479,5 +2479,1531 @@ export const additionalExamplesByEntry: Record<string, Example[]> = {
       "fa": "می‌توانم بعد از کار به مادرم تلفن کنم.",
       "origin": "authored"
     }
+  ],
+  "it-a1-l03-001": [
+    {
+      "exampleId": "it-a1-l03-001-additional-1",
+      "it": "A tavola diciamo: «Buon appetito!»",
+      "fa": "سر میز می‌گوییم: «نوش جان!»",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-001-additional-2",
+      "it": "Il cameriere sorride e dice: «Buon appetito!»",
+      "fa": "پیشخدمت لبخند می‌زند و می‌گوید: «نوش جان!»",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-002": [
+    {
+      "exampleId": "it-a1-l03-002-additional-1",
+      "it": "Buongiorno, signora. Cosa desidera?",
+      "fa": "سلام، خانم. چه میل دارید؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-002-additional-2",
+      "it": "Il cameriere mi chiede: «Cosa desidera?»",
+      "fa": "پیشخدمت از من می‌پرسد: «چه میل دارید؟»",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-003": [
+    {
+      "exampleId": "it-a1-l03-003-additional-1",
+      "it": "Per pranzo vorrei una pizza piccola.",
+      "fa": "برای ناهار یک پیتزای کوچک می‌خواهم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-003-additional-2",
+      "it": "Vorrei un tavolo vicino alla finestra, grazie.",
+      "fa": "یک میز نزدیک پنجره می‌خواهم، ممنون.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-004": [
+    {
+      "exampleId": "it-a1-l03-004-additional-1",
+      "it": "Per me solo acqua, grazie.",
+      "fa": "برای من فقط آب، ممنون.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-004-additional-2",
+      "it": "Oggi il bar è aperto solo la mattina.",
+      "fa": "امروز کافه‌بار فقط صبح باز است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-005": [
+    {
+      "exampleId": "it-a1-l03-005-additional-1",
+      "it": "Come primo scelgo una zuppa.",
+      "fa": "برای غذای اول یک سوپ انتخاب می‌کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-005-additional-2",
+      "it": "Un primo e un dessert sono sufficienti per me.",
+      "fa": "یک غذای اول و یک دسر برای من کافی است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-006": [
+    {
+      "exampleId": "it-a1-l03-006-additional-1",
+      "it": "Scusate, che cosa avete oggi?",
+      "fa": "ببخشید، امروز چه دارید؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-006-additional-2",
+      "it": "Entro in trattoria e chiedo: «Che cosa avete oggi?»",
+      "fa": "وارد غذاخوری می‌شوم و می‌پرسم: «امروز چه دارید؟»",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-007": [
+    {
+      "exampleId": "it-a1-l03-007-additional-1",
+      "it": "Signora Rossi, prende un caffè?",
+      "fa": "خانم روسی، یک قهوه میل می‌کنید؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-007-additional-2",
+      "it": "Dopo il pranzo il cameriere domanda: «Prende un caffè?»",
+      "fa": "پس از ناهار پیشخدمت می‌پرسد: «یک قهوه میل می‌کنید؟»",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-008": [
+    {
+      "exampleId": "it-a1-l03-008-additional-1",
+      "it": "Vorrei un po’ di pane con la zuppa.",
+      "fa": "کمی نان همراه سوپ می‌خواهم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-008-additional-2",
+      "it": "Il pane è sul piatto piccolo.",
+      "fa": "نان روی بشقاب کوچک است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-009": [
+    {
+      "exampleId": "it-a1-l03-009-additional-1",
+      "it": "Possiamo avere il conto, per favore?",
+      "fa": "می‌توانیم صورت‌حساب را داشته باشیم، لطفاً؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-009-additional-2",
+      "it": "Il conto è di venti euro.",
+      "fa": "مبلغ صورت‌حساب بیست یورو است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-010": [
+    {
+      "exampleId": "it-a1-l03-010-additional-1",
+      "it": "Buonasera. È possibile prenotare un tavolo?",
+      "fa": "عصر بخیر. آیا می‌توان یک میز رزرو کرد؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-010-additional-2",
+      "it": "Al telefono chiedo: «È possibile prenotare un tavolo?»",
+      "fa": "پشت تلفن می‌پرسم: «آیا می‌توان یک میز رزرو کرد؟»",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-011": [
+    {
+      "exampleId": "it-a1-l03-011-additional-1",
+      "it": "Ci vediamo al bar dopo il corso.",
+      "fa": "پس از کلاس در کافه‌بار همدیگر را می‌بینیم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-011-additional-2",
+      "it": "Questo bar prepara ottimi panini.",
+      "fa": "این کافه‌بار ساندویچ‌های خیلی خوبی درست می‌کند.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-012": [
+    {
+      "exampleId": "it-a1-l03-012-additional-1",
+      "it": "Bevo un caffè dopo pranzo.",
+      "fa": "بعد از ناهار یک قهوه می‌نوشم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-012-additional-2",
+      "it": "Il caffè è caldo, aspetta un momento.",
+      "fa": "قهوه داغ است، یک لحظه صبر کن.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-013": [
+    {
+      "exampleId": "it-a1-l03-013-additional-1",
+      "it": "Per pranzo compro un panino al formaggio.",
+      "fa": "برای ناهار یک ساندویچ پنیر می‌خرم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-013-additional-2",
+      "it": "Questo panino è piccolo ma buono.",
+      "fa": "این ساندویچ کوچک است، اما خوشمزه است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-014": [
+    {
+      "exampleId": "it-a1-l03-014-additional-1",
+      "it": "Al bar ordino un cornetto alla crema.",
+      "fa": "در کافه‌بار یک کروسان با کرم سفارش می‌دهم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-014-additional-2",
+      "it": "Due cornetti e un cappuccino costano sei euro.",
+      "fa": "دو کروسان و یک کاپوچینو شش یورو قیمت دارند.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-015": [
+    {
+      "exampleId": "it-a1-l03-015-additional-1",
+      "it": "Oggi preferisco il pesce alla carne.",
+      "fa": "امروز ماهی را به گوشت ترجیح می‌دهم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-015-additional-2",
+      "it": "In questo ristorante il pesce è fresco.",
+      "fa": "در این رستوران ماهی تازه است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-016": [
+    {
+      "exampleId": "it-a1-l03-016-additional-1",
+      "it": "A pranzo mangiamo la pasta al pomodoro.",
+      "fa": "برای ناهار پاستا با سس گوجه‌فرنگی می‌خوریم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-016-additional-2",
+      "it": "La pasta è pronta, venite a tavola!",
+      "fa": "پاستا آماده است، بیایید سر میز!",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-017": [
+    {
+      "exampleId": "it-a1-l03-017-additional-1",
+      "it": "Mia sorella non mangia carne.",
+      "fa": "خواهرم گوشت نمی‌خورد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-017-additional-2",
+      "it": "La carne è nel piatto grande.",
+      "fa": "گوشت داخل بشقاب بزرگ است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-018": [
+    {
+      "exampleId": "it-a1-l03-018-additional-1",
+      "it": "Come antipasto prendiamo delle verdure.",
+      "fa": "برای پیش‌غذا کمی سبزیجات می‌گیریم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-018-additional-2",
+      "it": "L’antipasto arriva prima della pasta.",
+      "fa": "پیش‌غذا قبل از پاستا می‌رسد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-019": [
+    {
+      "exampleId": "it-a1-l03-019-additional-1",
+      "it": "Vorrei una bottiglia di acqua minerale.",
+      "fa": "یک بطری آب معدنی می‌خواهم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-019-additional-2",
+      "it": "L’acqua minerale è già sul tavolo.",
+      "fa": "آب معدنی از قبل روی میز است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-020": [
+    {
+      "exampleId": "it-a1-l03-020-additional-1",
+      "it": "Il cameriere porta due piatti.",
+      "fa": "پیشخدمت دو بشقاب می‌آورد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-020-additional-2",
+      "it": "Chiamo il cameriere per chiedere il conto.",
+      "fa": "پیشخدمت را صدا می‌کنم تا صورت‌حساب را بخواهم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-021": [
+    {
+      "exampleId": "it-a1-l03-021-additional-1",
+      "it": "Come contorno scelgo delle patate.",
+      "fa": "برای غذای کنار بشقاب کمی سیب‌زمینی انتخاب می‌کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-021-additional-2",
+      "it": "Con il pesce vorrei anche un contorno.",
+      "fa": "همراه ماهی یک غذای کنار بشقاب هم می‌خواهم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-022": [
+    {
+      "exampleId": "it-a1-l03-022-additional-1",
+      "it": "Posso prendere una pizza piccola?",
+      "fa": "می‌توانم یک پیتزای کوچک بگیرم؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-022-additional-2",
+      "it": "Anna prende un tè senza zucchero.",
+      "fa": "آنا یک چای بدون شکر می‌گیرد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-023": [
+    {
+      "exampleId": "it-a1-l03-023-additional-1",
+      "it": "Non puoi volere tutto.",
+      "fa": "نمی‌توانی همه‌چیز را بخواهی.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-023-additional-2",
+      "it": "Voglio una bottiglia d’acqua, grazie.",
+      "fa": "یک بطری آب می‌خواهم، ممنون.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-024": [
+    {
+      "exampleId": "it-a1-l03-024-additional-1",
+      "it": "Vorrei prenotare un tavolo per domani.",
+      "fa": "می‌خواهم برای فردا یک میز رزرو کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-024-additional-2",
+      "it": "Prenotiamo un tavolo per quattro persone.",
+      "fa": "برای چهار نفر یک میز رزرو می‌کنیم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-025": [
+    {
+      "exampleId": "it-a1-l03-025-additional-1",
+      "it": "Puoi preferire il tè, ma qui c’è solo caffè.",
+      "fa": "می‌توانی چای را ترجیح بدهی، اما اینجا فقط قهوه هست.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-025-additional-2",
+      "it": "Preferisco mangiare presto la sera.",
+      "fa": "ترجیح می‌دهم شب زود غذا بخورم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-026": [
+    {
+      "exampleId": "it-a1-l03-026-additional-1",
+      "it": "Ordino un’aranciata fresca.",
+      "fa": "یک نوشیدنی پرتقالی خنک سفارش می‌دهم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-026-additional-2",
+      "it": "Per i bambini ci sono due aranciate.",
+      "fa": "برای بچه‌ها دو نوشیدنی پرتقالی هست.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-027": [
+    {
+      "exampleId": "it-a1-l03-027-additional-1",
+      "it": "Prima di cena prendiamo un aperitivo.",
+      "fa": "پیش از شام یک نوشیدنیِ پیش از غذا می‌نوشیم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-027-additional-2",
+      "it": "L’aperitivo è sul tavolo vicino alla porta.",
+      "fa": "نوشیدنی پیش از غذا روی میز کنار در است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-028": [
+    {
+      "exampleId": "it-a1-l03-028-additional-1",
+      "it": "La bambina beve un bicchiere di latte.",
+      "fa": "دخترک یک لیوان شیر می‌نوشد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-028-additional-2",
+      "it": "Ogni mattina preparo un bicchiere di latte caldo.",
+      "fa": "هر صبح یک لیوان شیر گرم آماده می‌کنم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-029": [
+    {
+      "exampleId": "it-a1-l03-029-additional-1",
+      "it": "Per la festa compriamo lo spumante.",
+      "fa": "برای جشن شراب گازدار می‌خریم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-029-additional-2",
+      "it": "Un bicchiere di spumante per gli adulti, grazie.",
+      "fa": "یک گیلاس شراب گازدار برای بزرگ‌ترها، ممنون.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-030": [
+    {
+      "exampleId": "it-a1-l03-030-additional-1",
+      "it": "Vorrei una spremuta di pompelmo senza ghiaccio.",
+      "fa": "یک آب گریپ‌فروت تازه بدون یخ می‌خواهم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-030-additional-2",
+      "it": "La spremuta di pompelmo è un po’ amara.",
+      "fa": "آب گریپ‌فروت تازه کمی تلخ است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-031": [
+    {
+      "exampleId": "it-a1-l03-031-additional-1",
+      "it": "A colazione ordino un cappuccino.",
+      "fa": "برای صبحانه یک کاپوچینو سفارش می‌دهم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-031-additional-2",
+      "it": "Il cappuccino ha una bella schiuma.",
+      "fa": "کاپوچینو کف خوبی دارد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-032": [
+    {
+      "exampleId": "it-a1-l03-032-additional-1",
+      "it": "Mio padre prende una birra piccola.",
+      "fa": "پدرم یک آبجوی کوچک می‌گیرد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-032-additional-2",
+      "it": "La birra è fredda, puoi berla adesso.",
+      "fa": "آبجو سرد است، الان می‌توانی آن را بنوشی.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-033": [
+    {
+      "exampleId": "it-a1-l03-033-additional-1",
+      "it": "Questo cornetto è ripieno di crema.",
+      "fa": "این کروسان با کرم پر شده است.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-033-additional-2",
+      "it": "La crema è dolce e profuma di vaniglia.",
+      "fa": "کرم شیرین است و بوی وانیل می‌دهد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-034": [
+    {
+      "exampleId": "it-a1-l03-034-additional-1",
+      "it": "Sul pane metto la marmellata.",
+      "fa": "روی نان مربا می‌گذارم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-034-additional-2",
+      "it": "Per colazione abbiamo marmellata di fragole.",
+      "fa": "برای صبحانه مربای توت‌فرنگی داریم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-035": [
+    {
+      "exampleId": "it-a1-l03-035-additional-1",
+      "it": "Compro il latte al supermercato.",
+      "fa": "شیر را از سوپرمارکت می‌خرم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-035-additional-2",
+      "it": "Il supermercato chiude alle otto.",
+      "fa": "سوپرمارکت ساعت هشت بسته می‌شود.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-036": [
+    {
+      "exampleId": "it-a1-l03-036-additional-1",
+      "it": "La mattina faccio colazione a casa.",
+      "fa": "صبح در خانه صبحانه می‌خورم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-036-additional-2",
+      "it": "Di mattina il bar è sempre pieno.",
+      "fa": "صبح‌ها کافه‌بار همیشه پر است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-037": [
+    {
+      "exampleId": "it-a1-l03-037-additional-1",
+      "it": "Nel pomeriggio incontro un amico.",
+      "fa": "بعدازظهر یک دوست را می‌بینم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-037-additional-2",
+      "it": "Il ristorante è chiuso il pomeriggio.",
+      "fa": "رستوران بعدازظهر بسته است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-038": [
+    {
+      "exampleId": "it-a1-l03-038-additional-1",
+      "it": "La sera ceniamo insieme.",
+      "fa": "عصر با هم شام می‌خوریم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-038-additional-2",
+      "it": "Questa sera preparo una pizza.",
+      "fa": "امشب یک پیتزا درست می‌کنم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-039": [
+    {
+      "exampleId": "it-a1-l03-039-additional-1",
+      "it": "Per me un caffè macchiato, grazie.",
+      "fa": "برای من یک قهوه با کمی شیر، ممنون.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-039-additional-2",
+      "it": "Il caffè macchiato è nella tazzina bianca.",
+      "fa": "قهوهٔ ماکیاتو در فنجان کوچک سفید است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-040": [
+    {
+      "exampleId": "it-a1-l03-040-additional-1",
+      "it": "Quando fa freddo bevo un tè caldo.",
+      "fa": "وقتی هوا سرد است یک چای گرم می‌نوشم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-040-additional-2",
+      "it": "Questo tè al limone è molto buono.",
+      "fa": "این چای لیمویی خیلی خوشمزه است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-041": [
+    {
+      "exampleId": "it-a1-l03-041-additional-1",
+      "it": "Aggiungo una fetta di limone al tè.",
+      "fa": "یک برش لیمو به چای اضافه می‌کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-041-additional-2",
+      "it": "Il limone è vicino alla bottiglia.",
+      "fa": "لیمو نزدیک بطری است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-042": [
+    {
+      "exampleId": "it-a1-l03-042-additional-1",
+      "it": "Il bambino vuole del latte caldo.",
+      "fa": "کودک کمی شیر گرم می‌خواهد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-042-additional-2",
+      "it": "Non metto il latte nel caffè.",
+      "fa": "داخل قهوه شیر نمی‌ریزم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-043": [
+    {
+      "exampleId": "it-a1-l03-043-additional-1",
+      "it": "Vuoi mangiare qualcosa con me?",
+      "fa": "می‌خواهی با من چیزی بخوری؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-043-additional-2",
+      "it": "Mangiamo un panino prima del corso.",
+      "fa": "قبل از کلاس یک ساندویچ می‌خوریم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-044": [
+    {
+      "exampleId": "it-a1-l03-044-additional-1",
+      "it": "Possiamo ordinare adesso?",
+      "fa": "می‌توانیم الان سفارش بدهیم؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-044-additional-2",
+      "it": "Al ristorante ordiniamo due primi.",
+      "fa": "در رستوران دو غذای اول سفارش می‌دهیم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-045": [
+    {
+      "exampleId": "it-a1-l03-045-additional-1",
+      "it": "Per merenda prendo un tramezzino.",
+      "fa": "برای میان‌وعده یک ساندویچ مثلثی می‌گیرم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-045-additional-2",
+      "it": "Questo tramezzino ha il pane morbido.",
+      "fa": "این ساندویچ مثلثی نان نرمی دارد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-046": [
+    {
+      "exampleId": "it-a1-l03-046-additional-1",
+      "it": "Dopo cena mangio un gelato.",
+      "fa": "پس از شام یک بستنی می‌خورم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-046-additional-2",
+      "it": "Il gelato al limone è il mio preferito.",
+      "fa": "بستنی لیمویی بستنی مورد علاقهٔ من است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-047": [
+    {
+      "exampleId": "it-a1-l03-047-additional-1",
+      "it": "Stasera prepariamo una pizza a casa.",
+      "fa": "امشب در خانه یک پیتزا درست می‌کنیم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-047-additional-2",
+      "it": "La pizza è calda e il formaggio è morbido.",
+      "fa": "پیتزا داغ است و پنیر نرم است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-048": [
+    {
+      "exampleId": "it-a1-l03-048-additional-1",
+      "it": "Vorrei un toast con prosciutto e formaggio.",
+      "fa": "یک ساندویچ تست با ژامبون و پنیر می‌خواهم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-048-additional-2",
+      "it": "Il toast è pronto in cinque minuti.",
+      "fa": "ساندویچ تست پنج دقیقه دیگر آماده است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-049": [
+    {
+      "exampleId": "it-a1-l03-049-additional-1",
+      "it": "Metto il pane in un piatto.",
+      "fa": "نان را در یک بشقاب می‌گذارم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-049-additional-2",
+      "it": "Questo piatto di pasta è per te.",
+      "fa": "این بشقاب پاستا برای تو است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-050": [
+    {
+      "exampleId": "it-a1-l03-050-additional-1",
+      "it": "Leggo il menù prima di ordinare.",
+      "fa": "قبل از سفارش‌دادن منو را می‌خوانم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-050-additional-2",
+      "it": "Sul menù ci sono anche piatti vegetariani.",
+      "fa": "در منو غذاهای گیاهی هم هست.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-051": [
+    {
+      "exampleId": "it-a1-l03-051-additional-1",
+      "it": "Nel panino c’è del prosciutto.",
+      "fa": "داخل ساندویچ کمی ژامبون هست.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-051-additional-2",
+      "it": "Non mangio prosciutto, preferisco il formaggio.",
+      "fa": "ژامبون نمی‌خورم، پنیر را ترجیح می‌دهم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-052": [
+    {
+      "exampleId": "it-a1-l03-052-additional-1",
+      "it": "Vorrei un po’ di formaggio sulla pasta.",
+      "fa": "کمی پنیر روی پاستا می‌خواهم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-052-additional-2",
+      "it": "Il formaggio è accanto al pane.",
+      "fa": "پنیر کنار نان است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-053": [
+    {
+      "exampleId": "it-a1-l03-053-additional-1",
+      "it": "Per l’insalata compro tre pomodori.",
+      "fa": "برای سالاد سه گوجه‌فرنگی می‌خرم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-053-additional-2",
+      "it": "Questi pomodori sono rossi e freschi.",
+      "fa": "این گوجه‌فرنگی‌ها قرمز و تازه هستند.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-054": [
+    {
+      "exampleId": "it-a1-l03-054-additional-1",
+      "it": "La domenica prepariamo le lasagne.",
+      "fa": "یکشنبه‌ها لازانیا درست می‌کنیم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-054-additional-2",
+      "it": "Le lasagne al forno sono pronte.",
+      "fa": "لازانیای پخته‌شده در فر آماده است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-055": [
+    {
+      "exampleId": "it-a1-l03-055-additional-1",
+      "it": "Oggi cucino un risotto ai funghi.",
+      "fa": "امروز یک ریزوتو با قارچ می‌پزم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-055-additional-2",
+      "it": "Questo risotto è caldo e cremoso.",
+      "fa": "این ریزوتو گرم و خامه‌ای است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-056": [
+    {
+      "exampleId": "it-a1-l03-056-additional-1",
+      "it": "Per me gli spaghetti al pomodoro.",
+      "fa": "برای من اسپاگتی با سس گوجه‌فرنگی.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-056-additional-2",
+      "it": "Gli spaghetti sono nel piatto grande.",
+      "fa": "اسپاگتی داخل بشقاب بزرگ است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-057": [
+    {
+      "exampleId": "it-a1-l03-057-additional-1",
+      "it": "Stasera mangiamo il pollo con le patate.",
+      "fa": "امشب مرغ با سیب‌زمینی می‌خوریم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-057-additional-2",
+      "it": "Il pollo è già in forno.",
+      "fa": "مرغ از قبل داخل فر است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-058": [
+    {
+      "exampleId": "it-a1-l03-058-additional-1",
+      "it": "Come contorno vorrei un’insalata mista.",
+      "fa": "برای غذای کنار بشقاب یک سالاد مخلوط می‌خواهم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-058-additional-2",
+      "it": "L’insalata mista contiene anche pomodori.",
+      "fa": "سالاد مخلوط گوجه‌فرنگی هم دارد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-059": [
+    {
+      "exampleId": "it-a1-l03-059-additional-1",
+      "it": "Il ragazzo ordina le patatine fritte.",
+      "fa": "پسر سیب‌زمینی سرخ‌کرده سفارش می‌دهد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-059-additional-2",
+      "it": "Le patatine fritte sono un contorno molto richiesto.",
+      "fa": "سیب‌زمینی سرخ‌کرده یک غذای کنار بشقاب پرطرفدار است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-060": [
+    {
+      "exampleId": "it-a1-l03-060-additional-1",
+      "it": "Dopo pranzo preferisco la frutta fresca.",
+      "fa": "پس از ناهار میوهٔ تازه را ترجیح می‌دهم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-060-additional-2",
+      "it": "A casa abbiamo sempre della frutta fresca.",
+      "fa": "در خانه همیشه کمی میوهٔ تازه داریم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-061": [
+    {
+      "exampleId": "it-a1-l03-061-additional-1",
+      "it": "Per il dessert compro delle fragole.",
+      "fa": "برای دسر کمی توت‌فرنگی می‌خرم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-061-additional-2",
+      "it": "Le fragole sono nella ciotola blu.",
+      "fa": "توت‌فرنگی‌ها داخل کاسهٔ آبی هستند.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-062": [
+    {
+      "exampleId": "it-a1-l03-062-additional-1",
+      "it": "Come dessert scelgo il tiramisù.",
+      "fa": "برای دسر تیرامیسو انتخاب می‌کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-062-additional-2",
+      "it": "Il tiramisù di questo ristorante è famoso.",
+      "fa": "تیرامیسوی این رستوران معروف است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-063": [
+    {
+      "exampleId": "it-a1-l03-063-additional-1",
+      "it": "Il ragazzo beve un’aranciata.",
+      "fa": "پسر یک نوشیدنی پرتقالی می‌نوشد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-063-additional-2",
+      "it": "Quel ragazzo lavora al bar.",
+      "fa": "آن پسر در کافه‌بار کار می‌کند.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-064": [
+    {
+      "exampleId": "it-a1-l03-064-additional-1",
+      "it": "Vorrei una cotoletta con l’insalata.",
+      "fa": "یک کتلت با سالاد می‌خواهم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-064-additional-2",
+      "it": "La cotoletta è grande e croccante.",
+      "fa": "کتلت بزرگ و ترد است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-065": [
+    {
+      "exampleId": "it-a1-l03-065-additional-1",
+      "it": "Dopo la passeggiata voglio bere un po’ d’acqua.",
+      "fa": "پس از پیاده‌روی می‌خواهم کمی آب بنوشم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-065-additional-2",
+      "it": "Beviamo un tè mentre aspettiamo.",
+      "fa": "در حال انتظار یک چای می‌نوشیم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-066": [
+    {
+      "exampleId": "it-a1-l03-066-additional-1",
+      "it": "Con la carne prendiamo del vino rosso.",
+      "fa": "همراه گوشت کمی شراب قرمز می‌گیریم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-066-additional-2",
+      "it": "Il vino rosso è nella bottiglia a destra.",
+      "fa": "شراب قرمز در بطری سمت راست است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-067": [
+    {
+      "exampleId": "it-a1-l03-067-additional-1",
+      "it": "Un altro bicchiere, per piacere.",
+      "fa": "یک لیوان دیگر، لطفاً.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-067-additional-2",
+      "it": "Mi passa il pane, per piacere?",
+      "fa": "نان را به من می‌دهید، لطفاً؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-068": [
+    {
+      "exampleId": "it-a1-l03-068-additional-1",
+      "it": "Vorrei una minerale gasata.",
+      "fa": "یک آب معدنی گازدار می‌خواهم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-068-additional-2",
+      "it": "Quest’acqua è gasata, preferisci quella naturale?",
+      "fa": "این آب گازدار است، آن آب بدون گاز را ترجیح می‌دهی؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-069": [
+    {
+      "exampleId": "it-a1-l03-069-additional-1",
+      "it": "Per la bambina solo acqua naturale.",
+      "fa": "برای دخترک فقط آب بدون گاز.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-069-additional-2",
+      "it": "Una minerale naturale costa due euro.",
+      "fa": "یک آب معدنی بدون گاز دو یورو قیمت دارد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-070": [
+    {
+      "exampleId": "it-a1-l03-070-additional-1",
+      "it": "Per me una cola senza ghiaccio.",
+      "fa": "برای من یک نوشابهٔ کولا بدون یخ.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-070-additional-2",
+      "it": "Preferisco bere l’aranciata senza ghiaccio.",
+      "fa": "ترجیح می‌دهم نوشیدنی پرتقالی را بدون یخ بنوشم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-071": [
+    {
+      "exampleId": "it-a1-l03-071-additional-1",
+      "it": "Con il pesce scegliamo del vino bianco.",
+      "fa": "همراه ماهی کمی شراب سفید انتخاب می‌کنیم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-071-additional-2",
+      "it": "Il vino bianco è fresco, lo porto a tavola.",
+      "fa": "شراب سفید خنک است، آن را سر میز می‌آورم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-072": [
+    {
+      "exampleId": "it-a1-l03-072-additional-1",
+      "it": "Come primo preparo del riso con le verdure.",
+      "fa": "برای غذای اول کمی برنج با سبزیجات درست می‌کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-072-additional-2",
+      "it": "Il riso è nel sacchetto bianco.",
+      "fa": "برنج داخل کیسهٔ سفید است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-073": [
+    {
+      "exampleId": "it-a1-l03-073-additional-1",
+      "it": "Il nostro tavolo è vicino alla finestra.",
+      "fa": "میز ما نزدیک پنجره است.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-073-additional-2",
+      "it": "Sul tavolo ci sono quattro piatti.",
+      "fa": "روی میز چهار بشقاب هست.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-074": [
+    {
+      "exampleId": "it-a1-l03-074-additional-1",
+      "it": "Per la minestra mi serve un cucchiaio.",
+      "fa": "برای سوپ به یک قاشق نیاز دارم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-074-additional-2",
+      "it": "Il cucchiaio è a destra del piatto.",
+      "fa": "قاشق سمت راست بشقاب است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-075": [
+    {
+      "exampleId": "it-a1-l03-075-additional-1",
+      "it": "Taglio il pane con il coltello.",
+      "fa": "نان را با چاقو می‌برم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-075-additional-2",
+      "it": "Mi porta un coltello pulito, per favore?",
+      "fa": "یک چاقوی تمیز برایم می‌آورید، لطفاً؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-076": [
+    {
+      "exampleId": "it-a1-l03-076-additional-1",
+      "it": "Mescolo il tè con il cucchiaino.",
+      "fa": "چای را با قاشق چای‌خوری هم می‌زنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-076-additional-2",
+      "it": "Il cucchiaino è sul piattino.",
+      "fa": "قاشق چای‌خوری روی نعلبکی است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-077": [
+    {
+      "exampleId": "it-a1-l03-077-additional-1",
+      "it": "Metto il tovagliolo sulle ginocchia.",
+      "fa": "دستمال سفره را روی زانوهایم می‌گذارم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-077-additional-2",
+      "it": "Questo tovagliolo è pulito.",
+      "fa": "این دستمال سفره تمیز است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-078": [
+    {
+      "exampleId": "it-a1-l03-078-additional-1",
+      "it": "Nell’insalata metto un po’ d’olio.",
+      "fa": "داخل سالاد کمی روغن می‌ریزم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-078-additional-2",
+      "it": "L’olio è nella bottiglia verde.",
+      "fa": "روغن داخل بطری سبز است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-079": [
+    {
+      "exampleId": "it-a1-l03-079-additional-1",
+      "it": "Non voglio aceto nell’insalata.",
+      "fa": "داخل سالاد سرکه نمی‌خواهم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-079-additional-2",
+      "it": "L’aceto è accanto all’olio.",
+      "fa": "سرکه کنار روغن است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-080": [
+    {
+      "exampleId": "it-a1-l03-080-additional-1",
+      "it": "Mangio la pasta con la forchetta.",
+      "fa": "پاستا را با چنگال می‌خورم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-080-additional-2",
+      "it": "Mi manca una forchetta per il secondo.",
+      "fa": "برای غذای دوم یک چنگال کم دارم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-081": [
+    {
+      "exampleId": "it-a1-l03-081-additional-1",
+      "it": "Sulla carne metto un po’ di pepe.",
+      "fa": "روی گوشت کمی فلفل می‌ریزم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-081-additional-2",
+      "it": "Il pepe è vicino al sale.",
+      "fa": "فلفل کنار نمک است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-082": [
+    {
+      "exampleId": "it-a1-l03-082-additional-1",
+      "it": "La zuppa ha poco sale.",
+      "fa": "سوپ نمک کمی دارد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-082-additional-2",
+      "it": "Puoi passarmi il sale, per favore?",
+      "fa": "می‌توانی نمک را به من بدهی، لطفاً؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-083": [
+    {
+      "exampleId": "it-a1-l03-083-additional-1",
+      "it": "Vorrei un bicchiere d’acqua fresca.",
+      "fa": "یک لیوان آب خنک می‌خواهم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-083-additional-2",
+      "it": "Il mio bicchiere è vuoto.",
+      "fa": "لیوان من خالی است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-084": [
+    {
+      "exampleId": "it-a1-l03-084-additional-1",
+      "it": "Sul tavolo c’è una bottiglia d’acqua.",
+      "fa": "روی میز یک بطری آب هست.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-084-additional-2",
+      "it": "Bevo acqua durante il pranzo.",
+      "fa": "هنگام ناهار آب می‌نوشم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-085": [
+    {
+      "exampleId": "it-a1-l03-085-additional-1",
+      "it": "Porto una bottiglia d’acqua a tavola.",
+      "fa": "یک بطری آب سر میز می‌آورم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-085-additional-2",
+      "it": "Questa bottiglia è quasi vuota.",
+      "fa": "این بطری تقریباً خالی است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-086": [
+    {
+      "exampleId": "it-a1-l03-086-additional-1",
+      "it": "Due tè al limone, per favore.",
+      "fa": "دو چای لیمویی، لطفاً.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-086-additional-2",
+      "it": "Ci porta il menù, per favore?",
+      "fa": "منو را برایمان می‌آورید، لطفاً؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-087": [
+    {
+      "exampleId": "it-a1-l03-087-additional-1",
+      "it": "Un tovagliolo pulito, per cortesia.",
+      "fa": "یک دستمال سفرهٔ تمیز، لطفاً.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-087-additional-2",
+      "it": "Vorrei pagare con la carta, per cortesia.",
+      "fa": "می‌خواهم با کارت پرداخت کنم، لطفاً.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-088": [
+    {
+      "exampleId": "it-a1-l03-088-additional-1",
+      "it": "Vorrei ancora un po’ di riso.",
+      "fa": "باز هم کمی برنج می‌خواهم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-088-additional-2",
+      "it": "Hai ancora fame dopo la pizza?",
+      "fa": "بعد از پیتزا هنوز گرسنه‌ای؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-089": [
+    {
+      "exampleId": "it-a1-l03-089-additional-1",
+      "it": "Vuoi qualcos’altro dopo il gelato?",
+      "fa": "بعد از بستنی چیز دیگری می‌خواهی؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-089-additional-2",
+      "it": "Prepariamo qualcos’altro per cena.",
+      "fa": "برای شام چیز دیگری آماده می‌کنیم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-090": [
+    {
+      "exampleId": "it-a1-l03-090-additional-1",
+      "it": "Per dessert abbiamo una torta al limone.",
+      "fa": "برای دسر یک کیک لیمویی داریم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-090-additional-2",
+      "it": "Dopo il secondo arriva il dessert.",
+      "fa": "بعد از غذای دوم دسر می‌رسد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-091": [
+    {
+      "exampleId": "it-a1-l03-091-additional-1",
+      "it": "Come dolce prendo una macedonia.",
+      "fa": "برای شیرینی آخر غذا یک سالاد میوه می‌گیرم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-091-additional-2",
+      "it": "Nella macedonia ci sono mele e fragole.",
+      "fa": "داخل سالاد میوه سیب و توت‌فرنگی هست.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-092": [
+    {
+      "exampleId": "it-a1-l03-092-additional-1",
+      "it": "Questo pane è molto buono.",
+      "fa": "این نان خیلی خوشمزه است.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-092-additional-2",
+      "it": "Il piatto del giorno è buono e costa poco.",
+      "fa": "غذای روز خوشمزه است و قیمت کمی دارد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-093": [
+    {
+      "exampleId": "it-a1-l03-093-additional-1",
+      "it": "Dopo pranzo, magari prendiamo un caffè.",
+      "fa": "بعد از ناهار، شاید یک قهوه بگیریم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-093-additional-2",
+      "it": "Magari domani proviamo quel ristorante.",
+      "fa": "شاید فردا آن رستوران را امتحان کنیم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-094": [
+    {
+      "exampleId": "it-a1-l03-094-additional-1",
+      "it": "«Ci vediamo alle otto?» «D’accordo.»",
+      "fa": "«ساعت هشت همدیگر را ببینیم؟» «باشه.»",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-094-additional-2",
+      "it": "D’accordo, prenoto un tavolo per due.",
+      "fa": "باشه، برای دو نفر یک میز رزرو می‌کنم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-095": [
+    {
+      "exampleId": "it-a1-l03-095-additional-1",
+      "it": "Mi piace la cucina italiana.",
+      "fa": "آشپزی ایتالیایی را دوست دارم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-095-additional-2",
+      "it": "Questo ristorante propone cucina di mare.",
+      "fa": "این رستوران غذاهای دریایی ارائه می‌کند.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-096": [
+    {
+      "exampleId": "it-a1-l03-096-additional-1",
+      "it": "Qui servono cucina vegetariana.",
+      "fa": "اینجا غذای گیاهی سرو می‌کنند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-096-additional-2",
+      "it": "Cerco una trattoria con cucina vegetariana.",
+      "fa": "دنبال یک غذاخوری با آشپزی گیاهی می‌گردم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-097": [
+    {
+      "exampleId": "it-a1-l03-097-additional-1",
+      "it": "Il bar è aperto fino alle nove.",
+      "fa": "کافه‌بار تا ساعت نه باز است.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-097-additional-2",
+      "it": "Questo ristorante è aperto anche la domenica.",
+      "fa": "این رستوران یکشنبه‌ها هم باز است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-098": [
+    {
+      "exampleId": "it-a1-l03-098-additional-1",
+      "it": "Per cena preparo una minestra.",
+      "fa": "برای شام یک سوپ درست می‌کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-098-additional-2",
+      "it": "La cena è pronta, puoi chiamare gli altri?",
+      "fa": "شام آماده است، می‌توانی بقیه را صدا کنی؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-099": [
+    {
+      "exampleId": "it-a1-l03-099-additional-1",
+      "it": "Il negozio è chiuso oggi.",
+      "fa": "مغازه امروز تعطیل است.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-099-additional-2",
+      "it": "Questo bar è chiuso il lunedì.",
+      "fa": "این کافه‌بار دوشنبه‌ها تعطیل است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-100": [
+    {
+      "exampleId": "it-a1-l03-100-additional-1",
+      "it": "Il lunedì mangio sempre a casa.",
+      "fa": "دوشنبه‌ها همیشه در خانه غذا می‌خورم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-100-additional-2",
+      "it": "Lunedì andiamo in quel ristorante.",
+      "fa": "دوشنبه به آن رستوران می‌رویم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-101": [
+    {
+      "exampleId": "it-a1-l03-101-additional-1",
+      "it": "Ho una prenotazione per due persone.",
+      "fa": "برای دو نفر رزرو دارم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-101-additional-2",
+      "it": "La prenotazione è a nome Rossi.",
+      "fa": "رزرو به نام روسی است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-102": [
+    {
+      "exampleId": "it-a1-l03-102-additional-1",
+      "it": "«Vorrei un tavolo.» «Per quante persone?»",
+      "fa": "«یک میز می‌خواهم.» «برای چند نفر؟»",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-102-additional-2",
+      "it": "Al telefono il cameriere chiede: «Per quante persone?»",
+      "fa": "پشت تلفن پیشخدمت می‌پرسد: «برای چند نفر؟»",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-103": [
+    {
+      "exampleId": "it-a1-l03-103-additional-1",
+      "it": "«Ho una prenotazione.» «A che nome?»",
+      "fa": "«رزرو دارم.» «به چه نامی؟»",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-103-additional-2",
+      "it": "Prima di controllare la prenotazione mi chiedono: «A che nome?»",
+      "fa": "قبل از بررسی رزرو از من می‌پرسند: «به چه نامی؟»",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-104": [
+    {
+      "exampleId": "it-a1-l03-104-additional-1",
+      "it": "Siamo in quattro, forse cinque.",
+      "fa": "چهار نفریم، شاید پنج نفر.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-104-additional-2",
+      "it": "Forse il ristorante è già chiuso.",
+      "fa": "شاید رستوران از قبل بسته باشد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-105": [
+    {
+      "exampleId": "it-a1-l03-105-additional-1",
+      "it": "Adesso vado al corso, a più tardi!",
+      "fa": "الان به کلاس می‌روم، تا بعد!",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-105-additional-2",
+      "it": "Ti telefono dopo cena: a più tardi!",
+      "fa": "بعد از شام به تو تلفن می‌کنم: تا بعد!",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-106": [
+    {
+      "exampleId": "it-a1-l03-106-additional-1",
+      "it": "Questo tavolo è riservato.",
+      "fa": "این میز رزرو شده است.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-106-additional-2",
+      "it": "Il posto vicino alla finestra è riservato.",
+      "fa": "جای نزدیک پنجره رزرو شده است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-107": [
+    {
+      "exampleId": "it-a1-l03-107-additional-1",
+      "it": "È normale avere fame prima di cena.",
+      "fa": "طبیعی است که قبل از شام گرسنه باشیم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-107-additional-2",
+      "it": "Dopo il corso ho fame e mangio un panino.",
+      "fa": "پس از کلاس گرسنه‌ام و یک ساندویچ می‌خورم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-108": [
+    {
+      "exampleId": "it-a1-l03-108-additional-1",
+      "it": "Mio fratello è malato e rimane a casa.",
+      "fa": "برادرم بیمار است و در خانه می‌ماند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-108-additional-2",
+      "it": "Il cameriere è malato, oggi non lavora.",
+      "fa": "پیشخدمت بیمار است، امروز کار نمی‌کند.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l03-109": [
+    {
+      "exampleId": "it-a1-l03-109-additional-1",
+      "it": "Lasciamo una piccola mancia al cameriere.",
+      "fa": "انعام کوچکی برای پیشخدمت می‌گذاریم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l03-109-additional-2",
+      "it": "La mancia non è compresa nel conto.",
+      "fa": "انعام در صورت‌حساب حساب نشده است.",
+      "origin": "authored"
+    }
   ]
 }

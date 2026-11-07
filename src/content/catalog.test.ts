@@ -4,16 +4,16 @@ import { courseBundle, lessonBundles, combineLessonBundles } from './catalog.ts'
 import { withTextbookStudyOrder } from './textbook-study-order.ts'
 import pedagogy from './italian-pedagogy.json' with { type: 'json' }
 
-test('both sourced Italian lessons retain independent page order, stable IDs and titles', () => {
-  assert.equal(lessonBundles.length, 2)
-  assert.equal(courseBundle.lessons!.length, 2)
-  assert.deepEqual(lessonBundles.map(bundle => bundle.lesson.titleIt), ['Primi contatti', 'Io e gli altri'])
+test('three sourced Italian lessons retain independent page order, stable IDs and titles', () => {
+  assert.equal(lessonBundles.length, 3)
+  assert.equal(courseBundle.lessons!.length, 3)
+  assert.deepEqual(lessonBundles.map(bundle => bundle.lesson.titleIt), ['Primi contatti', 'Io e gli altri', 'Buon appetito'])
   for (const bundle of lessonBundles) {
     const page = (id: string) => Math.min(...bundle.entries.find(entry => entry.entryId === id)!.sourceRefIds.map(refId => Number(bundle.sourceRefs.find(ref => ref.sourceRefId === refId)!.locator.match(/چاپی (\d+)/u)![1])))
     const ids = bundle.lesson.introducedEntryIds
     assert.ok(ids.every((id,index) => index === 0 || page(id) >= page(ids[index-1])))
     assert.deepEqual(withTextbookStudyOrder(bundle), bundle)
-    assert.ok(bundle.entries.every(entry => entry.entryId.startsWith(bundle.lesson.lessonId === 'it-a1-lesson-01' ? 'it-a1-l01-' : 'it-a1-l02-')))
+    assert.ok(bundle.entries.every(entry => entry.entryId.startsWith(`it-a1-l${bundle.lesson.lessonId.slice(-2)}-`)))
   }
   const first = lessonBundles[0]
   const rank = (id: string) => pedagogy.find(row => row.entryId === id)!.sourceOrder

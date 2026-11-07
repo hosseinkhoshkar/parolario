@@ -166,10 +166,11 @@ test('fourth lesson vocabulary renders only that lesson and keeps unrelated entr
 })
 
 
-test('both Italian lesson vocabularies follow their own introduction pages, ignoring later repeated occurrences', () => {
+test('all three Italian lesson vocabularies follow their own introduction pages, ignoring later repeated occurrences', () => {
+  const counts: Record<string, number> = { 'it-a1-lesson-01': 85, 'it-a1-lesson-02': 92, 'it-a1-lesson-03': 109 }
   for (const lesson of italianCourse.lessons!) {
     const entries: Entry[] = view.lessonEntries(italianCourse, lesson.lessonId)
-    assert.equal(entries.length, lesson.lessonId === 'it-a1-lesson-01' ? 85 : 92)
+    assert.equal(entries.length, counts[lesson.lessonId])
     assert.deepEqual(entries.map(entry => entry.entryId), lesson.introducedEntryIds)
     assert.deepEqual(entries.slice(0, 5).map(entry => entry.entryId), lesson.introducedEntryIds.slice(0, 5))
     const pages = entries.map(entry => Math.min(...entry.sourceRefIds.map(id => italianCourse.sourceRefs.find(item => item.sourceRefId === id)!)
@@ -314,8 +315,9 @@ test('the active Italian catalog renders the ready lesson with its real count an
     introduced: 0, due: 0, stabilized: 0,
   }))
   const html = renderToStaticMarkup(createElement(view.LessonCards, { activeLessonId: italianCourse.lesson.lessonId, disabled: false, onChoose: async () => {}, summaries }))
-  assert.equal((html.match(/data-lesson-id=/gu) ?? []).length, 2)
-  assert.ok(html.includes('aria-valuemax="85"'))
+  assert.equal((html.match(/data-lesson-id=/gu) ?? []).length, 3)
+  for (const count of [85,92,109]) assert.ok(html.includes(`aria-valuemax="${count}"`))
+  assert.ok(html.includes('Io e gli altri') && html.includes('Buon appetito'))
   assert.ok(html.includes('Primi contatti') && html.includes(italianCourse.lesson.titleFa))
   assert.ok(html.includes(`class="lesson-card lesson-current" data-lesson-id="${italianCourse.lesson.lessonId}"`))
   assert.match(html, /ورود به درس اول/u)

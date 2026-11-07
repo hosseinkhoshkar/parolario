@@ -1,0 +1,2818 @@
+[
+  {
+    "sourceRow": 1,
+    "entryId": "it-a1-l03-001",
+    "lemma": "buon appetito!",
+    "partOfSpeech": "phrase",
+    "cueFa": "عبارت دوواژه‌ایِ آرزوی غذاخوردن خوش را با علامت تعجب بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "buon appetito!"
+    ],
+    "cloze": {
+      "sentence": "A tavola diciamo: «___»",
+      "translationFa": "سر میز می‌گوییم: «نوش جان!»",
+      "acceptedAnswers": [
+        "Buon appetito!"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت دوواژه‌ایِ آرزوی غذاخوردن خوش را با علامت تعجب بنویس."
+    },
+    "sourceOrder": 1
+  },
+  {
+    "sourceRow": 2,
+    "entryId": "it-a1-l03-002",
+    "lemma": "cosa desidera?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش دوواژه‌ایِ محترمانه دربارهٔ میل مشتری را با علامت سؤال بنویس؛ ضمیر فاعلی اضافه نکن.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "cosa desidera?"
+    ],
+    "cloze": {
+      "sentence": "Buongiorno, signora. ___",
+      "translationFa": "سلام، خانم. چه میل دارید؟",
+      "acceptedAnswers": [
+        "Cosa desidera?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش دوواژه‌ایِ محترمانه دربارهٔ میل مشتری را با علامت سؤال بنویس؛ ضمیر فاعلی اضافه نکن."
+    },
+    "sourceOrder": 2
+  },
+  {
+    "sourceRow": 3,
+    "entryId": "it-a1-l03-003",
+    "lemma": "vorrei",
+    "partOfSpeech": "phrase",
+    "cueFa": "صورت اول‌شخصِ شرطی برای درخواست مؤدبانه را بنویس؛ فقط یک واژه، نه مصدرِ خواستن.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "vorrei"
+    ],
+    "cloze": {
+      "sentence": "Per pranzo ___ una pizza piccola.",
+      "translationFa": "برای ناهار یک پیتزای کوچک می‌خواهم.",
+      "acceptedAnswers": [
+        "vorrei"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صورت اول‌شخصِ شرطی برای درخواست مؤدبانه را بنویس؛ فقط یک واژه، نه مصدرِ خواستن."
+    },
+    "sourceOrder": 3
+  },
+  {
+    "sourceRow": 4,
+    "entryId": "it-a1-l03-004",
+    "lemma": "solo",
+    "partOfSpeech": "adverb",
+    "cueFa": "قید یک‌واژه‌ایِ محدودکننده به معنی فقط را بنویس؛ صفتِ تنها منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "solo"
+    ],
+    "cloze": {
+      "sentence": "Per me ___ acqua, grazie.",
+      "translationFa": "برای من فقط آب، ممنون.",
+      "acceptedAnswers": [
+        "solo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "قید یک‌واژه‌ایِ محدودکننده به معنی فقط را بنویس؛ صفتِ تنها منظور نیست."
+    },
+    "sourceOrder": 4
+  },
+  {
+    "sourceRow": 5,
+    "entryId": "it-a1-l03-005",
+    "lemma": "primo",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ غذای اول را به صورت مفرد و بدون آرتیکل بنویس؛ عددِ ترتیبی در این بافت نام غذاست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "primo"
+    ],
+    "cloze": {
+      "sentence": "Come ___ scelgo una zuppa.",
+      "translationFa": "برای غذای اول یک سوپ انتخاب می‌کنم.",
+      "acceptedAnswers": [
+        "primo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ غذای اول را به صورت مفرد و بدون آرتیکل بنویس؛ عددِ ترتیبی در این بافت نام غذاست."
+    },
+    "sourceOrder": 5
+  },
+  {
+    "sourceRow": 6,
+    "entryId": "it-a1-l03-006",
+    "lemma": "che cosa avete oggi?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش کامل چهارواژه‌ای با «چه چیز» دربارهٔ موجودی امروز را با علامت سؤال بنویس؛ خطاب به کارکنان به صورت جمع است.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "che cosa avete oggi?"
+    ],
+    "cloze": {
+      "sentence": "Scusate, ___",
+      "translationFa": "ببخشید، امروز چه دارید؟",
+      "acceptedAnswers": [
+        "che cosa avete oggi?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش کامل چهارواژه‌ای با «چه چیز» دربارهٔ موجودی امروز را با علامت سؤال بنویس؛ خطاب به کارکنان به صورت جمع است."
+    },
+    "sourceOrder": 6
+  },
+  {
+    "sourceRow": 7,
+    "entryId": "it-a1-l03-007",
+    "lemma": "prende un caffè?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش محترمانهٔ سه‌واژه‌ایِ تعارف قهوه را با آرتیکل نامعین و علامت سؤال بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "prende un caffè?"
+    ],
+    "cloze": {
+      "sentence": "Signora Rossi, ___",
+      "translationFa": "خانم روسی، یک قهوه میل می‌کنید؟",
+      "acceptedAnswers": [
+        "prende un caffè?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش محترمانهٔ سه‌واژه‌ایِ تعارف قهوه را با آرتیکل نامعین و علامت سؤال بنویس."
+    },
+    "sourceOrder": 7
+  },
+  {
+    "sourceRow": 8,
+    "entryId": "it-a1-l03-008",
+    "lemma": "pane",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «نان» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "pane"
+    ],
+    "cloze": {
+      "sentence": "Vorrei un po’ di ___ con la zuppa.",
+      "translationFa": "کمی نان همراه سوپ می‌خواهم.",
+      "acceptedAnswers": [
+        "pane"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «نان» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 8
+  },
+  {
+    "sourceRow": 9,
+    "entryId": "it-a1-l03-009",
+    "lemma": "conto",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «صورت‌حساب» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "conto"
+    ],
+    "cloze": {
+      "sentence": "Possiamo avere il ___, per favore?",
+      "translationFa": "می‌توانیم صورت‌حساب را داشته باشیم، لطفاً؟",
+      "acceptedAnswers": [
+        "conto"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «صورت‌حساب» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 9
+  },
+  {
+    "sourceRow": 10,
+    "entryId": "it-a1-l03-010",
+    "lemma": "è possibile prenotare un tavolo?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش کاملِ امکان رزرو میز را با فعل بودنِ دارای اکسان، مصدر و آرتیکل نامعین و علامت سؤال بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "è possibile prenotare un tavolo?"
+    ],
+    "cloze": {
+      "sentence": "Buonasera. ___",
+      "translationFa": "عصر بخیر. آیا می‌توان یک میز رزرو کرد؟",
+      "acceptedAnswers": [
+        "È possibile prenotare un tavolo?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش کاملِ امکان رزرو میز را با فعل بودنِ دارای اکسان، مصدر و آرتیکل نامعین و علامت سؤال بنویس."
+    },
+    "sourceOrder": 10
+  },
+  {
+    "sourceRow": 11,
+    "entryId": "it-a1-l03-011",
+    "lemma": "bar",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام کافه‌بار را بدون آرتیکل بنویس؛ با رستوران فرق دارد.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "bar"
+    ],
+    "cloze": {
+      "sentence": "Ci vediamo al ___ dopo il corso.",
+      "translationFa": "پس از کلاس در کافه‌بار همدیگر را می‌بینیم.",
+      "acceptedAnswers": [
+        "bar"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام کافه‌بار را بدون آرتیکل بنویس؛ با رستوران فرق دارد."
+    },
+    "sourceOrder": 11
+  },
+  {
+    "sourceRow": 12,
+    "entryId": "it-a1-l03-012",
+    "lemma": "caffè",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «قهوه» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "caffè"
+    ],
+    "cloze": {
+      "sentence": "Bevo un ___ dopo pranzo.",
+      "translationFa": "بعد از ناهار یک قهوه می‌نوشم.",
+      "acceptedAnswers": [
+        "caffè"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «قهوه» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 12
+  },
+  {
+    "sourceRow": 13,
+    "entryId": "it-a1-l03-013",
+    "lemma": "panino",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام ساندویچ با نان کوچک را بنویس؛ ساندویچ مثلثی یا تست منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "panino"
+    ],
+    "cloze": {
+      "sentence": "Per pranzo compro un ___ al formaggio.",
+      "translationFa": "برای ناهار یک ساندویچ پنیر می‌خرم.",
+      "acceptedAnswers": [
+        "panino"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام ساندویچ با نان کوچک را بنویس؛ ساندویچ مثلثی یا تست منظور نیست."
+    },
+    "sourceOrder": 13
+  },
+  {
+    "sourceRow": 14,
+    "entryId": "it-a1-l03-014",
+    "lemma": "cornetto",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": "masculine",
+      "number": "singular",
+      "plural": "cornetti",
+      "pluralNote": "صورت جمع در ارجاع یا نکتهٔ فایل مرجع دیده شده است."
+    },
+    "cueFa": "نام شیرینی هلالی را مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "cornetto"
+    ],
+    "cloze": {
+      "sentence": "Al bar ordino un ___ alla crema.",
+      "translationFa": "در کافه‌بار یک کروسان با کرم سفارش می‌دهم.",
+      "acceptedAnswers": [
+        "cornetto"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام شیرینی هلالی را مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 14
+  },
+  {
+    "sourceRow": 15,
+    "entryId": "it-a1-l03-015",
+    "lemma": "pesce",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «ماهی» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "pesce"
+    ],
+    "cloze": {
+      "sentence": "Oggi preferisco il ___ alla carne.",
+      "translationFa": "امروز ماهی را به گوشت ترجیح می‌دهم.",
+      "acceptedAnswers": [
+        "pesce"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «ماهی» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 15
+  },
+  {
+    "sourceRow": 16,
+    "entryId": "it-a1-l03-016",
+    "lemma": "pasta",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «پاستا» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "pasta"
+    ],
+    "cloze": {
+      "sentence": "A pranzo mangiamo la ___ al pomodoro.",
+      "translationFa": "برای ناهار پاستا با سس گوجه‌فرنگی می‌خوریم.",
+      "acceptedAnswers": [
+        "pasta"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «پاستا» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 16
+  },
+  {
+    "sourceRow": 17,
+    "entryId": "it-a1-l03-017",
+    "lemma": "carne",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": "carni",
+      "pluralNote": "صورت جمع در ارجاع یا نکتهٔ فایل مرجع دیده شده است."
+    },
+    "cueFa": "اسمِ «گوشت» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "carne"
+    ],
+    "cloze": {
+      "sentence": "Mia sorella non mangia ___.",
+      "translationFa": "خواهرم گوشت نمی‌خورد.",
+      "acceptedAnswers": [
+        "carne"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «گوشت» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 17
+  },
+  {
+    "sourceRow": 18,
+    "entryId": "it-a1-l03-018",
+    "lemma": "antipasto",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "l'",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": "antipasti",
+      "pluralNote": "صورت جمع در ارجاع یا نکتهٔ فایل مرجع دیده شده است."
+    },
+    "cueFa": "اسمِ «پیش‌غذا» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "antipasto"
+    ],
+    "cloze": {
+      "sentence": "Come ___ prendiamo delle verdure.",
+      "translationFa": "برای پیش‌غذا کمی سبزیجات می‌گیریم.",
+      "acceptedAnswers": [
+        "antipasto"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «پیش‌غذا» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 18
+  },
+  {
+    "sourceRow": 19,
+    "entryId": "it-a1-l03-019",
+    "lemma": "acqua minerale",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "عبارت اسمیِ دوواژه‌ایِ آب معدنی را بدون آرتیکل بنویس؛ آب به‌تنهایی کافی نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "acqua minerale"
+    ],
+    "cloze": {
+      "sentence": "Vorrei una bottiglia di ___.",
+      "translationFa": "یک بطری آب معدنی می‌خواهم.",
+      "acceptedAnswers": [
+        "acqua minerale"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت اسمیِ دوواژه‌ایِ آب معدنی را بدون آرتیکل بنویس؛ آب به‌تنهایی کافی نیست."
+    },
+    "sourceOrder": 19
+  },
+  {
+    "sourceRow": 20,
+    "entryId": "it-a1-l03-020",
+    "lemma": "cameriere",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «پیشخدمت مرد» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "cameriere"
+    ],
+    "cloze": {
+      "sentence": "Il ___ porta due piatti.",
+      "translationFa": "پیشخدمت دو بشقاب می‌آورد.",
+      "acceptedAnswers": [
+        "cameriere"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «پیشخدمت مرد» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 20
+  },
+  {
+    "sourceRow": 21,
+    "entryId": "it-a1-l03-021",
+    "lemma": "contorno",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": "contorni",
+      "pluralNote": "صورت جمع در ارجاع یا نکتهٔ فایل مرجع دیده شده است."
+    },
+    "cueFa": "اسمِ «غذای کنار بشقاب» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "contorno"
+    ],
+    "cloze": {
+      "sentence": "Come ___ scelgo delle patate.",
+      "translationFa": "برای غذای کنار بشقاب کمی سیب‌زمینی انتخاب می‌کنم.",
+      "acceptedAnswers": [
+        "contorno"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «غذای کنار بشقاب» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 21
+  },
+  {
+    "sourceRow": 22,
+    "entryId": "it-a1-l03-022",
+    "lemma": "prendere",
+    "partOfSpeech": "verb",
+    "cueFa": "مصدرِ گرفتن را بنویس که در سفارش خوراک هم به کار می‌رود؛ مصدرِ اختصاصی سفارش‌دادن منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "prendere"
+    ],
+    "cloze": {
+      "sentence": "Posso ___ una pizza piccola?",
+      "translationFa": "می‌توانم یک پیتزای کوچک بگیرم؟",
+      "acceptedAnswers": [
+        "prendere"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "مصدرِ گرفتن را بنویس که در سفارش خوراک هم به کار می‌رود؛ مصدرِ اختصاصی سفارش‌دادن منظور نیست."
+    },
+    "sourceOrder": 22
+  },
+  {
+    "sourceRow": 23,
+    "entryId": "it-a1-l03-023",
+    "lemma": "volere",
+    "partOfSpeech": "verb",
+    "cueFa": "مصدرِ خواستن را بنویس؛ صورت مؤدبانهٔ «میل دارم» منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "volere"
+    ],
+    "cloze": {
+      "sentence": "Non puoi ___ tutto.",
+      "translationFa": "نمی‌توانی همه‌چیز را بخواهی.",
+      "acceptedAnswers": [
+        "volere"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "مصدرِ خواستن را بنویس؛ صورت مؤدبانهٔ «میل دارم» منظور نیست."
+    },
+    "sourceOrder": 23
+  },
+  {
+    "sourceRow": 24,
+    "entryId": "it-a1-l03-024",
+    "lemma": "prenotare",
+    "partOfSpeech": "verb",
+    "cueFa": "مصدر یک‌واژه‌ایِ رزروکردن را بنویس؛ اسمِ رزرو منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "prenotare"
+    ],
+    "cloze": {
+      "sentence": "Vorrei ___ un tavolo per domani.",
+      "translationFa": "می‌خواهم برای فردا یک میز رزرو کنم.",
+      "acceptedAnswers": [
+        "prenotare"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "مصدر یک‌واژه‌ایِ رزروکردن را بنویس؛ اسمِ رزرو منظور نیست."
+    },
+    "sourceOrder": 24
+  },
+  {
+    "sourceRow": 25,
+    "entryId": "it-a1-l03-025",
+    "lemma": "preferire",
+    "partOfSpeech": "verb",
+    "cueFa": "مصدرِ ترجیح‌دادن را بنویس؛ صورت صرف‌شدهٔ اول‌شخص منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "preferire"
+    ],
+    "cloze": {
+      "sentence": "Puoi ___ il tè, ma qui c’è solo caffè.",
+      "translationFa": "می‌توانی چای را ترجیح بدهی، اما اینجا فقط قهوه هست.",
+      "acceptedAnswers": [
+        "preferire"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "مصدرِ ترجیح‌دادن را بنویس؛ صورت صرف‌شدهٔ اول‌شخص منظور نیست."
+    },
+    "sourceOrder": 25
+  },
+  {
+    "sourceRow": 26,
+    "entryId": "it-a1-l03-026",
+    "lemma": "aranciata",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "l'",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": "aranciate",
+      "pluralNote": "صورت جمع در ارجاع یا نکتهٔ فایل مرجع دیده شده است."
+    },
+    "cueFa": "اسمِ «نوشیدنی پرتقالی» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "aranciata"
+    ],
+    "cloze": {
+      "sentence": "Ordino un’___ fresca.",
+      "translationFa": "یک نوشیدنی پرتقالی خنک سفارش می‌دهم.",
+      "acceptedAnswers": [
+        "aranciata"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «نوشیدنی پرتقالی» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 26
+  },
+  {
+    "sourceRow": 27,
+    "entryId": "it-a1-l03-027",
+    "lemma": "aperitivo",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "l'",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": "aperitivi",
+      "pluralNote": "صورت جمع در ارجاع یا نکتهٔ فایل مرجع دیده شده است."
+    },
+    "cueFa": "اسمِ «نوشیدنی پیش از غذا» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "aperitivo"
+    ],
+    "cloze": {
+      "sentence": "Prima di cena prendiamo un ___.",
+      "translationFa": "پیش از شام یک نوشیدنیِ پیش از غذا می‌نوشیم.",
+      "acceptedAnswers": [
+        "aperitivo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «نوشیدنی پیش از غذا» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 27
+  },
+  {
+    "sourceRow": 28,
+    "entryId": "it-a1-l03-028",
+    "lemma": "bicchiere di latte",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "عبارت اسمیِ سه‌واژه‌ایِ لیوان شیر را بدون آرتیکل بنویس؛ شیر یا لیوان به‌تنهایی کافی نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "bicchiere di latte"
+    ],
+    "cloze": {
+      "sentence": "La bambina beve un ___.",
+      "translationFa": "دخترک یک لیوان شیر می‌نوشد.",
+      "acceptedAnswers": [
+        "bicchiere di latte"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت اسمیِ سه‌واژه‌ایِ لیوان شیر را بدون آرتیکل بنویس؛ شیر یا لیوان به‌تنهایی کافی نیست."
+    },
+    "sourceOrder": 28
+  },
+  {
+    "sourceRow": 29,
+    "entryId": "it-a1-l03-029",
+    "lemma": "spumante",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "lo",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": "spumanti",
+      "pluralNote": "صورت جمع در ارجاع یا نکتهٔ فایل مرجع دیده شده است."
+    },
+    "cueFa": "اسمِ «شراب گازدار» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "spumante"
+    ],
+    "cloze": {
+      "sentence": "Per la festa compriamo lo ___.",
+      "translationFa": "برای جشن شراب گازدار می‌خریم.",
+      "acceptedAnswers": [
+        "spumante"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «شراب گازدار» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 29
+  },
+  {
+    "sourceRow": 30,
+    "entryId": "it-a1-l03-030",
+    "lemma": "spremuta di pompelmo",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "عبارت اسمیِ سه‌واژه‌ایِ آب تازهٔ گریپ‌فروت را بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "spremuta di pompelmo"
+    ],
+    "cloze": {
+      "sentence": "Vorrei una ___ senza ghiaccio.",
+      "translationFa": "یک آب گریپ‌فروت تازه بدون یخ می‌خواهم.",
+      "acceptedAnswers": [
+        "spremuta di pompelmo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت اسمیِ سه‌واژه‌ایِ آب تازهٔ گریپ‌فروت را بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 30
+  },
+  {
+    "sourceRow": 31,
+    "entryId": "it-a1-l03-031",
+    "lemma": "cappuccino",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «کاپوچینو» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "cappuccino"
+    ],
+    "cloze": {
+      "sentence": "A colazione ordino un ___.",
+      "translationFa": "برای صبحانه یک کاپوچینو سفارش می‌دهم.",
+      "acceptedAnswers": [
+        "cappuccino"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «کاپوچینو» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 31
+  },
+  {
+    "sourceRow": 32,
+    "entryId": "it-a1-l03-032",
+    "lemma": "birra",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": "birre",
+      "pluralNote": "صورت جمع در ارجاع یا نکتهٔ فایل مرجع دیده شده است."
+    },
+    "cueFa": "اسمِ «آبجو» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "birra"
+    ],
+    "cloze": {
+      "sentence": "Mio padre prende una ___ piccola.",
+      "translationFa": "پدرم یک آبجوی کوچک می‌گیرد.",
+      "acceptedAnswers": [
+        "birra"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «آبجو» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 32
+  },
+  {
+    "sourceRow": 33,
+    "entryId": "it-a1-l03-033",
+    "lemma": "crema",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «کرم شیرینی» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "crema"
+    ],
+    "cloze": {
+      "sentence": "Questo cornetto è ripieno di ___.",
+      "translationFa": "این کروسان با کرم پر شده است.",
+      "acceptedAnswers": [
+        "crema"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «کرم شیرینی» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 33
+  },
+  {
+    "sourceRow": 34,
+    "entryId": "it-a1-l03-034",
+    "lemma": "marmellata",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": "marmellate",
+      "pluralNote": "صورت جمع در ارجاع یا نکتهٔ فایل مرجع دیده شده است."
+    },
+    "cueFa": "اسمِ «مربا» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "marmellata"
+    ],
+    "cloze": {
+      "sentence": "Sul pane metto la ___.",
+      "translationFa": "روی نان مربا می‌گذارم.",
+      "acceptedAnswers": [
+        "marmellata"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «مربا» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 34
+  },
+  {
+    "sourceRow": 35,
+    "entryId": "it-a1-l03-035",
+    "lemma": "supermercato",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «سوپرمارکت» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "supermercato"
+    ],
+    "cloze": {
+      "sentence": "Compro il latte al ___.",
+      "translationFa": "شیر را از سوپرمارکت می‌خرم.",
+      "acceptedAnswers": [
+        "supermercato"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «سوپرمارکت» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 35
+  },
+  {
+    "sourceRow": 36,
+    "entryId": "it-a1-l03-036",
+    "lemma": "mattina",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ مفردِ بخش آغاز روز را بدون آرتیکل بنویس؛ عبارت سلام منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "mattina"
+    ],
+    "cloze": {
+      "sentence": "La ___ faccio colazione a casa.",
+      "translationFa": "صبح در خانه صبحانه می‌خورم.",
+      "acceptedAnswers": [
+        "mattina"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ مفردِ بخش آغاز روز را بدون آرتیکل بنویس؛ عبارت سلام منظور نیست."
+    },
+    "sourceOrder": 36
+  },
+  {
+    "sourceRow": 37,
+    "entryId": "it-a1-l03-037",
+    "lemma": "pomeriggio",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ مفردِ بعدازظهر را بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "pomeriggio"
+    ],
+    "cloze": {
+      "sentence": "Nel ___ incontro un amico.",
+      "translationFa": "بعدازظهر یک دوست را می‌بینم.",
+      "acceptedAnswers": [
+        "pomeriggio"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ مفردِ بعدازظهر را بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 37
+  },
+  {
+    "sourceRow": 38,
+    "entryId": "it-a1-l03-038",
+    "lemma": "sera",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ مفردِ بخش پایانی روز را بدون آرتیکل بنویس؛ عبارت سلام منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "sera"
+    ],
+    "cloze": {
+      "sentence": "La ___ ceniamo insieme.",
+      "translationFa": "عصر با هم شام می‌خوریم.",
+      "acceptedAnswers": [
+        "sera"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ مفردِ بخش پایانی روز را بدون آرتیکل بنویس؛ عبارت سلام منظور نیست."
+    },
+    "sourceOrder": 38
+  },
+  {
+    "sourceRow": 39,
+    "entryId": "it-a1-l03-039",
+    "lemma": "caffè macchiato",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام دوواژه‌ایِ قهوه با کمی شیر را بدون آرتیکل بنویس؛ قهوه به‌تنهایی کافی نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "caffè macchiato"
+    ],
+    "cloze": {
+      "sentence": "Per me un ___, grazie.",
+      "translationFa": "برای من یک قهوه با کمی شیر، ممنون.",
+      "acceptedAnswers": [
+        "caffè macchiato"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام دوواژه‌ایِ قهوه با کمی شیر را بدون آرتیکل بنویس؛ قهوه به‌تنهایی کافی نیست."
+    },
+    "sourceOrder": 39
+  },
+  {
+    "sourceRow": 40,
+    "entryId": "it-a1-l03-040",
+    "lemma": "tè",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": "tè",
+      "pluralNote": "صورت جمع در ارجاع یا نکتهٔ فایل مرجع دیده شده است."
+    },
+    "cueFa": "نام چای را بدون آرتیکل و با اکسان پایانی درست بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "tè"
+    ],
+    "cloze": {
+      "sentence": "Quando fa freddo bevo un ___ caldo.",
+      "translationFa": "وقتی هوا سرد است یک چای گرم می‌نوشم.",
+      "acceptedAnswers": [
+        "tè"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام چای را بدون آرتیکل و با اکسان پایانی درست بنویس."
+    },
+    "sourceOrder": 40
+  },
+  {
+    "sourceRow": 41,
+    "entryId": "it-a1-l03-041",
+    "lemma": "limone",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «لیمو» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "limone"
+    ],
+    "cloze": {
+      "sentence": "Aggiungo una fetta di ___ al tè.",
+      "translationFa": "یک برش لیمو به چای اضافه می‌کنم.",
+      "acceptedAnswers": [
+        "limone"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «لیمو» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 41
+  },
+  {
+    "sourceRow": 42,
+    "entryId": "it-a1-l03-042",
+    "lemma": "latte",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «شیر» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "latte"
+    ],
+    "cloze": {
+      "sentence": "Il bambino vuole del ___ caldo.",
+      "translationFa": "کودک کمی شیر گرم می‌خواهد.",
+      "acceptedAnswers": [
+        "latte"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «شیر» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 42
+  },
+  {
+    "sourceRow": 43,
+    "entryId": "it-a1-l03-043",
+    "lemma": "mangiare",
+    "partOfSpeech": "verb",
+    "cueFa": "مصدرِ خوردن را بنویس؛ نوشیدن منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "mangiare"
+    ],
+    "cloze": {
+      "sentence": "Vuoi ___ qualcosa con me?",
+      "translationFa": "می‌خواهی با من چیزی بخوری؟",
+      "acceptedAnswers": [
+        "mangiare"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "مصدرِ خوردن را بنویس؛ نوشیدن منظور نیست."
+    },
+    "sourceOrder": 43
+  },
+  {
+    "sourceRow": 44,
+    "entryId": "it-a1-l03-044",
+    "lemma": "ordinare",
+    "partOfSpeech": "verb",
+    "cueFa": "مصدرِ اختصاصیِ سفارش‌دادن را بنویس؛ فعلِ گرفتن منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "ordinare"
+    ],
+    "cloze": {
+      "sentence": "Possiamo ___ adesso?",
+      "translationFa": "می‌توانیم الان سفارش بدهیم؟",
+      "acceptedAnswers": [
+        "ordinare"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "مصدرِ اختصاصیِ سفارش‌دادن را بنویس؛ فعلِ گرفتن منظور نیست."
+    },
+    "sourceOrder": 44
+  },
+  {
+    "sourceRow": 45,
+    "entryId": "it-a1-l03-045",
+    "lemma": "tramezzino",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام ساندویچ مثلثی با نان نرم را بنویس؛ ساندویچ نان کوچک یا تست منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "tramezzino"
+    ],
+    "cloze": {
+      "sentence": "Per merenda prendo un ___.",
+      "translationFa": "برای میان‌وعده یک ساندویچ مثلثی می‌گیرم.",
+      "acceptedAnswers": [
+        "tramezzino"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام ساندویچ مثلثی با نان نرم را بنویس؛ ساندویچ نان کوچک یا تست منظور نیست."
+    },
+    "sourceOrder": 45
+  },
+  {
+    "sourceRow": 46,
+    "entryId": "it-a1-l03-046",
+    "lemma": "gelato",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": "gelati",
+      "pluralNote": "صورت جمع در ارجاع یا نکتهٔ فایل مرجع دیده شده است."
+    },
+    "cueFa": "اسمِ «بستنی» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "gelato"
+    ],
+    "cloze": {
+      "sentence": "Dopo cena mangio un ___.",
+      "translationFa": "پس از شام یک بستنی می‌خورم.",
+      "acceptedAnswers": [
+        "gelato"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «بستنی» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 46
+  },
+  {
+    "sourceRow": 47,
+    "entryId": "it-a1-l03-047",
+    "lemma": "pizza",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": "pizze",
+      "pluralNote": "صورت جمع در ارجاع یا نکتهٔ فایل مرجع دیده شده است."
+    },
+    "cueFa": "اسمِ «پیتزا» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "pizza"
+    ],
+    "cloze": {
+      "sentence": "Stasera prepariamo una ___ a casa.",
+      "translationFa": "امشب در خانه یک پیتزا درست می‌کنیم.",
+      "acceptedAnswers": [
+        "pizza"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «پیتزا» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 47
+  },
+  {
+    "sourceRow": 48,
+    "entryId": "it-a1-l03-048",
+    "lemma": "toast",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": "toast",
+      "pluralNote": "صورت جمع در ارجاع یا نکتهٔ فایل مرجع دیده شده است."
+    },
+    "cueFa": "نام ساندویچ تست را بدون آرتیکل بنویس؛ نام ساندویچ مثلثی منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "toast"
+    ],
+    "cloze": {
+      "sentence": "Vorrei un ___ con prosciutto e formaggio.",
+      "translationFa": "یک ساندویچ تست با ژامبون و پنیر می‌خواهم.",
+      "acceptedAnswers": [
+        "toast"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام ساندویچ تست را بدون آرتیکل بنویس؛ نام ساندویچ مثلثی منظور نیست."
+    },
+    "sourceOrder": 48
+  },
+  {
+    "sourceRow": 49,
+    "entryId": "it-a1-l03-049",
+    "lemma": "piatto",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": "piatti",
+      "pluralNote": "صورت جمع در ارجاع یا نکتهٔ فایل مرجع دیده شده است."
+    },
+    "cueFa": "اسمِ مفردِ بشقاب را بنویس؛ همین اسم در منو به معنی یک خوراک هم می‌آید.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "piatto"
+    ],
+    "cloze": {
+      "sentence": "Metto il pane in un ___.",
+      "translationFa": "نان را در یک بشقاب می‌گذارم.",
+      "acceptedAnswers": [
+        "piatto"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ مفردِ بشقاب را بنویس؛ همین اسم در منو به معنی یک خوراک هم می‌آید."
+    },
+    "sourceOrder": 49
+  },
+  {
+    "sourceRow": 50,
+    "entryId": "it-a1-l03-050",
+    "lemma": "menù",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ فهرست غذا را بدون آرتیکل و با اکسان پایانیِ grave بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "menù"
+    ],
+    "cloze": {
+      "sentence": "Leggo il ___ prima di ordinare.",
+      "translationFa": "قبل از سفارش‌دادن منو را می‌خوانم.",
+      "acceptedAnswers": [
+        "menù"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ فهرست غذا را بدون آرتیکل و با اکسان پایانیِ grave بنویس."
+    },
+    "sourceOrder": 50
+  },
+  {
+    "sourceRow": 51,
+    "entryId": "it-a1-l03-051",
+    "lemma": "prosciutto",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «ژامبون» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "prosciutto"
+    ],
+    "cloze": {
+      "sentence": "Nel panino c’è del ___.",
+      "translationFa": "داخل ساندویچ کمی ژامبون هست.",
+      "acceptedAnswers": [
+        "prosciutto"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «ژامبون» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 51
+  },
+  {
+    "sourceRow": 52,
+    "entryId": "it-a1-l03-052",
+    "lemma": "formaggio",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «پنیر» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "formaggio"
+    ],
+    "cloze": {
+      "sentence": "Vorrei un po’ di ___ sulla pasta.",
+      "translationFa": "کمی پنیر روی پاستا می‌خواهم.",
+      "acceptedAnswers": [
+        "formaggio"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «پنیر» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 52
+  },
+  {
+    "sourceRow": 53,
+    "entryId": "it-a1-l03-053",
+    "lemma": "pomodori",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "plural",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام گوجه‌فرنگی را به صورت جمعِ دیده‌شده و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "pomodori"
+    ],
+    "cloze": {
+      "sentence": "Per l’insalata compro tre ___.",
+      "translationFa": "برای سالاد سه گوجه‌فرنگی می‌خرم.",
+      "acceptedAnswers": [
+        "pomodori"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام گوجه‌فرنگی را به صورت جمعِ دیده‌شده و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 53
+  },
+  {
+    "sourceRow": 54,
+    "entryId": "it-a1-l03-054",
+    "lemma": "lasagne",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "plural",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام لازانیا را با صورت جمعِ دیده‌شده و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "lasagne"
+    ],
+    "cloze": {
+      "sentence": "La domenica prepariamo le ___.",
+      "translationFa": "یکشنبه‌ها لازانیا درست می‌کنیم.",
+      "acceptedAnswers": [
+        "lasagne"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام لازانیا را با صورت جمعِ دیده‌شده و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 54
+  },
+  {
+    "sourceRow": 55,
+    "entryId": "it-a1-l03-055",
+    "lemma": "risotto",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «ریزوتو» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "risotto"
+    ],
+    "cloze": {
+      "sentence": "Oggi cucino un ___ ai funghi.",
+      "translationFa": "امروز یک ریزوتو با قارچ می‌پزم.",
+      "acceptedAnswers": [
+        "risotto"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «ریزوتو» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 55
+  },
+  {
+    "sourceRow": 56,
+    "entryId": "it-a1-l03-056",
+    "lemma": "spaghetti",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "gli",
+      "gender": "masculine",
+      "number": "plural",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام اسپاگتی را با صورت جمعِ دیده‌شده و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "spaghetti"
+    ],
+    "cloze": {
+      "sentence": "Per me gli ___ al pomodoro.",
+      "translationFa": "برای من اسپاگتی با سس گوجه‌فرنگی.",
+      "acceptedAnswers": [
+        "spaghetti"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام اسپاگتی را با صورت جمعِ دیده‌شده و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 56
+  },
+  {
+    "sourceRow": 57,
+    "entryId": "it-a1-l03-057",
+    "lemma": "pollo",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «مرغ» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "pollo"
+    ],
+    "cloze": {
+      "sentence": "Stasera mangiamo il ___ con le patate.",
+      "translationFa": "امشب مرغ با سیب‌زمینی می‌خوریم.",
+      "acceptedAnswers": [
+        "pollo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «مرغ» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 57
+  },
+  {
+    "sourceRow": 58,
+    "entryId": "it-a1-l03-058",
+    "lemma": "insalata mista",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "l'",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام دوواژه‌ایِ سالاد مخلوط را با صفت مؤنث و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "insalata mista"
+    ],
+    "cloze": {
+      "sentence": "Come contorno vorrei un’___.",
+      "translationFa": "برای غذای کنار بشقاب یک سالاد مخلوط می‌خواهم.",
+      "acceptedAnswers": [
+        "insalata mista"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام دوواژه‌ایِ سالاد مخلوط را با صفت مؤنث و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 58
+  },
+  {
+    "sourceRow": 59,
+    "entryId": "it-a1-l03-059",
+    "lemma": "patatine fritte",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "le",
+      "gender": "feminine",
+      "number": "plural",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام دوواژه‌ایِ سیب‌زمینی سرخ‌کرده را به صورت جمع و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "patatine fritte"
+    ],
+    "cloze": {
+      "sentence": "Il ragazzo ordina le ___.",
+      "translationFa": "پسر سیب‌زمینی سرخ‌کرده سفارش می‌دهد.",
+      "acceptedAnswers": [
+        "patatine fritte"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام دوواژه‌ایِ سیب‌زمینی سرخ‌کرده را به صورت جمع و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 59
+  },
+  {
+    "sourceRow": 60,
+    "entryId": "it-a1-l03-060",
+    "lemma": "frutta fresca",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "عبارت دوواژه‌ایِ میوهٔ تازه را با صفت مؤنث و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "frutta fresca"
+    ],
+    "cloze": {
+      "sentence": "Dopo pranzo preferisco la ___.",
+      "translationFa": "پس از ناهار میوهٔ تازه را ترجیح می‌دهم.",
+      "acceptedAnswers": [
+        "frutta fresca"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت دوواژه‌ایِ میوهٔ تازه را با صفت مؤنث و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 60
+  },
+  {
+    "sourceRow": 61,
+    "entryId": "it-a1-l03-061",
+    "lemma": "fragole",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": "feminine",
+      "number": "plural",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام توت‌فرنگی را به صورت جمعِ دیده‌شده و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "fragole"
+    ],
+    "cloze": {
+      "sentence": "Per il dessert compro delle ___.",
+      "translationFa": "برای دسر کمی توت‌فرنگی می‌خرم.",
+      "acceptedAnswers": [
+        "fragole"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام توت‌فرنگی را به صورت جمعِ دیده‌شده و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 61
+  },
+  {
+    "sourceRow": 62,
+    "entryId": "it-a1-l03-062",
+    "lemma": "tiramisù",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام دسر ایتالیایی را بدون آرتیکل و با اکسان پایانی بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "tiramisù"
+    ],
+    "cloze": {
+      "sentence": "Come dessert scelgo il ___.",
+      "translationFa": "برای دسر تیرامیسو انتخاب می‌کنم.",
+      "acceptedAnswers": [
+        "tiramisù"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام دسر ایتالیایی را بدون آرتیکل و با اکسان پایانی بنویس."
+    },
+    "sourceOrder": 62
+  },
+  {
+    "sourceRow": 63,
+    "entryId": "it-a1-l03-063",
+    "lemma": "ragazzo",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «پسر» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "ragazzo"
+    ],
+    "cloze": {
+      "sentence": "Il ___ beve un’aranciata.",
+      "translationFa": "پسر یک نوشیدنی پرتقالی می‌نوشد.",
+      "acceptedAnswers": [
+        "ragazzo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «پسر» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 63
+  },
+  {
+    "sourceRow": 64,
+    "entryId": "it-a1-l03-064",
+    "lemma": "cotoletta",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «کتلت» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "cotoletta"
+    ],
+    "cloze": {
+      "sentence": "Vorrei una ___ con l’insalata.",
+      "translationFa": "یک کتلت با سالاد می‌خواهم.",
+      "acceptedAnswers": [
+        "cotoletta"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «کتلت» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 64
+  },
+  {
+    "sourceRow": 65,
+    "entryId": "it-a1-l03-065",
+    "lemma": "bere",
+    "partOfSpeech": "verb",
+    "cueFa": "مصدرِ نوشیدن را بنویس؛ خوردن منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "bere"
+    ],
+    "cloze": {
+      "sentence": "Dopo la passeggiata voglio ___ un po’ d’acqua.",
+      "translationFa": "پس از پیاده‌روی می‌خواهم کمی آب بنوشم.",
+      "acceptedAnswers": [
+        "bere"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "مصدرِ نوشیدن را بنویس؛ خوردن منظور نیست."
+    },
+    "sourceOrder": 65
+  },
+  {
+    "sourceRow": 66,
+    "entryId": "it-a1-l03-066",
+    "lemma": "vino rosso",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام دوواژه‌ایِ شراب قرمز را بدون آرتیکل بنویس؛ رنگ در صورت مذکر باشد.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "vino rosso"
+    ],
+    "cloze": {
+      "sentence": "Con la carne prendiamo del ___.",
+      "translationFa": "همراه گوشت کمی شراب قرمز می‌گیریم.",
+      "acceptedAnswers": [
+        "vino rosso"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام دوواژه‌ایِ شراب قرمز را بدون آرتیکل بنویس؛ رنگ در صورت مذکر باشد."
+    },
+    "sourceOrder": 66
+  },
+  {
+    "sourceRow": 67,
+    "entryId": "it-a1-l03-067",
+    "lemma": "per piacere",
+    "partOfSpeech": "phrase",
+    "meaningGroup": "please",
+    "cueFa": "عبارت مؤدبانهٔ دوواژه‌ایِ لطفاً را با واژهٔ هم‌ریشهٔ «خوشایندبودن» بنویس؛ صورتِ cortesia یا favore منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "per piacere"
+    ],
+    "cloze": {
+      "sentence": "Un altro bicchiere, ___.",
+      "translationFa": "یک لیوان دیگر، لطفاً.",
+      "acceptedAnswers": [
+        "per piacere"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت مؤدبانهٔ دوواژه‌ایِ لطفاً را با واژهٔ هم‌ریشهٔ «خوشایندبودن» بنویس؛ صورتِ cortesia یا favore منظور نیست."
+    },
+    "sourceOrder": 67
+  },
+  {
+    "sourceRow": 68,
+    "entryId": "it-a1-l03-068",
+    "lemma": "gasata",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ گازدار را در صورت مؤنث مفردِ وصف آب بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "gasata"
+    ],
+    "cloze": {
+      "sentence": "Vorrei una minerale ___.",
+      "translationFa": "یک آب معدنی گازدار می‌خواهم.",
+      "acceptedAnswers": [
+        "gasata"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ گازدار را در صورت مؤنث مفردِ وصف آب بنویس."
+    },
+    "sourceOrder": 68
+  },
+  {
+    "sourceRow": 69,
+    "entryId": "it-a1-l03-069",
+    "lemma": "naturale",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ آبِ بدون گاز را در صورت مفرد بنویس؛ واژهٔ گازدار منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "naturale"
+    ],
+    "cloze": {
+      "sentence": "Per la bambina solo acqua ___.",
+      "translationFa": "برای دخترک فقط آب بدون گاز.",
+      "acceptedAnswers": [
+        "naturale"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ آبِ بدون گاز را در صورت مفرد بنویس؛ واژهٔ گازدار منظور نیست."
+    },
+    "sourceOrder": 69
+  },
+  {
+    "sourceRow": 70,
+    "entryId": "it-a1-l03-070",
+    "lemma": "senza ghiaccio",
+    "partOfSpeech": "phrase",
+    "cueFa": "عبارت دوواژه‌ایِ بدون یخ را بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "senza ghiaccio"
+    ],
+    "cloze": {
+      "sentence": "Per me una cola ___.",
+      "translationFa": "برای من یک نوشابهٔ کولا بدون یخ.",
+      "acceptedAnswers": [
+        "senza ghiaccio"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت دوواژه‌ایِ بدون یخ را بنویس."
+    },
+    "sourceOrder": 70
+  },
+  {
+    "sourceRow": 71,
+    "entryId": "it-a1-l03-071",
+    "lemma": "vino bianco",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام دوواژه‌ایِ شراب سفید را بدون آرتیکل بنویس؛ رنگ در صورت مذکر باشد.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "vino bianco"
+    ],
+    "cloze": {
+      "sentence": "Con il pesce scegliamo del ___.",
+      "translationFa": "همراه ماهی کمی شراب سفید انتخاب می‌کنیم.",
+      "acceptedAnswers": [
+        "vino bianco"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام دوواژه‌ایِ شراب سفید را بدون آرتیکل بنویس؛ رنگ در صورت مذکر باشد."
+    },
+    "sourceOrder": 71
+  },
+  {
+    "sourceRow": 72,
+    "entryId": "it-a1-l03-072",
+    "lemma": "riso",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ برنج را بدون آرتیکل بنویس؛ نام خوراک ریزوتو منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "riso"
+    ],
+    "cloze": {
+      "sentence": "Come primo preparo del ___ con le verdure.",
+      "translationFa": "برای غذای اول کمی برنج با سبزیجات درست می‌کنم.",
+      "acceptedAnswers": [
+        "riso"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ برنج را بدون آرتیکل بنویس؛ نام خوراک ریزوتو منظور نیست."
+    },
+    "sourceOrder": 72
+  },
+  {
+    "sourceRow": 73,
+    "entryId": "it-a1-l03-073",
+    "lemma": "tavolo",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «میز» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "tavolo"
+    ],
+    "cloze": {
+      "sentence": "Il nostro ___ è vicino alla finestra.",
+      "translationFa": "میز ما نزدیک پنجره است.",
+      "acceptedAnswers": [
+        "tavolo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «میز» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 73
+  },
+  {
+    "sourceRow": 74,
+    "entryId": "it-a1-l03-074",
+    "lemma": "cucchiaio",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام قاشق را بدون آرتیکل بنویس؛ قاشق چای‌خوری منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "cucchiaio"
+    ],
+    "cloze": {
+      "sentence": "Per la minestra mi serve un ___.",
+      "translationFa": "برای سوپ به یک قاشق نیاز دارم.",
+      "acceptedAnswers": [
+        "cucchiaio"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام قاشق را بدون آرتیکل بنویس؛ قاشق چای‌خوری منظور نیست."
+    },
+    "sourceOrder": 74
+  },
+  {
+    "sourceRow": 75,
+    "entryId": "it-a1-l03-075",
+    "lemma": "coltello",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «چاقو» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "coltello"
+    ],
+    "cloze": {
+      "sentence": "Taglio il pane con il ___.",
+      "translationFa": "نان را با چاقو می‌برم.",
+      "acceptedAnswers": [
+        "coltello"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «چاقو» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 75
+  },
+  {
+    "sourceRow": 76,
+    "entryId": "it-a1-l03-076",
+    "lemma": "cucchiaino",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام قاشق چای‌خوری را بدون آرتیکل بنویس؛ قاشق بزرگ منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "cucchiaino"
+    ],
+    "cloze": {
+      "sentence": "Mescolo il tè con il ___.",
+      "translationFa": "چای را با قاشق چای‌خوری هم می‌زنم.",
+      "acceptedAnswers": [
+        "cucchiaino"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام قاشق چای‌خوری را بدون آرتیکل بنویس؛ قاشق بزرگ منظور نیست."
+    },
+    "sourceOrder": 76
+  },
+  {
+    "sourceRow": 77,
+    "entryId": "it-a1-l03-077",
+    "lemma": "tovagliolo",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «دستمال سفره» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "tovagliolo"
+    ],
+    "cloze": {
+      "sentence": "Metto il ___ sulle ginocchia.",
+      "translationFa": "دستمال سفره را روی زانوهایم می‌گذارم.",
+      "acceptedAnswers": [
+        "tovagliolo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «دستمال سفره» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 77
+  },
+  {
+    "sourceRow": 78,
+    "entryId": "it-a1-l03-078",
+    "lemma": "olio",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «روغن» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "olio"
+    ],
+    "cloze": {
+      "sentence": "Nell’insalata metto un po’ d’___.",
+      "translationFa": "داخل سالاد کمی روغن می‌ریزم.",
+      "acceptedAnswers": [
+        "olio"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «روغن» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 78
+  },
+  {
+    "sourceRow": 79,
+    "entryId": "it-a1-l03-079",
+    "lemma": "aceto",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «سرکه» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "aceto"
+    ],
+    "cloze": {
+      "sentence": "Non voglio ___ nell’insalata.",
+      "translationFa": "داخل سالاد سرکه نمی‌خواهم.",
+      "acceptedAnswers": [
+        "aceto"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «سرکه» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 79
+  },
+  {
+    "sourceRow": 80,
+    "entryId": "it-a1-l03-080",
+    "lemma": "forchetta",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «چنگال» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "forchetta"
+    ],
+    "cloze": {
+      "sentence": "Mangio la pasta con la ___.",
+      "translationFa": "پاستا را با چنگال می‌خورم.",
+      "acceptedAnswers": [
+        "forchetta"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «چنگال» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 80
+  },
+  {
+    "sourceRow": 81,
+    "entryId": "it-a1-l03-081",
+    "lemma": "pepe",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «فلفل» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "pepe"
+    ],
+    "cloze": {
+      "sentence": "Sulla carne metto un po’ di ___.",
+      "translationFa": "روی گوشت کمی فلفل می‌ریزم.",
+      "acceptedAnswers": [
+        "pepe"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «فلفل» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 81
+  },
+  {
+    "sourceRow": 82,
+    "entryId": "it-a1-l03-082",
+    "lemma": "sale",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «نمک» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "sale"
+    ],
+    "cloze": {
+      "sentence": "La zuppa ha poco ___.",
+      "translationFa": "سوپ نمک کمی دارد.",
+      "acceptedAnswers": [
+        "sale"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «نمک» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 82
+  },
+  {
+    "sourceRow": 83,
+    "entryId": "it-a1-l03-083",
+    "lemma": "bicchiere",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": "bicchieri",
+      "pluralNote": "صورت جمع در ارجاع یا نکتهٔ فایل مرجع دیده شده است."
+    },
+    "cueFa": "اسمِ لیوان را مفرد و بدون آرتیکل بنویس؛ عبارت لیوان شیر منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "bicchiere"
+    ],
+    "cloze": {
+      "sentence": "Vorrei un ___ d’acqua fresca.",
+      "translationFa": "یک لیوان آب خنک می‌خواهم.",
+      "acceptedAnswers": [
+        "bicchiere"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ لیوان را مفرد و بدون آرتیکل بنویس؛ عبارت لیوان شیر منظور نیست."
+    },
+    "sourceOrder": 83
+  },
+  {
+    "sourceRow": 84,
+    "entryId": "it-a1-l03-084",
+    "lemma": "acqua",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ آب را بدون آرتیکل بنویس؛ صفت معدنی را اضافه نکن.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "acqua"
+    ],
+    "cloze": {
+      "sentence": "Sul tavolo c’è una bottiglia d’___.",
+      "translationFa": "روی میز یک بطری آب هست.",
+      "acceptedAnswers": [
+        "acqua"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ آب را بدون آرتیکل بنویس؛ صفت معدنی را اضافه نکن."
+    },
+    "sourceOrder": 84
+  },
+  {
+    "sourceRow": 85,
+    "entryId": "it-a1-l03-085",
+    "lemma": "bottiglia",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «بطری» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "bottiglia"
+    ],
+    "cloze": {
+      "sentence": "Porto una ___ d’acqua a tavola.",
+      "translationFa": "یک بطری آب سر میز می‌آورم.",
+      "acceptedAnswers": [
+        "bottiglia"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «بطری» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 85
+  },
+  {
+    "sourceRow": 86,
+    "entryId": "it-a1-l03-086",
+    "lemma": "per favore",
+    "partOfSpeech": "phrase",
+    "meaningGroup": "please",
+    "cueFa": "عبارت مؤدبانهٔ دوواژه‌ایِ لطفاً را با واژهٔ هم‌ریشهٔ لطف و مساعدت بنویس؛ واژهٔ دوم با f آغاز می‌شود.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "per favore"
+    ],
+    "cloze": {
+      "sentence": "Due tè al limone, ___.",
+      "translationFa": "دو چای لیمویی، لطفاً.",
+      "acceptedAnswers": [
+        "per favore"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت مؤدبانهٔ دوواژه‌ایِ لطفاً را با واژهٔ هم‌ریشهٔ لطف و مساعدت بنویس؛ واژهٔ دوم با f آغاز می‌شود."
+    },
+    "sourceOrder": 86
+  },
+  {
+    "sourceRow": 87,
+    "entryId": "it-a1-l03-087",
+    "lemma": "per cortesia",
+    "partOfSpeech": "phrase",
+    "meaningGroup": "please",
+    "cueFa": "عبارت مؤدبانهٔ دوواژه‌ایِ لطفاً را با واژهٔ هم‌ریشهٔ ادب و نزاکت بنویس؛ واژهٔ دوم با c آغاز می‌شود.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "per cortesia"
+    ],
+    "cloze": {
+      "sentence": "Un tovagliolo pulito, ___.",
+      "translationFa": "یک دستمال سفرهٔ تمیز، لطفاً.",
+      "acceptedAnswers": [
+        "per cortesia"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت مؤدبانهٔ دوواژه‌ایِ لطفاً را با واژهٔ هم‌ریشهٔ ادب و نزاکت بنویس؛ واژهٔ دوم با c آغاز می‌شود."
+    },
+    "sourceOrder": 87
+  },
+  {
+    "sourceRow": 88,
+    "entryId": "it-a1-l03-088",
+    "lemma": "ancora",
+    "partOfSpeech": "adverb",
+    "cueFa": "قیدِ باز هم یا بیشتر را بنویس؛ در جمله می‌تواند معنی هنوز هم بدهد.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "ancora"
+    ],
+    "cloze": {
+      "sentence": "Vorrei ___ un po’ di riso.",
+      "translationFa": "باز هم کمی برنج می‌خواهم.",
+      "acceptedAnswers": [
+        "ancora"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "قیدِ باز هم یا بیشتر را بنویس؛ در جمله می‌تواند معنی هنوز هم بدهد."
+    },
+    "sourceOrder": 88
+  },
+  {
+    "sourceRow": 89,
+    "entryId": "it-a1-l03-089",
+    "lemma": "qualcos’altro",
+    "partOfSpeech": "pronoun",
+    "cueFa": "صورتِ پیوستهٔ چیز دیگری را با آپاستروف بنویس؛ دو بخش آن با فاصله جدا نشوند.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "qualcos’altro",
+      "qualcos'altro"
+    ],
+    "cloze": {
+      "sentence": "Vuoi ___ dopo il gelato?",
+      "translationFa": "بعد از بستنی چیز دیگری می‌خواهی؟",
+      "acceptedAnswers": [
+        "qualcos’altro",
+        "qualcos'altro"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صورتِ پیوستهٔ چیز دیگری را با آپاستروف بنویس؛ دو بخش آن با فاصله جدا نشوند."
+    },
+    "sourceOrder": 89
+  },
+  {
+    "sourceRow": 90,
+    "entryId": "it-a1-l03-090",
+    "lemma": "dessert",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام عمومیِ دسر را بدون آرتیکل بنویس؛ نام یک شیرینی مشخص منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "dessert"
+    ],
+    "cloze": {
+      "sentence": "Per ___ abbiamo una torta al limone.",
+      "translationFa": "برای دسر یک کیک لیمویی داریم.",
+      "acceptedAnswers": [
+        "dessert"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام عمومیِ دسر را بدون آرتیکل بنویس؛ نام یک شیرینی مشخص منظور نیست."
+    },
+    "sourceOrder": 90
+  },
+  {
+    "sourceRow": 91,
+    "entryId": "it-a1-l03-091",
+    "lemma": "macedonia",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام یک‌واژه‌ایِ سالاد میوه را بدون آرتیکل بنویس؛ سالاد سبزیجات منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "macedonia"
+    ],
+    "cloze": {
+      "sentence": "Come dolce prendo una ___.",
+      "translationFa": "برای شیرینی آخر غذا یک سالاد میوه می‌گیرم.",
+      "acceptedAnswers": [
+        "macedonia"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام یک‌واژه‌ایِ سالاد میوه را بدون آرتیکل بنویس؛ سالاد سبزیجات منظور نیست."
+    },
+    "sourceOrder": 91
+  },
+  {
+    "sourceRow": 92,
+    "entryId": "it-a1-l03-092",
+    "lemma": "buono",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ خوب یا خوشمزه را به صورت مذکر مفرد بنویس؛ قیدِ خوب‌بودن منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "buono"
+    ],
+    "cloze": {
+      "sentence": "Questo pane è molto ___.",
+      "translationFa": "این نان خیلی خوشمزه است.",
+      "acceptedAnswers": [
+        "buono"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ خوب یا خوشمزه را به صورت مذکر مفرد بنویس؛ قیدِ خوب‌بودن منظور نیست."
+    },
+    "sourceOrder": 92
+  },
+  {
+    "sourceRow": 93,
+    "entryId": "it-a1-l03-093",
+    "lemma": "magari",
+    "partOfSpeech": "adverb",
+    "meaningGroup": "perhaps",
+    "cueFa": "قیدِ شاید را برای پیشنهاد مردد بنویس؛ با حرف m آغاز می‌شود و قیدِ برآوردِ تعداد منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "magari"
+    ],
+    "cloze": {
+      "sentence": "Dopo pranzo, ___ prendiamo un caffè.",
+      "translationFa": "بعد از ناهار، شاید یک قهوه بگیریم.",
+      "acceptedAnswers": [
+        "magari"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "قیدِ شاید را برای پیشنهاد مردد بنویس؛ با حرف m آغاز می‌شود و قیدِ برآوردِ تعداد منظور نیست."
+    },
+    "sourceOrder": 93
+  },
+  {
+    "sourceRow": 94,
+    "entryId": "it-a1-l03-094",
+    "lemma": "d’accordo.",
+    "partOfSpeech": "phrase",
+    "cueFa": "عبارتِ موافقت را با آپاستروف و نقطهٔ پایانی بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "d’accordo.",
+      "d'accordo."
+    ],
+    "cloze": {
+      "sentence": "«Ci vediamo alle otto?» «___»",
+      "translationFa": "«ساعت هشت همدیگر را ببینیم؟» «باشه.»",
+      "acceptedAnswers": [
+        "D’accordo.",
+        "D'accordo."
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارتِ موافقت را با آپاستروف و نقطهٔ پایانی بنویس."
+    },
+    "sourceOrder": 94
+  },
+  {
+    "sourceRow": 95,
+    "entryId": "it-a1-l03-095",
+    "lemma": "cucina",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ آشپزی یا شیوهٔ پخت غذا را بدون آرتیکل بنویس؛ اینجا منظور اتاق آشپزخانه نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "cucina"
+    ],
+    "cloze": {
+      "sentence": "Mi piace la ___ italiana.",
+      "translationFa": "آشپزی ایتالیایی را دوست دارم.",
+      "acceptedAnswers": [
+        "cucina"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ آشپزی یا شیوهٔ پخت غذا را بدون آرتیکل بنویس؛ اینجا منظور اتاق آشپزخانه نیست."
+    },
+    "sourceOrder": 95
+  },
+  {
+    "sourceRow": 96,
+    "entryId": "it-a1-l03-096",
+    "lemma": "vegetariana",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ گیاهی را در صورت مؤنث مفرد برای وصف آشپزی بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "vegetariana"
+    ],
+    "cloze": {
+      "sentence": "Qui servono cucina ___.",
+      "translationFa": "اینجا غذای گیاهی سرو می‌کنند.",
+      "acceptedAnswers": [
+        "vegetariana"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ گیاهی را در صورت مؤنث مفرد برای وصف آشپزی بنویس."
+    },
+    "sourceOrder": 96
+  },
+  {
+    "sourceRow": 97,
+    "entryId": "it-a1-l03-097",
+    "lemma": "aperto",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ باز یا دایر را در صورت مذکر مفرد بنویس؛ نام فعل منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "aperto"
+    ],
+    "cloze": {
+      "sentence": "Il bar è ___ fino alle nove.",
+      "translationFa": "کافه‌بار تا ساعت نه باز است.",
+      "acceptedAnswers": [
+        "aperto"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ باز یا دایر را در صورت مذکر مفرد بنویس؛ نام فعل منظور نیست."
+    },
+    "sourceOrder": 97
+  },
+  {
+    "sourceRow": 98,
+    "entryId": "it-a1-l03-098",
+    "lemma": "cena",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ شام را بدون آرتیکل بنویس؛ فعلِ شام‌خوردن منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "cena"
+    ],
+    "cloze": {
+      "sentence": "Per ___ preparo una minestra.",
+      "translationFa": "برای شام یک سوپ درست می‌کنم.",
+      "acceptedAnswers": [
+        "cena"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ شام را بدون آرتیکل بنویس؛ فعلِ شام‌خوردن منظور نیست."
+    },
+    "sourceOrder": 98
+  },
+  {
+    "sourceRow": 99,
+    "entryId": "it-a1-l03-099",
+    "lemma": "chiuso",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ بسته یا تعطیل را در صورت مذکر مفرد بنویس؛ نام فعل منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "chiuso"
+    ],
+    "cloze": {
+      "sentence": "Il negozio è ___ oggi.",
+      "translationFa": "مغازه امروز تعطیل است.",
+      "acceptedAnswers": [
+        "chiuso"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ بسته یا تعطیل را در صورت مذکر مفرد بنویس؛ نام فعل منظور نیست."
+    },
+    "sourceOrder": 99
+  },
+  {
+    "sourceRow": 100,
+    "entryId": "it-a1-l03-100",
+    "lemma": "lunedì",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "نام دوشنبه را بدون آرتیکل و با اکسان پایانی بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "lunedì"
+    ],
+    "cloze": {
+      "sentence": "Il ___ mangio sempre a casa.",
+      "translationFa": "دوشنبه‌ها همیشه در خانه غذا می‌خورم.",
+      "acceptedAnswers": [
+        "lunedì"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام دوشنبه را بدون آرتیکل و با اکسان پایانی بنویس."
+    },
+    "sourceOrder": 100
+  },
+  {
+    "sourceRow": 101,
+    "entryId": "it-a1-l03-101",
+    "lemma": "prenotazione",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ رزرو را بدون آرتیکل بنویس؛ مصدرِ رزروکردن منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "prenotazione"
+    ],
+    "cloze": {
+      "sentence": "Ho una ___ per due persone.",
+      "translationFa": "برای دو نفر رزرو دارم.",
+      "acceptedAnswers": [
+        "prenotazione"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ رزرو را بدون آرتیکل بنویس؛ مصدرِ رزروکردن منظور نیست."
+    },
+    "sourceOrder": 101
+  },
+  {
+    "sourceRow": 102,
+    "entryId": "it-a1-l03-102",
+    "lemma": "per quante persone?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش سه‌واژه‌ایِ تعداد افراد رزرو را با علامت سؤال بنویس؛ پرسش نام منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "per quante persone?"
+    ],
+    "cloze": {
+      "sentence": "«Vorrei un tavolo.» «___»",
+      "translationFa": "«یک میز می‌خواهم.» «برای چند نفر؟»",
+      "acceptedAnswers": [
+        "Per quante persone?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش سه‌واژه‌ایِ تعداد افراد رزرو را با علامت سؤال بنویس؛ پرسش نام منظور نیست."
+    },
+    "sourceOrder": 102
+  },
+  {
+    "sourceRow": 103,
+    "entryId": "it-a1-l03-103",
+    "lemma": "a che nome?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش سه‌واژه‌ایِ نامِ رزرو را با علامت سؤال بنویس؛ پرسش تعداد افراد منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "a che nome?"
+    ],
+    "cloze": {
+      "sentence": "«Ho una prenotazione.» «___»",
+      "translationFa": "«رزرو دارم.» «به چه نامی؟»",
+      "acceptedAnswers": [
+        "A che nome?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش سه‌واژه‌ایِ نامِ رزرو را با علامت سؤال بنویس؛ پرسش تعداد افراد منظور نیست."
+    },
+    "sourceOrder": 103
+  },
+  {
+    "sourceRow": 104,
+    "entryId": "it-a1-l03-104",
+    "lemma": "forse",
+    "partOfSpeech": "adverb",
+    "meaningGroup": "perhaps",
+    "cueFa": "قیدِ شاید را برای احتمال یا برآورد تعداد بنویس؛ با حرف f آغاز می‌شود.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "forse"
+    ],
+    "cloze": {
+      "sentence": "Siamo in quattro, ___ cinque.",
+      "translationFa": "چهار نفریم، شاید پنج نفر.",
+      "acceptedAnswers": [
+        "forse"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "قیدِ شاید را برای احتمال یا برآورد تعداد بنویس؛ با حرف f آغاز می‌شود."
+    },
+    "sourceOrder": 104
+  },
+  {
+    "sourceRow": 105,
+    "entryId": "it-a1-l03-105",
+    "lemma": "a più tardi",
+    "partOfSpeech": "phrase",
+    "cueFa": "عبارتِ سه‌واژه‌ایِ تا بعد را بدون علامت تعجب بنویس؛ اکسانِ واژهٔ میانی حفظ شود.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "a più tardi"
+    ],
+    "cloze": {
+      "sentence": "Adesso vado al corso, ___!",
+      "translationFa": "الان به کلاس می‌روم، تا بعد!",
+      "acceptedAnswers": [
+        "a più tardi"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارتِ سه‌واژه‌ایِ تا بعد را بدون علامت تعجب بنویس؛ اکسانِ واژهٔ میانی حفظ شود."
+    },
+    "sourceOrder": 105
+  },
+  {
+    "sourceRow": 106,
+    "entryId": "it-a1-l03-106",
+    "lemma": "riservato",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ رزروشده را در صورت مذکر مفرد بنویس؛ مصدر یا اسم رزرو منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "riservato"
+    ],
+    "cloze": {
+      "sentence": "Questo tavolo è ___.",
+      "translationFa": "این میز رزرو شده است.",
+      "acceptedAnswers": [
+        "riservato"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ رزروشده را در صورت مذکر مفرد بنویس؛ مصدر یا اسم رزرو منظور نیست."
+    },
+    "sourceOrder": 106
+  },
+  {
+    "sourceRow": 107,
+    "entryId": "it-a1-l03-107",
+    "lemma": "avere fame",
+    "partOfSpeech": "phrase",
+    "cueFa": "عبارت مصدریِ دوواژه‌ایِ گرسنه‌بودن را بنویس؛ فعلِ داشتن به صورت مصدر باشد.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "avere fame"
+    ],
+    "cloze": {
+      "sentence": "È normale ___ prima di cena.",
+      "translationFa": "طبیعی است که قبل از شام گرسنه باشیم.",
+      "acceptedAnswers": [
+        "avere fame"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت مصدریِ دوواژه‌ایِ گرسنه‌بودن را بنویس؛ فعلِ داشتن به صورت مصدر باشد."
+    },
+    "sourceOrder": 107
+  },
+  {
+    "sourceRow": 108,
+    "entryId": "it-a1-l03-108",
+    "lemma": "malato",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ بیمار را به صورت مذکر مفرد بنویس؛ کل جملهٔ نمونه منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "malato"
+    ],
+    "cloze": {
+      "sentence": "Mio fratello è ___ e rimane a casa.",
+      "translationFa": "برادرم بیمار است و در خانه می‌ماند.",
+      "acceptedAnswers": [
+        "malato"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ بیمار را به صورت مذکر مفرد بنویس؛ کل جملهٔ نمونه منظور نیست."
+    },
+    "sourceOrder": 108
+  },
+  {
+    "sourceRow": 109,
+    "entryId": "it-a1-l03-109",
+    "lemma": "mancia",
+    "partOfSpeech": "noun",
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "جمع مستقلِ این مدخل در گزیده تأیید نشده و ساخته نشده است."
+    },
+    "cueFa": "اسمِ «انعام» را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "mancia"
+    ],
+    "cloze": {
+      "sentence": "Lasciamo una piccola ___ al cameriere.",
+      "translationFa": "انعام کوچکی برای پیشخدمت می‌گذاریم.",
+      "acceptedAnswers": [
+        "mancia"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ «انعام» را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 109
+  }
+]
