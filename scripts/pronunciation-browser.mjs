@@ -152,7 +152,7 @@ export async function checkPronunciation({ browser, origin, bundle, observeConte
 
   // Use a genuine due reverse task; the test isolates its queue just like the
   // existing rotation fixtures, without changing any learning implementation.
-  const reverse = transition(completedReverseFixture(), { type: 'start-session', sessionId: 'speech-reverse', seed: 5 }, bundle, now)
+  const reverse = transition(completedReverseFixture(lessonId), { type: 'start-session', sessionId: 'speech-reverse', seed: 5 }, bundle, now)
   const task = reverse.session.queue.find(task => task.kind === 'reverse-card')
   assert.ok(task)
   reverse.session.queue = [task]
@@ -208,7 +208,7 @@ export async function checkPronunciation({ browser, origin, bundle, observeConte
   await installSpeech(unsupported, true)
   try {
     const page = await unsupported.newPage()
-    await page.goto(origin)
+    await page.goto(`${origin}/?lesson=${lessonId}`)
     await page.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }).waitFor()
     await clickAndSave(page, page.getByRole('button', { name: 'ادامهٔ یادگیری', exact: true }))
     await page.locator('.card-front .speaker-button').click()
@@ -218,20 +218,23 @@ export async function checkPronunciation({ browser, origin, bundle, observeConte
   } finally { await unsupported.close() }
 }
 
-export async function checkExercisePronunciation({ browser, origin, bundle, observeContext, writeState, readState, learningSnapshot, clickAndSave, assertViewport, completedReverseFixture, installClock }) {
+export async function checkExercisePronunciation({ browser, origin, bundle, observeContext, writeState, readState, learningSnapshot, clickAndSave, assertViewport, completedReverseFixture, installClock, lessonId = bundle.lesson.lessonId }) {
   const now = '2026-11-01T12:00:00.000Z'
-  const lessonId = bundle.lesson.lessonId
-  const selected = transition(completedReverseFixture(), { type: 'select-lesson', lessonId }, bundle, now)
+  const knownNoun = bundle.entries.find(entry => entry.introducedInLessonId === lessonId && entry.nounData?.article)
+  assert.ok(knownNoun, 'the selected lesson has an eligible article noun')
+  const selected = transition(completedReverseFixture(lessonId, knownNoun.entryId), { type: 'select-lesson', lessonId }, bundle, now)
   const started = transition(selected, { type: 'start-session', sessionId: 'speech-exercises', seed: 5 }, bundle, now)
   const learned = bundle.entries.filter(entry => entry.introducedInLessonId === lessonId && selected.progress[entry.entryId])
   const noun = learned.find(entry => entry.nounData?.article)
   assert.ok(noun)
-  const matchIds = learned.slice(0, 4).map(entry => entry.entryId)
+  const matchEntries = [...new Map(learned.map(entry => [entry.meaningFa, entry])).values()].slice(0, 4)
+  assert.equal(matchEntries.length, 4, 'matching uses four distinct learned Persian meanings')
+  const matchIds = matchEntries.map(entry => entry.entryId)
   const scenarios = [
     [{ taskId: 'speech-meaning', kind: 'choose-meaning', entryId: noun.entryId, optionIds: noun.meaningOptionEntryIds }, '.question-word .speaker-button', wordPronunciation(noun)],
     [{ taskId: 'speech-article', kind: 'choose-article', entryId: noun.entryId, options: ['il', 'lo', 'la', "l'"] }, '.question-word .speaker-button', noun.lemma],
     [{ taskId: 'speech-cloze', kind: 'cloze', entryId: noun.entryId, cycleKind: 'scheduled' }, '.cloze-question .speech-text', noun.cloze.sentence.replace('___', '…')],
-    [{ taskId: 'speech-match', kind: 'match', entryIds: matchIds, leftOrder: matchIds, rightOrder: [...matchIds].reverse(), matchedEntryIds: [] }, '.match-word-tile .speaker-button', wordPronunciation(learned[0])],
+    [{ taskId: 'speech-match', kind: 'match', entryIds: matchIds, leftOrder: matchIds, rightOrder: [...matchIds].reverse(), matchedEntryIds: [] }, '.match-word-tile .speaker-button', wordPronunciation(matchEntries[0])],
   ]
   const context = await browser.newContext({ viewport: { width: 320, height: 568 }, isMobile: true, hasTouch: true, locale: 'fa-IR', reducedMotion: 'reduce' })
   observeContext(context)

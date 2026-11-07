@@ -32,6 +32,7 @@ export interface Entry {
   lemma: string
   partOfSpeech: 'noun' | 'verb' | 'adjective' | 'adverb' | 'pronoun' | 'phrase' | 'other'
   meaningFa: string
+  meaningGroup?: string
   sourceHeadword?: string
   sourceRow?: number
   formNoteFa?: string

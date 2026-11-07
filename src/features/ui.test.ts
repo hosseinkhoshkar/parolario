@@ -166,17 +166,16 @@ test('fourth lesson vocabulary renders only that lesson and keeps unrelated entr
 })
 
 
-test('Italian lesson vocabulary follows its flashcard introduction order and printed pages', () => {
-  const lesson = italianCourse.lesson
-  const entries: Entry[] = view.lessonEntries(italianCourse, lesson.lessonId)
-  assert.equal(entries.length, 85)
-  assert.deepEqual(entries.map(entry => entry.entryId), lesson.introducedEntryIds)
-  assert.deepEqual(entries.slice(0, 5).map(entry => entry.entryId), lesson.introducedEntryIds.slice(0, 5))
-  const pages = entries.map(entry => Math.min(...entry.sourceRefIds.map(id => {
-    const ref = italianCourse.sourceRefs.find(item => item.sourceRefId === id)!
-    return Number(ref.locator.match(/چاپی (\d+)/u)![1])
-  })))
-  assert.deepEqual(pages, [...pages].sort((a, b) => a - b))
+test('both Italian lesson vocabularies follow their own introduction pages, ignoring later repeated occurrences', () => {
+  for (const lesson of italianCourse.lessons!) {
+    const entries: Entry[] = view.lessonEntries(italianCourse, lesson.lessonId)
+    assert.equal(entries.length, lesson.lessonId === 'it-a1-lesson-01' ? 85 : 92)
+    assert.deepEqual(entries.map(entry => entry.entryId), lesson.introducedEntryIds)
+    assert.deepEqual(entries.slice(0, 5).map(entry => entry.entryId), lesson.introducedEntryIds.slice(0, 5))
+    const pages = entries.map(entry => Math.min(...entry.sourceRefIds.map(id => italianCourse.sourceRefs.find(item => item.sourceRefId === id)!)
+      .filter(ref => ref.lessonId === lesson.lessonId).map(ref => Number(ref.locator.match(/چاپی (\d+)/u)![1]))))
+    assert.deepEqual(pages, [...pages].sort((a,b) => a-b))
+  }
 })
 
 test('reverse card conceals every Italian answer and example until persisted reveal', () => {
@@ -315,7 +314,7 @@ test('the active Italian catalog renders the ready lesson with its real count an
     introduced: 0, due: 0, stabilized: 0,
   }))
   const html = renderToStaticMarkup(createElement(view.LessonCards, { activeLessonId: italianCourse.lesson.lessonId, disabled: false, onChoose: async () => {}, summaries }))
-  assert.equal((html.match(/data-lesson-id=/gu) ?? []).length, 1)
+  assert.equal((html.match(/data-lesson-id=/gu) ?? []).length, 2)
   assert.ok(html.includes('aria-valuemax="85"'))
   assert.ok(html.includes('Primi contatti') && html.includes(italianCourse.lesson.titleFa))
   assert.ok(html.includes(`class="lesson-card lesson-current" data-lesson-id="${italianCourse.lesson.lessonId}"`))
@@ -324,8 +323,9 @@ test('the active Italian catalog renders the ready lesson with its real count an
   for (const legacy of ['Endlich ein Zimmer!', 'Kleider machen Freunde', 'Grüezi in der Schweiz', 'Mmh, das schmeckt!']) assert.ok(!html.includes(legacy))
 })
 
-test('all 85 Italian reverse answers stay hidden until reveal, then expose paired examples and pronunciation', () => {
-  assert.equal(italianCourse.entries.length, 85)
+test('all active Italian reverse answers stay hidden until reveal, then expose paired examples and pronunciation', () => {
+  assert.equal(italianCourse.entries.filter(entry => entry.introducedInLessonId === italianCourse.lesson.lessonId).length, 85)
+  assert.ok(italianCourse.entries.some(entry => entry.introducedInLessonId === 'it-a1-lesson-02'))
   for (const entry of italianCourse.entries) {
     const task: SessionTask = { taskId: `italian-reverse-${entry.entryId}`, kind: 'reverse-card', entryId: entry.entryId, revealed: false }
     const props = propsFor(task, italianCourse)
@@ -343,7 +343,8 @@ test('all 85 Italian reverse answers stay hidden until reveal, then expose paire
 })
 
 test('all Italian clozes show their Persian cues without exposing the hidden word to audio', () => {
-  assert.equal(italianCourse.entries.length, 85)
+  assert.equal(italianCourse.entries.filter(entry => entry.introducedInLessonId === italianCourse.lesson.lessonId).length, 85)
+  assert.ok(italianCourse.entries.some(entry => entry.introducedInLessonId === 'it-a1-lesson-02'))
   for (const entry of italianCourse.entries) {
     const task: SessionTask = { taskId: `italian-cloze-${entry.entryId}`, kind: 'cloze', entryId: entry.entryId, cycleKind: 'initial' }
     const props = propsFor(task, italianCourse)

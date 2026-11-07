@@ -1,0 +1,2590 @@
+{
+  "schemaVersion": 5,
+  "learningPolicyVersion": "learning-policy-v2",
+  "contentVersion": "nuovo-espresso-a1-it-v1",
+  "revision": 258,
+  "settings": {
+    "studyTimeZone": "Europe/Berlin",
+    "maxNewPerSession": 5,
+    "targetActiveMs": 1200000
+  },
+  "progress": {
+    "it-a1-l01-014": {
+      "entryId": "it-a1-l01-014",
+      "introducedAt": "2026-11-07T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "intervalIndex": 1,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [
+        "2026-11-08"
+      ],
+      "correctCount": 5,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-07T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 3,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 3,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-020": {
+      "entryId": "it-a1-l01-020",
+      "introducedAt": "2026-11-07T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "intervalIndex": 1,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [
+        "2026-11-08"
+      ],
+      "correctCount": 5,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-07T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 3,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 3,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-016": {
+      "entryId": "it-a1-l01-016",
+      "introducedAt": "2026-11-07T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "intervalIndex": 1,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [
+        "2026-11-08"
+      ],
+      "correctCount": 5,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-07T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 3,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 3,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-065": {
+      "entryId": "it-a1-l01-065",
+      "introducedAt": "2026-11-07T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "intervalIndex": 1,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [
+        "2026-11-08"
+      ],
+      "correctCount": 5,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-07T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 3,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 3,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-046": {
+      "entryId": "it-a1-l01-046",
+      "introducedAt": "2026-11-07T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "intervalIndex": 1,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [
+        "2026-11-08"
+      ],
+      "correctCount": 4,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-07T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 3,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 3,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-034": {
+      "entryId": "it-a1-l01-034",
+      "introducedAt": "2026-11-07T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "intervalIndex": 1,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [
+        "2026-11-08"
+      ],
+      "correctCount": 6,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-07T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 3,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 3,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-07T10:00:00.000Z"
+        }
+      }
+    },
+    "it-a1-l01-038": {
+      "entryId": "it-a1-l01-038",
+      "introducedAt": "2026-11-07T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "intervalIndex": 1,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [
+        "2026-11-08"
+      ],
+      "correctCount": 5,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-07T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 3,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 3,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-063": {
+      "entryId": "it-a1-l01-063",
+      "introducedAt": "2026-11-07T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "intervalIndex": 1,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [
+        "2026-11-08"
+      ],
+      "correctCount": 5,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-07T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 3,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 3,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-076": {
+      "entryId": "it-a1-l01-076",
+      "introducedAt": "2026-11-07T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "intervalIndex": 1,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [
+        "2026-11-08"
+      ],
+      "correctCount": 5,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-07T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 3,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 3,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-047": {
+      "entryId": "it-a1-l01-047",
+      "introducedAt": "2026-11-07T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "intervalIndex": 1,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [
+        "2026-11-08"
+      ],
+      "correctCount": 4,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-07T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 3,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 3,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-023": {
+      "entryId": "it-a1-l01-023",
+      "introducedAt": "2026-11-07T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "intervalIndex": 1,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [
+        "2026-11-08"
+      ],
+      "correctCount": 5,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-07T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 3,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 3,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-006": {
+      "entryId": "it-a1-l01-006",
+      "introducedAt": "2026-11-07T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "intervalIndex": 1,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [
+        "2026-11-08"
+      ],
+      "correctCount": 5,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-07T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 3,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 3,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-052": {
+      "entryId": "it-a1-l01-052",
+      "introducedAt": "2026-11-07T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "intervalIndex": 1,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [
+        "2026-11-08"
+      ],
+      "correctCount": 5,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-07T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 3,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 3,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-018": {
+      "entryId": "it-a1-l01-018",
+      "introducedAt": "2026-11-07T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "intervalIndex": 1,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [
+        "2026-11-08"
+      ],
+      "correctCount": 5,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-07T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 3,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 3,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-078": {
+      "entryId": "it-a1-l01-078",
+      "introducedAt": "2026-11-07T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "intervalIndex": 1,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [
+        "2026-11-08"
+      ],
+      "correctCount": 5,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-07T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 3,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 3,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-07T10:00:00.000Z"
+        }
+      }
+    },
+    "it-a1-l01-077": {
+      "entryId": "it-a1-l01-077",
+      "introducedAt": "2026-11-08T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-09T10:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [],
+      "correctCount": 4,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-055": {
+      "entryId": "it-a1-l01-055",
+      "introducedAt": "2026-11-08T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-09T10:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [],
+      "correctCount": 5,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        }
+      }
+    },
+    "it-a1-l01-010": {
+      "entryId": "it-a1-l01-010",
+      "introducedAt": "2026-11-08T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-09T10:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [],
+      "correctCount": 4,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-069": {
+      "entryId": "it-a1-l01-069",
+      "introducedAt": "2026-11-08T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-09T10:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [],
+      "correctCount": 4,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-029": {
+      "entryId": "it-a1-l01-029",
+      "introducedAt": "2026-11-08T10:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-09T10:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-08",
+      "scheduledReviewDates": [],
+      "correctCount": 4,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "article": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        }
+      }
+    },
+    "it-a1-l01-026": {
+      "entryId": "it-a1-l01-026",
+      "introducedAt": "2026-11-08T10:00:00.000Z",
+      "initialRecallPending": true,
+      "nextDueAt": null,
+      "intervalIndex": 0,
+      "lastSuccessDate": null,
+      "scheduledReviewDates": [],
+      "correctCount": 1,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-08T10:00:00.000Z"
+        },
+        "writing": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-022": {
+      "entryId": "it-a1-l01-022",
+      "introducedAt": "2026-11-08T10:00:00.000Z",
+      "initialRecallPending": true,
+      "nextDueAt": null,
+      "intervalIndex": 0,
+      "lastSuccessDate": null,
+      "scheduledReviewDates": [],
+      "correctCount": 0,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "writing": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-024": {
+      "entryId": "it-a1-l01-024",
+      "introducedAt": "2026-11-08T10:00:00.000Z",
+      "initialRecallPending": true,
+      "nextDueAt": null,
+      "intervalIndex": 0,
+      "lastSuccessDate": null,
+      "scheduledReviewDates": [],
+      "correctCount": 0,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "writing": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-074": {
+      "entryId": "it-a1-l01-074",
+      "introducedAt": "2026-11-08T10:00:00.000Z",
+      "initialRecallPending": true,
+      "nextDueAt": null,
+      "intervalIndex": 0,
+      "lastSuccessDate": null,
+      "scheduledReviewDates": [],
+      "correctCount": 0,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "writing": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "article": null
+      }
+    },
+    "it-a1-l01-054": {
+      "entryId": "it-a1-l01-054",
+      "introducedAt": "2026-11-08T10:00:00.000Z",
+      "initialRecallPending": true,
+      "nextDueAt": null,
+      "intervalIndex": 0,
+      "lastSuccessDate": null,
+      "scheduledReviewDates": [],
+      "correctCount": 0,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "writing": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "article": null
+      }
+    }
+  },
+  "reverseProgress": {
+    "it-a1-l01-014": {
+      "entryId": "it-a1-l01-014",
+      "completedAt": "2026-11-07T10:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-08T10:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "it-a1-l01-020": {
+      "entryId": "it-a1-l01-020",
+      "completedAt": "2026-11-07T10:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-08T10:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "it-a1-l01-016": {
+      "entryId": "it-a1-l01-016",
+      "completedAt": "2026-11-07T10:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-08T10:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "it-a1-l01-065": {
+      "entryId": "it-a1-l01-065",
+      "completedAt": "2026-11-07T10:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-08T10:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "it-a1-l01-046": {
+      "entryId": "it-a1-l01-046",
+      "completedAt": "2026-11-07T10:00:00.000Z",
+      "lastReviewedAt": "2026-11-08T10:00:00.000Z",
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "successStreak": 1,
+      "correctCount": 1,
+      "incorrectCount": 0,
+      "intervalDays": 3
+    },
+    "it-a1-l01-034": {
+      "entryId": "it-a1-l01-034",
+      "completedAt": "2026-11-07T10:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-08T10:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "it-a1-l01-038": {
+      "entryId": "it-a1-l01-038",
+      "completedAt": "2026-11-07T10:00:00.000Z",
+      "lastReviewedAt": "2026-11-08T10:00:00.000Z",
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "successStreak": 1,
+      "correctCount": 1,
+      "incorrectCount": 0,
+      "intervalDays": 3
+    },
+    "it-a1-l01-063": {
+      "entryId": "it-a1-l01-063",
+      "completedAt": "2026-11-07T10:00:00.000Z",
+      "lastReviewedAt": "2026-11-08T10:00:00.000Z",
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "successStreak": 1,
+      "correctCount": 1,
+      "incorrectCount": 0,
+      "intervalDays": 3
+    },
+    "it-a1-l01-076": {
+      "entryId": "it-a1-l01-076",
+      "completedAt": "2026-11-07T10:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-08T10:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "it-a1-l01-047": {
+      "entryId": "it-a1-l01-047",
+      "completedAt": "2026-11-07T10:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-08T10:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "it-a1-l01-023": {
+      "entryId": "it-a1-l01-023",
+      "completedAt": "2026-11-07T10:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-08T10:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "it-a1-l01-006": {
+      "entryId": "it-a1-l01-006",
+      "completedAt": "2026-11-07T10:00:00.000Z",
+      "lastReviewedAt": "2026-11-08T10:00:00.000Z",
+      "nextDueAt": "2026-11-11T10:00:00.000Z",
+      "successStreak": 1,
+      "correctCount": 1,
+      "incorrectCount": 0,
+      "intervalDays": 3
+    },
+    "it-a1-l01-052": {
+      "entryId": "it-a1-l01-052",
+      "completedAt": "2026-11-07T10:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-08T10:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "it-a1-l01-018": {
+      "entryId": "it-a1-l01-018",
+      "completedAt": "2026-11-07T10:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-08T10:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "it-a1-l01-078": {
+      "entryId": "it-a1-l01-078",
+      "completedAt": "2026-11-07T10:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-08T10:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "it-a1-l01-077": {
+      "entryId": "it-a1-l01-077",
+      "completedAt": "2026-11-08T10:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-09T10:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "it-a1-l01-055": {
+      "entryId": "it-a1-l01-055",
+      "completedAt": "2026-11-08T10:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-09T10:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "it-a1-l01-010": {
+      "entryId": "it-a1-l01-010",
+      "completedAt": "2026-11-08T10:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-09T10:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "it-a1-l01-069": {
+      "entryId": "it-a1-l01-069",
+      "completedAt": "2026-11-08T10:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-09T10:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "it-a1-l01-029": {
+      "entryId": "it-a1-l01-029",
+      "completedAt": "2026-11-08T10:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-09T10:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    }
+  },
+  "reverseReviews": [
+    {
+      "reviewId": "old-reverse-75",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:reverse:it-a1-l01-006",
+      "entryId": "it-a1-l01-006",
+      "correct": true,
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "reviewId": "old-reverse-76",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:reverse:it-a1-l01-063",
+      "entryId": "it-a1-l01-063",
+      "correct": true,
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "reviewId": "old-reverse-98",
+      "sessionId": "old-unfinished",
+      "taskId": "old-unfinished:reverse:it-a1-l01-038",
+      "entryId": "it-a1-l01-038",
+      "correct": true,
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "reviewId": "old-reverse-99",
+      "sessionId": "old-unfinished",
+      "taskId": "old-unfinished:reverse:it-a1-l01-046",
+      "entryId": "it-a1-l01-046",
+      "correct": true,
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    }
+  ],
+  "attempts": [
+    {
+      "attemptId": "old-answer-1",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:new:it-a1-l01-014:meaning",
+      "entryId": "it-a1-l01-014",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-014",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-2",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:new:it-a1-l01-014:cloze",
+      "entryId": "it-a1-l01-014",
+      "exercise": "cloze",
+      "answer": "Buona sera!",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-3",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:new:it-a1-l01-014:write",
+      "entryId": "it-a1-l01-014",
+      "exercise": "write-word",
+      "answer": "buona sera!",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-4",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:new:it-a1-l01-020:meaning",
+      "entryId": "it-a1-l01-020",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-020",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-5",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:new:it-a1-l01-020:write",
+      "entryId": "it-a1-l01-020",
+      "exercise": "write-word",
+      "answer": "ciao!",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-6",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:new:it-a1-l01-020:cloze",
+      "entryId": "it-a1-l01-020",
+      "exercise": "cloze",
+      "answer": "Ciao!",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-7",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:new:it-a1-l01-016:meaning",
+      "entryId": "it-a1-l01-016",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-016",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-8",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:new:it-a1-l01-016:cloze",
+      "entryId": "it-a1-l01-016",
+      "exercise": "cloze",
+      "answer": "Buongiorno!",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-9",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:new:it-a1-l01-016:write",
+      "entryId": "it-a1-l01-016",
+      "exercise": "write-word",
+      "answer": "buongiorno!",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-10",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:new:it-a1-l01-065:meaning",
+      "entryId": "it-a1-l01-065",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-065",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-11",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:new:it-a1-l01-065:write",
+      "entryId": "it-a1-l01-065",
+      "exercise": "write-word",
+      "answer": "professore",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-12",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:new:it-a1-l01-065:cloze",
+      "entryId": "it-a1-l01-065",
+      "exercise": "cloze",
+      "answer": "professore",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-13",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:new:it-a1-l01-046:meaning",
+      "entryId": "it-a1-l01-046",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-046",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-14",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:new:it-a1-l01-046:cloze",
+      "entryId": "it-a1-l01-046",
+      "exercise": "cloze",
+      "answer": "leggere",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-15",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:new:it-a1-l01-046:write",
+      "entryId": "it-a1-l01-046",
+      "exercise": "write-word",
+      "answer": "leggere",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-16",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:match",
+      "entryId": "it-a1-l01-014",
+      "exercise": "match",
+      "answer": "it-a1-l01-014",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-17",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:match",
+      "entryId": "it-a1-l01-020",
+      "exercise": "match",
+      "answer": "it-a1-l01-020",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-18",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:match",
+      "entryId": "it-a1-l01-016",
+      "exercise": "match",
+      "answer": "it-a1-l01-016",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-19",
+      "sessionId": "before-second-0",
+      "taskId": "before-second-0:match",
+      "entryId": "it-a1-l01-065",
+      "exercise": "match",
+      "answer": "it-a1-l01-065",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-20",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:new:it-a1-l01-034:meaning",
+      "entryId": "it-a1-l01-034",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-034",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-21",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:new:it-a1-l01-034:cloze",
+      "entryId": "it-a1-l01-034",
+      "exercise": "cloze",
+      "answer": "dialogo",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-22",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:new:it-a1-l01-034:write",
+      "entryId": "it-a1-l01-034",
+      "exercise": "write-word",
+      "answer": "dialogo",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-23",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:new:it-a1-l01-034:article",
+      "entryId": "it-a1-l01-034",
+      "exercise": "choose-article",
+      "answer": "il",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-24",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:new:it-a1-l01-038:meaning",
+      "entryId": "it-a1-l01-038",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-038",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-25",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:new:it-a1-l01-038:write",
+      "entryId": "it-a1-l01-038",
+      "exercise": "write-word",
+      "answer": "e",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-26",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:new:it-a1-l01-038:cloze",
+      "entryId": "it-a1-l01-038",
+      "exercise": "cloze",
+      "answer": "e",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-27",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:new:it-a1-l01-063:meaning",
+      "entryId": "it-a1-l01-063",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-063",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-28",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:new:it-a1-l01-063:cloze",
+      "entryId": "it-a1-l01-063",
+      "exercise": "cloze",
+      "answer": "piacere!",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-29",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:new:it-a1-l01-063:write",
+      "entryId": "it-a1-l01-063",
+      "exercise": "write-word",
+      "answer": "piacere!",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-30",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:new:it-a1-l01-076:meaning",
+      "entryId": "it-a1-l01-076",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-076",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-31",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:new:it-a1-l01-076:write",
+      "entryId": "it-a1-l01-076",
+      "exercise": "write-word",
+      "answer": "scusi",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-32",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:new:it-a1-l01-076:cloze",
+      "entryId": "it-a1-l01-076",
+      "exercise": "cloze",
+      "answer": "Scusi",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-33",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:new:it-a1-l01-047:meaning",
+      "entryId": "it-a1-l01-047",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-047",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-34",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:new:it-a1-l01-047:cloze",
+      "entryId": "it-a1-l01-047",
+      "exercise": "cloze",
+      "answer": "Lei",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-35",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:new:it-a1-l01-047:write",
+      "entryId": "it-a1-l01-047",
+      "exercise": "write-word",
+      "answer": "Lei",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-36",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:match",
+      "entryId": "it-a1-l01-034",
+      "exercise": "match",
+      "answer": "it-a1-l01-034",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-37",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:match",
+      "entryId": "it-a1-l01-038",
+      "exercise": "match",
+      "answer": "it-a1-l01-038",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-38",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:match",
+      "entryId": "it-a1-l01-063",
+      "exercise": "match",
+      "answer": "it-a1-l01-063",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-39",
+      "sessionId": "before-second-1",
+      "taskId": "before-second-1:match",
+      "entryId": "it-a1-l01-076",
+      "exercise": "match",
+      "answer": "it-a1-l01-076",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-40",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:new:it-a1-l01-023:meaning",
+      "entryId": "it-a1-l01-023",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-023",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-41",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:new:it-a1-l01-023:cloze",
+      "entryId": "it-a1-l01-023",
+      "exercise": "cloze",
+      "answer": "come si chiama?",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-42",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:new:it-a1-l01-023:write",
+      "entryId": "it-a1-l01-023",
+      "exercise": "write-word",
+      "answer": "come si chiama?",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-43",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:new:it-a1-l01-006:meaning",
+      "entryId": "it-a1-l01-006",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-006",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-44",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:new:it-a1-l01-006:write",
+      "entryId": "it-a1-l01-006",
+      "exercise": "write-word",
+      "answer": "anch’io",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-45",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:new:it-a1-l01-006:cloze",
+      "entryId": "it-a1-l01-006",
+      "exercise": "cloze",
+      "answer": "Anch’io",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-46",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:new:it-a1-l01-052:meaning",
+      "entryId": "it-a1-l01-052",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-052",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-47",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:new:it-a1-l01-052:cloze",
+      "entryId": "it-a1-l01-052",
+      "exercise": "cloze",
+      "answer": "mi chiamo",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-48",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:new:it-a1-l01-052:write",
+      "entryId": "it-a1-l01-052",
+      "exercise": "write-word",
+      "answer": "mi chiamo",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-49",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:new:it-a1-l01-018:meaning",
+      "entryId": "it-a1-l01-018",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-018",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-50",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:new:it-a1-l01-018:write",
+      "entryId": "it-a1-l01-018",
+      "exercise": "write-word",
+      "answer": "chiamarsi",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-51",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:new:it-a1-l01-018:cloze",
+      "entryId": "it-a1-l01-018",
+      "exercise": "cloze",
+      "answer": "mi chiamo",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-52",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:new:it-a1-l01-078:meaning",
+      "entryId": "it-a1-l01-078",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-078",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-53",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:new:it-a1-l01-078:cloze",
+      "entryId": "it-a1-l01-078",
+      "exercise": "cloze",
+      "answer": "signora",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-54",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:new:it-a1-l01-078:write",
+      "entryId": "it-a1-l01-078",
+      "exercise": "write-word",
+      "answer": "signora",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-55",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:new:it-a1-l01-078:article",
+      "entryId": "it-a1-l01-078",
+      "exercise": "choose-article",
+      "answer": "la",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-56",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:match",
+      "entryId": "it-a1-l01-023",
+      "exercise": "match",
+      "answer": "it-a1-l01-023",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-57",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:match",
+      "entryId": "it-a1-l01-006",
+      "exercise": "match",
+      "answer": "it-a1-l01-006",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-58",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:match",
+      "entryId": "it-a1-l01-052",
+      "exercise": "match",
+      "answer": "it-a1-l01-052",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-59",
+      "sessionId": "before-second-2",
+      "taskId": "before-second-2:match",
+      "entryId": "it-a1-l01-018",
+      "exercise": "match",
+      "answer": "it-a1-l01-018",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-07T10:00:00.000Z",
+      "studyDate": "2026-11-07"
+    },
+    {
+      "attemptId": "old-answer-60",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:recall:it-a1-l01-006:start-0",
+      "entryId": "it-a1-l01-006",
+      "exercise": "cloze",
+      "answer": "Anch’io",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-61",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:recall:it-a1-l01-014:start-1",
+      "entryId": "it-a1-l01-014",
+      "exercise": "cloze",
+      "answer": "Buona sera!",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-62",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:recall:it-a1-l01-016:start-2",
+      "entryId": "it-a1-l01-016",
+      "exercise": "write-word",
+      "answer": "buongiorno!",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-63",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:recall:it-a1-l01-018:start-3",
+      "entryId": "it-a1-l01-018",
+      "exercise": "cloze",
+      "answer": "mi chiamo",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-64",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:recall:it-a1-l01-020:start-4",
+      "entryId": "it-a1-l01-020",
+      "exercise": "cloze",
+      "answer": "Ciao!",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-65",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:recall:it-a1-l01-023:start-5",
+      "entryId": "it-a1-l01-023",
+      "exercise": "cloze",
+      "answer": "come si chiama?",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-66",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:recall:it-a1-l01-034:start-6",
+      "entryId": "it-a1-l01-034",
+      "exercise": "write-word",
+      "answer": "dialogo",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-67",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:recall:it-a1-l01-038:start-7",
+      "entryId": "it-a1-l01-038",
+      "exercise": "cloze",
+      "answer": "e",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-68",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:recall:it-a1-l01-046:start-8",
+      "entryId": "it-a1-l01-046",
+      "exercise": "cloze",
+      "answer": "leggere",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-69",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:recall:it-a1-l01-047:start-9",
+      "entryId": "it-a1-l01-047",
+      "exercise": "cloze",
+      "answer": "Lei",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-70",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:recall:it-a1-l01-052:start-10",
+      "entryId": "it-a1-l01-052",
+      "exercise": "cloze",
+      "answer": "mi chiamo",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-71",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:recall:it-a1-l01-063:start-11",
+      "entryId": "it-a1-l01-063",
+      "exercise": "write-word",
+      "answer": "piacere!",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-72",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:recall:it-a1-l01-065:start-12",
+      "entryId": "it-a1-l01-065",
+      "exercise": "cloze",
+      "answer": "professore",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-73",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:recall:it-a1-l01-076:start-13",
+      "entryId": "it-a1-l01-076",
+      "exercise": "write-word",
+      "answer": "scusi",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-74",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:recall:it-a1-l01-078:start-14",
+      "entryId": "it-a1-l01-078",
+      "exercise": "cloze",
+      "answer": "signora",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-77",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:new:it-a1-l01-077:meaning",
+      "entryId": "it-a1-l01-077",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-077",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-78",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:new:it-a1-l01-077:cloze",
+      "entryId": "it-a1-l01-077",
+      "exercise": "cloze",
+      "answer": "Sì",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-79",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:new:it-a1-l01-077:write",
+      "entryId": "it-a1-l01-077",
+      "exercise": "write-word",
+      "answer": "sì",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-80",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:new:it-a1-l01-055:meaning",
+      "entryId": "it-a1-l01-055",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-055",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-81",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:new:it-a1-l01-055:write",
+      "entryId": "it-a1-l01-055",
+      "exercise": "write-word",
+      "answer": "nome",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-82",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:new:it-a1-l01-055:cloze",
+      "entryId": "it-a1-l01-055",
+      "exercise": "cloze",
+      "answer": "nome",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-83",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:new:it-a1-l01-055:article",
+      "entryId": "it-a1-l01-055",
+      "exercise": "choose-article",
+      "answer": "il",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-84",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:new:it-a1-l01-010:meaning",
+      "entryId": "it-a1-l01-010",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-010",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-85",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:new:it-a1-l01-010:cloze",
+      "entryId": "it-a1-l01-010",
+      "exercise": "cloze",
+      "answer": "ascoltare",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-86",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:new:it-a1-l01-010:write",
+      "entryId": "it-a1-l01-010",
+      "exercise": "write-word",
+      "answer": "ascoltare",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-87",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:new:it-a1-l01-069:meaning",
+      "entryId": "it-a1-l01-069",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-069",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-88",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:new:it-a1-l01-069:write",
+      "entryId": "it-a1-l01-069",
+      "exercise": "write-word",
+      "answer": "ripetere",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-89",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:new:it-a1-l01-069:cloze",
+      "entryId": "it-a1-l01-069",
+      "exercise": "cloze",
+      "answer": "ripetere",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-90",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:new:it-a1-l01-029:meaning",
+      "entryId": "it-a1-l01-029",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-029",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-91",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:new:it-a1-l01-029:cloze",
+      "entryId": "it-a1-l01-029",
+      "exercise": "cloze",
+      "answer": "compagno",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-92",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:new:it-a1-l01-029:write",
+      "entryId": "it-a1-l01-029",
+      "exercise": "write-word",
+      "answer": "compagno",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-93",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:new:it-a1-l01-029:article",
+      "entryId": "it-a1-l01-029",
+      "exercise": "choose-article",
+      "answer": "il",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-94",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:match",
+      "entryId": "it-a1-l01-077",
+      "exercise": "match",
+      "answer": "it-a1-l01-077",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-95",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:match",
+      "entryId": "it-a1-l01-055",
+      "exercise": "match",
+      "answer": "it-a1-l01-055",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-96",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:match",
+      "entryId": "it-a1-l01-010",
+      "exercise": "match",
+      "answer": "it-a1-l01-010",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-97",
+      "sessionId": "old-second-day",
+      "taskId": "old-second-day:match",
+      "entryId": "it-a1-l01-069",
+      "exercise": "match",
+      "answer": "it-a1-l01-069",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    },
+    {
+      "attemptId": "old-answer-100",
+      "sessionId": "old-unfinished",
+      "taskId": "old-unfinished:new:it-a1-l01-026:meaning",
+      "entryId": "it-a1-l01-026",
+      "exercise": "choose-meaning",
+      "answer": "it-a1-l01-026",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "italian-answer-normalization-v1",
+      "at": "2026-11-08T10:00:00.000Z",
+      "studyDate": "2026-11-08"
+    }
+  ],
+  "session": {
+    "sessionId": "old-unfinished",
+    "contentVersion": "nuovo-espresso-a1-it-v1",
+    "state": "paused",
+    "lessonId": "it-a1-lesson-01",
+    "startedAt": "2026-11-08T10:00:00.000Z",
+    "endedAt": null,
+    "queue": [
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-026:card",
+        "kind": "flashcard",
+        "entryId": "it-a1-l01-026",
+        "revealed": true
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-022:card",
+        "kind": "flashcard",
+        "entryId": "it-a1-l01-022",
+        "revealed": true
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-024:card",
+        "kind": "flashcard",
+        "entryId": "it-a1-l01-024",
+        "revealed": true
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-074:card",
+        "kind": "flashcard",
+        "entryId": "it-a1-l01-074",
+        "revealed": true
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-054:card",
+        "kind": "flashcard",
+        "entryId": "it-a1-l01-054",
+        "revealed": true
+      },
+      {
+        "taskId": "old-unfinished:reverse:it-a1-l01-038",
+        "kind": "reverse-card",
+        "entryId": "it-a1-l01-038",
+        "revealed": true
+      },
+      {
+        "taskId": "old-unfinished:reverse:it-a1-l01-046",
+        "kind": "reverse-card",
+        "entryId": "it-a1-l01-046",
+        "revealed": true
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-026:meaning",
+        "kind": "choose-meaning",
+        "entryId": "it-a1-l01-026",
+        "optionIds": [
+          "it-a1-l01-036",
+          "it-a1-l01-035",
+          "it-a1-l01-026",
+          "it-a1-l01-041"
+        ]
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-026:write",
+        "kind": "write-word",
+        "entryId": "it-a1-l01-026",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-026:cloze",
+        "kind": "cloze",
+        "entryId": "it-a1-l01-026",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-022:meaning",
+        "kind": "choose-meaning",
+        "entryId": "it-a1-l01-022",
+        "optionIds": [
+          "it-a1-l01-027",
+          "it-a1-l01-028",
+          "it-a1-l01-022",
+          "it-a1-l01-029"
+        ]
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-022:cloze",
+        "kind": "cloze",
+        "entryId": "it-a1-l01-022",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-022:write",
+        "kind": "write-word",
+        "entryId": "it-a1-l01-022",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-024:meaning",
+        "kind": "choose-meaning",
+        "entryId": "it-a1-l01-024",
+        "optionIds": [
+          "it-a1-l01-034",
+          "it-a1-l01-030",
+          "it-a1-l01-024",
+          "it-a1-l01-035"
+        ]
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-024:write",
+        "kind": "write-word",
+        "entryId": "it-a1-l01-024",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-024:cloze",
+        "kind": "cloze",
+        "entryId": "it-a1-l01-024",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-074:meaning",
+        "kind": "choose-meaning",
+        "entryId": "it-a1-l01-074",
+        "optionIds": [
+          "it-a1-l01-002",
+          "it-a1-l01-003",
+          "it-a1-l01-004",
+          "it-a1-l01-074"
+        ]
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-074:cloze",
+        "kind": "cloze",
+        "entryId": "it-a1-l01-074",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-074:write",
+        "kind": "write-word",
+        "entryId": "it-a1-l01-074",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-054:meaning",
+        "kind": "choose-meaning",
+        "entryId": "it-a1-l01-054",
+        "optionIds": [
+          "it-a1-l01-054",
+          "it-a1-l01-063",
+          "it-a1-l01-065",
+          "it-a1-l01-064"
+        ]
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-054:write",
+        "kind": "write-word",
+        "entryId": "it-a1-l01-054",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "old-unfinished:new:it-a1-l01-054:cloze",
+        "kind": "cloze",
+        "entryId": "it-a1-l01-054",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "old-unfinished:match",
+        "kind": "match",
+        "entryIds": [
+          "it-a1-l01-026",
+          "it-a1-l01-022",
+          "it-a1-l01-024",
+          "it-a1-l01-074"
+        ],
+        "leftOrder": [
+          "it-a1-l01-074",
+          "it-a1-l01-026",
+          "it-a1-l01-022",
+          "it-a1-l01-024"
+        ],
+        "rightOrder": [
+          "it-a1-l01-026",
+          "it-a1-l01-074",
+          "it-a1-l01-022",
+          "it-a1-l01-024"
+        ],
+        "matchedEntryIds": []
+      }
+    ],
+    "cursor": 8,
+    "introducedEntryIds": [
+      "it-a1-l01-026",
+      "it-a1-l01-022",
+      "it-a1-l01-024",
+      "it-a1-l01-074",
+      "it-a1-l01-054"
+    ],
+    "draft": "پاسخ ذخیره‌شده پیش از افزودن درس دوم",
+    "feedback": null,
+    "activeMs": 1000,
+    "targetAcknowledged": false,
+    "targetAcknowledgedDate": null
+  },
+  "assistanceEvents": [],
+  "dailyActivity": {
+    "2026-11-08": 1000
+  },
+  "activityEventIds": [
+    "baseline-activity"
+  ],
+  "activeLessonId": "it-a1-lesson-01",
+  "savedSessions": {}
+}

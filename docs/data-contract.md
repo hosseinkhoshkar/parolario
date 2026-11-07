@@ -4,7 +4,7 @@
 
 ## محتوا
 
-Lesson.titleIt و Example.it جای فیلدهای زبان قبلی را گرفته‌اند. lessonId=it-a1-lesson-01 و شناسهٔ هر مدخل it-a1-l01-NNN از شمارهٔ ثابت سطر فایل مرجع می‌آید؛ تغییر مرتب‌سازی نباید شناسه را عوض کند. sourceHeadword/sourceRow متن و شمارهٔ اصلی را حفظ می‌کنند. introductionOrder از صفحهٔ چاپی و رتبهٔ محل منبع می‌آید.
+Lesson.titleIt و Example.it جای فیلدهای زبان قبلی را گرفته‌اند. lessonIdهای it-a1-lesson-01 و it-a1-lesson-02 و شناسه‌های مدخل it-a1-l01-NNN و it-a1-l02-NNN از شمارهٔ ثابت سطر فایل مرجع می‌آید؛ تغییر مرتب‌سازی نباید شناسه را عوض کند. sourceHeadword/sourceRow متن و شمارهٔ اصلی را حفظ می‌کنند. introductionOrder از صفحهٔ چاپی و رتبهٔ محل منبع می‌آید.
 
 Entry نقش دستوری، معنی، occurrence و sourceRefIds واقعی دارد. Example.origin برابر quoted یا authored است؛ quoted دارای sourceRefId همان مدخل است. نمونهٔ اول عین گزیدهٔ کتاب، دو نمونهٔ بعد تألیفی‌اند. writing پاسخ معیارِ مدخل و cue فارسی دارد. cloze پاسخ‌های مستقل و cue جدا می‌تواند داشته باشد تا صورت صرف‌شده با مصدر اشتباه نشود؛ بازسازی پاسخ معیار باید دقیقاً مثال تألیفیِ اشاره‌شده را بسازد.
 
@@ -22,4 +22,14 @@ IndexedDB=parolario-progress، object store=user-state، key=current، قفل pa
 
 ## مثال‌های تکمیلی
 
-reference/vocabulary/italian/Lesson-01-A1.txt منبع انسانیِ ثابت و public/content/examples/italian/Lesson-01-A1.json دادهٔ تألیفی بازبینی‌شده است. sync:examples تطبیق سطر/کلید/متن، جفت زبانی، تکرار و تعداد را بررسی می‌کند و تنها italian-source.json و additional-examples.ts اجرایی را به صورت قطعی می‌سازد. build hash برای تازگی cache مستقل از contentVersion است.
+فایل‌های reference/vocabulary/italian/Lesson-01-A1.txt و Lesson-02-A1.txt منابع انسانی ثابت‌اند و sidecarهای هم‌نام در public/content/examples/italian دادهٔ تألیفی بازبینی‌شده‌اند. sync:examples تطبیق سطر/کلید/متن، جفت زبانی، تکرار و تعداد را بررسی می‌کند و تنها sourceهای اجراییِ جداگانهٔ هر درس و additional-examples.ts را قطعی می‌سازد. build hash برای تازگی cache مستقل از contentVersion است.
+
+## افزودن درس دوم بدون تغییر schema
+
+دادهٔ منبع هر درس مستقل تولید می‌شود: italian-source.json برای۱ و italian-source-02.json برای۲؛ pedagogy و sidecar نیز مستقل‌اند. build-italian-lesson.ts ساختار مشترک را می‌سازد. کلید سطر تنها در فضای همان درس معنا دارد.
+
+meaningGroup اختیاری فقط metadata محتواست و در AppState ذخیره نمی‌شود؛ گزینه و اتصال با گروه مشترک ساخته نمی‌شود. نگهبان ذخیره نیز صفِ دارای معنی/گروه تکراری را رد می‌کند؛ صف معتبر قدیمی بازچینی نمی‌شود.
+
+lesson-two-occurrences.json شامل existing entryId و refهای واقعی است. catalog به مدخل اصلی sourceRefIds و occurrence درس۲ می‌افزاید؛ معرفی، مثال‌ها، پاسخ‌ها و introductionOrder درس۱ همان‌اند. این refs به sourceRefs کاتالوگ اضافه می‌شوند، نه به فهرست معرفی درس۲.
+
+ثابت‌ماندن schema۵ و nuovo-espresso-a1-it-v1، به‌همراه خواندن عین snapshot پیش از افزودن درس۲ و digestهای۸۵مدخل، معیار سازگاری است.

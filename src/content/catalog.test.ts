@@ -4,17 +4,20 @@ import { courseBundle, lessonBundles, combineLessonBundles } from './catalog.ts'
 import { withTextbookStudyOrder } from './textbook-study-order.ts'
 import pedagogy from './italian-pedagogy.json' with { type: 'json' }
 
-test('only one sourced Italian lesson is active; page order and verified tie-break order drive introduction', () => {
-  assert.equal(lessonBundles.length, 1)
-  assert.equal(courseBundle.lessons!.length, 1)
-  assert.equal(courseBundle.lesson.titleIt, 'Primi contatti')
-  const page = (id: string) => Number(courseBundle.sourceRefs.find(ref => ref.sourceRefId === courseBundle.entries.find(entry => entry.entryId === id)!.sourceRefIds[0])!.locator.match(/چاپی (\d+)/u)![1])
-  const ids = courseBundle.lesson.introducedEntryIds
-  const expected = [...courseBundle.entries].sort((a,b) => page(a.entryId)-page(b.entryId)
-    || pedagogy.find(row => row.entryId === a.entryId)!.sourceOrder-pedagogy.find(row => row.entryId === b.entryId)!.sourceOrder).map(entry => entry.entryId)
-  assert.deepEqual(ids, expected)
-  assert.deepEqual(withTextbookStudyOrder(courseBundle), courseBundle)
-  assert.ok(courseBundle.entries.every(entry => entry.entryId.startsWith('it-a1-l01-')))
+test('both sourced Italian lessons retain independent page order, stable IDs and titles', () => {
+  assert.equal(lessonBundles.length, 2)
+  assert.equal(courseBundle.lessons!.length, 2)
+  assert.deepEqual(lessonBundles.map(bundle => bundle.lesson.titleIt), ['Primi contatti', 'Io e gli altri'])
+  for (const bundle of lessonBundles) {
+    const page = (id: string) => Math.min(...bundle.entries.find(entry => entry.entryId === id)!.sourceRefIds.map(refId => Number(bundle.sourceRefs.find(ref => ref.sourceRefId === refId)!.locator.match(/چاپی (\d+)/u)![1])))
+    const ids = bundle.lesson.introducedEntryIds
+    assert.ok(ids.every((id,index) => index === 0 || page(id) >= page(ids[index-1])))
+    assert.deepEqual(withTextbookStudyOrder(bundle), bundle)
+    assert.ok(bundle.entries.every(entry => entry.entryId.startsWith(bundle.lesson.lessonId === 'it-a1-lesson-01' ? 'it-a1-l01-' : 'it-a1-l02-')))
+  }
+  const first = lessonBundles[0]
+  const rank = (id: string) => pedagogy.find(row => row.entryId === id)!.sourceOrder
+  assert.deepEqual(first.lesson.introducedEntryIds, [...first.entries].sort((a,b) => rank(a.entryId)-rank(b.entryId)).map(entry => entry.entryId))
 })
 
 test('registry aggregation includes entries and references from a synthetic second lesson', () => {

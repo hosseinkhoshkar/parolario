@@ -10,7 +10,9 @@ test('every discovered source lesson has exactly two authored, paired examples f
   const sources = readdirSync('reference/vocabulary/italian').filter(name => /^Lesson-\d+-(A1|A2|B1)\.txt$/u.test(name))
   assert.equal(lessons.length, sources.length)
   assert.deepEqual(validateExampleCatalog(lessons), [])
-  assert.equal(lessons.reduce((sum: number, lesson: { rows: unknown[] }) => sum + lesson.rows.length, 0), 85)
+  assert.equal(lessons.length, 2)
+  assert.equal(lessons[0].rows.length, 85)
+  assert.equal(lessons.reduce((sum: number, lesson: { rows: unknown[] }) => sum + lesson.rows.length, 0), courseBundle.entries.length)
   const sorted = lessons.map((lesson: { catalog: { lessonNumber: number } }) => lesson.catalog.lessonNumber)
   assert.deepEqual(sorted, [...sorted].sort((a, b) => a - b))
 })
@@ -21,7 +23,11 @@ test('all active entry identities, original examples and game data stay intact; 
     const extended = courseBundle.entries.find(entry => entry.entryId === original.entryId)!
     assert.equal(extended.examples.length, 3)
     assert.deepEqual(extended.examples[0], original.examples[0])
-    assert.deepEqual(extended, original)
+    const { sourceRefIds: originalRefs, occurrences: originalOccurrences, ...originalCore } = original
+    const { sourceRefIds: extendedRefs, occurrences: extendedOccurrences, ...extendedCore } = extended
+    assert.deepEqual(extendedCore, originalCore)
+    assert.ok(originalRefs.every(id => extendedRefs.includes(id)))
+    assert.ok(originalOccurrences.every(item => extendedOccurrences.some(occurrence => occurrence.lessonId === item.lessonId && item.sourceRefIds.every(id => occurrence.sourceRefIds.includes(id)))))
     assert.equal(new Set(extended.examples.map(example => example.it)).size, 3)
     assert.deepEqual(extendEntryExamples(extended), extended)
     assert.equal(original.examples.length, 3)

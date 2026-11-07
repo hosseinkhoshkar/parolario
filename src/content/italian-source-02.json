@@ -1,0 +1,830 @@
+[
+  {
+    "row": 1,
+    "word": "Come va?",
+    "meaningFa": "اوضاع چطور است؟؛ چطوری؟",
+    "locator": "کتاب درسی و تمرین: PDF 17، چاپی 17؛ بخش comunicazione، عبارت اول",
+    "exampleIt": "Come va?",
+    "exampleFa": "اوضاع چطور است؟",
+    "noteFa": ""
+  },
+  {
+    "row": 2,
+    "word": "ti presento…",
+    "meaningFa": "تو را با … آشنا می‌کنم؛ خودمانی",
+    "locator": "کتاب درسی و تمرین: PDF 17، چاپی 17؛ بخش comunicazione، عبارت دوم",
+    "exampleIt": "Ti presento Katia.",
+    "exampleFa": "تو را با کاتیا آشنا می‌کنم.",
+    "noteFa": "سه‌نقطهٔ سرمدخل جای نام شخص است و در مثال وجود ندارد."
+  },
+  {
+    "row": 3,
+    "word": "che lavoro fai?",
+    "meaningFa": "چه شغلی داری؟؛ خودمانی",
+    "locator": "کتاب درسی و تمرین: PDF 17، چاپی 17؛ بخش comunicazione، عبارت سوم",
+    "exampleIt": "Che lavoro fai?",
+    "exampleFa": "چه شغلی داری؟",
+    "noteFa": ""
+  },
+  {
+    "row": 4,
+    "word": "dove lavori?",
+    "meaningFa": "کجا کار می‌کنی؟؛ خودمانی",
+    "locator": "کتاب درسی و تمرین: PDF 17، چاپی 17؛ بخش comunicazione، عبارت چهارم",
+    "exampleIt": "Dove lavori?",
+    "exampleFa": "کجا کار می‌کنی؟",
+    "noteFa": ""
+  },
+  {
+    "row": 5,
+    "word": "dove abiti?",
+    "meaningFa": "کجا زندگی می‌کنی؟؛ خودمانی",
+    "locator": "کتاب درسی و تمرین: PDF 17، چاپی 17؛ بخش comunicazione، عبارت پنجم",
+    "exampleIt": "Dove abiti?",
+    "exampleFa": "کجا زندگی می‌کنی؟",
+    "noteFa": ""
+  },
+  {
+    "row": 6,
+    "word": "sei di qui?",
+    "meaningFa": "اهل اینجا هستی؟؛ خودمانی",
+    "locator": "کتاب درسی و تمرین: PDF 17، چاپی 17؛ بخش comunicazione، عبارت ششم",
+    "exampleIt": "Sei di qui?",
+    "exampleFa": "اهل اینجا هستی؟",
+    "noteFa": ""
+  },
+  {
+    "row": 7,
+    "word": "quanti anni hai?",
+    "meaningFa": "چند سال داری؟؛ خودمانی",
+    "locator": "کتاب درسی و تمرین: PDF 17، چاپی 17؛ بخش comunicazione، عبارت هفتم",
+    "exampleIt": "Quanti anni hai?",
+    "exampleFa": "چند سال داری؟",
+    "noteFa": ""
+  },
+  {
+    "row": 8,
+    "word": "oggi",
+    "meaningFa": "امروز",
+    "locator": "کتاب درسی و تمرین: PDF 18، چاپی 18؛ تمرین ۱، گزینهٔ نخست بالای گفت‌وگوها",
+    "exampleIt": "Ah, oggi sto proprio male",
+    "exampleFa": "آه، امروز واقعاً حالم بد است.",
+    "noteFa": "نمونه یک گزینهٔ چاپ‌شده است؛ نشانهٔ پایان به آن افزوده نشده و جای خالی گفت‌وگو تکمیل نشده است."
+  },
+  {
+    "row": 9,
+    "word": "proprio",
+    "meaningFa": "واقعاً؛ درست؛ در این بافت برای تأکید",
+    "locator": "کتاب درسی و تمرین: PDF 18، چاپی 18؛ تمرین ۱، گزینهٔ نخست بالای گفت‌وگوها",
+    "exampleIt": "Ah, oggi sto proprio male",
+    "exampleFa": "آه، امروز واقعاً حالم بد است.",
+    "noteFa": "نمونه یک گزینهٔ چاپ‌شده است؛ نشانهٔ پایان به آن افزوده نشده است."
+  },
+  {
+    "row": 10,
+    "word": "male",
+    "meaningFa": "بد؛ ناخوش؛ در بیان حال",
+    "locator": "کتاب درسی و تمرین: PDF 18، چاپی 18؛ تمرین ۱، گزینهٔ نخست بالای گفت‌وگوها",
+    "exampleIt": "Ah, oggi sto proprio male",
+    "exampleFa": "آه، امروز واقعاً حالم بد است.",
+    "noteFa": "نمونه یک گزینهٔ چاپ‌شده است و پاسخِ حدس‌زده‌شدهٔ یک حباب نیست."
+  },
+  {
+    "row": 11,
+    "word": "bene",
+    "meaningFa": "خوب؛ به‌خوبی",
+    "locator": "کتاب درسی و تمرین: PDF 18، چاپی 18؛ تمرین ۱، گزینهٔ دوم بالای گفت‌وگوها",
+    "exampleIt": "Bene, grazie",
+    "exampleFa": "خوبم، ممنون.",
+    "noteFa": "عبارت کوتاهِ چاپ‌شده است؛ نشانهٔ پایان به متن افزوده نشده است."
+  },
+  {
+    "row": 12,
+    "word": "grazie",
+    "meaningFa": "ممنون؛ متشکرم",
+    "locator": "کتاب درسی و تمرین: PDF 18، چاپی 18؛ تمرین ۱، گزینهٔ دوم بالای گفت‌وگوها",
+    "exampleIt": "Bene, grazie",
+    "exampleFa": "خوبم، ممنون.",
+    "noteFa": "عبارت کوتاهِ چاپ‌شده است؛ نشانهٔ پایان به متن افزوده نشده است."
+  },
+  {
+    "row": 13,
+    "word": "come sta?",
+    "meaningFa": "حالتان چطور است؟؛ محترمانه",
+    "locator": "کتاب درسی و تمرین: PDF 18، چاپی 18؛ تمرین ۱، حباب تصویر بالا سمت چپ",
+    "exampleIt": "Buongiorno signora, come sta?",
+    "exampleFa": "صبح بخیر خانم، حالتان چطور است؟",
+    "noteFa": "پرسش نام در درس اول و پرسش حالِ محترمانه در این مدخل دو عبارت متفاوت‌اند."
+  },
+  {
+    "row": 14,
+    "word": "mi dispiace",
+    "meaningFa": "متأسفم؛ از شنیدنش ناراحت شدم",
+    "locator": "کتاب درسی و تمرین: PDF 18، چاپی 18؛ تمرین ۱، حباب تصویر بالا سمت راست",
+    "exampleIt": "Oh, mi dispiace.",
+    "exampleFa": "اوه، متأسفم.",
+    "noteFa": ""
+  },
+  {
+    "row": 15,
+    "word": "benissimo",
+    "meaningFa": "خیلی خوب؛ عالی",
+    "locator": "کتاب درسی و تمرین: PDF 18، چاپی 18؛ تمرین ۱، حباب تصویر پایین سمت چپ",
+    "exampleIt": "Benissimo, grazie.",
+    "exampleFa": "عالی‌ام، ممنون.",
+    "noteFa": ""
+  },
+  {
+    "row": 16,
+    "word": "non c’è male",
+    "meaningFa": "بد نیست؛ در بیان حال",
+    "locator": "کتاب درسی و تمرین: PDF 18، چاپی 18؛ تمرین ۱، حباب تصویر پایین سمت راست",
+    "exampleIt": "Eh, non c’è male.",
+    "exampleFa": "اِه، بد نیست.",
+    "noteFa": "آپاستروف و اکسان مطابق عبارت چاپ‌شده حفظ شده‌اند."
+  },
+  {
+    "row": 17,
+    "word": "presentare",
+    "meaningFa": "معرفی‌کردن؛ آشناکردن افراد با یکدیگر",
+    "locator": "کتاب درسی و تمرین: PDF 19، چاپی 19؛ تمرین ۲، گفت‌وگوی سمت چپ",
+    "exampleIt": "Ti presento il signor Lucchetti.",
+    "exampleFa": "تو را با آقای لوکّتی آشنا می‌کنم.",
+    "noteFa": "سرمدخل، مصدر آموزشی است؛ صورت چاپ‌شده در نمونه presento است."
+  },
+  {
+    "row": 18,
+    "word": "molto lieto / molto lieta",
+    "meaningFa": "بسیار خوشوقتم؛ گفتهٔ مرد / گفتهٔ زن",
+    "locator": "کتاب درسی و تمرین: PDF 19، چاپی 19؛ تمرین ۲، پاسخ پایانی گفت‌وگوی سمت چپ؛ دو صورت جنسیتی در کادر تمرین ۱۳، صفحهٔ ۲۵",
+    "exampleIt": "Molto lieto.",
+    "exampleFa": "بسیار خوشوقتم.",
+    "noteFa": "مثال با صورت مذکر است؛ هر دو صورت در صفحهٔ ۲۵ به‌صراحت با maschile/femminile آمده‌اند."
+  },
+  {
+    "row": 19,
+    "word": "stare",
+    "meaningFa": "حال‌داشتن؛ بودن در یک وضعیت",
+    "locator": "کتاب درسی و تمرین: PDF 20، چاپی 20؛ تمرین ۳، گفت‌وگوی بالای صفحه",
+    "exampleIt": "Ah, Roberto, ciao! Io sto benissimo. E tu?",
+    "exampleFa": "آه، روبرتو، سلام! حال من عالی است. و تو؟",
+    "noteFa": "مصدر stare در جدول همین صفحه و صورت sto در نمونه آمده است؛ این مدخل، مصدر است و با عبارت come stai? درس اول یکی نیست."
+  },
+  {
+    "row": 20,
+    "word": "questo / questa",
+    "meaningFa": "این؛ صورت مذکر / مؤنث",
+    "locator": "کتاب درسی و تمرین: PDF 20، چاپی 20؛ تمرین ۳، کادر سمت راست",
+    "exampleIt": "Questo è un mio amico.",
+    "exampleFa": "این یکی از دوستان من است.",
+    "noteFa": "دو صورت Questo/Questa در همین کادر آمده‌اند؛ مثال با صورت مذکر است."
+  },
+  {
+    "row": 21,
+    "word": "l’amico / l’amica",
+    "meaningFa": "دوست؛ دوست مرد / دوست زن",
+    "locator": "کتاب درسی و تمرین: PDF 20، چاپی 20؛ تمرین ۳، کادر سمت راست؛ صورت‌های دارای آرتیکل در جدول صفحهٔ ۲۷",
+    "exampleIt": "Questo è un mio amico.",
+    "exampleFa": "این یکی از دوستان من است.",
+    "noteFa": "آرتیکل به نقل افزوده نشده است. سرمدخل با صورت‌های جدول صفحهٔ ۲۷ تنظیم شده؛ آن جدول amico را در ستون maschile و amica را در ستون femminile آورده است."
+  },
+  {
+    "row": 22,
+    "word": "parlare",
+    "meaningFa": "صحبت‌کردن؛ سخن‌گفتن",
+    "locator": "کتاب درسی و تمرین: PDF 20، چاپی 20؛ تمرین ۳، گفت‌وگوی بالای صفحه",
+    "exampleIt": "Sai, Susana parla molto bene l’italiano.",
+    "exampleFa": "می‌دانی، سوزانا خیلی خوب ایتالیایی صحبت می‌کند.",
+    "noteFa": "مصدر parlare در جدول همین صفحه و صورت parla در نمونه چاپ شده است."
+  },
+  {
+    "row": 23,
+    "word": "molto",
+    "meaningFa": "خیلی؛ بسیار",
+    "locator": "کتاب درسی و تمرین: PDF 20، چاپی 20؛ تمرین ۳، گفت‌وگوی بالای صفحه",
+    "exampleIt": "Sai, Susana parla molto bene l’italiano.",
+    "exampleFa": "می‌دانی، سوزانا خیلی خوب ایتالیایی صحبت می‌کند.",
+    "noteFa": ""
+  },
+  {
+    "row": 24,
+    "word": "l’italiano",
+    "meaningFa": "زبان ایتالیایی",
+    "locator": "کتاب درسی و تمرین: PDF 20، چاپی 20؛ تمرین ۳، گفت‌وگوی بالای صفحه",
+    "exampleIt": "Sai, Susana parla molto bene l’italiano.",
+    "exampleFa": "می‌دانی، سوزانا خیلی خوب ایتالیایی صحبت می‌کند.",
+    "noteFa": "اسمِ زبان است؛ با صفت ملیت italiano/italiana درس اول یک مدخل هم‌معنی نیست. جنس از روی l’ به‌تنهایی تعیین نمی‌شود."
+  },
+  {
+    "row": 25,
+    "word": "invece",
+    "meaningFa": "در مقابل؛ اما؛ برعکس",
+    "locator": "کتاب درسی و تمرین: PDF 20، چاپی 20؛ تمرین ۳، جملهٔ پایانی گفت‌وگو",
+    "exampleIt": "Io invece purtroppo non parlo il portoghese!",
+    "exampleFa": "اما من متأسفانه پرتغالی صحبت نمی‌کنم!",
+    "noteFa": ""
+  },
+  {
+    "row": 26,
+    "word": "purtroppo",
+    "meaningFa": "متأسفانه",
+    "locator": "کتاب درسی و تمرین: PDF 20، چاپی 20؛ تمرین ۳، جملهٔ پایانی گفت‌وگو",
+    "exampleIt": "Io invece purtroppo non parlo il portoghese!",
+    "exampleFa": "اما من متأسفانه پرتغالی صحبت نمی‌کنم!",
+    "noteFa": ""
+  },
+  {
+    "row": 27,
+    "word": "il portoghese",
+    "meaningFa": "زبان پرتغالی",
+    "locator": "کتاب درسی و تمرین: PDF 20، چاپی 20؛ تمرین ۳، جملهٔ پایانی گفت‌وگو",
+    "exampleIt": "Io invece purtroppo non parlo il portoghese!",
+    "exampleFa": "اما من متأسفانه پرتغالی صحبت نمی‌کنم!",
+    "noteFa": "اسمِ زبان است؛ با صفت ملیت portoghese درس اول یک مدخل هم‌معنی نیست. آرتیکل il در خود نمونه آمده است."
+  },
+  {
+    "row": 28,
+    "word": "chi",
+    "meaningFa": "چه کسی؛ کی",
+    "locator": "کتاب درسی و تمرین: PDF 20، چاپی 20؛ عنوان تمرین ۴",
+    "exampleIt": "Chi è?",
+    "exampleFa": "او کیست؟",
+    "noteFa": ""
+  },
+  {
+    "row": 29,
+    "word": "lingua",
+    "meaningFa": "زبان",
+    "locator": "کتاب درسی و تمرین: PDF 21، چاپی 21؛ عنوان تمرین ۵",
+    "exampleIt": "Che lingue parla?",
+    "exampleFa": "شما به چه زبان‌هایی صحبت می‌کنید؟",
+    "noteFa": "سرمدخل، مفرد آموزشی است؛ صورت چاپ‌شده در عنوان lingue است. آرتیکل به سرمدخل افزوده نشده است."
+  },
+  {
+    "row": 30,
+    "word": "l’olandese",
+    "meaningFa": "زبان هلندی",
+    "locator": "کتاب درسی و تمرین: PDF 21، چاپی 21؛ تمرین ۵، جدول زبان‌ها، ستون چپ، ردیف دوم",
+    "exampleIt": "l’olandese",
+    "exampleFa": "زبان هلندی",
+    "noteFa": "نمونه برچسب واژگانیِ جدول است و جمله نیست؛ جنس از روی l’ به‌تنهایی تعیین نمی‌شود."
+  },
+  {
+    "row": 31,
+    "word": "l’inglese",
+    "meaningFa": "زبان انگلیسی",
+    "locator": "کتاب درسی و تمرین: PDF 21، چاپی 21؛ تمرین ۵، جدول زبان‌ها، ستون چپ، ردیف سوم",
+    "exampleIt": "l’inglese",
+    "exampleFa": "زبان انگلیسی",
+    "noteFa": "اسمِ زبان است؛ با صفت ملیت inglese درس اول یک مدخل هم‌معنی نیست. نمونه برچسب جدول است و جمله نیست؛ جنس از روی l’ به‌تنهایی تعیین نمی‌شود."
+  },
+  {
+    "row": 32,
+    "word": "il russo",
+    "meaningFa": "زبان روسی",
+    "locator": "کتاب درسی و تمرین: PDF 21، چاپی 21؛ تمرین ۵، جدول زبان‌ها، ستون چپ، ردیف چهارم",
+    "exampleIt": "il russo",
+    "exampleFa": "زبان روسی",
+    "noteFa": "نمونه برچسب واژگانیِ جدول است و جمله نیست."
+  },
+  {
+    "row": 33,
+    "word": "il francese",
+    "meaningFa": "زبان فرانسوی",
+    "locator": "کتاب درسی و تمرین: PDF 21، چاپی 21؛ تمرین ۵، جدول زبان‌ها، ستون چپ، ردیف پنجم",
+    "exampleIt": "il francese",
+    "exampleFa": "زبان فرانسوی",
+    "noteFa": "اسمِ زبان است؛ با صفت ملیت francese درس اول یک مدخل هم‌معنی نیست. نمونه برچسب جدول است و جمله نیست."
+  },
+  {
+    "row": 34,
+    "word": "il greco",
+    "meaningFa": "زبان یونانی",
+    "locator": "کتاب درسی و تمرین: PDF 21، چاپی 21؛ تمرین ۵، جدول زبان‌ها، ستون چپ، ردیف ششم",
+    "exampleIt": "il greco",
+    "exampleFa": "زبان یونانی",
+    "noteFa": "نمونه برچسب واژگانیِ جدول است و جمله نیست."
+  },
+  {
+    "row": 35,
+    "word": "lo spagnolo",
+    "meaningFa": "زبان اسپانیایی",
+    "locator": "کتاب درسی و تمرین: PDF 21، چاپی 21؛ تمرین ۵، جدول زبان‌ها، ستون راست، ردیف نخست",
+    "exampleIt": "lo spagnolo",
+    "exampleFa": "زبان اسپانیایی",
+    "noteFa": "اسمِ زبان است؛ با صفت ملیت spagnolo/spagnola درس اول یک مدخل هم‌معنی نیست. نمونه برچسب جدول است و جمله نیست."
+  },
+  {
+    "row": 36,
+    "word": "lo svedese",
+    "meaningFa": "زبان سوئدی",
+    "locator": "کتاب درسی و تمرین: PDF 21، چاپی 21؛ تمرین ۵، جدول زبان‌ها، ستون راست، ردیف دوم",
+    "exampleIt": "lo svedese",
+    "exampleFa": "زبان سوئدی",
+    "noteFa": "نمونه برچسب واژگانیِ جدول است و جمله نیست."
+  },
+  {
+    "row": 37,
+    "word": "il tedesco",
+    "meaningFa": "زبان آلمانی",
+    "locator": "کتاب درسی و تمرین: PDF 21، چاپی 21؛ تمرین ۵، جدول زبان‌ها، ستون راست، ردیف چهارم",
+    "exampleIt": "il tedesco",
+    "exampleFa": "زبان آلمانی",
+    "noteFa": "اسمِ زبان است؛ با صفت ملیت tedesco/tedesca درس اول یک مدخل هم‌معنی نیست. نمونه برچسب جدول است و جمله نیست."
+  },
+  {
+    "row": 38,
+    "word": "la festa",
+    "meaningFa": "مهمانی؛ جشن",
+    "locator": "کتاب درسی و تمرین: PDF 21، چاپی 21؛ تمرین ۶، بخش Festa",
+    "exampleIt": "Ad una festa presentate un/una amico/a straniero/a ad un/una italiano/a.",
+    "exampleFa": "در یک مهمانی، یک دوست خارجی را به یک فرد ایتالیایی معرفی کنید.",
+    "noteFa": "سرمدخل با آرتیکل معین آموزشی آمده؛ در متن una festa چاپ شده است. علامت‌های / متعلق به متن کتاب‌اند و به صورت جملهٔ تکمیل‌شده بازنویسی نشده‌اند."
+  },
+  {
+    "row": 39,
+    "word": "la libreria",
+    "meaningFa": "کتاب‌فروشی",
+    "locator": "کتاب درسی و تمرین: PDF 21، چاپی 21؛ تمرین ۶، بخش Libreria",
+    "exampleIt": "Siete in una libreria in compagnia di un amico e incontrate un/una conoscente; presentate le due persone.",
+    "exampleFa": "شما همراه دوستی در یک کتاب‌فروشی هستید و با یک آشنا روبه‌رو می‌شوید؛ آن دو نفر را به یکدیگر معرفی کنید.",
+    "noteFa": "سرمدخل با آرتیکل معین آموزشی آمده؛ در متن una libreria چاپ شده است. un/una عین صورت چاپ‌شده حفظ شده است."
+  },
+  {
+    "row": 40,
+    "word": "abitare",
+    "meaningFa": "زندگی‌کردن؛ ساکن‌بودن",
+    "locator": "کتاب درسی و تمرین: PDF 22، چاپی 22؛ تمرین ۸، گفت‌وگوی آغاز صفحه",
+    "exampleIt": "No, siamo di Napoli, ma abitiamo qui a Bologna.",
+    "exampleFa": "نه، ما اهل ناپل هستیم، اما اینجا در بولونیا زندگی می‌کنیم.",
+    "noteFa": "سرمدخل مصدر آموزشی است؛ صورت چاپ‌شده در نمونه abitiamo است."
+  },
+  {
+    "row": 41,
+    "word": "qui",
+    "meaningFa": "اینجا",
+    "locator": "کتاب درسی و تمرین: PDF 22، چاپی 22؛ تمرین ۸، گفت‌وگوی آغاز صفحه",
+    "exampleIt": "No, siamo di Napoli, ma abitiamo qui a Bologna.",
+    "exampleFa": "نه، ما اهل ناپل هستیم، اما اینجا در بولونیا زندگی می‌کنیم.",
+    "noteFa": ""
+  },
+  {
+    "row": 42,
+    "word": "lavorare",
+    "meaningFa": "کارکردن",
+    "locator": "کتاب درسی و تمرین: PDF 22، چاپی 22؛ تمرین ۸، گفت‌وگوی آغاز صفحه",
+    "exampleIt": "No, io lavoro in una scuola di lingue.",
+    "exampleFa": "نه، من در یک مدرسهٔ زبان کار می‌کنم.",
+    "noteFa": "مصدر lavorare در جدول همین صفحه و صورت lavoro در نمونه آمده است."
+  },
+  {
+    "row": 43,
+    "word": "la scuola",
+    "meaningFa": "مدرسه؛ آموزشگاه",
+    "locator": "کتاب درسی و تمرین: PDF 22، چاپی 22؛ تمرین ۸، گفت‌وگوی آغاز صفحه",
+    "exampleIt": "No, io lavoro in una scuola di lingue.",
+    "exampleFa": "نه، من در یک مدرسهٔ زبان کار می‌کنم.",
+    "noteFa": "آرتیکل معین سرمدخل آموزشی است؛ در نمونه una scuola آمده است."
+  },
+  {
+    "row": 44,
+    "word": "la segretaria",
+    "meaningFa": "منشی زن",
+    "locator": "کتاب درسی و تمرین: PDF 22، چاپی 22؛ تمرین ۸، گفت‌وگوی آغاز صفحه",
+    "exampleIt": "No, faccio la segretaria.",
+    "exampleFa": "نه، من منشی هستم.",
+    "noteFa": "صورت مؤنث و آرتیکل la عیناً در نمونه آمده‌اند؛ صورت مذکرِ ارائه‌نشده افزوده نشده است."
+  },
+  {
+    "row": 45,
+    "word": "fare",
+    "meaningFa": "انجام‌دادن؛ در این بافت به کاری مشغول‌بودن",
+    "locator": "کتاب درسی و تمرین: PDF 22، چاپی 22؛ تمرین ۸، گفت‌وگوی آغاز صفحه",
+    "exampleIt": "No, faccio la segretaria.",
+    "exampleFa": "نه، من منشی هستم.",
+    "noteFa": "مصدر fare در جدول همین صفحه و صورت faccio در نمونه آمده است."
+  },
+  {
+    "row": 46,
+    "word": "impiegato / impiegata",
+    "meaningFa": "کارمند اداری؛ صورت مذکر / مؤنث",
+    "locator": "کتاب درسی و تمرین: PDF 22، چاپی 22؛ تمرین ۸، گفت‌وگوی آغاز صفحه؛ دو صورت جنسیتی در جدول صفحهٔ ۲۷",
+    "exampleIt": "Io sono impiegata in un’agenzia pubblicitaria.",
+    "exampleFa": "من در یک آژانس تبلیغاتی کارمند هستم.",
+    "noteFa": "نمونه با صورت مؤنث است؛ هر دو صورت در جدول صفحهٔ ۲۷ چاپ شده‌اند. آرتیکل به سرمدخل افزوده نشده است."
+  },
+  {
+    "row": 47,
+    "word": "l’agenzia",
+    "meaningFa": "آژانس؛ مؤسسهٔ خدماتی",
+    "locator": "کتاب درسی و تمرین: PDF 22، چاپی 22؛ تمرین ۸، گفت‌وگوی آغاز صفحه",
+    "exampleIt": "Io sono impiegata in un’agenzia pubblicitaria.",
+    "exampleFa": "من در یک آژانس تبلیغاتی کارمند هستم.",
+    "noteFa": "آرتیکل معین سرمدخل آموزشی است؛ در نمونه un’agenzia آمده و در جدول صفحهٔ ۲۷ un’ در ستون مؤنث است. جنس از روی l’ حدس زده نشده است."
+  },
+  {
+    "row": 48,
+    "word": "lo studio",
+    "meaningFa": "استودیو؛ دفتر کار تخصصی",
+    "locator": "کتاب درسی و تمرین: PDF 22، چاپی 22؛ تمرین ۸، پاسخ پایانی گفت‌وگو",
+    "exampleIt": "In uno studio fotografico.",
+    "exampleFa": "در یک استودیوی عکاسی.",
+    "noteFa": "عبارت کوتاهِ چاپ‌شده است و جملهٔ کامل نیست؛ در متن uno studio آمده و آرتیکل معین سرمدخل آموزشی است."
+  },
+  {
+    "row": 49,
+    "word": "l’ufficio",
+    "meaningFa": "دفتر کار؛ اداره",
+    "locator": "کتاب درسی و تمرین: PDF 22، چاپی 22؛ تمرین ۸، کادر زردِ lavoro in",
+    "exampleIt": "un ufficio",
+    "exampleFa": "یک دفتر کار",
+    "noteFa": "نمونه برچسب کوتاه در کادر است، نه جمله؛ سرمدخل با آرتیکل معین آموزشی آمده و un در نمونه، مستقل از l’ مذکربودن این صورت را نشان می‌دهد."
+  },
+  {
+    "row": 50,
+    "word": "la fabbrica",
+    "meaningFa": "کارخانه",
+    "locator": "کتاب درسی و تمرین: PDF 22، چاپی 22؛ تمرین ۹، متن کنار تصویر کارخانه",
+    "exampleIt": "Francesco lavora in una fabbrica,",
+    "exampleFa": "فرانچسکو در یک کارخانه کار می‌کند،",
+    "noteFa": "نقل، بخش پیوستهٔ چاپ‌شده تا پیش از ادامهٔ دارای جای خالی است؛ جمله تکمیل نشده و ویرگول پایانی حفظ شده است. آرتیکل معین سرمدخل آموزشی است؛ در متن una آمده است."
+  },
+  {
+    "row": 51,
+    "word": "la farmacia",
+    "meaningFa": "داروخانه",
+    "locator": "کتاب درسی و تمرین: PDF 22، چاپی 22؛ تمرین ۹، متن کنار تصویر داروخانه",
+    "exampleIt": "Carla lavora in una farmacia,",
+    "exampleFa": "کارلا در یک داروخانه کار می‌کند،",
+    "noteFa": "نقل، بخش پیوستهٔ چاپ‌شده تا پیش از ادامهٔ دارای جای خالی است؛ جمله تکمیل نشده و ویرگول پایانی حفظ شده است. آرتیکل معین سرمدخل آموزشی است؛ در متن una آمده است."
+  },
+  {
+    "row": 52,
+    "word": "il negozio",
+    "meaningFa": "مغازه؛ فروشگاه",
+    "locator": "کتاب درسی و تمرین: PDF 22، چاپی 22؛ تمرین ۹، متن کنار تصویر صندوق فروشگاه",
+    "exampleIt": "Luisa lavora in un negozio,",
+    "exampleFa": "لوئیزا در یک مغازه کار می‌کند،",
+    "noteFa": "نقل، بخش پیوستهٔ چاپ‌شده تا پیش از ادامهٔ دارای جای خالی است؛ جمله تکمیل نشده و ویرگول پایانی حفظ شده است. آرتیکل il در سرمدخل آموزشی است؛ مذکربودن negozio در جدول صفحهٔ ۲۷ نیز مشخص است."
+  },
+  {
+    "row": 53,
+    "word": "il ristorante",
+    "meaningFa": "رستوران",
+    "locator": "کتاب درسی و تمرین: PDF 22، چاپی 22؛ تمرین ۹، متن کنار تصویر رستوران",
+    "exampleIt": "Pino lavora in un ristorante,",
+    "exampleFa": "پینو در یک رستوران کار می‌کند،",
+    "noteFa": "نقل، بخش پیوستهٔ چاپ‌شده تا پیش از ادامهٔ دارای جای خالی است؛ جمله تکمیل نشده و ویرگول پایانی حفظ شده است. آرتیکل il در سرمدخل آموزشی است؛ مذکربودن ristorante در جدول صفحهٔ ۲۷ نیز مشخص است."
+  },
+  {
+    "row": 54,
+    "word": "l’avvocato / l’avvocata",
+    "meaningFa": "وکیل؛ صورت مذکر / مؤنث",
+    "locator": "کتاب درسی و تمرین: PDF 23، چاپی 23؛ تصویرهای مشاغل، ردیف اول سمت چپ",
+    "exampleIt": "l’avvocato l’avvocata",
+    "exampleFa": "وکیل مرد؛ وکیل زن",
+    "noteFa": "نمونه دو برچسبِ کنار هم در تصویر است، نه جمله؛ فاصلهٔ بین دو برچسب برای متن خطی حفظ شده است. جنس از روی خود l’ تعیین نمی‌شود؛ مرجع مستقلِ جنس در همین گزیده به صورت ستون جدا ارائه نشده است."
+  },
+  {
+    "row": 55,
+    "word": "il giornalista / la giornalista",
+    "meaningFa": "روزنامه‌نگار؛ مرد / زن",
+    "locator": "کتاب درسی و تمرین: PDF 23، چاپی 23؛ تصویرهای مشاغل، ردیف اول وسط",
+    "exampleIt": "il giornalista la giornalista",
+    "exampleFa": "روزنامه‌نگار مرد؛ روزنامه‌نگار زن",
+    "noteFa": "نمونه دو برچسبِ کنار هم در تصویر است، نه جمله؛ دو آرتیکل در خود برچسب‌ها چاپ شده‌اند."
+  },
+  {
+    "row": 56,
+    "word": "il farmacista / la farmacista",
+    "meaningFa": "داروساز؛ مرد / زن",
+    "locator": "کتاب درسی و تمرین: PDF 23، چاپی 23؛ تصویرهای مشاغل، ردیف اول سمت راست",
+    "exampleIt": "il farmacista la farmacista",
+    "exampleFa": "داروساز مرد؛ داروساز زن",
+    "noteFa": "نمونه دو برچسبِ کنار هم در تصویر است، نه جمله؛ دو آرتیکل در خود برچسب‌ها چاپ شده‌اند."
+  },
+  {
+    "row": 57,
+    "word": "il commesso / la commessa",
+    "meaningFa": "فروشندهٔ فروشگاه؛ مرد / زن",
+    "locator": "کتاب درسی و تمرین: PDF 23، چاپی 23؛ تصویرهای مشاغل، ردیف دوم سمت چپ",
+    "exampleIt": "il commesso la commessa",
+    "exampleFa": "فروشندهٔ مرد؛ فروشندهٔ زن",
+    "noteFa": "نمونه دو برچسبِ کنار هم در تصویر است، نه جمله؛ دو صورت و دو آرتیکل در خود برچسب‌ها چاپ شده‌اند."
+  },
+  {
+    "row": 58,
+    "word": "l’infermiere / l’infermiera",
+    "meaningFa": "پرستار؛ صورت مذکر / مؤنث",
+    "locator": "کتاب درسی و تمرین: PDF 23، چاپی 23؛ تصویرهای مشاغل، ردیف دوم وسط",
+    "exampleIt": "l’infermiere l’infermiera",
+    "exampleFa": "پرستار مرد؛ پرستار زن",
+    "noteFa": "نمونه دو برچسبِ کنار هم در تصویر است، نه جمله؛ جنس از روی خود l’ تعیین نمی‌شود و مرجع مستقلِ جنس در همین گزیده به صورت ستون جدا ارائه نشده است."
+  },
+  {
+    "row": 59,
+    "word": "l’operaio / l’operaia",
+    "meaningFa": "کارگر؛ صورت مذکر / مؤنث",
+    "locator": "کتاب درسی و تمرین: PDF 23، چاپی 23؛ تصویرهای مشاغل، ردیف دوم سمت راست",
+    "exampleIt": "l’operaio l’operaia",
+    "exampleFa": "کارگر مرد؛ کارگر زن",
+    "noteFa": "نمونه دو برچسبِ کنار هم در تصویر است، نه جمله؛ جنس از روی خود l’ تعیین نمی‌شود و مرجع مستقلِ جنس در همین گزیده به صورت ستون جدا ارائه نشده است."
+  },
+  {
+    "row": 60,
+    "word": "il cuoco / la cuoca",
+    "meaningFa": "آشپز؛ صورت مذکر / مؤنث",
+    "locator": "کتاب درسی و تمرین: PDF 23، چاپی 23؛ تصویرهای مشاغل، ردیف پایین سمت چپ",
+    "exampleIt": "il cuoco la cuoca",
+    "exampleFa": "آشپز مرد؛ آشپز زن",
+    "noteFa": "نمونه دو برچسبِ کنار هم در تصویر است، نه جمله؛ دو صورت و دو آرتیکل در خود برچسب‌ها چاپ شده‌اند."
+  },
+  {
+    "row": 61,
+    "word": "medico",
+    "meaningFa": "پزشک",
+    "locator": "کتاب درسی و تمرین: PDF 23، چاپی 23؛ تمرین ۱۱، نمونهٔ معرفی شخص در پایین صفحه",
+    "exampleIt": "Pablo è medico e lavora in un ospedale.",
+    "exampleFa": "پابلو پزشک است و در یک بیمارستان کار می‌کند.",
+    "noteFa": "آرتیکل به نمونه یا سرمدخل افزوده نشده است؛ در صفحهٔ ۱۵۲ توضیح داده شده که medico می‌تواند برای هر دو جنس به یک صورت به‌کار رود."
+  },
+  {
+    "row": 62,
+    "word": "l’ospedale",
+    "meaningFa": "بیمارستان",
+    "locator": "کتاب درسی و تمرین: PDF 23، چاپی 23؛ تمرین ۱۱، نمونهٔ معرفی شخص در پایین صفحه",
+    "exampleIt": "Pablo è medico e lavora in un ospedale.",
+    "exampleFa": "پابلو پزشک است و در یک بیمارستان کار می‌کند.",
+    "noteFa": "سرمدخل با آرتیکل معین آموزشی آمده است؛ un در نمونه، مستقل از l’ مذکربودن این صورت را نشان می‌دهد."
+  },
+  {
+    "row": 63,
+    "word": "il lavoro",
+    "meaningFa": "کار؛ شغل",
+    "locator": "کتاب درسی و تمرین: PDF 24، چاپی 24؛ تمرین ۱۲، پرسش پیش از نوشته‌های گروه",
+    "exampleIt": "Qual è la persona che offre un lavoro?",
+    "exampleFa": "کدام شخص یک شغل پیشنهاد می‌کند؟",
+    "noteFa": "آرتیکل معین سرمدخل آموزشی است؛ در نمونه un lavoro چاپ شده است."
+  },
+  {
+    "row": 64,
+    "word": "lo studente",
+    "meaningFa": "دانشجو؛ زبان‌آموز مرد",
+    "locator": "کتاب درسی و تمرین: PDF 24، چاپی 24؛ تمرین ۱۲، نوشتهٔ Werner Innerhofer",
+    "exampleIt": "Ciao, mi chiamo Werner, sono uno studente di italiano a Firenze.",
+    "exampleFa": "سلام، اسم من ورنر است؛ در فلورانس زبان‌آموز ایتالیایی هستم.",
+    "noteFa": "در متن uno studente آمده؛ آرتیکل معین سرمدخل آموزشی است و صورت زنانهٔ ارائه‌نشده افزوده نشده است."
+  },
+  {
+    "row": 65,
+    "word": "la camera",
+    "meaningFa": "اتاق",
+    "locator": "کتاب درسی و تمرین: PDF 24، چاپی 24؛ تمرین ۱۲، نوشتهٔ Werner Innerhofer",
+    "exampleIt": "Cerco una camera in una famiglia italiana in cambio di conversazione in queste lingue.",
+    "exampleFa": "دنبال اتاقی در یک خانوادهٔ ایتالیایی در ازای گفت‌وگو به این زبان‌ها می‌گردم.",
+    "noteFa": "آرتیکل معین سرمدخل آموزشی است؛ در متن una camera چاپ شده است."
+  },
+  {
+    "row": 66,
+    "word": "la famiglia",
+    "meaningFa": "خانواده",
+    "locator": "کتاب درسی و تمرین: PDF 24، چاپی 24؛ تمرین ۱۲، نوشتهٔ Werner Innerhofer",
+    "exampleIt": "Cerco una camera in una famiglia italiana in cambio di conversazione in queste lingue.",
+    "exampleFa": "دنبال اتاقی در یک خانوادهٔ ایتالیایی در ازای گفت‌وگو به این زبان‌ها می‌گردم.",
+    "noteFa": "آرتیکل معین سرمدخل آموزشی است؛ در متن una famiglia چاپ شده است."
+  },
+  {
+    "row": 67,
+    "word": "la conversazione",
+    "meaningFa": "گفت‌وگو؛ مکالمهٔ تعاملی",
+    "locator": "کتاب درسی و تمرین: PDF 24، چاپی 24؛ تمرین ۱۲، نوشتهٔ Werner Innerhofer؛ جنس اسم در ستون femminile صفحهٔ ۲۷",
+    "exampleIt": "Cerco una camera in una famiglia italiana in cambio di conversazione in queste lingue.",
+    "exampleFa": "دنبال اتاقی در یک خانوادهٔ ایتالیایی در ازای گفت‌وگو به این زبان‌ها می‌گردم.",
+    "noteFa": "واژهٔ conversazione با dialogo درس اول، دو واژهٔ متفاوت است؛ معنی مشترک به معنای یکی‌بودن هویت واژه نیست. آرتیکل معین سرمدخل آموزشی است و مؤنث‌بودن در جدول صفحهٔ ۲۷ آمده است."
+  },
+  {
+    "row": 68,
+    "word": "la stanza",
+    "meaningFa": "اتاق؛ فضای اتاق",
+    "locator": "کتاب درسی و تمرین: PDF 24، چاپی 24؛ تمرین ۱۲، نوشتهٔ Claudia Giammaria",
+    "exampleIt": "Ciao Werner, io abito vicino Firenze con la mia famiglia e abbiamo una piccola stanza libera.",
+    "exampleFa": "سلام ورنر، من نزدیک فلورانس با خانواده‌ام زندگی می‌کنم و یک اتاق کوچکِ خالی داریم.",
+    "noteFa": "صورت سرمدخل با آرتیکل معین آموزشی آمده؛ متن una piccola stanza دارد. camera و stanza دو واژهٔ متمایز با معنی نزدیک‌اند و نباید گزینهٔ گمراه‌کنندهٔ یکدیگر شوند."
+  },
+  {
+    "row": 69,
+    "word": "libera",
+    "meaningFa": "خالی؛ آزاد؛ صورت مؤنث در وصف اتاق",
+    "locator": "کتاب درسی و تمرین: PDF 24، چاپی 24؛ تمرین ۱۲، نوشتهٔ Claudia Giammaria",
+    "exampleIt": "Ciao Werner, io abito vicino Firenze con la mia famiglia e abbiamo una piccola stanza libera.",
+    "exampleFa": "سلام ورنر، من نزدیک فلورانس با خانواده‌ام زندگی می‌کنم و یک اتاق کوچکِ خالی داریم.",
+    "noteFa": "فقط صورت مؤنثِ دیده‌شده در منبع درج شده است؛ صورت مذکرِ دیده‌نشده به نام کتاب اضافه نشده است."
+  },
+  {
+    "row": 70,
+    "word": "avere bisogno di",
+    "meaningFa": "به … نیاز داشتن",
+    "locator": "کتاب درسی و تمرین: PDF 24، چاپی 24؛ تمرین ۱۲، نوشتهٔ Claudia Giammaria",
+    "exampleIt": "Mia figlia studia il tedesco e ha bisogno di fare molta conversazione.",
+    "exampleFa": "دختر من آلمانی می‌خواند و نیاز دارد زیاد گفت‌وگو کند.",
+    "noteFa": "سرمدخل، ساخت آموزشی با مصدر است؛ صورت چاپ‌شده ha bisogno di است. این عبارت با فعل مستقل avere درس اول یک مدخل هم‌معنی نیست."
+  },
+  {
+    "row": 71,
+    "word": "figlio / figlia",
+    "meaningFa": "پسر یا دخترِ کسی؛ فرزند",
+    "locator": "کتاب درسی و تمرین: PDF 24، چاپی 24؛ تمرین ۱۲، نوشتهٔ Rita Carassini؛ صورت figlia در نوشتهٔ Claudia Giammaria همین صفحه",
+    "exampleIt": "Sono un’insegnante con un figlio di 3 anni.",
+    "exampleFa": "من معلمی هستم که یک پسر سه‌ساله دارم.",
+    "noteFa": "هر دو صورت در متن همین صفحه دیده می‌شوند. مثال با figlio است؛ آرتیکل به سرمدخل افزوده نشده است."
+  },
+  {
+    "row": 72,
+    "word": "l’insegnante",
+    "meaningFa": "معلم؛ در این نمونه زن",
+    "locator": "کتاب درسی و تمرین: PDF 24، چاپی 24؛ تمرین ۱۲، نوشتهٔ Rita Carassini؛ شکل‌های مشترک زن/مرد در تصویرهای صفحهٔ ۲۳",
+    "exampleIt": "Sono un’insegnante con un figlio di 3 anni.",
+    "exampleFa": "من معلمی هستم که یک پسر سه‌ساله دارم.",
+    "noteFa": "در مثال un’insegnante چاپ شده و un’ در جدول صفحهٔ ۲۷ در ستون مؤنث است؛ این شاهد مستقل از l’ است. کلمه می‌تواند برای مرد هم به‌کار رود، اما صورت هدف این نمونه مؤنث است."
+  },
+  {
+    "row": 73,
+    "word": "studiare",
+    "meaningFa": "درس‌خواندن؛ تحصیل‌کردن؛ مطالعه‌کردن",
+    "locator": "کتاب درسی و تمرین: PDF 24، چاپی 24؛ تمرین ۱۲، نوشتهٔ Elizabeth Bradley",
+    "exampleIt": "Mi chiamo Elizabeth, sono di Boston e studio architettura a Roma.",
+    "exampleFa": "اسم من الیزابت است، اهل بوستون هستم و در رم معماری می‌خوانم.",
+    "noteFa": "سرمدخل مصدر آموزشی است؛ صورت studio در نمونه آمده است."
+  },
+  {
+    "row": 74,
+    "word": "cercare",
+    "meaningFa": "جست‌وجوکردن؛ دنبال چیزی گشتن",
+    "locator": "کتاب درسی و تمرین: PDF 24، چاپی 24؛ تمرین ۱۲، نوشتهٔ Elizabeth Bradley",
+    "exampleIt": "Cerco un piccolo lavoro.",
+    "exampleFa": "دنبال یک کار کوچک می‌گردم.",
+    "noteFa": "سرمدخل مصدر آموزشی است؛ صورت Cerco در نمونه آمده است."
+  },
+  {
+    "row": 75,
+    "word": "piccolo / piccola",
+    "meaningFa": "کوچک؛ صورت مذکر / مؤنث",
+    "locator": "کتاب درسی و تمرین: PDF 24، چاپی 24؛ تمرین ۱۲، نوشتهٔ Elizabeth Bradley؛ صورت piccola در نوشتهٔ Claudia Giammaria همین صفحه",
+    "exampleIt": "Cerco un piccolo lavoro.",
+    "exampleFa": "دنبال یک کار کوچک می‌گردم.",
+    "noteFa": "هر دو صورت در متن همین صفحه دیده می‌شوند؛ مثال با صورت مذکر است."
+  },
+  {
+    "row": 76,
+    "word": "venti",
+    "meaningFa": "بیست",
+    "locator": "کتاب درسی و تمرین: PDF 25، چاپی 25؛ بخش E inoltre، تمرین ۱، جدول اعداد، نخستین ردیف ستون چپ",
+    "exampleIt": "20 venti",
+    "exampleFa": "۲۰؛ بیست",
+    "noteFa": "نمونه ردیف عدد و صورت نوشتاری در جدول است، نه جمله؛ دو خانهٔ همان ردیف در متن خطی کنار هم آمده‌اند."
+  },
+  {
+    "row": 77,
+    "word": "trenta",
+    "meaningFa": "سی",
+    "locator": "کتاب درسی و تمرین: PDF 25، چاپی 25؛ بخش E inoltre، تمرین ۱، جدول اعداد، ستون وسط",
+    "exampleIt": "30 trenta",
+    "exampleFa": "۳۰؛ سی",
+    "noteFa": "نمونه ردیف عدد و صورت نوشتاری در جدول است، نه جمله؛ جای خالی‌های جدول تکمیل نشده‌اند."
+  },
+  {
+    "row": 78,
+    "word": "quaranta",
+    "meaningFa": "چهل",
+    "locator": "کتاب درسی و تمرین: PDF 25، چاپی 25؛ بخش E inoltre، تمرین ۱، جدول اعداد، ستون وسط",
+    "exampleIt": "40 quaranta",
+    "exampleFa": "۴۰؛ چهل",
+    "noteFa": "نمونه ردیف عدد و صورت نوشتاری در جدول است، نه جمله."
+  },
+  {
+    "row": 79,
+    "word": "cinquanta",
+    "meaningFa": "پنجاه",
+    "locator": "کتاب درسی و تمرین: PDF 25، چاپی 25؛ بخش E inoltre، تمرین ۱، جدول اعداد، ستون وسط",
+    "exampleIt": "50 cinquanta",
+    "exampleFa": "۵۰؛ پنجاه",
+    "noteFa": "نمونه ردیف عدد و صورت نوشتاری در جدول است، نه جمله."
+  },
+  {
+    "row": 80,
+    "word": "sessanta",
+    "meaningFa": "شصت",
+    "locator": "کتاب درسی و تمرین: PDF 25، چاپی 25؛ بخش E inoltre، تمرین ۱، جدول اعداد، نخستین ردیف ستون راست",
+    "exampleIt": "60 sessanta",
+    "exampleFa": "۶۰؛ شصت",
+    "noteFa": "نمونه ردیف عدد و صورت نوشتاری در جدول است، نه جمله."
+  },
+  {
+    "row": 81,
+    "word": "settanta",
+    "meaningFa": "هفتاد",
+    "locator": "کتاب درسی و تمرین: PDF 25، چاپی 25؛ بخش E inoltre، تمرین ۱، جدول اعداد، ستون راست",
+    "exampleIt": "70 settanta",
+    "exampleFa": "۷۰؛ هفتاد",
+    "noteFa": "نمونه ردیف عدد و صورت نوشتاری در جدول است، نه جمله."
+  },
+  {
+    "row": 82,
+    "word": "ottanta",
+    "meaningFa": "هشتاد",
+    "locator": "کتاب درسی و تمرین: PDF 25، چاپی 25؛ بخش E inoltre، تمرین ۱، جدول اعداد، ستون راست",
+    "exampleIt": "80 ottanta",
+    "exampleFa": "۸۰؛ هشتاد",
+    "noteFa": "نمونه ردیف عدد و صورت نوشتاری در جدول است، نه جمله."
+  },
+  {
+    "row": 83,
+    "word": "novanta",
+    "meaningFa": "نود",
+    "locator": "کتاب درسی و تمرین: PDF 25، چاپی 25؛ بخش E inoltre، تمرین ۱، جدول اعداد، ستون راست",
+    "exampleIt": "90 novanta",
+    "exampleFa": "۹۰؛ نود",
+    "noteFa": "نمونه ردیف عدد و صورت نوشتاری در جدول است، نه جمله."
+  },
+  {
+    "row": 84,
+    "word": "cento",
+    "meaningFa": "صد",
+    "locator": "کتاب درسی و تمرین: PDF 25، چاپی 25؛ بخش E inoltre، تمرین ۱، جدول اعداد، آخرین ردیف ستون راست",
+    "exampleIt": "100 cento",
+    "exampleFa": "۱۰۰؛ صد",
+    "noteFa": "نمونه ردیف عدد و صورت نوشتاری در جدول است، نه جمله."
+  },
+  {
+    "row": 85,
+    "word": "anni",
+    "meaningFa": "سال‌ها؛ برای بیان سن",
+    "locator": "کتاب درسی و تمرین: PDF 26، چاپی 26؛ بخش E inoltre، تمرین ۳، پرسش بالای تصویر",
+    "exampleIt": "Quanti anni ha il figlio di Rita?",
+    "exampleFa": "پسر ریتا چند سال دارد؟",
+    "noteFa": "این مدخل همان صورت جمعِ موجود در نقل است؛ صورت مفرد یا آرتیکلِ دیده‌نشده به متن افزوده نشده است."
+  },
+  {
+    "row": 86,
+    "word": "l’età",
+    "meaningFa": "سن",
+    "locator": "کتاب درسی و تمرین: PDF 26، چاپی 26؛ بخش E inoltre، تمرین ۴، جملهٔ دوم راهنما",
+    "exampleIt": "Questa è la tua età.",
+    "exampleFa": "این سن تو است.",
+    "noteFa": "صورت دارای آرتیکل معین سرمدخل آموزشی است؛ در نقل la tua età آمده که مؤنث‌بودن را مستقل از l’ نشان می‌دهد."
+  },
+  {
+    "row": 87,
+    "word": "indovinare",
+    "meaningFa": "حدس‌زدن",
+    "locator": "کتاب درسی و تمرین: PDF 26، چاپی 26؛ بخش E inoltre، تمرین ۴، پاسخ نمونهٔ گفت‌وگو",
+    "exampleIt": "Indovina.",
+    "exampleFa": "حدس بزن.",
+    "noteFa": "سرمدخل مصدر آموزشی است؛ صورت امری Indovina در نمونه چاپ شده است."
+  },
+  {
+    "row": 88,
+    "word": "lo straniero / la straniera",
+    "meaningFa": "خارجی؛ فرد خارجی مرد / زن",
+    "locator": "کتاب درسی و تمرین: PDF 27، چاپی 27؛ Grammatica، جدول Articoli determinativi، ردیف s + consonante",
+    "exampleIt": "lo straniero la straniera",
+    "exampleFa": "فرد خارجی مرد؛ فرد خارجی زن",
+    "noteFa": "نمونه دو خانهٔ یک ردیف جدول است، نه جمله؛ جدول، صورت مذکر و مؤنث را صریحاً جدا کرده است."
+  },
+  {
+    "row": 89,
+    "word": "a",
+    "meaningFa": "در؛ برای بیان محل با نام شهر",
+    "locator": "کتاب درسی و تمرین: PDF 27، چاپی 27؛ Grammatica، بخش Le preposizioni a e in",
+    "exampleIt": "Abito a Bologna (città).",
+    "exampleFa": "من در بولونیا زندگی می‌کنم؛ نام شهر است.",
+    "noteFa": "معنی این مدخل فقط کاربرد محل با نام شهر در همین درس است، نه همهٔ کاربردهای حرف اضافه."
+  },
+  {
+    "row": 90,
+    "word": "in",
+    "meaningFa": "در؛ برای بیان محل با نام کشور",
+    "locator": "کتاب درسی و تمرین: PDF 27، چاپی 27؛ Grammatica، بخش Le preposizioni a e in",
+    "exampleIt": "Abito in Italia (nazione).",
+    "exampleFa": "من در ایتالیا زندگی می‌کنم؛ نام کشور است.",
+    "noteFa": "معنی این مدخل فقط کاربرد محل در همین درس است، نه همهٔ کاربردهای حرف اضافه."
+  },
+  {
+    "row": 91,
+    "word": "pronto?",
+    "meaningFa": "الو؟؛ هنگام پاسخ‌دادن به تلفن",
+    "locator": "کتاب درسی و تمرین: PDF 29، چاپی 29؛ Videocorso 2، تمرین ۴، نخستین جملهٔ Federico",
+    "exampleIt": "Pronto?",
+    "exampleFa": "الو؟",
+    "noteFa": "فقط نوشتهٔ چاپ‌شده نقل شده؛ پاسخ‌های خالی Karen یا محتوای شنیده‌نشدهٔ ویدئو تکمیل نشده‌اند."
+  },
+  {
+    "row": 92,
+    "word": "telefonare",
+    "meaningFa": "تلفن‌کردن",
+    "locator": "کتاب درسی و تمرین: PDF 29، چاپی 29؛ Videocorso 2، تمرین ۴، نخستین نوبت Federico",
+    "exampleIt": "Telefono per l’annuncio...",
+    "exampleFa": "برای آگهی تلفن می‌کنم...",
+    "noteFa": "سرمدخل مصدر آموزشی است؛ صورت Telefono در متن چاپ شده و سه‌نقطه به همان شکل حفظ شده است."
+  }
+]

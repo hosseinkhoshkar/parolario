@@ -1,7 +1,8 @@
 import assert from 'node:assert/strict'
 import { test } from 'node:test'
 import type { AppState, ContentBundle, Entry, LearningCommand, SessionTask } from '../contracts/index.ts'
-import { courseBundle as bundle } from '../content/catalog.ts'
+import { lessonBundles } from '../content/catalog.ts'
+const bundle = lessonBundles[0]
 import { createInitialState, currentTask, getHomeStats, transition } from '../learning/engine.ts'
 import { migrateState, validateState } from '../storage/index.ts'
 

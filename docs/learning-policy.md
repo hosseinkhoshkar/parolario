@@ -1,6 +1,6 @@
 ﻿# قواعد یادگیری نسخهٔ۲
 
-سیاست learning-policy-v2 برای Parolario ایتالیایی با schema۵ حفظ می‌شود. [قرارداد](data-contract.md) و [دامنهٔ فعال](italian-lesson-one-plan.md) مرجع اجرا هستند.
+سیاست learning-policy-v2 برای Parolario ایتالیایی با schema۵ حفظ می‌شود. [قرارداد](data-contract.md) و [دامنهٔ فعال](italian-lesson-two-plan.md) مرجع اجرا هستند.
 
 ## صف و تمرین متناسب
 

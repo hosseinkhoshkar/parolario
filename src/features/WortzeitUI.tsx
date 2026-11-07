@@ -39,7 +39,7 @@ function GardenIllustration() {
 const number = (value: number) => value.toLocaleString('fa-IR')
 const lessonNumber = (lesson: LessonDefinition) => Number(lesson.lessonId.match(/\d+$/u)?.[0] ?? 1)
 function lessonLabel(lesson: LessonDefinition) {
-  return lessonNumber(lesson) === 1 ? 'درس اول' : lessonNumber(lesson) === 4 ? 'درس چهارم' : lessonNumber(lesson) === 5 ? 'درس پنجم' : 'درس ' + number(lessonNumber(lesson))
+  return lessonNumber(lesson) === 1 ? 'درس اول' : lessonNumber(lesson) === 2 ? 'درس دوم' : lessonNumber(lesson) === 4 ? 'درس چهارم' : lessonNumber(lesson) === 5 ? 'درس پنجم' : 'درس ' + number(lessonNumber(lesson))
 }
 function lessonEntries(bundle: ContentBundle, lessonId: string) {
   return bundle.entries.filter(entry => entry.introducedInLessonId === lessonId)

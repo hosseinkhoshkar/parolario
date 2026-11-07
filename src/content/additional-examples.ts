@@ -1191,5 +1191,1293 @@ export const additionalExamplesByEntry: Record<string, Example[]> = {
       "fa": "هم‌کلاسی تو دوست‌داشتنی است.",
       "origin": "authored"
     }
+  ],
+  "it-a1-l02-001": [
+    {
+      "exampleId": "it-a1-l02-001-additional-1",
+      "it": "Marco, come va?",
+      "fa": "مارکو، اوضاع چطور است؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-001-additional-2",
+      "it": "Ciao Elena, come va? Hai tempo per un caffè?",
+      "fa": "سلام النا، چطوری؟ برای یک قهوه وقت داری؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-002": [
+    {
+      "exampleId": "it-a1-l02-002-additional-1",
+      "it": "Giulia, ti presento mio fratello.",
+      "fa": "جولیا، تو را با برادرم آشنا می‌کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-002-additional-2",
+      "it": "Dopo il corso ti presento Luca.",
+      "fa": "پس از کلاس تو را با لوکا آشنا می‌کنم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-003": [
+    {
+      "exampleId": "it-a1-l02-003-additional-1",
+      "it": "Paolo, che lavoro fai?",
+      "fa": "پائولو، چه شغلی داری؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-003-additional-2",
+      "it": "Scusa, che lavoro fai? Sei cuoco?",
+      "fa": "ببخش، چه شغلی داری؟ آشپز هستی؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-004": [
+    {
+      "exampleId": "it-a1-l02-004-additional-1",
+      "it": "Anna, dove lavori?",
+      "fa": "آنا، کجا کار می‌کنی؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-004-additional-2",
+      "it": "Tu studi a Roma, ma dove lavori?",
+      "fa": "تو در رم درس می‌خوانی، اما کجا کار می‌کنی؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-005": [
+    {
+      "exampleId": "it-a1-l02-005-additional-1",
+      "it": "Carlo, dove abiti?",
+      "fa": "کارلو، کجا زندگی می‌کنی؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-005-additional-2",
+      "it": "Scusa, dove abiti? Vicino alla scuola?",
+      "fa": "ببخش، کجا زندگی می‌کنی؟ نزدیک مدرسه؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-006": [
+    {
+      "exampleId": "it-a1-l02-006-additional-1",
+      "it": "Ciao, sei di qui?",
+      "fa": "سلام، اهل اینجا هستی؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-006-additional-2",
+      "it": "Tu conosci bene questa città: sei di qui?",
+      "fa": "تو این شهر را خوب می‌شناسی؛ اهل اینجا هستی؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-007": [
+    {
+      "exampleId": "it-a1-l02-007-additional-1",
+      "it": "Luca, quanti anni hai?",
+      "fa": "لوکا، چند سال داری؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-007-additional-2",
+      "it": "Io ho venti anni. E tu, quanti anni hai?",
+      "fa": "من بیست سال دارم. و تو چند سال داری؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-008": [
+    {
+      "exampleId": "it-a1-l02-008-additional-1",
+      "it": "Oggi studio a casa.",
+      "fa": "امروز در خانه درس می‌خوانم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-008-additional-2",
+      "it": "Non lavoro oggi: vado al mare.",
+      "fa": "امروز کار نمی‌کنم؛ به کنار دریا می‌روم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-009": [
+    {
+      "exampleId": "it-a1-l02-009-additional-1",
+      "it": "Oggi sto proprio bene.",
+      "fa": "امروز واقعاً حالم خوب است.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-009-additional-2",
+      "it": "Questa pizza è proprio buona.",
+      "fa": "این پیتزا واقعاً خوشمزه است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-010": [
+    {
+      "exampleId": "it-a1-l02-010-additional-1",
+      "it": "Mi dispiace, oggi sto male.",
+      "fa": "متأسفم، امروز حالم بد است.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-010-additional-2",
+      "it": "Quando dormo poco, sto male.",
+      "fa": "وقتی کم می‌خوابم، حالم بد می‌شود.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-011": [
+    {
+      "exampleId": "it-a1-l02-011-additional-1",
+      "it": "Con questo insegnante imparo bene.",
+      "fa": "با این معلم خوب یاد می‌گیرم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-011-additional-2",
+      "it": "Mia sorella parla bene il francese.",
+      "fa": "خواهرم به‌خوبی فرانسوی صحبت می‌کند.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-012": [
+    {
+      "exampleId": "it-a1-l02-012-additional-1",
+      "it": "Grazie per il tuo aiuto!",
+      "fa": "ممنون بابت کمکت!",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-012-additional-2",
+      "it": "Un caffè, grazie.",
+      "fa": "یک قهوه، لطفاً؛ ممنون.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-013": [
+    {
+      "exampleId": "it-a1-l02-013-additional-1",
+      "it": "Buongiorno dottore, come sta?",
+      "fa": "صبح بخیر دکتر، حالتان چطور است؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-013-additional-2",
+      "it": "Signora Rossi, come sta? Sta bene?",
+      "fa": "خانم روسی، حالتان چطور است؟ خوب هستید؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-014": [
+    {
+      "exampleId": "it-a1-l02-014-additional-1",
+      "it": "Mi dispiace, oggi non posso venire.",
+      "fa": "متأسفم، امروز نمی‌توانم بیایم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-014-additional-2",
+      "it": "Mi dispiace per il ritardo.",
+      "fa": "بابت تأخیر متأسفم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-015": [
+    {
+      "exampleId": "it-a1-l02-015-additional-1",
+      "it": "Dopo una notte di riposo sto benissimo.",
+      "fa": "بعد از یک شب استراحت حالم عالی است.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-015-additional-2",
+      "it": "Leggi benissimo questo testo italiano.",
+      "fa": "این متن ایتالیایی را خیلی خوب می‌خوانی.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-016": [
+    {
+      "exampleId": "it-a1-l02-016-additional-1",
+      "it": "Oggi non c’è male, grazie.",
+      "fa": "امروز بد نیستم، ممنون.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-016-additional-2",
+      "it": "Come va? Non c’è male, ma ho sonno.",
+      "fa": "چطوری؟ بد نیستم، ولی خوابم می‌آید.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-017": [
+    {
+      "exampleId": "it-a1-l02-017-additional-1",
+      "it": "Voglio presentare mia sorella ai miei amici.",
+      "fa": "می‌خواهم خواهرم را به دوستانم معرفی کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-017-additional-2",
+      "it": "Posso presentare il nuovo collega?",
+      "fa": "می‌توانم همکار جدید را معرفی کنم؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-018": [
+    {
+      "exampleId": "it-a1-l02-018-additional-1",
+      "it": "Molto lieto, sono il nuovo vicino.",
+      "fa": "بسیار خوشوقتم، من همسایهٔ جدید هستم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-018-additional-2",
+      "it": "Buonasera, molto lieto di conoscerLa.",
+      "fa": "عصر بخیر، از آشنایی با شما بسیار خوشوقتم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-019": [
+    {
+      "exampleId": "it-a1-l02-019-additional-1",
+      "it": "Per stare bene, dormo otto ore.",
+      "fa": "برای اینکه حالم خوب باشد، هشت ساعت می‌خوابم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-019-additional-2",
+      "it": "Mi piace stare con la mia famiglia.",
+      "fa": "دوست دارم کنار خانواده‌ام باشم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-020": [
+    {
+      "exampleId": "it-a1-l02-020-additional-1",
+      "it": "Questo è il mio quaderno.",
+      "fa": "این دفتر من است.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-020-additional-2",
+      "it": "Questo è Paolo, il mio vicino.",
+      "fa": "این پائولو، همسایهٔ من است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-021": [
+    {
+      "exampleId": "it-a1-l02-021-additional-1",
+      "it": "Il mio amico abita vicino al parco.",
+      "fa": "دوست من نزدیک پارک زندگی می‌کند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-021-additional-2",
+      "it": "Vado al cinema con un amico.",
+      "fa": "با یک دوست به سینما می‌روم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-022": [
+    {
+      "exampleId": "it-a1-l02-022-additional-1",
+      "it": "Voglio parlare con la segretaria.",
+      "fa": "می‌خواهم با منشی صحبت کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-022-additional-2",
+      "it": "Sai parlare italiano?",
+      "fa": "می‌توانی ایتالیایی صحبت کنی؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-023": [
+    {
+      "exampleId": "it-a1-l02-023-additional-1",
+      "it": "Questo libro mi piace molto.",
+      "fa": "این کتاب را خیلی دوست دارم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-023-additional-2",
+      "it": "Luca lavora molto durante la settimana.",
+      "fa": "لوکا در طول هفته زیاد کار می‌کند.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-024": [
+    {
+      "exampleId": "it-a1-l02-024-additional-1",
+      "it": "Studio italiano in una piccola scuola.",
+      "fa": "در یک آموزشگاه کوچک، زبان ایتالیایی می‌خوانم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-024-additional-2",
+      "it": "A casa ascolto la radio in italiano.",
+      "fa": "در خانه رادیو را به زبان ایتالیایی گوش می‌کنم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-025": [
+    {
+      "exampleId": "it-a1-l02-025-additional-1",
+      "it": "Io studio, mia sorella invece lavora.",
+      "fa": "من درس می‌خوانم؛ در مقابل خواهرم کار می‌کند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-025-additional-2",
+      "it": "Non prendo il tè, invece bevo un caffè.",
+      "fa": "چای نمی‌خورم؛ در عوض یک قهوه می‌نوشم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-026": [
+    {
+      "exampleId": "it-a1-l02-026-additional-1",
+      "it": "Purtroppo il negozio è chiuso.",
+      "fa": "متأسفانه مغازه بسته است.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-026-additional-2",
+      "it": "Oggi purtroppo non ho tempo.",
+      "fa": "امروز متأسفانه وقت ندارم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-027": [
+    {
+      "exampleId": "it-a1-l02-027-additional-1",
+      "it": "Il portoghese è la lingua di Ana.",
+      "fa": "پرتغالی زبان آنا است.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-027-additional-2",
+      "it": "Ascolto una canzone in portoghese.",
+      "fa": "به یک ترانهٔ پرتغالی گوش می‌کنم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-028": [
+    {
+      "exampleId": "it-a1-l02-028-additional-1",
+      "it": "Chi lavora in questa farmacia?",
+      "fa": "چه کسی در این داروخانه کار می‌کند؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-028-additional-2",
+      "it": "Non so chi è il nuovo insegnante.",
+      "fa": "نمی‌دانم معلم جدید کیست.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-029": [
+    {
+      "exampleId": "it-a1-l02-029-additional-1",
+      "it": "Ogni lingua ha parole interessanti.",
+      "fa": "هر زبان واژه‌های جالبی دارد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-029-additional-2",
+      "it": "Quale lingua parli con i tuoi amici?",
+      "fa": "با دوستانت به چه زبانی صحبت می‌کنی؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-030": [
+    {
+      "exampleId": "it-a1-l02-030-additional-1",
+      "it": "Mio fratello studia olandese.",
+      "fa": "برادرم زبان هلندی می‌خواند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-030-additional-2",
+      "it": "Questa lettera è in olandese.",
+      "fa": "این نامه به زبان هلندی است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-031": [
+    {
+      "exampleId": "it-a1-l02-031-additional-1",
+      "it": "Al lavoro parlo inglese con i clienti.",
+      "fa": "در محل کار با مشتریان به زبان انگلیسی صحبت می‌کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-031-additional-2",
+      "it": "Il menu è anche in inglese.",
+      "fa": "منو به زبان انگلیسی هم هست.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-032": [
+    {
+      "exampleId": "it-a1-l02-032-additional-1",
+      "it": "Il mio insegnante parla russo.",
+      "fa": "معلم من روسی صحبت می‌کند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-032-additional-2",
+      "it": "Cerco un libro in russo.",
+      "fa": "دنبال کتابی به زبان روسی می‌گردم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-033": [
+    {
+      "exampleId": "it-a1-l02-033-additional-1",
+      "it": "La sera studio francese con un amico.",
+      "fa": "عصرها همراه یک دوست، زبان فرانسوی می‌خوانم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-033-additional-2",
+      "it": "Questo film è in francese.",
+      "fa": "این فیلم به زبان فرانسوی است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-034": [
+    {
+      "exampleId": "it-a1-l02-034-additional-1",
+      "it": "Marta impara il greco a scuola.",
+      "fa": "مارتا در مدرسه زبان یونانی یاد می‌گیرد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-034-additional-2",
+      "it": "Sai leggere questo nome in greco?",
+      "fa": "می‌توانی این نام را به یونانی بخوانی؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-035": [
+    {
+      "exampleId": "it-a1-l02-035-additional-1",
+      "it": "Nel mio corso impariamo lo spagnolo.",
+      "fa": "در کلاس من زبان اسپانیایی یاد می‌گیریم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-035-additional-2",
+      "it": "Con Pablo parlo sempre spagnolo.",
+      "fa": "با پابلو همیشه اسپانیایی صحبت می‌کنم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-036": [
+    {
+      "exampleId": "it-a1-l02-036-additional-1",
+      "it": "Lo svedese è una lingua nuova per me.",
+      "fa": "سوئدی برای من زبانی تازه است.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-036-additional-2",
+      "it": "Questa parola è in svedese.",
+      "fa": "این واژه به زبان سوئدی است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-037": [
+    {
+      "exampleId": "it-a1-l02-037-additional-1",
+      "it": "Studio tedesco per il mio lavoro.",
+      "fa": "برای کارم زبان آلمانی می‌خوانم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-037-additional-2",
+      "it": "Il mio vicino parla tedesco e italiano.",
+      "fa": "همسایهٔ من آلمانی و ایتالیایی صحبت می‌کند.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-038": [
+    {
+      "exampleId": "it-a1-l02-038-additional-1",
+      "it": "Sabato andiamo a una festa.",
+      "fa": "شنبه به یک مهمانی می‌رویم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-038-additional-2",
+      "it": "La festa inizia alle otto.",
+      "fa": "مهمانی ساعت هشت شروع می‌شود.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-039": [
+    {
+      "exampleId": "it-a1-l02-039-additional-1",
+      "it": "Compro un dizionario in libreria.",
+      "fa": "در کتاب‌فروشی یک فرهنگ لغت می‌خرم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-039-additional-2",
+      "it": "La libreria vicino a casa è aperta.",
+      "fa": "کتاب‌فروشی نزدیک خانه باز است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-040": [
+    {
+      "exampleId": "it-a1-l02-040-additional-1",
+      "it": "Voglio abitare vicino alla stazione.",
+      "fa": "می‌خواهم نزدیک ایستگاه زندگی کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-040-additional-2",
+      "it": "Ti piace abitare in questa città?",
+      "fa": "دوست داری در این شهر زندگی کنی؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-041": [
+    {
+      "exampleId": "it-a1-l02-041-additional-1",
+      "it": "Aspetto qui davanti alla scuola.",
+      "fa": "اینجا جلوی مدرسه منتظر می‌مانم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-041-additional-2",
+      "it": "Puoi sederti qui accanto a me.",
+      "fa": "می‌توانی اینجا کنار من بنشینی.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-042": [
+    {
+      "exampleId": "it-a1-l02-042-additional-1",
+      "it": "Domani devo lavorare in ufficio.",
+      "fa": "فردا باید در اداره کار کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-042-additional-2",
+      "it": "Mi piace lavorare con altre persone.",
+      "fa": "دوست دارم با افراد دیگر کار کنم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-043": [
+    {
+      "exampleId": "it-a1-l02-043-additional-1",
+      "it": "La scuola è vicino alla fermata.",
+      "fa": "مدرسه نزدیک ایستگاه است.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-043-additional-2",
+      "it": "Accompagno mio figlio a scuola.",
+      "fa": "پسرم را به مدرسه می‌رسانم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-044": [
+    {
+      "exampleId": "it-a1-l02-044-additional-1",
+      "it": "La segretaria risponde al telefono.",
+      "fa": "منشی به تلفن پاسخ می‌دهد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-044-additional-2",
+      "it": "Chiedo un appuntamento alla segretaria.",
+      "fa": "از منشی وقت ملاقات می‌خواهم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-045": [
+    {
+      "exampleId": "it-a1-l02-045-additional-1",
+      "it": "Oggi devo fare la spesa.",
+      "fa": "امروز باید خرید کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-045-additional-2",
+      "it": "Che cosa vuoi fare dopo il corso?",
+      "fa": "بعد از کلاس می‌خواهی چه کار کنی؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-046": [
+    {
+      "exampleId": "it-a1-l02-046-additional-1",
+      "it": "L'impiegato controlla i documenti.",
+      "fa": "کارمند مدارک را بررسی می‌کند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-046-additional-2",
+      "it": "Mio zio è impiegato in banca.",
+      "fa": "عمویم کارمند بانک است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-047": [
+    {
+      "exampleId": "it-a1-l02-047-additional-1",
+      "it": "Cerco una casa con un'agenzia.",
+      "fa": "با کمک یک آژانس دنبال خانه می‌گردم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-047-additional-2",
+      "it": "L'agenzia apre alle nove.",
+      "fa": "آژانس ساعت نه باز می‌شود.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-048": [
+    {
+      "exampleId": "it-a1-l02-048-additional-1",
+      "it": "Il fotografo lavora in uno studio.",
+      "fa": "عکاس در یک استودیو کار می‌کند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-048-additional-2",
+      "it": "Lo studio del dentista è al primo piano.",
+      "fa": "مطب دندان‌پزشک در طبقهٔ اول است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-049": [
+    {
+      "exampleId": "it-a1-l02-049-additional-1",
+      "it": "Il mio ufficio è piccolo ma luminoso.",
+      "fa": "دفتر کارم کوچک ولی روشن است.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-049-additional-2",
+      "it": "Arrivo in ufficio alle otto e mezza.",
+      "fa": "ساعت هشت‌ونیم به اداره می‌رسم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-050": [
+    {
+      "exampleId": "it-a1-l02-050-additional-1",
+      "it": "Mio padre lavora in una fabbrica.",
+      "fa": "پدرم در یک کارخانه کار می‌کند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-050-additional-2",
+      "it": "La fabbrica è fuori città.",
+      "fa": "کارخانه بیرون شهر است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-051": [
+    {
+      "exampleId": "it-a1-l02-051-additional-1",
+      "it": "Vado in farmacia per una medicina.",
+      "fa": "برای یک دارو به داروخانه می‌روم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-051-additional-2",
+      "it": "La farmacia è accanto al supermercato.",
+      "fa": "داروخانه کنار سوپرمارکت است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-052": [
+    {
+      "exampleId": "it-a1-l02-052-additional-1",
+      "it": "Questo negozio vende scarpe.",
+      "fa": "این مغازه کفش می‌فروشد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-052-additional-2",
+      "it": "Lavoro in un negozio di vestiti.",
+      "fa": "در یک فروشگاه لباس کار می‌کنم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-053": [
+    {
+      "exampleId": "it-a1-l02-053-additional-1",
+      "it": "Stasera mangiamo in un ristorante italiano.",
+      "fa": "امشب در یک رستوران ایتالیایی غذا می‌خوریم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-053-additional-2",
+      "it": "Il ristorante chiude alle undici.",
+      "fa": "رستوران ساعت یازده بسته می‌شود.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-054": [
+    {
+      "exampleId": "it-a1-l02-054-additional-1",
+      "it": "Parlo con un avvocato dei miei documenti.",
+      "fa": "دربارهٔ مدارکم با یک وکیل صحبت می‌کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-054-additional-2",
+      "it": "L'avvocato ha un appuntamento alle dieci.",
+      "fa": "وکیل ساعت ده یک قرار دارد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-055": [
+    {
+      "exampleId": "it-a1-l02-055-additional-1",
+      "it": "Il giornalista scrive un articolo.",
+      "fa": "روزنامه‌نگار یک مقاله می‌نویسد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-055-additional-2",
+      "it": "Un giornalista fa domande al sindaco.",
+      "fa": "یک روزنامه‌نگار از شهردار سؤال می‌کند.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-056": [
+    {
+      "exampleId": "it-a1-l02-056-additional-1",
+      "it": "Il farmacista mi spiega come prendere la medicina.",
+      "fa": "داروساز برایم توضیح می‌دهد چطور دارو را مصرف کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-056-additional-2",
+      "it": "Chiedo un consiglio al farmacista.",
+      "fa": "از داروساز راهنمایی می‌خواهم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-057": [
+    {
+      "exampleId": "it-a1-l02-057-additional-1",
+      "it": "Il commesso aiuta una cliente.",
+      "fa": "فروشنده به یک مشتری کمک می‌کند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-057-additional-2",
+      "it": "Chiedo il prezzo al commesso.",
+      "fa": "قیمت را از فروشنده می‌پرسم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-058": [
+    {
+      "exampleId": "it-a1-l02-058-additional-1",
+      "it": "Un infermiere lavora di notte in ospedale.",
+      "fa": "یک پرستار شب‌ها در بیمارستان کار می‌کند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-058-additional-2",
+      "it": "L'infermiere porta una coperta al paziente.",
+      "fa": "پرستار برای بیمار یک پتو می‌آورد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-059": [
+    {
+      "exampleId": "it-a1-l02-059-additional-1",
+      "it": "Un operaio entra in fabbrica alle sette.",
+      "fa": "یک کارگر ساعت هفت وارد کارخانه می‌شود.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-059-additional-2",
+      "it": "L'operaio indossa un casco giallo.",
+      "fa": "کارگر یک کلاه ایمنی زرد به سر دارد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-060": [
+    {
+      "exampleId": "it-a1-l02-060-additional-1",
+      "it": "Il cuoco prepara una zuppa calda.",
+      "fa": "آشپز یک سوپ گرم آماده می‌کند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-060-additional-2",
+      "it": "Mio fratello fa il cuoco in un albergo.",
+      "fa": "برادرم در یک هتل آشپزی می‌کند.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-061": [
+    {
+      "exampleId": "it-a1-l02-061-additional-1",
+      "it": "Devo parlare con il medico.",
+      "fa": "باید با پزشک صحبت کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-061-additional-2",
+      "it": "Il medico lavora in questo ospedale.",
+      "fa": "پزشک در این بیمارستان کار می‌کند.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-062": [
+    {
+      "exampleId": "it-a1-l02-062-additional-1",
+      "it": "L'ospedale si trova vicino alla stazione.",
+      "fa": "بیمارستان نزدیک ایستگاه قرار دارد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-062-additional-2",
+      "it": "Mia zia lavora in un ospedale.",
+      "fa": "خاله‌ام در یک بیمارستان کار می‌کند.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-063": [
+    {
+      "exampleId": "it-a1-l02-063-additional-1",
+      "it": "Cerco un lavoro vicino a casa.",
+      "fa": "دنبال یک کار نزدیک خانه می‌گردم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-063-additional-2",
+      "it": "Il mio lavoro comincia alle otto.",
+      "fa": "کار من ساعت هشت شروع می‌شود.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-064": [
+    {
+      "exampleId": "it-a1-l02-064-additional-1",
+      "it": "Lo studente legge un testo breve.",
+      "fa": "دانشجو یک متن کوتاه می‌خواند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-064-additional-2",
+      "it": "Sono uno studente di italiano e abito a Torino.",
+      "fa": "من زبان‌آموزِ زبان ایتالیایی هستم و در تورین زندگی می‌کنم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-065": [
+    {
+      "exampleId": "it-a1-l02-065-additional-1",
+      "it": "La camera ha una finestra grande.",
+      "fa": "اتاق یک پنجرهٔ بزرگ دارد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-065-additional-2",
+      "it": "Cerco una camera per due notti.",
+      "fa": "برای دو شب دنبال یک اتاق می‌گردم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-066": [
+    {
+      "exampleId": "it-a1-l02-066-additional-1",
+      "it": "La mia famiglia abita in una casa grande.",
+      "fa": "خانوادهٔ من در یک خانهٔ بزرگ زندگی می‌کند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-066-additional-2",
+      "it": "Domenica pranzo con la famiglia.",
+      "fa": "یکشنبه با خانواده ناهار می‌خورم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-067": [
+    {
+      "exampleId": "it-a1-l02-067-additional-1",
+      "it": "Durante la pausa facciamo conversazione in italiano.",
+      "fa": "در زمان استراحت به ایتالیایی گفت‌وگو می‌کنیم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-067-additional-2",
+      "it": "Questa conversazione mi aiuta a imparare parole nuove.",
+      "fa": "این گفت‌وگو به من کمک می‌کند واژه‌های تازه یاد بگیرم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-068": [
+    {
+      "exampleId": "it-a1-l02-068-additional-1",
+      "it": "La stanza di mia sorella è al piano di sopra.",
+      "fa": "اتاق خواهرم در طبقهٔ بالا است.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-068-additional-2",
+      "it": "In questa stanza ci sono due letti.",
+      "fa": "در این اتاق دو تخت وجود دارد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-069": [
+    {
+      "exampleId": "it-a1-l02-069-additional-1",
+      "it": "Questa camera è libera da domani.",
+      "fa": "این اتاق از فردا خالی است.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-069-additional-2",
+      "it": "La sedia vicino alla finestra è libera.",
+      "fa": "صندلی کنار پنجره خالی است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-070": [
+    {
+      "exampleId": "it-a1-l02-070-additional-1",
+      "it": "È normale avere bisogno di aiuto.",
+      "fa": "طبیعی است که به کمک نیاز داشته باشی.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-070-additional-2",
+      "it": "Anche tu puoi avere bisogno di una pausa.",
+      "fa": "تو هم ممکن است به استراحت نیاز داشته باشی.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-071": [
+    {
+      "exampleId": "it-a1-l02-071-additional-1",
+      "it": "Il figlio di Marco ha cinque anni.",
+      "fa": "پسر مارکو پنج سال دارد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-071-additional-2",
+      "it": "Mio figlio frequenta questa scuola.",
+      "fa": "پسرم به این مدرسه می‌رود.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-072": [
+    {
+      "exampleId": "it-a1-l02-072-additional-1",
+      "it": "La nostra insegnante parla lentamente.",
+      "fa": "معلم ما آهسته صحبت می‌کند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-072-additional-2",
+      "it": "Un'insegnante ci aiuta con gli esercizi.",
+      "fa": "یک معلم زن در تمرین‌ها به ما کمک می‌کند.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-073": [
+    {
+      "exampleId": "it-a1-l02-073-additional-1",
+      "it": "Voglio studiare medicina a Bologna.",
+      "fa": "می‌خواهم در بولونیا پزشکی بخوانم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-073-additional-2",
+      "it": "Per studiare bene ho bisogno di silenzio.",
+      "fa": "برای خوب درس‌خواندن به سکوت نیاز دارم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-074": [
+    {
+      "exampleId": "it-a1-l02-074-additional-1",
+      "it": "Devo cercare le chiavi nella borsa.",
+      "fa": "باید در کیف دنبال کلیدها بگردم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-074-additional-2",
+      "it": "Puoi cercare l'indirizzo sulla mappa.",
+      "fa": "می‌توانی نشانی را روی نقشه جست‌وجو کنی.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-075": [
+    {
+      "exampleId": "it-a1-l02-075-additional-1",
+      "it": "Abito in un piccolo appartamento.",
+      "fa": "در یک آپارتمان کوچک زندگی می‌کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-075-additional-2",
+      "it": "Questo negozio è piccolo ma molto bello.",
+      "fa": "این مغازه کوچک ولی خیلی زیبا است.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-076": [
+    {
+      "exampleId": "it-a1-l02-076-additional-1",
+      "it": "Mia sorella ha venti anni.",
+      "fa": "خواهرم بیست سال دارد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-076-additional-2",
+      "it": "Il corso costa venti euro.",
+      "fa": "کلاس بیست یورو هزینه دارد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-077": [
+    {
+      "exampleId": "it-a1-l02-077-additional-1",
+      "it": "Il treno parte tra trenta minuti.",
+      "fa": "قطار سی دقیقهٔ دیگر حرکت می‌کند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-077-additional-2",
+      "it": "Mio fratello ha trenta anni.",
+      "fa": "برادرم سی سال دارد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-078": [
+    {
+      "exampleId": "it-a1-l02-078-additional-1",
+      "it": "In questo corso ci sono quaranta studenti.",
+      "fa": "در این دوره چهل دانشجو هست.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-078-additional-2",
+      "it": "Il biglietto costa quaranta euro.",
+      "fa": "بلیط چهل یورو قیمت دارد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-079": [
+    {
+      "exampleId": "it-a1-l02-079-additional-1",
+      "it": "Mio zio ha cinquanta anni.",
+      "fa": "عمویم پنجاه سال دارد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-079-additional-2",
+      "it": "Ho cinquanta euro nel portafoglio.",
+      "fa": "پنجاه یورو در کیف پولم دارم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-080": [
+    {
+      "exampleId": "it-a1-l02-080-additional-1",
+      "it": "Un'ora ha sessanta minuti.",
+      "fa": "یک ساعت شصت دقیقه دارد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-080-additional-2",
+      "it": "La nonna festeggia sessanta anni di matrimonio.",
+      "fa": "مادربزرگ شصت سال زندگی مشترک را جشن می‌گیرد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-081": [
+    {
+      "exampleId": "it-a1-l02-081-additional-1",
+      "it": "Questo libro ha settanta pagine.",
+      "fa": "این کتاب هفتاد صفحه دارد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-081-additional-2",
+      "it": "La giacca costa settanta euro.",
+      "fa": "کت هفتاد یورو قیمت دارد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-082": [
+    {
+      "exampleId": "it-a1-l02-082-additional-1",
+      "it": "Mio nonno ha ottanta anni.",
+      "fa": "پدربزرگم هشتاد سال دارد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-082-additional-2",
+      "it": "Il viaggio dura ottanta minuti.",
+      "fa": "سفر هشتاد دقیقه طول می‌کشد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-083": [
+    {
+      "exampleId": "it-a1-l02-083-additional-1",
+      "it": "La partita dura novanta minuti.",
+      "fa": "بازی نود دقیقه طول می‌کشد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-083-additional-2",
+      "it": "Questo tavolo costa novanta euro.",
+      "fa": "این میز نود یورو قیمت دارد.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-084": [
+    {
+      "exampleId": "it-a1-l02-084-additional-1",
+      "it": "La scuola ha cento studenti.",
+      "fa": "مدرسه صد دانش‌آموز دارد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-084-additional-2",
+      "it": "Risparmio cento euro per il viaggio.",
+      "fa": "برای سفر صد یورو پس‌انداز می‌کنم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-085": [
+    {
+      "exampleId": "it-a1-l02-085-additional-1",
+      "it": "Lavoro qui da tre anni.",
+      "fa": "سه سال است اینجا کار می‌کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-085-additional-2",
+      "it": "Quanti anni ha tua sorella?",
+      "fa": "خواهرت چند سال دارد؟",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-086": [
+    {
+      "exampleId": "it-a1-l02-086-additional-1",
+      "it": "Non conosco la tua età.",
+      "fa": "سن تو را نمی‌دانم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-086-additional-2",
+      "it": "Abbiamo la stessa età.",
+      "fa": "ما هم‌سن هستیم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-087": [
+    {
+      "exampleId": "it-a1-l02-087-additional-1",
+      "it": "Puoi indovinare la mia età?",
+      "fa": "می‌توانی سن مرا حدس بزنی؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-087-additional-2",
+      "it": "Provo a indovinare il numero.",
+      "fa": "سعی می‌کنم عدد را حدس بزنم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-088": [
+    {
+      "exampleId": "it-a1-l02-088-additional-1",
+      "it": "Lo straniero chiede un'informazione.",
+      "fa": "آن مرد خارجی یک راهنمایی می‌خواهد.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-088-additional-2",
+      "it": "Aiuto uno straniero a trovare la stazione.",
+      "fa": "به یک مرد خارجی کمک می‌کنم ایستگاه را پیدا کند.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-089": [
+    {
+      "exampleId": "it-a1-l02-089-additional-1",
+      "it": "Mia sorella abita a Milano.",
+      "fa": "خواهرم در میلان زندگی می‌کند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-089-additional-2",
+      "it": "Domani vado a Roma.",
+      "fa": "فردا به رم می‌روم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-090": [
+    {
+      "exampleId": "it-a1-l02-090-additional-1",
+      "it": "Luca vive in Italia.",
+      "fa": "لوکا در ایتالیا زندگی می‌کند.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-090-additional-2",
+      "it": "La mia famiglia abita in Francia.",
+      "fa": "خانواده‌ام در فرانسه زندگی می‌کند.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-091": [
+    {
+      "exampleId": "it-a1-l02-091-additional-1",
+      "it": "Pronto? Chi parla?",
+      "fa": "الو؟ چه کسی صحبت می‌کند؟",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-091-additional-2",
+      "it": "Pronto? Sono Anna, cerco Paolo.",
+      "fa": "الو؟ من آنا هستم، با پائولو کار دارم.",
+      "origin": "authored"
+    }
+  ],
+  "it-a1-l02-092": [
+    {
+      "exampleId": "it-a1-l02-092-additional-1",
+      "it": "Devo telefonare alla scuola.",
+      "fa": "باید به آموزشگاه تلفن کنم.",
+      "origin": "authored"
+    },
+    {
+      "exampleId": "it-a1-l02-092-additional-2",
+      "it": "Posso telefonare a mia madre dopo il lavoro.",
+      "fa": "می‌توانم بعد از کار به مادرم تلفن کنم.",
+      "origin": "authored"
+    }
   ]
 }

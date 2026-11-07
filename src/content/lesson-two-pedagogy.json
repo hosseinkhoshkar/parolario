@@ -1,0 +1,2246 @@
+[
+  {
+    "sourceRow": 1,
+    "entryId": "it-a1-l02-001",
+    "lemma": "come va?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش کوتاهِ دوواژه‌ای دربارهٔ اوضاع و حال را با علامت سؤال بنویس؛ خطاب رسمیِ صرف‌شده منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "come va?"
+    ],
+    "cloze": {
+      "sentence": "Marco, ___",
+      "translationFa": "مارکو، اوضاع چطور است؟",
+      "acceptedAnswers": [
+        "come va?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش کوتاهِ دوواژه‌ای دربارهٔ اوضاع و حال را با علامت سؤال بنویس؛ خطاب رسمیِ صرف‌شده منظور نیست."
+    },
+    "sourceOrder": 1
+  },
+  {
+    "sourceRow": 2,
+    "entryId": "it-a1-l02-002",
+    "lemma": "ti presento",
+    "partOfSpeech": "phrase",
+    "cueFa": "عبارت خودمانیِ «تو را آشنا می‌کنم» را با ضمیر و فعل اول‌شخص بنویس؛ نام شخص را اضافه نکن.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "ti presento"
+    ],
+    "cloze": {
+      "sentence": "Giulia, ___ mio fratello.",
+      "translationFa": "جولیا، تو را با برادرم آشنا می‌کنم.",
+      "acceptedAnswers": [
+        "ti presento"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت خودمانیِ «تو را آشنا می‌کنم» را با ضمیر و فعل اول‌شخص بنویس؛ نام شخص را اضافه نکن."
+    },
+    "sourceOrder": 2
+  },
+  {
+    "sourceRow": 3,
+    "entryId": "it-a1-l02-003",
+    "lemma": "che lavoro fai?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش کاملِ شغل را برای مخاطب خودمانی بنویس؛ عبارت سه‌واژه‌ای با علامت سؤال.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "che lavoro fai?"
+    ],
+    "cloze": {
+      "sentence": "Paolo, ___",
+      "translationFa": "پائولو، چه شغلی داری؟",
+      "acceptedAnswers": [
+        "che lavoro fai?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش کاملِ شغل را برای مخاطب خودمانی بنویس؛ عبارت سه‌واژه‌ای با علامت سؤال."
+    },
+    "sourceOrder": 3
+  },
+  {
+    "sourceRow": 4,
+    "entryId": "it-a1-l02-004",
+    "lemma": "dove lavori?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش دوواژه‌ایِ محل کار را با خطاب خودمانی و علامت سؤال بنویس؛ محل زندگی منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "dove lavori?"
+    ],
+    "cloze": {
+      "sentence": "Anna, ___",
+      "translationFa": "آنا، کجا کار می‌کنی؟",
+      "acceptedAnswers": [
+        "dove lavori?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش دوواژه‌ایِ محل کار را با خطاب خودمانی و علامت سؤال بنویس؛ محل زندگی منظور نیست."
+    },
+    "sourceOrder": 4
+  },
+  {
+    "sourceRow": 5,
+    "entryId": "it-a1-l02-005",
+    "lemma": "dove abiti?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش دوواژه‌ایِ محل زندگی را با خطاب خودمانی و علامت سؤال بنویس؛ محل کار منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "dove abiti?"
+    ],
+    "cloze": {
+      "sentence": "Carlo, ___",
+      "translationFa": "کارلو، کجا زندگی می‌کنی؟",
+      "acceptedAnswers": [
+        "dove abiti?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش دوواژه‌ایِ محل زندگی را با خطاب خودمانی و علامت سؤال بنویس؛ محل کار منظور نیست."
+    },
+    "sourceOrder": 5
+  },
+  {
+    "sourceRow": 6,
+    "entryId": "it-a1-l02-006",
+    "lemma": "sei di qui?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش سه‌واژه‌ایِ «اهل اینجا هستی؟» را برای مخاطب خودمانی و با علامت سؤال بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "sei di qui?"
+    ],
+    "cloze": {
+      "sentence": "Ciao, ___",
+      "translationFa": "سلام، اهل اینجا هستی؟",
+      "acceptedAnswers": [
+        "sei di qui?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش سه‌واژه‌ایِ «اهل اینجا هستی؟» را برای مخاطب خودمانی و با علامت سؤال بنویس."
+    },
+    "sourceOrder": 6
+  },
+  {
+    "sourceRow": 7,
+    "entryId": "it-a1-l02-007",
+    "lemma": "quanti anni hai?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش کاملِ سن را با خطاب خودمانی و علامت سؤال بنویس؛ ضمیر مستقل لازم نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "quanti anni hai?"
+    ],
+    "cloze": {
+      "sentence": "Luca, ___",
+      "translationFa": "لوکا، چند سال داری؟",
+      "acceptedAnswers": [
+        "quanti anni hai?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش کاملِ سن را با خطاب خودمانی و علامت سؤال بنویس؛ ضمیر مستقل لازم نیست."
+    },
+    "sourceOrder": 7
+  },
+  {
+    "sourceRow": 8,
+    "entryId": "it-a1-l02-008",
+    "lemma": "oggi",
+    "partOfSpeech": "adverb",
+    "cueFa": "قیدِ روز جاری، یعنی امروز، را بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "oggi"
+    ],
+    "cloze": {
+      "sentence": "___ studio a casa.",
+      "translationFa": "امروز در خانه درس می‌خوانم.",
+      "acceptedAnswers": [
+        "Oggi"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "قیدِ روز جاری، یعنی امروز، را بنویس."
+    },
+    "sourceOrder": 8
+  },
+  {
+    "sourceRow": 9,
+    "entryId": "it-a1-l02-009",
+    "lemma": "proprio",
+    "partOfSpeech": "adverb",
+    "cueFa": "قید تأکیدِ همین درس برای «واقعاً» را بنویس؛ در این کاربرد به حالت شخص تأکید می‌دهد.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "proprio"
+    ],
+    "cloze": {
+      "sentence": "Oggi sto ___ bene.",
+      "translationFa": "امروز واقعاً حالم خوب است.",
+      "acceptedAnswers": [
+        "proprio"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "قید تأکیدِ همین درس برای «واقعاً» را بنویس؛ در این کاربرد به حالت شخص تأکید می‌دهد."
+    },
+    "sourceOrder": 9
+  },
+  {
+    "sourceRow": 10,
+    "entryId": "it-a1-l02-010",
+    "lemma": "male",
+    "partOfSpeech": "adverb",
+    "cueFa": "قیدِ «بد» برای بیان حال را بنویس؛ عبارت کاملِ «بد نیست» منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "male"
+    ],
+    "cloze": {
+      "sentence": "Mi dispiace, oggi sto ___.",
+      "translationFa": "متأسفم، امروز حالم بد است.",
+      "acceptedAnswers": [
+        "male"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "قیدِ «بد» برای بیان حال را بنویس؛ عبارت کاملِ «بد نیست» منظور نیست."
+    },
+    "sourceOrder": 10
+  },
+  {
+    "sourceRow": 11,
+    "entryId": "it-a1-l02-011",
+    "lemma": "bene",
+    "partOfSpeech": "adverb",
+    "cueFa": "قید سادهٔ «خوب؛ به‌خوبی» را بنویس؛ صورتِ شدیدترِ «عالی» منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "bene"
+    ],
+    "cloze": {
+      "sentence": "Con questo insegnante imparo ___.",
+      "translationFa": "با این معلم خوب یاد می‌گیرم.",
+      "acceptedAnswers": [
+        "bene"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "قید سادهٔ «خوب؛ به‌خوبی» را بنویس؛ صورتِ شدیدترِ «عالی» منظور نیست."
+    },
+    "sourceOrder": 11
+  },
+  {
+    "sourceRow": 12,
+    "entryId": "it-a1-l02-012",
+    "lemma": "grazie",
+    "partOfSpeech": "phrase",
+    "cueFa": "واژهٔ کوتاهِ تشکر را بدون علامت پایان بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "grazie"
+    ],
+    "cloze": {
+      "sentence": "___ per il tuo aiuto!",
+      "translationFa": "ممنون بابت کمکت!",
+      "acceptedAnswers": [
+        "Grazie"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "واژهٔ کوتاهِ تشکر را بدون علامت پایان بنویس."
+    },
+    "sourceOrder": 12
+  },
+  {
+    "sourceRow": 13,
+    "entryId": "it-a1-l02-013",
+    "lemma": "come sta?",
+    "partOfSpeech": "phrase",
+    "cueFa": "پرسش حالِ مخاطب محترمانه را در دو واژه و با علامت سؤال بنویس؛ صورت خودمانی منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "come sta?"
+    ],
+    "cloze": {
+      "sentence": "Buongiorno dottore, ___",
+      "translationFa": "صبح بخیر دکتر، حالتان چطور است؟",
+      "acceptedAnswers": [
+        "come sta?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "پرسش حالِ مخاطب محترمانه را در دو واژه و با علامت سؤال بنویس؛ صورت خودمانی منظور نیست."
+    },
+    "sourceOrder": 13
+  },
+  {
+    "sourceRow": 14,
+    "entryId": "it-a1-l02-014",
+    "lemma": "mi dispiace",
+    "partOfSpeech": "phrase",
+    "cueFa": "عبارت دوواژه‌ایِ «متأسفم» را برای ابراز ناراحتی بنویس؛ قیدِ «متأسفانه» منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "mi dispiace"
+    ],
+    "cloze": {
+      "sentence": "___, oggi non posso venire.",
+      "translationFa": "متأسفم، امروز نمی‌توانم بیایم.",
+      "acceptedAnswers": [
+        "Mi dispiace"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت دوواژه‌ایِ «متأسفم» را برای ابراز ناراحتی بنویس؛ قیدِ «متأسفانه» منظور نیست."
+    },
+    "sourceOrder": 14
+  },
+  {
+    "sourceRow": 15,
+    "entryId": "it-a1-l02-015",
+    "lemma": "benissimo",
+    "partOfSpeech": "adverb",
+    "cueFa": "قیدِ قوی‌ترِ «خیلی خوب؛ عالی» را به شکل تک‌واژه‌ای بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "benissimo"
+    ],
+    "cloze": {
+      "sentence": "Dopo una notte di riposo sto ___.",
+      "translationFa": "بعد از یک شب استراحت حالم عالی است.",
+      "acceptedAnswers": [
+        "benissimo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "قیدِ قوی‌ترِ «خیلی خوب؛ عالی» را به شکل تک‌واژه‌ای بنویس."
+    },
+    "sourceOrder": 15
+  },
+  {
+    "sourceRow": 16,
+    "entryId": "it-a1-l02-016",
+    "lemma": "non c’è male",
+    "partOfSpeech": "phrase",
+    "cueFa": "عبارت کاملِ «بد نیست» برای بیان حال را بنویس؛ منفی‌ساز، آپاستروف و اکسان را حفظ کن.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "non c’è male",
+      "non c'è male"
+    ],
+    "cloze": {
+      "sentence": "Oggi ___, grazie.",
+      "translationFa": "امروز بد نیستم، ممنون.",
+      "acceptedAnswers": [
+        "non c’è male",
+        "non c'è male"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت کاملِ «بد نیست» برای بیان حال را بنویس؛ منفی‌ساز، آپاستروف و اکسان را حفظ کن."
+    },
+    "sourceOrder": 16
+  },
+  {
+    "sourceRow": 17,
+    "entryId": "it-a1-l02-017",
+    "lemma": "presentare",
+    "partOfSpeech": "verb",
+    "cueFa": "فعل معرفی‌کردن افراد به یکدیگر را در حالت مصدر کامل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "presentare"
+    ],
+    "cloze": {
+      "sentence": "Voglio ___ mia sorella ai miei amici.",
+      "translationFa": "می‌خواهم خواهرم را به دوستانم معرفی کنم.",
+      "acceptedAnswers": [
+        "presentare"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فعل معرفی‌کردن افراد به یکدیگر را در حالت مصدر کامل بنویس."
+    },
+    "sourceOrder": 17
+  },
+  {
+    "sourceRow": 18,
+    "entryId": "it-a1-l02-018",
+    "lemma": "molto lieto",
+    "partOfSpeech": "phrase",
+    "cueFa": "عبارت دوواژه‌ایِ خوشوقتی را با صورتِ گفتهٔ مرد، بدون علامت پایان بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "molto lieto"
+    ],
+    "cloze": {
+      "sentence": "___, sono il nuovo vicino.",
+      "translationFa": "بسیار خوشوقتم، من همسایهٔ جدید هستم.",
+      "acceptedAnswers": [
+        "Molto lieto"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عبارت دوواژه‌ایِ خوشوقتی را با صورتِ گفتهٔ مرد، بدون علامت پایان بنویس."
+    },
+    "sourceOrder": 18
+  },
+  {
+    "sourceRow": 19,
+    "entryId": "it-a1-l02-019",
+    "lemma": "stare",
+    "partOfSpeech": "verb",
+    "cueFa": "فعلِ بیان حال یا وضعیت را در حالت مصدر بنویس؛ فعل عمومیِ «بودن» منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "stare"
+    ],
+    "cloze": {
+      "sentence": "Per ___ bene, dormo otto ore.",
+      "translationFa": "برای اینکه حالم خوب باشد، هشت ساعت می‌خوابم.",
+      "acceptedAnswers": [
+        "stare"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فعلِ بیان حال یا وضعیت را در حالت مصدر بنویس؛ فعل عمومیِ «بودن» منظور نیست."
+    },
+    "sourceOrder": 19
+  },
+  {
+    "sourceRow": 20,
+    "entryId": "it-a1-l02-020",
+    "lemma": "questo",
+    "partOfSpeech": "pronoun",
+    "cueFa": "اشارهٔ نزدیکِ «این» را به صورت مذکر مفرد بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "questo"
+    ],
+    "cloze": {
+      "sentence": "___ è il mio quaderno.",
+      "translationFa": "این دفتر من است.",
+      "acceptedAnswers": [
+        "Questo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اشارهٔ نزدیکِ «این» را به صورت مذکر مفرد بنویس."
+    },
+    "sourceOrder": 20
+  },
+  {
+    "sourceRow": 21,
+    "entryId": "it-a1-l02-021",
+    "lemma": "amico",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ دوست را به صورت نخستِ مذکر مفرد و بدون آرتیکل بنویس؛ صورت زنانه منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "amico"
+    ],
+    "cloze": {
+      "sentence": "Il mio ___ abita vicino al parco.",
+      "translationFa": "دوست من نزدیک پارک زندگی می‌کند.",
+      "acceptedAnswers": [
+        "amico"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ دوست را به صورت نخستِ مذکر مفرد و بدون آرتیکل بنویس؛ صورت زنانه منظور نیست."
+    },
+    "sourceOrder": 21,
+    "nounData": {
+      "article": "l'",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است. جنسِ این صورت با ستون جنس یا un/una/un’ در متن/جدول مرجع، مستقل از آرتیکل کوتاه‌شده تأیید می‌شود."
+    }
+  },
+  {
+    "sourceRow": 22,
+    "entryId": "it-a1-l02-022",
+    "lemma": "parlare",
+    "partOfSpeech": "verb",
+    "cueFa": "فعلِ صحبت‌کردن را در حالت مصدر کامل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "parlare"
+    ],
+    "cloze": {
+      "sentence": "Voglio ___ con la segretaria.",
+      "translationFa": "می‌خواهم با منشی صحبت کنم.",
+      "acceptedAnswers": [
+        "parlare"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فعلِ صحبت‌کردن را در حالت مصدر کامل بنویس."
+    },
+    "sourceOrder": 22
+  },
+  {
+    "sourceRow": 23,
+    "entryId": "it-a1-l02-023",
+    "lemma": "molto",
+    "partOfSpeech": "adverb",
+    "cueFa": "قیدِ مقدار یا شدتِ «خیلی؛ بسیار» را به شکل پایه بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "molto"
+    ],
+    "cloze": {
+      "sentence": "Questo libro mi piace ___.",
+      "translationFa": "این کتاب را خیلی دوست دارم.",
+      "acceptedAnswers": [
+        "molto"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "قیدِ مقدار یا شدتِ «خیلی؛ بسیار» را به شکل پایه بنویس."
+    },
+    "sourceOrder": 23
+  },
+  {
+    "sourceRow": 24,
+    "entryId": "it-a1-l02-024",
+    "lemma": "italiano",
+    "partOfSpeech": "noun",
+    "cueFa": "نام زبان ایتالیایی را بدون آرتیکل بنویس؛ صفت ملیت یا صورت زنانه منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "italiano"
+    ],
+    "cloze": {
+      "sentence": "Studio ___ in una piccola scuola.",
+      "translationFa": "در یک آموزشگاه کوچک، زبان ایتالیایی می‌خوانم.",
+      "acceptedAnswers": [
+        "italiano"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام زبان ایتالیایی را بدون آرتیکل بنویس؛ صفت ملیت یا صورت زنانه منظور نیست."
+    },
+    "sourceOrder": 24,
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "آرتیکلِ قابل تمرین و جنس مستقل در گزیدهٔ مرجع تأیید نشده‌اند؛ صورت جمع حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 25,
+    "entryId": "it-a1-l02-025",
+    "lemma": "invece",
+    "partOfSpeech": "adverb",
+    "cueFa": "واژهٔ پیونددهندهٔ «در مقابل؛ اما» را برای مقایسهٔ دو وضعیت بنویس؛ منفی‌ساز منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "invece"
+    ],
+    "cloze": {
+      "sentence": "Io studio, mia sorella ___ lavora.",
+      "translationFa": "من درس می‌خوانم؛ در مقابل خواهرم کار می‌کند.",
+      "acceptedAnswers": [
+        "invece"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "واژهٔ پیونددهندهٔ «در مقابل؛ اما» را برای مقایسهٔ دو وضعیت بنویس؛ منفی‌ساز منظور نیست."
+    },
+    "sourceOrder": 25
+  },
+  {
+    "sourceRow": 26,
+    "entryId": "it-a1-l02-026",
+    "lemma": "purtroppo",
+    "partOfSpeech": "adverb",
+    "cueFa": "قیدِ تک‌واژه‌ایِ «متأسفانه» را بنویس؛ عبارت «متأسفم» منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "purtroppo"
+    ],
+    "cloze": {
+      "sentence": "___ il negozio è chiuso.",
+      "translationFa": "متأسفانه مغازه بسته است.",
+      "acceptedAnswers": [
+        "Purtroppo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "قیدِ تک‌واژه‌ایِ «متأسفانه» را بنویس؛ عبارت «متأسفم» منظور نیست."
+    },
+    "sourceOrder": 26
+  },
+  {
+    "sourceRow": 27,
+    "entryId": "it-a1-l02-027",
+    "lemma": "portoghese",
+    "partOfSpeech": "noun",
+    "cueFa": "نام زبان پرتغالی را بدون آرتیکل بنویس؛ صفت ملیتِ شخص منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "portoghese"
+    ],
+    "cloze": {
+      "sentence": "Il ___ è la lingua di Ana.",
+      "translationFa": "پرتغالی زبان آنا است.",
+      "acceptedAnswers": [
+        "portoghese"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام زبان پرتغالی را بدون آرتیکل بنویس؛ صفت ملیتِ شخص منظور نیست."
+    },
+    "sourceOrder": 27,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 28,
+    "entryId": "it-a1-l02-028",
+    "lemma": "chi",
+    "partOfSpeech": "pronoun",
+    "cueFa": "واژهٔ پرسشیِ «چه کسی» را بدون علامت سؤال بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "chi"
+    ],
+    "cloze": {
+      "sentence": "___ lavora in questa farmacia?",
+      "translationFa": "چه کسی در این داروخانه کار می‌کند؟",
+      "acceptedAnswers": [
+        "Chi"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "واژهٔ پرسشیِ «چه کسی» را بدون علامت سؤال بنویس."
+    },
+    "sourceOrder": 28
+  },
+  {
+    "sourceRow": 29,
+    "entryId": "it-a1-l02-029",
+    "lemma": "lingua",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ عمومیِ زبان را به صورت مفرد و بدون آرتیکل بنویس؛ نام یک زبان خاص منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "lingua"
+    ],
+    "cloze": {
+      "sentence": "Ogni ___ ha parole interessanti.",
+      "translationFa": "هر زبان واژه‌های جالبی دارد.",
+      "acceptedAnswers": [
+        "lingua"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ عمومیِ زبان را به صورت مفرد و بدون آرتیکل بنویس؛ نام یک زبان خاص منظور نیست."
+    },
+    "sourceOrder": 29,
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "آرتیکلِ قابل تمرین و جنس مستقل در گزیدهٔ مرجع تأیید نشده‌اند؛ صورت جمع حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 30,
+    "entryId": "it-a1-l02-030",
+    "lemma": "olandese",
+    "partOfSpeech": "noun",
+    "cueFa": "نام زبان هلندی را بدون آرتیکل بنویس؛ نام کشور منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "olandese"
+    ],
+    "cloze": {
+      "sentence": "Mio fratello studia ___.",
+      "translationFa": "برادرم زبان هلندی می‌خواند.",
+      "acceptedAnswers": [
+        "olandese"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام زبان هلندی را بدون آرتیکل بنویس؛ نام کشور منظور نیست."
+    },
+    "sourceOrder": 30,
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "آرتیکلِ قابل تمرین و جنس مستقل در گزیدهٔ مرجع تأیید نشده‌اند؛ صورت جمع حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 31,
+    "entryId": "it-a1-l02-031",
+    "lemma": "inglese",
+    "partOfSpeech": "noun",
+    "cueFa": "نام زبان انگلیسی را بدون آرتیکل بنویس؛ صفت ملیتِ شخص منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "inglese"
+    ],
+    "cloze": {
+      "sentence": "Al lavoro parlo ___ con i clienti.",
+      "translationFa": "در محل کار با مشتریان به زبان انگلیسی صحبت می‌کنم.",
+      "acceptedAnswers": [
+        "inglese"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام زبان انگلیسی را بدون آرتیکل بنویس؛ صفت ملیتِ شخص منظور نیست."
+    },
+    "sourceOrder": 31,
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "آرتیکلِ قابل تمرین و جنس مستقل در گزیدهٔ مرجع تأیید نشده‌اند؛ صورت جمع حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 32,
+    "entryId": "it-a1-l02-032",
+    "lemma": "russo",
+    "partOfSpeech": "noun",
+    "cueFa": "نام زبان روسی را بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "russo"
+    ],
+    "cloze": {
+      "sentence": "Il mio insegnante parla ___.",
+      "translationFa": "معلم من روسی صحبت می‌کند.",
+      "acceptedAnswers": [
+        "russo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام زبان روسی را بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 32,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 33,
+    "entryId": "it-a1-l02-033",
+    "lemma": "francese",
+    "partOfSpeech": "noun",
+    "cueFa": "نام زبان فرانسوی را بدون آرتیکل بنویس؛ صفت ملیتِ شخص منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "francese"
+    ],
+    "cloze": {
+      "sentence": "La sera studio ___ con un amico.",
+      "translationFa": "عصرها همراه یک دوست، زبان فرانسوی می‌خوانم.",
+      "acceptedAnswers": [
+        "francese"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام زبان فرانسوی را بدون آرتیکل بنویس؛ صفت ملیتِ شخص منظور نیست."
+    },
+    "sourceOrder": 33,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 34,
+    "entryId": "it-a1-l02-034",
+    "lemma": "greco",
+    "partOfSpeech": "noun",
+    "cueFa": "نام زبان یونانی را بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "greco"
+    ],
+    "cloze": {
+      "sentence": "Marta impara il ___ a scuola.",
+      "translationFa": "مارتا در مدرسه زبان یونانی یاد می‌گیرد.",
+      "acceptedAnswers": [
+        "greco"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام زبان یونانی را بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 34,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 35,
+    "entryId": "it-a1-l02-035",
+    "lemma": "spagnolo",
+    "partOfSpeech": "noun",
+    "cueFa": "نام زبان اسپانیایی را بدون آرتیکل بنویس؛ صفت ملیتِ شخص منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "spagnolo"
+    ],
+    "cloze": {
+      "sentence": "Nel mio corso impariamo lo ___.",
+      "translationFa": "در کلاس من زبان اسپانیایی یاد می‌گیریم.",
+      "acceptedAnswers": [
+        "spagnolo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام زبان اسپانیایی را بدون آرتیکل بنویس؛ صفت ملیتِ شخص منظور نیست."
+    },
+    "sourceOrder": 35,
+    "nounData": {
+      "article": "lo",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 36,
+    "entryId": "it-a1-l02-036",
+    "lemma": "svedese",
+    "partOfSpeech": "noun",
+    "cueFa": "نام زبان سوئدی را بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "svedese"
+    ],
+    "cloze": {
+      "sentence": "Lo ___ è una lingua nuova per me.",
+      "translationFa": "سوئدی برای من زبانی تازه است.",
+      "acceptedAnswers": [
+        "svedese"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام زبان سوئدی را بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 36,
+    "nounData": {
+      "article": "lo",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 37,
+    "entryId": "it-a1-l02-037",
+    "lemma": "tedesco",
+    "partOfSpeech": "noun",
+    "cueFa": "نام زبان آلمانی را بدون آرتیکل بنویس؛ صفت ملیتِ شخص منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "tedesco"
+    ],
+    "cloze": {
+      "sentence": "Studio ___ per il mio lavoro.",
+      "translationFa": "برای کارم زبان آلمانی می‌خوانم.",
+      "acceptedAnswers": [
+        "tedesco"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "نام زبان آلمانی را بدون آرتیکل بنویس؛ صفت ملیتِ شخص منظور نیست."
+    },
+    "sourceOrder": 37,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 38,
+    "entryId": "it-a1-l02-038",
+    "lemma": "festa",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ مهمانی یا جشن را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "festa"
+    ],
+    "cloze": {
+      "sentence": "Sabato andiamo a una ___.",
+      "translationFa": "شنبه به یک مهمانی می‌رویم.",
+      "acceptedAnswers": [
+        "festa"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ مهمانی یا جشن را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 38,
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 39,
+    "entryId": "it-a1-l02-039",
+    "lemma": "libreria",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ محل فروش کتاب را به صورت مفرد و بدون آرتیکل بنویس؛ کتابخانه منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "libreria"
+    ],
+    "cloze": {
+      "sentence": "Compro un dizionario in ___.",
+      "translationFa": "در کتاب‌فروشی یک فرهنگ لغت می‌خرم.",
+      "acceptedAnswers": [
+        "libreria"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ محل فروش کتاب را به صورت مفرد و بدون آرتیکل بنویس؛ کتابخانه منظور نیست."
+    },
+    "sourceOrder": 39,
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 40,
+    "entryId": "it-a1-l02-040",
+    "lemma": "abitare",
+    "partOfSpeech": "verb",
+    "cueFa": "فعلِ زندگی‌کردن در یک محل را به صورت مصدر بنویس؛ کارکردن منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "abitare"
+    ],
+    "cloze": {
+      "sentence": "Voglio ___ vicino alla stazione.",
+      "translationFa": "می‌خواهم نزدیک ایستگاه زندگی کنم.",
+      "acceptedAnswers": [
+        "abitare"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فعلِ زندگی‌کردن در یک محل را به صورت مصدر بنویس؛ کارکردن منظور نیست."
+    },
+    "sourceOrder": 40
+  },
+  {
+    "sourceRow": 41,
+    "entryId": "it-a1-l02-041",
+    "lemma": "qui",
+    "partOfSpeech": "adverb",
+    "cueFa": "قیدِ مکانِ نزدیک به گوینده، یعنی اینجا، را بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "qui"
+    ],
+    "cloze": {
+      "sentence": "Aspetto ___ davanti alla scuola.",
+      "translationFa": "اینجا جلوی مدرسه منتظر می‌مانم.",
+      "acceptedAnswers": [
+        "qui"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "قیدِ مکانِ نزدیک به گوینده، یعنی اینجا، را بنویس."
+    },
+    "sourceOrder": 41
+  },
+  {
+    "sourceRow": 42,
+    "entryId": "it-a1-l02-042",
+    "lemma": "lavorare",
+    "partOfSpeech": "verb",
+    "cueFa": "فعلِ کارکردن را به صورت مصدر کامل بنویس؛ نامِ کار یا شغل منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "lavorare"
+    ],
+    "cloze": {
+      "sentence": "Domani devo ___ in ufficio.",
+      "translationFa": "فردا باید در اداره کار کنم.",
+      "acceptedAnswers": [
+        "lavorare"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فعلِ کارکردن را به صورت مصدر کامل بنویس؛ نامِ کار یا شغل منظور نیست."
+    },
+    "sourceOrder": 42
+  },
+  {
+    "sourceRow": 43,
+    "entryId": "it-a1-l02-043",
+    "lemma": "scuola",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ مدرسه یا آموزشگاه را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "scuola"
+    ],
+    "cloze": {
+      "sentence": "La ___ è vicino alla fermata.",
+      "translationFa": "مدرسه نزدیک ایستگاه است.",
+      "acceptedAnswers": [
+        "scuola"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ مدرسه یا آموزشگاه را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 43,
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 44,
+    "entryId": "it-a1-l02-044",
+    "lemma": "segretaria",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ منشی را با صورت مؤنث مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "segretaria"
+    ],
+    "cloze": {
+      "sentence": "La ___ risponde al telefono.",
+      "translationFa": "منشی به تلفن پاسخ می‌دهد.",
+      "acceptedAnswers": [
+        "segretaria"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ منشی را با صورت مؤنث مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 44,
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 45,
+    "entryId": "it-a1-l02-045",
+    "lemma": "fare",
+    "partOfSpeech": "verb",
+    "cueFa": "فعلِ عمومیِ انجام‌دادن را در حالت مصدر بنویس؛ فعلِ کارکردنِ مشخص منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "fare"
+    ],
+    "cloze": {
+      "sentence": "Oggi devo ___ la spesa.",
+      "translationFa": "امروز باید خرید کنم.",
+      "acceptedAnswers": [
+        "fare"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فعلِ عمومیِ انجام‌دادن را در حالت مصدر بنویس؛ فعلِ کارکردنِ مشخص منظور نیست."
+    },
+    "sourceOrder": 45
+  },
+  {
+    "sourceRow": 46,
+    "entryId": "it-a1-l02-046",
+    "lemma": "impiegato",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ کارمند اداری را با صورت نخستِ مذکر مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "impiegato"
+    ],
+    "cloze": {
+      "sentence": "L'___ controlla i documenti.",
+      "translationFa": "کارمند مدارک را بررسی می‌کند.",
+      "acceptedAnswers": [
+        "impiegato"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ کارمند اداری را با صورت نخستِ مذکر مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 46,
+    "nounData": {
+      "article": "l'",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است. جنسِ این صورت با ستون جنس یا un/una/un’ در متن/جدول مرجع، مستقل از آرتیکل کوتاه‌شده تأیید می‌شود."
+    }
+  },
+  {
+    "sourceRow": 47,
+    "entryId": "it-a1-l02-047",
+    "lemma": "agenzia",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ آژانس یا مؤسسهٔ خدماتی را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "agenzia"
+    ],
+    "cloze": {
+      "sentence": "Cerco una casa con un'___.",
+      "translationFa": "با کمک یک آژانس دنبال خانه می‌گردم.",
+      "acceptedAnswers": [
+        "agenzia"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ آژانس یا مؤسسهٔ خدماتی را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 47,
+    "nounData": {
+      "article": "l'",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است. جنسِ این صورت با ستون جنس یا un/una/un’ در متن/جدول مرجع، مستقل از آرتیکل کوتاه‌شده تأیید می‌شود."
+    }
+  },
+  {
+    "sourceRow": 48,
+    "entryId": "it-a1-l02-048",
+    "lemma": "studio",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ استودیو یا دفترِ کار تخصصی را به صورت مفرد و بدون آرتیکل بنویس؛ فعلِ «مطالعه می‌کنم» منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "studio"
+    ],
+    "cloze": {
+      "sentence": "Il fotografo lavora in uno ___.",
+      "translationFa": "عکاس در یک استودیو کار می‌کند.",
+      "acceptedAnswers": [
+        "studio"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ استودیو یا دفترِ کار تخصصی را به صورت مفرد و بدون آرتیکل بنویس؛ فعلِ «مطالعه می‌کنم» منظور نیست."
+    },
+    "sourceOrder": 48,
+    "nounData": {
+      "article": "lo",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 49,
+    "entryId": "it-a1-l02-049",
+    "lemma": "ufficio",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ دفتر کار یا اداره را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "ufficio"
+    ],
+    "cloze": {
+      "sentence": "Il mio ___ è piccolo ma luminoso.",
+      "translationFa": "دفتر کارم کوچک ولی روشن است.",
+      "acceptedAnswers": [
+        "ufficio"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ دفتر کار یا اداره را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 49,
+    "nounData": {
+      "article": "l'",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است. جنسِ این صورت با ستون جنس یا un/una/un’ در متن/جدول مرجع، مستقل از آرتیکل کوتاه‌شده تأیید می‌شود."
+    }
+  },
+  {
+    "sourceRow": 50,
+    "entryId": "it-a1-l02-050",
+    "lemma": "fabbrica",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ کارخانه را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "fabbrica"
+    ],
+    "cloze": {
+      "sentence": "Mio padre lavora in una ___.",
+      "translationFa": "پدرم در یک کارخانه کار می‌کند.",
+      "acceptedAnswers": [
+        "fabbrica"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ کارخانه را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 50,
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 51,
+    "entryId": "it-a1-l02-051",
+    "lemma": "farmacia",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ محل تهیهٔ دارو را به صورت مفرد و بدون آرتیکل بنویس؛ شخص داروساز منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "farmacia"
+    ],
+    "cloze": {
+      "sentence": "Vado in ___ per una medicina.",
+      "translationFa": "برای یک دارو به داروخانه می‌روم.",
+      "acceptedAnswers": [
+        "farmacia"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ محل تهیهٔ دارو را به صورت مفرد و بدون آرتیکل بنویس؛ شخص داروساز منظور نیست."
+    },
+    "sourceOrder": 51,
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 52,
+    "entryId": "it-a1-l02-052",
+    "lemma": "negozio",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ مغازه یا فروشگاه عمومی را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "negozio"
+    ],
+    "cloze": {
+      "sentence": "Questo ___ vende scarpe.",
+      "translationFa": "این مغازه کفش می‌فروشد.",
+      "acceptedAnswers": [
+        "negozio"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ مغازه یا فروشگاه عمومی را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 52,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 53,
+    "entryId": "it-a1-l02-053",
+    "lemma": "ristorante",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ رستوران را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "ristorante"
+    ],
+    "cloze": {
+      "sentence": "Stasera mangiamo in un ___ italiano.",
+      "translationFa": "امشب در یک رستوران ایتالیایی غذا می‌خوریم.",
+      "acceptedAnswers": [
+        "ristorante"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ رستوران را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 53,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 54,
+    "entryId": "it-a1-l02-054",
+    "lemma": "avvocato",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ وکیل را به صورت نخستِ سرمدخل، با پایانِ «اُ» و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "avvocato"
+    ],
+    "cloze": {
+      "sentence": "Parlo con un ___ dei miei documenti.",
+      "translationFa": "دربارهٔ مدارکم با یک وکیل صحبت می‌کنم.",
+      "acceptedAnswers": [
+        "avvocato"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ وکیل را به صورت نخستِ سرمدخل، با پایانِ «اُ» و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 54,
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "آرتیکلِ قابل تمرین و جنس مستقل در گزیدهٔ مرجع تأیید نشده‌اند؛ صورت جمع حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 55,
+    "entryId": "it-a1-l02-055",
+    "lemma": "giornalista",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ روزنامه‌نگار را به صورت مفرد و بدون آرتیکل بنویس؛ صورت واژه برای زن و مرد مشترک است.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "giornalista"
+    ],
+    "cloze": {
+      "sentence": "Il ___ scrive un articolo.",
+      "translationFa": "روزنامه‌نگار یک مقاله می‌نویسد.",
+      "acceptedAnswers": [
+        "giornalista"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ روزنامه‌نگار را به صورت مفرد و بدون آرتیکل بنویس؛ صورت واژه برای زن و مرد مشترک است."
+    },
+    "sourceOrder": 55,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 56,
+    "entryId": "it-a1-l02-056",
+    "lemma": "farmacista",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ شخص داروساز را به صورت مفرد و بدون آرتیکل بنویس؛ محل داروخانه منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "farmacista"
+    ],
+    "cloze": {
+      "sentence": "Il ___ mi spiega come prendere la medicina.",
+      "translationFa": "داروساز برایم توضیح می‌دهد چطور دارو را مصرف کنم.",
+      "acceptedAnswers": [
+        "farmacista"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ شخص داروساز را به صورت مفرد و بدون آرتیکل بنویس؛ محل داروخانه منظور نیست."
+    },
+    "sourceOrder": 56,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 57,
+    "entryId": "it-a1-l02-057",
+    "lemma": "commesso",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ فروشندهٔ فروشگاه را با صورت مذکر مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "commesso"
+    ],
+    "cloze": {
+      "sentence": "Il ___ aiuta una cliente.",
+      "translationFa": "فروشنده به یک مشتری کمک می‌کند.",
+      "acceptedAnswers": [
+        "commesso"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ فروشندهٔ فروشگاه را با صورت مذکر مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 57,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 58,
+    "entryId": "it-a1-l02-058",
+    "lemma": "infermiere",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ پرستار را به صورت نخستِ سرمدخل، با پایانِ «اِ» و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "infermiere"
+    ],
+    "cloze": {
+      "sentence": "Un ___ lavora di notte in ospedale.",
+      "translationFa": "یک پرستار شب‌ها در بیمارستان کار می‌کند.",
+      "acceptedAnswers": [
+        "infermiere"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ پرستار را به صورت نخستِ سرمدخل، با پایانِ «اِ» و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 58,
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "آرتیکلِ قابل تمرین و جنس مستقل در گزیدهٔ مرجع تأیید نشده‌اند؛ صورت جمع حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 59,
+    "entryId": "it-a1-l02-059",
+    "lemma": "operaio",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ کارگر را به صورت نخستِ سرمدخل، با پایانِ «اُ» و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "operaio"
+    ],
+    "cloze": {
+      "sentence": "Un ___ entra in fabbrica alle sette.",
+      "translationFa": "یک کارگر ساعت هفت وارد کارخانه می‌شود.",
+      "acceptedAnswers": [
+        "operaio"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ کارگر را به صورت نخستِ سرمدخل، با پایانِ «اُ» و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 59,
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "آرتیکلِ قابل تمرین و جنس مستقل در گزیدهٔ مرجع تأیید نشده‌اند؛ صورت جمع حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 60,
+    "entryId": "it-a1-l02-060",
+    "lemma": "cuoco",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ آشپز را با صورت مذکر مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "cuoco"
+    ],
+    "cloze": {
+      "sentence": "Il ___ prepara una zuppa calda.",
+      "translationFa": "آشپز یک سوپ گرم آماده می‌کند.",
+      "acceptedAnswers": [
+        "cuoco"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ آشپز را با صورت مذکر مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 60,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 61,
+    "entryId": "it-a1-l02-061",
+    "lemma": "medico",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ پزشک را به صورتِ نوشته‌شده در سرمدخل و بدون آرتیکل بنویس؛ عنوانِ خطاب «دکتر» منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "medico"
+    ],
+    "cloze": {
+      "sentence": "Devo parlare con il ___.",
+      "translationFa": "باید با پزشک صحبت کنم.",
+      "acceptedAnswers": [
+        "medico"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ پزشک را به صورتِ نوشته‌شده در سرمدخل و بدون آرتیکل بنویس؛ عنوانِ خطاب «دکتر» منظور نیست."
+    },
+    "sourceOrder": 61,
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "آرتیکلِ قابل تمرین و جنس مستقل در گزیدهٔ مرجع تأیید نشده‌اند؛ صورت جمع حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 62,
+    "entryId": "it-a1-l02-062",
+    "lemma": "ospedale",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ بیمارستان را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "ospedale"
+    ],
+    "cloze": {
+      "sentence": "L'___ si trova vicino alla stazione.",
+      "translationFa": "بیمارستان نزدیک ایستگاه قرار دارد.",
+      "acceptedAnswers": [
+        "ospedale"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ بیمارستان را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 62,
+    "nounData": {
+      "article": "l'",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است. جنسِ این صورت با ستون جنس یا un/una/un’ در متن/جدول مرجع، مستقل از آرتیکل کوتاه‌شده تأیید می‌شود."
+    }
+  },
+  {
+    "sourceRow": 63,
+    "entryId": "it-a1-l02-063",
+    "lemma": "lavoro",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ کار یا شغل را به صورت مفرد و بدون آرتیکل بنویس؛ فعلِ کارکردن منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "lavoro"
+    ],
+    "cloze": {
+      "sentence": "Cerco un ___ vicino a casa.",
+      "translationFa": "دنبال یک کار نزدیک خانه می‌گردم.",
+      "acceptedAnswers": [
+        "lavoro"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ کار یا شغل را به صورت مفرد و بدون آرتیکل بنویس؛ فعلِ کارکردن منظور نیست."
+    },
+    "sourceOrder": 63,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 64,
+    "entryId": "it-a1-l02-064",
+    "lemma": "studente",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ دانشجو یا زبان‌آموز مرد را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "studente"
+    ],
+    "cloze": {
+      "sentence": "Lo ___ legge un testo breve.",
+      "translationFa": "دانشجو یک متن کوتاه می‌خواند.",
+      "acceptedAnswers": [
+        "studente"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ دانشجو یا زبان‌آموز مرد را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 64,
+    "nounData": {
+      "article": "lo",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 65,
+    "entryId": "it-a1-l02-065",
+    "lemma": "camera",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ اتاقِ محل اقامت را با واژهٔ این درس که با صدای «ک» شروع می‌شود، به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "camera"
+    ],
+    "cloze": {
+      "sentence": "La ___ ha una finestra grande.",
+      "translationFa": "اتاق یک پنجرهٔ بزرگ دارد.",
+      "acceptedAnswers": [
+        "camera"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ اتاقِ محل اقامت را با واژهٔ این درس که با صدای «ک» شروع می‌شود، به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 65,
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    },
+    "meaningGroup": "room"
+  },
+  {
+    "sourceRow": 66,
+    "entryId": "it-a1-l02-066",
+    "lemma": "famiglia",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ خانواده را به صورت مفرد و بدون آرتیکل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "famiglia"
+    ],
+    "cloze": {
+      "sentence": "La mia ___ abita in una casa grande.",
+      "translationFa": "خانوادهٔ من در یک خانهٔ بزرگ زندگی می‌کند.",
+      "acceptedAnswers": [
+        "famiglia"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ خانواده را به صورت مفرد و بدون آرتیکل بنویس."
+    },
+    "sourceOrder": 66,
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 67,
+    "entryId": "it-a1-l02-067",
+    "lemma": "conversazione",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ گفت‌وگوی تعاملی را با واژهٔ بلندترِ این درس، به صورت مفرد و بدون آرتیکل بنویس؛ واژهٔ درس اول برای گفت‌وگو منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "conversazione"
+    ],
+    "cloze": {
+      "sentence": "Durante la pausa facciamo ___ in italiano.",
+      "translationFa": "در زمان استراحت به ایتالیایی گفت‌وگو می‌کنیم.",
+      "acceptedAnswers": [
+        "conversazione"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ گفت‌وگوی تعاملی را با واژهٔ بلندترِ این درس، به صورت مفرد و بدون آرتیکل بنویس؛ واژهٔ درس اول برای گفت‌وگو منظور نیست."
+    },
+    "sourceOrder": 67,
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 68,
+    "entryId": "it-a1-l02-068",
+    "lemma": "stanza",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ اتاق را با واژهٔ این درس که با صدای «س» شروع می‌شود، به صورت مفرد و بدون آرتیکل بنویس؛ واژهٔ دیگرِ اتاق منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "stanza"
+    ],
+    "cloze": {
+      "sentence": "La ___ di mia sorella è al piano di sopra.",
+      "translationFa": "اتاق خواهرم در طبقهٔ بالا است.",
+      "acceptedAnswers": [
+        "stanza"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ اتاق را با واژهٔ این درس که با صدای «س» شروع می‌شود، به صورت مفرد و بدون آرتیکل بنویس؛ واژهٔ دیگرِ اتاق منظور نیست."
+    },
+    "sourceOrder": 68,
+    "nounData": {
+      "article": "la",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    },
+    "meaningGroup": "room"
+  },
+  {
+    "sourceRow": 69,
+    "entryId": "it-a1-l02-069",
+    "lemma": "libera",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ خالی یا آزاد را برای یک اتاق، به صورت مؤنث مفرد بنویس؛ صورت مذکر منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "libera"
+    ],
+    "cloze": {
+      "sentence": "Questa camera è ___ da domani.",
+      "translationFa": "این اتاق از فردا خالی است.",
+      "acceptedAnswers": [
+        "libera"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ خالی یا آزاد را برای یک اتاق، به صورت مؤنث مفرد بنویس؛ صورت مذکر منظور نیست."
+    },
+    "sourceOrder": 69
+  },
+  {
+    "sourceRow": 70,
+    "entryId": "it-a1-l02-070",
+    "lemma": "avere bisogno di",
+    "partOfSpeech": "phrase",
+    "cueFa": "ساخت کاملِ نیازداشتن به چیزی را با مصدرِ داشتن و حرف اضافهٔ پایانی بنویس؛ فعلِ مستقلِ داشتن منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "avere bisogno di"
+    ],
+    "cloze": {
+      "sentence": "È normale ___ aiuto.",
+      "translationFa": "طبیعی است که به کمک نیاز داشته باشی.",
+      "acceptedAnswers": [
+        "avere bisogno di"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "ساخت کاملِ نیازداشتن به چیزی را با مصدرِ داشتن و حرف اضافهٔ پایانی بنویس؛ فعلِ مستقلِ داشتن منظور نیست."
+    },
+    "sourceOrder": 70
+  },
+  {
+    "sourceRow": 71,
+    "entryId": "it-a1-l02-071",
+    "lemma": "figlio",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ پسرِ کسی را به صورت نخستِ مذکر مفرد و بدون آرتیکل بنویس؛ دختر منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "figlio"
+    ],
+    "cloze": {
+      "sentence": "Il ___ di Marco ha cinque anni.",
+      "translationFa": "پسر مارکو پنج سال دارد.",
+      "acceptedAnswers": [
+        "figlio"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ پسرِ کسی را به صورت نخستِ مذکر مفرد و بدون آرتیکل بنویس؛ دختر منظور نیست."
+    },
+    "sourceOrder": 71,
+    "nounData": {
+      "article": "il",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 72,
+    "entryId": "it-a1-l02-072",
+    "lemma": "insegnante",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ معلم را به صورت مفرد و بدون آرتیکل بنویس؛ در این مدخل صورت هدف برای زن است.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "insegnante"
+    ],
+    "cloze": {
+      "sentence": "La nostra ___ parla lentamente.",
+      "translationFa": "معلم ما آهسته صحبت می‌کند.",
+      "acceptedAnswers": [
+        "insegnante"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ معلم را به صورت مفرد و بدون آرتیکل بنویس؛ در این مدخل صورت هدف برای زن است."
+    },
+    "sourceOrder": 72,
+    "nounData": {
+      "article": "l'",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است. جنسِ این صورت با ستون جنس یا un/una/un’ در متن/جدول مرجع، مستقل از آرتیکل کوتاه‌شده تأیید می‌شود."
+    }
+  },
+  {
+    "sourceRow": 73,
+    "entryId": "it-a1-l02-073",
+    "lemma": "studiare",
+    "partOfSpeech": "verb",
+    "cueFa": "فعلِ درس‌خواندن یا تحصیل‌کردن را به صورت مصدر کامل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "studiare"
+    ],
+    "cloze": {
+      "sentence": "Voglio ___ medicina a Bologna.",
+      "translationFa": "می‌خواهم در بولونیا پزشکی بخوانم.",
+      "acceptedAnswers": [
+        "studiare"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فعلِ درس‌خواندن یا تحصیل‌کردن را به صورت مصدر کامل بنویس."
+    },
+    "sourceOrder": 73
+  },
+  {
+    "sourceRow": 74,
+    "entryId": "it-a1-l02-074",
+    "lemma": "cercare",
+    "partOfSpeech": "verb",
+    "cueFa": "فعلِ جست‌وجوکردن یا دنبال چیزی گشتن را به صورت مصدر بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "cercare"
+    ],
+    "cloze": {
+      "sentence": "Devo ___ le chiavi nella borsa.",
+      "translationFa": "باید در کیف دنبال کلیدها بگردم.",
+      "acceptedAnswers": [
+        "cercare"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فعلِ جست‌وجوکردن یا دنبال چیزی گشتن را به صورت مصدر بنویس."
+    },
+    "sourceOrder": 74
+  },
+  {
+    "sourceRow": 75,
+    "entryId": "it-a1-l02-075",
+    "lemma": "piccolo",
+    "partOfSpeech": "adjective",
+    "cueFa": "صفتِ کوچک را با صورت نخستِ مذکر مفرد بنویس؛ صورت مؤنث منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "piccolo"
+    ],
+    "cloze": {
+      "sentence": "Abito in un ___ appartamento.",
+      "translationFa": "در یک آپارتمان کوچک زندگی می‌کنم.",
+      "acceptedAnswers": [
+        "piccolo"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "صفتِ کوچک را با صورت نخستِ مذکر مفرد بنویس؛ صورت مؤنث منظور نیست."
+    },
+    "sourceOrder": 75
+  },
+  {
+    "sourceRow": 76,
+    "entryId": "it-a1-l02-076",
+    "lemma": "venti",
+    "partOfSpeech": "other",
+    "cueFa": "عددِ بیست را با حروف ایتالیایی بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "venti"
+    ],
+    "cloze": {
+      "sentence": "Mia sorella ha ___ anni.",
+      "translationFa": "خواهرم بیست سال دارد.",
+      "acceptedAnswers": [
+        "venti"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عددِ بیست را با حروف ایتالیایی بنویس."
+    },
+    "sourceOrder": 76
+  },
+  {
+    "sourceRow": 77,
+    "entryId": "it-a1-l02-077",
+    "lemma": "trenta",
+    "partOfSpeech": "other",
+    "cueFa": "عددِ سی را با حروف ایتالیایی بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "trenta"
+    ],
+    "cloze": {
+      "sentence": "Il treno parte tra ___ minuti.",
+      "translationFa": "قطار سی دقیقهٔ دیگر حرکت می‌کند.",
+      "acceptedAnswers": [
+        "trenta"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عددِ سی را با حروف ایتالیایی بنویس."
+    },
+    "sourceOrder": 77
+  },
+  {
+    "sourceRow": 78,
+    "entryId": "it-a1-l02-078",
+    "lemma": "quaranta",
+    "partOfSpeech": "other",
+    "cueFa": "عددِ چهل را با حروف ایتالیایی بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "quaranta"
+    ],
+    "cloze": {
+      "sentence": "In questo corso ci sono ___ studenti.",
+      "translationFa": "در این دوره چهل دانشجو هست.",
+      "acceptedAnswers": [
+        "quaranta"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عددِ چهل را با حروف ایتالیایی بنویس."
+    },
+    "sourceOrder": 78
+  },
+  {
+    "sourceRow": 79,
+    "entryId": "it-a1-l02-079",
+    "lemma": "cinquanta",
+    "partOfSpeech": "other",
+    "cueFa": "عددِ پنجاه را با حروف ایتالیایی بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "cinquanta"
+    ],
+    "cloze": {
+      "sentence": "Mio zio ha ___ anni.",
+      "translationFa": "عمویم پنجاه سال دارد.",
+      "acceptedAnswers": [
+        "cinquanta"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عددِ پنجاه را با حروف ایتالیایی بنویس."
+    },
+    "sourceOrder": 79
+  },
+  {
+    "sourceRow": 80,
+    "entryId": "it-a1-l02-080",
+    "lemma": "sessanta",
+    "partOfSpeech": "other",
+    "cueFa": "عددِ شصت را با حروف ایتالیایی بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "sessanta"
+    ],
+    "cloze": {
+      "sentence": "Un'ora ha ___ minuti.",
+      "translationFa": "یک ساعت شصت دقیقه دارد.",
+      "acceptedAnswers": [
+        "sessanta"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عددِ شصت را با حروف ایتالیایی بنویس."
+    },
+    "sourceOrder": 80
+  },
+  {
+    "sourceRow": 81,
+    "entryId": "it-a1-l02-081",
+    "lemma": "settanta",
+    "partOfSpeech": "other",
+    "cueFa": "عددِ هفتاد را با حروف ایتالیایی بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "settanta"
+    ],
+    "cloze": {
+      "sentence": "Questo libro ha ___ pagine.",
+      "translationFa": "این کتاب هفتاد صفحه دارد.",
+      "acceptedAnswers": [
+        "settanta"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عددِ هفتاد را با حروف ایتالیایی بنویس."
+    },
+    "sourceOrder": 81
+  },
+  {
+    "sourceRow": 82,
+    "entryId": "it-a1-l02-082",
+    "lemma": "ottanta",
+    "partOfSpeech": "other",
+    "cueFa": "عددِ هشتاد را با حروف ایتالیایی بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "ottanta"
+    ],
+    "cloze": {
+      "sentence": "Mio nonno ha ___ anni.",
+      "translationFa": "پدربزرگم هشتاد سال دارد.",
+      "acceptedAnswers": [
+        "ottanta"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عددِ هشتاد را با حروف ایتالیایی بنویس."
+    },
+    "sourceOrder": 82
+  },
+  {
+    "sourceRow": 83,
+    "entryId": "it-a1-l02-083",
+    "lemma": "novanta",
+    "partOfSpeech": "other",
+    "cueFa": "عددِ نود را با حروف ایتالیایی بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "novanta"
+    ],
+    "cloze": {
+      "sentence": "La partita dura ___ minuti.",
+      "translationFa": "بازی نود دقیقه طول می‌کشد.",
+      "acceptedAnswers": [
+        "novanta"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عددِ نود را با حروف ایتالیایی بنویس."
+    },
+    "sourceOrder": 83
+  },
+  {
+    "sourceRow": 84,
+    "entryId": "it-a1-l02-084",
+    "lemma": "cento",
+    "partOfSpeech": "other",
+    "cueFa": "عددِ صد را با حروف ایتالیایی بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "cento"
+    ],
+    "cloze": {
+      "sentence": "La scuola ha ___ studenti.",
+      "translationFa": "مدرسه صد دانش‌آموز دارد.",
+      "acceptedAnswers": [
+        "cento"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "عددِ صد را با حروف ایتالیایی بنویس."
+    },
+    "sourceOrder": 84
+  },
+  {
+    "sourceRow": 85,
+    "entryId": "it-a1-l02-085",
+    "lemma": "anni",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ سال را دقیقاً به صورت جمعِ موجود در درس و بدون آرتیکل بنویس؛ عدد یا صورت مفرد منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "anni"
+    ],
+    "cloze": {
+      "sentence": "Lavoro qui da tre ___.",
+      "translationFa": "سه سال است اینجا کار می‌کنم.",
+      "acceptedAnswers": [
+        "anni"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ سال را دقیقاً به صورت جمعِ موجود در درس و بدون آرتیکل بنویس؛ عدد یا صورت مفرد منظور نیست."
+    },
+    "sourceOrder": 85,
+    "nounData": {
+      "article": null,
+      "gender": null,
+      "number": "plural",
+      "plural": null,
+      "pluralNote": "این مدخل خودِ صورت جمعِ دیده‌شده در نقل است؛ مفرد، آرتیکل و صورت جمعِ دیگری ساخته نشده است."
+    }
+  },
+  {
+    "sourceRow": 86,
+    "entryId": "it-a1-l02-086",
+    "lemma": "età",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ سن را به صورت پایه و بدون آرتیکل بنویس؛ اکسان پایانی را حفظ کن.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "età"
+    ],
+    "cloze": {
+      "sentence": "Non conosco la tua ___.",
+      "translationFa": "سن تو را نمی‌دانم.",
+      "acceptedAnswers": [
+        "età"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ سن را به صورت پایه و بدون آرتیکل بنویس؛ اکسان پایانی را حفظ کن."
+    },
+    "sourceOrder": 86,
+    "nounData": {
+      "article": "l'",
+      "gender": "feminine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است. جنسِ این صورت با ستون جنس یا un/una/un’ در متن/جدول مرجع، مستقل از آرتیکل کوتاه‌شده تأیید می‌شود."
+    }
+  },
+  {
+    "sourceRow": 87,
+    "entryId": "it-a1-l02-087",
+    "lemma": "indovinare",
+    "partOfSpeech": "verb",
+    "cueFa": "فعلِ حدس‌زدن را در حالت مصدر کامل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "indovinare"
+    ],
+    "cloze": {
+      "sentence": "Puoi ___ la mia età?",
+      "translationFa": "می‌توانی سن مرا حدس بزنی؟",
+      "acceptedAnswers": [
+        "indovinare"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فعلِ حدس‌زدن را در حالت مصدر کامل بنویس."
+    },
+    "sourceOrder": 87
+  },
+  {
+    "sourceRow": 88,
+    "entryId": "it-a1-l02-088",
+    "lemma": "straniero",
+    "partOfSpeech": "noun",
+    "cueFa": "اسمِ فرد خارجی را با صورت نخستِ مذکر مفرد و بدون آرتیکل بنویس؛ صفت یا صورت زنانه منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "straniero"
+    ],
+    "cloze": {
+      "sentence": "Lo ___ chiede un'informazione.",
+      "translationFa": "آن مرد خارجی یک راهنمایی می‌خواهد.",
+      "acceptedAnswers": [
+        "straniero"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "اسمِ فرد خارجی را با صورت نخستِ مذکر مفرد و بدون آرتیکل بنویس؛ صفت یا صورت زنانه منظور نیست."
+    },
+    "sourceOrder": 88,
+    "nounData": {
+      "article": "lo",
+      "gender": "masculine",
+      "number": "singular",
+      "plural": null,
+      "pluralNote": "فقط صورت مفردِ هدف تمرین می‌شود؛ صورت جمع در گزیدهٔ مرجع ارائه نشده و حدس زده نشده است."
+    }
+  },
+  {
+    "sourceRow": 89,
+    "entryId": "it-a1-l02-089",
+    "lemma": "a",
+    "partOfSpeech": "other",
+    "cueFa": "حرف اضافهٔ مکان را برای نام شهر بنویس؛ کاربردِ نام کشور منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "a"
+    ],
+    "cloze": {
+      "sentence": "Mia sorella abita ___ Milano.",
+      "translationFa": "خواهرم در میلان زندگی می‌کند.",
+      "acceptedAnswers": [
+        "a"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "حرف اضافهٔ مکان را برای نام شهر بنویس؛ کاربردِ نام کشور منظور نیست."
+    },
+    "sourceOrder": 89
+  },
+  {
+    "sourceRow": 90,
+    "entryId": "it-a1-l02-090",
+    "lemma": "in",
+    "partOfSpeech": "other",
+    "cueFa": "حرف اضافهٔ مکان را برای نام کشور بنویس؛ کاربردِ نام شهر منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "in"
+    ],
+    "cloze": {
+      "sentence": "Luca vive ___ Italia.",
+      "translationFa": "لوکا در ایتالیا زندگی می‌کند.",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "حرف اضافهٔ مکان را برای نام کشور بنویس؛ کاربردِ نام شهر منظور نیست."
+    },
+    "sourceOrder": 90
+  },
+  {
+    "sourceRow": 91,
+    "entryId": "it-a1-l02-091",
+    "lemma": "pronto?",
+    "partOfSpeech": "phrase",
+    "cueFa": "واژهٔ پاسخ‌دادن به تلفن، یعنی الو، را با علامت سؤال بنویس؛ صفتِ آماده منظور نیست.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "pronto?"
+    ],
+    "cloze": {
+      "sentence": "___ Chi parla?",
+      "translationFa": "الو؟ چه کسی صحبت می‌کند؟",
+      "acceptedAnswers": [
+        "Pronto?"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "واژهٔ پاسخ‌دادن به تلفن، یعنی الو، را با علامت سؤال بنویس؛ صفتِ آماده منظور نیست."
+    },
+    "sourceOrder": 91
+  },
+  {
+    "sourceRow": 92,
+    "entryId": "it-a1-l02-092",
+    "lemma": "telefonare",
+    "partOfSpeech": "verb",
+    "cueFa": "فعلِ تلفن‌کردن را در حالت مصدر کامل بنویس.",
+    "caseSensitive": false,
+    "acceptedAnswers": [
+      "telefonare"
+    ],
+    "cloze": {
+      "sentence": "Devo ___ alla scuola.",
+      "translationFa": "باید به آموزشگاه تلفن کنم.",
+      "acceptedAnswers": [
+        "telefonare"
+      ],
+      "additionalExampleIndex": 0,
+      "cueFa": "فعلِ تلفن‌کردن را در حالت مصدر کامل بنویس."
+    },
+    "sourceOrder": 92
+  }
+]

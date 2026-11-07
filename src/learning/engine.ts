@@ -222,9 +222,11 @@ function start(state: AppState, command: Extract<LearningCommand, { type: 'start
   // This task appears only after their cards, never introduces an unseen word by itself.
   const matchPool = [...newEntries, ...activeEntries(state, bundle).filter(entry => state.progress[entry.entryId])]
   const seenMeanings = new Set<string>()
+  const seenMeaningGroups = new Set<string>()
   const matchIds = matchPool.filter(entry => {
-    if (seenMeanings.has(entry.meaningFa)) return false
+    if (seenMeanings.has(entry.meaningFa) || entry.meaningGroup && seenMeaningGroups.has(entry.meaningGroup)) return false
     seenMeanings.add(entry.meaningFa)
+    if (entry.meaningGroup) seenMeaningGroups.add(entry.meaningGroup)
     return true
   }).slice(0, 4).map(entry => entry.entryId)
   if (matchIds.length === 4 && session.queue.length > 0) {

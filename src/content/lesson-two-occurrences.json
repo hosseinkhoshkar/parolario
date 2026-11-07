@@ -1,0 +1,102 @@
+[
+  {
+    "entryId": "it-a1-l01-025",
+    "refs": [
+      {
+        "locator": "کتاب درسی و تمرین: PDF 19، چاپی 19؛ تمرین ۲، نخستین نوبت گفت‌وگوی سمت چپ",
+        "exampleIt": "Ciao Giuliana. Come stai?",
+        "exampleFa": "سلام جولیانا. حالت چطور است؟"
+      }
+    ]
+  },
+  {
+    "entryId": "it-a1-l01-039",
+    "refs": [
+      {
+        "locator": "کتاب درسی و تمرین: PDF 20، چاپی 20؛ تمرین ۳، کادر سمت راست",
+        "exampleIt": "Questo è un mio amico.",
+        "exampleFa": "این یکی از دوستان من است."
+      }
+    ]
+  },
+  {
+    "entryId": "it-a1-l01-045",
+    "refs": [
+      {
+        "locator": "کتاب درسی و تمرین: PDF 29، چاپی 29؛ Videocorso 2، تمرین ۴، نوبت چاپ‌شدهٔ Federico",
+        "exampleIt": "Sì, io sono italiano.",
+        "exampleFa": "بله، من ایتالیایی هستم."
+      }
+    ]
+  },
+  {
+    "entryId": "it-a1-l01-064",
+    "refs": [
+      {
+        "locator": "کتاب درسی و تمرین: PDF 20، چاپی 20؛ تمرین ۳، معرفی Susana در گفت‌وگو",
+        "exampleIt": "Questa è Susana, una mia amica portoghese, di Lisbona.",
+        "exampleFa": "این سوزانا است، یکی از دوستان پرتغالی من، اهل لیسبون."
+      }
+    ]
+  },
+  {
+    "entryId": "it-a1-l01-056",
+    "refs": [
+      {
+        "locator": "کتاب درسی و تمرین: PDF 20، چاپی 20؛ تمرین ۳، جملهٔ پایانی گفت‌وگو",
+        "exampleIt": "Io invece purtroppo non parlo il portoghese!",
+        "exampleFa": "اما من متأسفانه پرتغالی صحبت نمی‌کنم!"
+      }
+    ]
+  },
+  {
+    "entryId": "it-a1-l01-055",
+    "refs": [
+      {
+        "locator": "کتاب درسی و تمرین: PDF 19، چاپی 19؛ تمرین ۳، دستور پیش از تصویر",
+        "exampleIt": "Ascolta il dialogo e scrivi i nomi dei personaggi nel disegno.",
+        "exampleFa": "به گفت‌وگو گوش کن و نام شخصیت‌ها را در تصویر بنویس."
+      }
+    ]
+  },
+  {
+    "entryId": "it-a1-l01-051",
+    "refs": [
+      {
+        "locator": "کتاب درسی و تمرین: PDF 22، چاپی 22؛ تمرین ۸، گفت‌وگوی آغاز صفحه",
+        "exampleIt": "No, siamo di Napoli, ma abitiamo qui a Bologna.",
+        "exampleFa": "نه، ما اهل ناپل هستیم، اما اینجا در بولونیا زندگی می‌کنیم."
+      }
+    ]
+  },
+  {
+    "entryId": "it-a1-l01-012",
+    "refs": [
+      {
+        "locator": "کتاب درسی و تمرین: PDF 29، چاپی 29؛ Videocorso 2، تمرین ۴، نوبت چاپ‌شدهٔ Federico",
+        "exampleIt": "Ho 28 anni.",
+        "exampleFa": "من ۲۸ سال دارم."
+      }
+    ]
+  },
+  {
+    "entryId": "it-a1-l01-050",
+    "refs": [
+      {
+        "locator": "کتاب درسی و تمرین: PDF 23، چاپی 23؛ تمرین ۱۱، نمونهٔ معرفی شخص",
+        "exampleIt": "Lui si chiama Pablo Hernandez, è di Siviglia, ma abita a Madrid.",
+        "exampleFa": "نام او پابلو هرناندز است، اهل سویا است، اما در مادرید زندگی می‌کند."
+      }
+    ]
+  },
+  {
+    "entryId": "it-a1-l01-062",
+    "refs": [
+      {
+        "locator": "کتاب درسی و تمرین: PDF 24، چاپی 24؛ تمرین ۱۲، پرسش پیش از نوشته‌های گروه",
+        "exampleIt": "Qual è la persona che offre un lavoro?",
+        "exampleFa": "کدام شخص یک شغل پیشنهاد می‌کند؟"
+      }
+    ]
+  }
+]

@@ -1,7 +1,8 @@
 import assert from 'node:assert/strict'
 import { readFileSync } from 'node:fs'
 import test from 'node:test'
-import { courseBundle as bundle } from './catalog.ts'
+import { lessonBundles } from './catalog.ts'
+const bundle = lessonBundles[0]
 import { validateContent } from './validate.ts'
 import { parseItalianSource } from '../../scripts/example-catalog.mjs'
 import { hasArticle } from '../learning/articles.ts'

@@ -48,7 +48,7 @@ export function validateContent(bundle: ContentBundle): string[] {
     if (!example || entry.cloze.sentence.split('___').length !== 2 || !entry.cloze.translationFa.trim() || !validAcceptedAnswers(entry.cloze.acceptedAnswers) || entry.cloze.sentence.replace('___', entry.cloze.acceptedAnswers[0]) !== example.it) errors.push(`Invalid cloze: ${at}`)
     if (!entry.writing || !entry.writing.promptFa.trim() || !entry.writing.cueFa.trim() || typeof entry.writing.caseSensitive !== 'boolean' || !validAcceptedAnswers(entry.writing.acceptedAnswers, entry.lemma)) errors.push(`Invalid writing prompt or accepted answers: ${at}`)
     const optionIds = entry.meaningOptionEntryIds
-    if (optionIds.length !== 4 || new Set(optionIds).size !== 4 || !optionIds.includes(at) || optionIds.some((id) => byId.get(id)?.introducedInLessonId !== entry.introducedInLessonId) || new Set(optionIds.map((id) => byId.get(id)?.meaningFa)).size !== 4) errors.push(`Invalid meaning options: ${at}`)
+    if (optionIds.length !== 4 || new Set(optionIds).size !== 4 || !optionIds.includes(at) || optionIds.some((id) => byId.get(id)?.introducedInLessonId !== entry.introducedInLessonId) || new Set(optionIds.map((id) => byId.get(id)?.meaningFa)).size !== 4 || new Set(optionIds.map(id => byId.get(id)?.meaningGroup ?? byId.get(id)?.meaningFa)).size !== 4) errors.push(`Invalid meaning options: ${at}`)
     if (['flashcard', 'choose-meaning', 'cloze', 'match', 'write-word'].some((kind) => !entry.enabledExercises.includes(kind as typeof entry.enabledExercises[number]))) errors.push(`Missing excerpt exercise: ${at}`)
   }
   return errors

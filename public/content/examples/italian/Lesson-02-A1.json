@@ -1,0 +1,1665 @@
+{
+  "version": 1,
+  "language": "it",
+  "sourceFile": "reference/vocabulary/italian/Lesson-02-A1.txt",
+  "lessonNumber": 2,
+  "level": "A1",
+  "entries": [
+    {
+      "row": 1,
+      "sourceKey": "italian-Lesson-02-A1:001",
+      "word": "Come va?",
+      "meaningFa": "اوضاع چطور است؟؛ چطوری؟",
+      "additionalExamples": [
+        {
+          "it": "Marco, come va?",
+          "fa": "مارکو، اوضاع چطور است؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Ciao Elena, come va? Hai tempo per un caffè?",
+          "fa": "سلام النا، چطوری؟ برای یک قهوه وقت داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "sourceKey": "italian-Lesson-02-A1:002",
+      "word": "ti presento…",
+      "meaningFa": "تو را با … آشنا می‌کنم؛ خودمانی",
+      "additionalExamples": [
+        {
+          "it": "Giulia, ti presento mio fratello.",
+          "fa": "جولیا، تو را با برادرم آشنا می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Dopo il corso ti presento Luca.",
+          "fa": "پس از کلاس تو را با لوکا آشنا می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "sourceKey": "italian-Lesson-02-A1:003",
+      "word": "che lavoro fai?",
+      "meaningFa": "چه شغلی داری؟؛ خودمانی",
+      "additionalExamples": [
+        {
+          "it": "Paolo, che lavoro fai?",
+          "fa": "پائولو، چه شغلی داری؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Scusa, che lavoro fai? Sei cuoco?",
+          "fa": "ببخش، چه شغلی داری؟ آشپز هستی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "sourceKey": "italian-Lesson-02-A1:004",
+      "word": "dove lavori?",
+      "meaningFa": "کجا کار می‌کنی؟؛ خودمانی",
+      "additionalExamples": [
+        {
+          "it": "Anna, dove lavori?",
+          "fa": "آنا، کجا کار می‌کنی؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Tu studi a Roma, ma dove lavori?",
+          "fa": "تو در رم درس می‌خوانی، اما کجا کار می‌کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "sourceKey": "italian-Lesson-02-A1:005",
+      "word": "dove abiti?",
+      "meaningFa": "کجا زندگی می‌کنی؟؛ خودمانی",
+      "additionalExamples": [
+        {
+          "it": "Carlo, dove abiti?",
+          "fa": "کارلو، کجا زندگی می‌کنی؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Scusa, dove abiti? Vicino alla scuola?",
+          "fa": "ببخش، کجا زندگی می‌کنی؟ نزدیک مدرسه؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "sourceKey": "italian-Lesson-02-A1:006",
+      "word": "sei di qui?",
+      "meaningFa": "اهل اینجا هستی؟؛ خودمانی",
+      "additionalExamples": [
+        {
+          "it": "Ciao, sei di qui?",
+          "fa": "سلام، اهل اینجا هستی؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Tu conosci bene questa città: sei di qui?",
+          "fa": "تو این شهر را خوب می‌شناسی؛ اهل اینجا هستی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "sourceKey": "italian-Lesson-02-A1:007",
+      "word": "quanti anni hai?",
+      "meaningFa": "چند سال داری؟؛ خودمانی",
+      "additionalExamples": [
+        {
+          "it": "Luca, quanti anni hai?",
+          "fa": "لوکا، چند سال داری؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Io ho venti anni. E tu, quanti anni hai?",
+          "fa": "من بیست سال دارم. و تو چند سال داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "sourceKey": "italian-Lesson-02-A1:008",
+      "word": "oggi",
+      "meaningFa": "امروز",
+      "additionalExamples": [
+        {
+          "it": "Oggi studio a casa.",
+          "fa": "امروز در خانه درس می‌خوانم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Non lavoro oggi: vado al mare.",
+          "fa": "امروز کار نمی‌کنم؛ به کنار دریا می‌روم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 9,
+      "sourceKey": "italian-Lesson-02-A1:009",
+      "word": "proprio",
+      "meaningFa": "واقعاً؛ درست؛ در این بافت برای تأکید",
+      "additionalExamples": [
+        {
+          "it": "Oggi sto proprio bene.",
+          "fa": "امروز واقعاً حالم خوب است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questa pizza è proprio buona.",
+          "fa": "این پیتزا واقعاً خوشمزه است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 10,
+      "sourceKey": "italian-Lesson-02-A1:010",
+      "word": "male",
+      "meaningFa": "بد؛ ناخوش؛ در بیان حال",
+      "additionalExamples": [
+        {
+          "it": "Mi dispiace, oggi sto male.",
+          "fa": "متأسفم، امروز حالم بد است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Quando dormo poco, sto male.",
+          "fa": "وقتی کم می‌خوابم، حالم بد می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 11,
+      "sourceKey": "italian-Lesson-02-A1:011",
+      "word": "bene",
+      "meaningFa": "خوب؛ به‌خوبی",
+      "additionalExamples": [
+        {
+          "it": "Con questo insegnante imparo bene.",
+          "fa": "با این معلم خوب یاد می‌گیرم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Mia sorella parla bene il francese.",
+          "fa": "خواهرم به‌خوبی فرانسوی صحبت می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 12,
+      "sourceKey": "italian-Lesson-02-A1:012",
+      "word": "grazie",
+      "meaningFa": "ممنون؛ متشکرم",
+      "additionalExamples": [
+        {
+          "it": "Grazie per il tuo aiuto!",
+          "fa": "ممنون بابت کمکت!",
+          "origin": "authored"
+        },
+        {
+          "it": "Un caffè, grazie.",
+          "fa": "یک قهوه، لطفاً؛ ممنون.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "sourceKey": "italian-Lesson-02-A1:013",
+      "word": "come sta?",
+      "meaningFa": "حالتان چطور است؟؛ محترمانه",
+      "additionalExamples": [
+        {
+          "it": "Buongiorno dottore, come sta?",
+          "fa": "صبح بخیر دکتر، حالتان چطور است؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Signora Rossi, come sta? Sta bene?",
+          "fa": "خانم روسی، حالتان چطور است؟ خوب هستید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 14,
+      "sourceKey": "italian-Lesson-02-A1:014",
+      "word": "mi dispiace",
+      "meaningFa": "متأسفم؛ از شنیدنش ناراحت شدم",
+      "additionalExamples": [
+        {
+          "it": "Mi dispiace, oggi non posso venire.",
+          "fa": "متأسفم، امروز نمی‌توانم بیایم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Mi dispiace per il ritardo.",
+          "fa": "بابت تأخیر متأسفم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 15,
+      "sourceKey": "italian-Lesson-02-A1:015",
+      "word": "benissimo",
+      "meaningFa": "خیلی خوب؛ عالی",
+      "additionalExamples": [
+        {
+          "it": "Dopo una notte di riposo sto benissimo.",
+          "fa": "بعد از یک شب استراحت حالم عالی است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Leggi benissimo questo testo italiano.",
+          "fa": "این متن ایتالیایی را خیلی خوب می‌خوانی.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 16,
+      "sourceKey": "italian-Lesson-02-A1:016",
+      "word": "non c’è male",
+      "meaningFa": "بد نیست؛ در بیان حال",
+      "additionalExamples": [
+        {
+          "it": "Oggi non c’è male, grazie.",
+          "fa": "امروز بد نیستم، ممنون.",
+          "origin": "authored"
+        },
+        {
+          "it": "Come va? Non c’è male, ma ho sonno.",
+          "fa": "چطوری؟ بد نیستم، ولی خوابم می‌آید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 17,
+      "sourceKey": "italian-Lesson-02-A1:017",
+      "word": "presentare",
+      "meaningFa": "معرفی‌کردن؛ آشناکردن افراد با یکدیگر",
+      "additionalExamples": [
+        {
+          "it": "Voglio presentare mia sorella ai miei amici.",
+          "fa": "می‌خواهم خواهرم را به دوستانم معرفی کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Posso presentare il nuovo collega?",
+          "fa": "می‌توانم همکار جدید را معرفی کنم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 18,
+      "sourceKey": "italian-Lesson-02-A1:018",
+      "word": "molto lieto / molto lieta",
+      "meaningFa": "بسیار خوشوقتم؛ گفتهٔ مرد / گفتهٔ زن",
+      "additionalExamples": [
+        {
+          "it": "Molto lieto, sono il nuovo vicino.",
+          "fa": "بسیار خوشوقتم، من همسایهٔ جدید هستم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Buonasera, molto lieto di conoscerLa.",
+          "fa": "عصر بخیر، از آشنایی با شما بسیار خوشوقتم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 19,
+      "sourceKey": "italian-Lesson-02-A1:019",
+      "word": "stare",
+      "meaningFa": "حال‌داشتن؛ بودن در یک وضعیت",
+      "additionalExamples": [
+        {
+          "it": "Per stare bene, dormo otto ore.",
+          "fa": "برای اینکه حالم خوب باشد، هشت ساعت می‌خوابم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Mi piace stare con la mia famiglia.",
+          "fa": "دوست دارم کنار خانواده‌ام باشم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 20,
+      "sourceKey": "italian-Lesson-02-A1:020",
+      "word": "questo / questa",
+      "meaningFa": "این؛ صورت مذکر / مؤنث",
+      "additionalExamples": [
+        {
+          "it": "Questo è il mio quaderno.",
+          "fa": "این دفتر من است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questo è Paolo, il mio vicino.",
+          "fa": "این پائولو، همسایهٔ من است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 21,
+      "sourceKey": "italian-Lesson-02-A1:021",
+      "word": "l’amico / l’amica",
+      "meaningFa": "دوست؛ دوست مرد / دوست زن",
+      "additionalExamples": [
+        {
+          "it": "Il mio amico abita vicino al parco.",
+          "fa": "دوست من نزدیک پارک زندگی می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Vado al cinema con un amico.",
+          "fa": "با یک دوست به سینما می‌روم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 22,
+      "sourceKey": "italian-Lesson-02-A1:022",
+      "word": "parlare",
+      "meaningFa": "صحبت‌کردن؛ سخن‌گفتن",
+      "additionalExamples": [
+        {
+          "it": "Voglio parlare con la segretaria.",
+          "fa": "می‌خواهم با منشی صحبت کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Sai parlare italiano?",
+          "fa": "می‌توانی ایتالیایی صحبت کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 23,
+      "sourceKey": "italian-Lesson-02-A1:023",
+      "word": "molto",
+      "meaningFa": "خیلی؛ بسیار",
+      "additionalExamples": [
+        {
+          "it": "Questo libro mi piace molto.",
+          "fa": "این کتاب را خیلی دوست دارم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Luca lavora molto durante la settimana.",
+          "fa": "لوکا در طول هفته زیاد کار می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 24,
+      "sourceKey": "italian-Lesson-02-A1:024",
+      "word": "l’italiano",
+      "meaningFa": "زبان ایتالیایی",
+      "additionalExamples": [
+        {
+          "it": "Studio italiano in una piccola scuola.",
+          "fa": "در یک آموزشگاه کوچک، زبان ایتالیایی می‌خوانم.",
+          "origin": "authored"
+        },
+        {
+          "it": "A casa ascolto la radio in italiano.",
+          "fa": "در خانه رادیو را به زبان ایتالیایی گوش می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 25,
+      "sourceKey": "italian-Lesson-02-A1:025",
+      "word": "invece",
+      "meaningFa": "در مقابل؛ اما؛ برعکس",
+      "additionalExamples": [
+        {
+          "it": "Io studio, mia sorella invece lavora.",
+          "fa": "من درس می‌خوانم؛ در مقابل خواهرم کار می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Non prendo il tè, invece bevo un caffè.",
+          "fa": "چای نمی‌خورم؛ در عوض یک قهوه می‌نوشم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 26,
+      "sourceKey": "italian-Lesson-02-A1:026",
+      "word": "purtroppo",
+      "meaningFa": "متأسفانه",
+      "additionalExamples": [
+        {
+          "it": "Purtroppo il negozio è chiuso.",
+          "fa": "متأسفانه مغازه بسته است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Oggi purtroppo non ho tempo.",
+          "fa": "امروز متأسفانه وقت ندارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 27,
+      "sourceKey": "italian-Lesson-02-A1:027",
+      "word": "il portoghese",
+      "meaningFa": "زبان پرتغالی",
+      "additionalExamples": [
+        {
+          "it": "Il portoghese è la lingua di Ana.",
+          "fa": "پرتغالی زبان آنا است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Ascolto una canzone in portoghese.",
+          "fa": "به یک ترانهٔ پرتغالی گوش می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 28,
+      "sourceKey": "italian-Lesson-02-A1:028",
+      "word": "chi",
+      "meaningFa": "چه کسی؛ کی",
+      "additionalExamples": [
+        {
+          "it": "Chi lavora in questa farmacia?",
+          "fa": "چه کسی در این داروخانه کار می‌کند؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Non so chi è il nuovo insegnante.",
+          "fa": "نمی‌دانم معلم جدید کیست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 29,
+      "sourceKey": "italian-Lesson-02-A1:029",
+      "word": "lingua",
+      "meaningFa": "زبان",
+      "additionalExamples": [
+        {
+          "it": "Ogni lingua ha parole interessanti.",
+          "fa": "هر زبان واژه‌های جالبی دارد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Quale lingua parli con i tuoi amici?",
+          "fa": "با دوستانت به چه زبانی صحبت می‌کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 30,
+      "sourceKey": "italian-Lesson-02-A1:030",
+      "word": "l’olandese",
+      "meaningFa": "زبان هلندی",
+      "additionalExamples": [
+        {
+          "it": "Mio fratello studia olandese.",
+          "fa": "برادرم زبان هلندی می‌خواند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questa lettera è in olandese.",
+          "fa": "این نامه به زبان هلندی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 31,
+      "sourceKey": "italian-Lesson-02-A1:031",
+      "word": "l’inglese",
+      "meaningFa": "زبان انگلیسی",
+      "additionalExamples": [
+        {
+          "it": "Al lavoro parlo inglese con i clienti.",
+          "fa": "در محل کار با مشتریان به زبان انگلیسی صحبت می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il menu è anche in inglese.",
+          "fa": "منو به زبان انگلیسی هم هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 32,
+      "sourceKey": "italian-Lesson-02-A1:032",
+      "word": "il russo",
+      "meaningFa": "زبان روسی",
+      "additionalExamples": [
+        {
+          "it": "Il mio insegnante parla russo.",
+          "fa": "معلم من روسی صحبت می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Cerco un libro in russo.",
+          "fa": "دنبال کتابی به زبان روسی می‌گردم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 33,
+      "sourceKey": "italian-Lesson-02-A1:033",
+      "word": "il francese",
+      "meaningFa": "زبان فرانسوی",
+      "additionalExamples": [
+        {
+          "it": "La sera studio francese con un amico.",
+          "fa": "عصرها همراه یک دوست، زبان فرانسوی می‌خوانم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questo film è in francese.",
+          "fa": "این فیلم به زبان فرانسوی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 34,
+      "sourceKey": "italian-Lesson-02-A1:034",
+      "word": "il greco",
+      "meaningFa": "زبان یونانی",
+      "additionalExamples": [
+        {
+          "it": "Marta impara il greco a scuola.",
+          "fa": "مارتا در مدرسه زبان یونانی یاد می‌گیرد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Sai leggere questo nome in greco?",
+          "fa": "می‌توانی این نام را به یونانی بخوانی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 35,
+      "sourceKey": "italian-Lesson-02-A1:035",
+      "word": "lo spagnolo",
+      "meaningFa": "زبان اسپانیایی",
+      "additionalExamples": [
+        {
+          "it": "Nel mio corso impariamo lo spagnolo.",
+          "fa": "در کلاس من زبان اسپانیایی یاد می‌گیریم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Con Pablo parlo sempre spagnolo.",
+          "fa": "با پابلو همیشه اسپانیایی صحبت می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 36,
+      "sourceKey": "italian-Lesson-02-A1:036",
+      "word": "lo svedese",
+      "meaningFa": "زبان سوئدی",
+      "additionalExamples": [
+        {
+          "it": "Lo svedese è una lingua nuova per me.",
+          "fa": "سوئدی برای من زبانی تازه است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questa parola è in svedese.",
+          "fa": "این واژه به زبان سوئدی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 37,
+      "sourceKey": "italian-Lesson-02-A1:037",
+      "word": "il tedesco",
+      "meaningFa": "زبان آلمانی",
+      "additionalExamples": [
+        {
+          "it": "Studio tedesco per il mio lavoro.",
+          "fa": "برای کارم زبان آلمانی می‌خوانم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il mio vicino parla tedesco e italiano.",
+          "fa": "همسایهٔ من آلمانی و ایتالیایی صحبت می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 38,
+      "sourceKey": "italian-Lesson-02-A1:038",
+      "word": "la festa",
+      "meaningFa": "مهمانی؛ جشن",
+      "additionalExamples": [
+        {
+          "it": "Sabato andiamo a una festa.",
+          "fa": "شنبه به یک مهمانی می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "it": "La festa inizia alle otto.",
+          "fa": "مهمانی ساعت هشت شروع می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 39,
+      "sourceKey": "italian-Lesson-02-A1:039",
+      "word": "la libreria",
+      "meaningFa": "کتاب‌فروشی",
+      "additionalExamples": [
+        {
+          "it": "Compro un dizionario in libreria.",
+          "fa": "در کتاب‌فروشی یک فرهنگ لغت می‌خرم.",
+          "origin": "authored"
+        },
+        {
+          "it": "La libreria vicino a casa è aperta.",
+          "fa": "کتاب‌فروشی نزدیک خانه باز است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 40,
+      "sourceKey": "italian-Lesson-02-A1:040",
+      "word": "abitare",
+      "meaningFa": "زندگی‌کردن؛ ساکن‌بودن",
+      "additionalExamples": [
+        {
+          "it": "Voglio abitare vicino alla stazione.",
+          "fa": "می‌خواهم نزدیک ایستگاه زندگی کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Ti piace abitare in questa città?",
+          "fa": "دوست داری در این شهر زندگی کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 41,
+      "sourceKey": "italian-Lesson-02-A1:041",
+      "word": "qui",
+      "meaningFa": "اینجا",
+      "additionalExamples": [
+        {
+          "it": "Aspetto qui davanti alla scuola.",
+          "fa": "اینجا جلوی مدرسه منتظر می‌مانم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Puoi sederti qui accanto a me.",
+          "fa": "می‌توانی اینجا کنار من بنشینی.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 42,
+      "sourceKey": "italian-Lesson-02-A1:042",
+      "word": "lavorare",
+      "meaningFa": "کارکردن",
+      "additionalExamples": [
+        {
+          "it": "Domani devo lavorare in ufficio.",
+          "fa": "فردا باید در اداره کار کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Mi piace lavorare con altre persone.",
+          "fa": "دوست دارم با افراد دیگر کار کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 43,
+      "sourceKey": "italian-Lesson-02-A1:043",
+      "word": "la scuola",
+      "meaningFa": "مدرسه؛ آموزشگاه",
+      "additionalExamples": [
+        {
+          "it": "La scuola è vicino alla fermata.",
+          "fa": "مدرسه نزدیک ایستگاه است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Accompagno mio figlio a scuola.",
+          "fa": "پسرم را به مدرسه می‌رسانم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 44,
+      "sourceKey": "italian-Lesson-02-A1:044",
+      "word": "la segretaria",
+      "meaningFa": "منشی زن",
+      "additionalExamples": [
+        {
+          "it": "La segretaria risponde al telefono.",
+          "fa": "منشی به تلفن پاسخ می‌دهد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Chiedo un appuntamento alla segretaria.",
+          "fa": "از منشی وقت ملاقات می‌خواهم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 45,
+      "sourceKey": "italian-Lesson-02-A1:045",
+      "word": "fare",
+      "meaningFa": "انجام‌دادن؛ در این بافت به کاری مشغول‌بودن",
+      "additionalExamples": [
+        {
+          "it": "Oggi devo fare la spesa.",
+          "fa": "امروز باید خرید کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Che cosa vuoi fare dopo il corso?",
+          "fa": "بعد از کلاس می‌خواهی چه کار کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 46,
+      "sourceKey": "italian-Lesson-02-A1:046",
+      "word": "impiegato / impiegata",
+      "meaningFa": "کارمند اداری؛ صورت مذکر / مؤنث",
+      "additionalExamples": [
+        {
+          "it": "L'impiegato controlla i documenti.",
+          "fa": "کارمند مدارک را بررسی می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Mio zio è impiegato in banca.",
+          "fa": "عمویم کارمند بانک است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 47,
+      "sourceKey": "italian-Lesson-02-A1:047",
+      "word": "l’agenzia",
+      "meaningFa": "آژانس؛ مؤسسهٔ خدماتی",
+      "additionalExamples": [
+        {
+          "it": "Cerco una casa con un'agenzia.",
+          "fa": "با کمک یک آژانس دنبال خانه می‌گردم.",
+          "origin": "authored"
+        },
+        {
+          "it": "L'agenzia apre alle nove.",
+          "fa": "آژانس ساعت نه باز می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 48,
+      "sourceKey": "italian-Lesson-02-A1:048",
+      "word": "lo studio",
+      "meaningFa": "استودیو؛ دفتر کار تخصصی",
+      "additionalExamples": [
+        {
+          "it": "Il fotografo lavora in uno studio.",
+          "fa": "عکاس در یک استودیو کار می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Lo studio del dentista è al primo piano.",
+          "fa": "مطب دندان‌پزشک در طبقهٔ اول است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 49,
+      "sourceKey": "italian-Lesson-02-A1:049",
+      "word": "l’ufficio",
+      "meaningFa": "دفتر کار؛ اداره",
+      "additionalExamples": [
+        {
+          "it": "Il mio ufficio è piccolo ma luminoso.",
+          "fa": "دفتر کارم کوچک ولی روشن است.",
+          "origin": "authored"
+        },
+        {
+          "it": "Arrivo in ufficio alle otto e mezza.",
+          "fa": "ساعت هشت‌ونیم به اداره می‌رسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 50,
+      "sourceKey": "italian-Lesson-02-A1:050",
+      "word": "la fabbrica",
+      "meaningFa": "کارخانه",
+      "additionalExamples": [
+        {
+          "it": "Mio padre lavora in una fabbrica.",
+          "fa": "پدرم در یک کارخانه کار می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "it": "La fabbrica è fuori città.",
+          "fa": "کارخانه بیرون شهر است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 51,
+      "sourceKey": "italian-Lesson-02-A1:051",
+      "word": "la farmacia",
+      "meaningFa": "داروخانه",
+      "additionalExamples": [
+        {
+          "it": "Vado in farmacia per una medicina.",
+          "fa": "برای یک دارو به داروخانه می‌روم.",
+          "origin": "authored"
+        },
+        {
+          "it": "La farmacia è accanto al supermercato.",
+          "fa": "داروخانه کنار سوپرمارکت است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 52,
+      "sourceKey": "italian-Lesson-02-A1:052",
+      "word": "il negozio",
+      "meaningFa": "مغازه؛ فروشگاه",
+      "additionalExamples": [
+        {
+          "it": "Questo negozio vende scarpe.",
+          "fa": "این مغازه کفش می‌فروشد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Lavoro in un negozio di vestiti.",
+          "fa": "در یک فروشگاه لباس کار می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 53,
+      "sourceKey": "italian-Lesson-02-A1:053",
+      "word": "il ristorante",
+      "meaningFa": "رستوران",
+      "additionalExamples": [
+        {
+          "it": "Stasera mangiamo in un ristorante italiano.",
+          "fa": "امشب در یک رستوران ایتالیایی غذا می‌خوریم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il ristorante chiude alle undici.",
+          "fa": "رستوران ساعت یازده بسته می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 54,
+      "sourceKey": "italian-Lesson-02-A1:054",
+      "word": "l’avvocato / l’avvocata",
+      "meaningFa": "وکیل؛ صورت مذکر / مؤنث",
+      "additionalExamples": [
+        {
+          "it": "Parlo con un avvocato dei miei documenti.",
+          "fa": "دربارهٔ مدارکم با یک وکیل صحبت می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "L'avvocato ha un appuntamento alle dieci.",
+          "fa": "وکیل ساعت ده یک قرار دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 55,
+      "sourceKey": "italian-Lesson-02-A1:055",
+      "word": "il giornalista / la giornalista",
+      "meaningFa": "روزنامه‌نگار؛ مرد / زن",
+      "additionalExamples": [
+        {
+          "it": "Il giornalista scrive un articolo.",
+          "fa": "روزنامه‌نگار یک مقاله می‌نویسد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Un giornalista fa domande al sindaco.",
+          "fa": "یک روزنامه‌نگار از شهردار سؤال می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 56,
+      "sourceKey": "italian-Lesson-02-A1:056",
+      "word": "il farmacista / la farmacista",
+      "meaningFa": "داروساز؛ مرد / زن",
+      "additionalExamples": [
+        {
+          "it": "Il farmacista mi spiega come prendere la medicina.",
+          "fa": "داروساز برایم توضیح می‌دهد چطور دارو را مصرف کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Chiedo un consiglio al farmacista.",
+          "fa": "از داروساز راهنمایی می‌خواهم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 57,
+      "sourceKey": "italian-Lesson-02-A1:057",
+      "word": "il commesso / la commessa",
+      "meaningFa": "فروشندهٔ فروشگاه؛ مرد / زن",
+      "additionalExamples": [
+        {
+          "it": "Il commesso aiuta una cliente.",
+          "fa": "فروشنده به یک مشتری کمک می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Chiedo il prezzo al commesso.",
+          "fa": "قیمت را از فروشنده می‌پرسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 58,
+      "sourceKey": "italian-Lesson-02-A1:058",
+      "word": "l’infermiere / l’infermiera",
+      "meaningFa": "پرستار؛ صورت مذکر / مؤنث",
+      "additionalExamples": [
+        {
+          "it": "Un infermiere lavora di notte in ospedale.",
+          "fa": "یک پرستار شب‌ها در بیمارستان کار می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "it": "L'infermiere porta una coperta al paziente.",
+          "fa": "پرستار برای بیمار یک پتو می‌آورد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 59,
+      "sourceKey": "italian-Lesson-02-A1:059",
+      "word": "l’operaio / l’operaia",
+      "meaningFa": "کارگر؛ صورت مذکر / مؤنث",
+      "additionalExamples": [
+        {
+          "it": "Un operaio entra in fabbrica alle sette.",
+          "fa": "یک کارگر ساعت هفت وارد کارخانه می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "it": "L'operaio indossa un casco giallo.",
+          "fa": "کارگر یک کلاه ایمنی زرد به سر دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 60,
+      "sourceKey": "italian-Lesson-02-A1:060",
+      "word": "il cuoco / la cuoca",
+      "meaningFa": "آشپز؛ صورت مذکر / مؤنث",
+      "additionalExamples": [
+        {
+          "it": "Il cuoco prepara una zuppa calda.",
+          "fa": "آشپز یک سوپ گرم آماده می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Mio fratello fa il cuoco in un albergo.",
+          "fa": "برادرم در یک هتل آشپزی می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 61,
+      "sourceKey": "italian-Lesson-02-A1:061",
+      "word": "medico",
+      "meaningFa": "پزشک",
+      "additionalExamples": [
+        {
+          "it": "Devo parlare con il medico.",
+          "fa": "باید با پزشک صحبت کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il medico lavora in questo ospedale.",
+          "fa": "پزشک در این بیمارستان کار می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 62,
+      "sourceKey": "italian-Lesson-02-A1:062",
+      "word": "l’ospedale",
+      "meaningFa": "بیمارستان",
+      "additionalExamples": [
+        {
+          "it": "L'ospedale si trova vicino alla stazione.",
+          "fa": "بیمارستان نزدیک ایستگاه قرار دارد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Mia zia lavora in un ospedale.",
+          "fa": "خاله‌ام در یک بیمارستان کار می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 63,
+      "sourceKey": "italian-Lesson-02-A1:063",
+      "word": "il lavoro",
+      "meaningFa": "کار؛ شغل",
+      "additionalExamples": [
+        {
+          "it": "Cerco un lavoro vicino a casa.",
+          "fa": "دنبال یک کار نزدیک خانه می‌گردم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il mio lavoro comincia alle otto.",
+          "fa": "کار من ساعت هشت شروع می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 64,
+      "sourceKey": "italian-Lesson-02-A1:064",
+      "word": "lo studente",
+      "meaningFa": "دانشجو؛ زبان‌آموز مرد",
+      "additionalExamples": [
+        {
+          "it": "Lo studente legge un testo breve.",
+          "fa": "دانشجو یک متن کوتاه می‌خواند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Sono uno studente di italiano e abito a Torino.",
+          "fa": "من زبان‌آموزِ زبان ایتالیایی هستم و در تورین زندگی می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 65,
+      "sourceKey": "italian-Lesson-02-A1:065",
+      "word": "la camera",
+      "meaningFa": "اتاق",
+      "additionalExamples": [
+        {
+          "it": "La camera ha una finestra grande.",
+          "fa": "اتاق یک پنجرهٔ بزرگ دارد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Cerco una camera per due notti.",
+          "fa": "برای دو شب دنبال یک اتاق می‌گردم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 66,
+      "sourceKey": "italian-Lesson-02-A1:066",
+      "word": "la famiglia",
+      "meaningFa": "خانواده",
+      "additionalExamples": [
+        {
+          "it": "La mia famiglia abita in una casa grande.",
+          "fa": "خانوادهٔ من در یک خانهٔ بزرگ زندگی می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Domenica pranzo con la famiglia.",
+          "fa": "یکشنبه با خانواده ناهار می‌خورم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 67,
+      "sourceKey": "italian-Lesson-02-A1:067",
+      "word": "la conversazione",
+      "meaningFa": "گفت‌وگو؛ مکالمهٔ تعاملی",
+      "additionalExamples": [
+        {
+          "it": "Durante la pausa facciamo conversazione in italiano.",
+          "fa": "در زمان استراحت به ایتالیایی گفت‌وگو می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questa conversazione mi aiuta a imparare parole nuove.",
+          "fa": "این گفت‌وگو به من کمک می‌کند واژه‌های تازه یاد بگیرم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 68,
+      "sourceKey": "italian-Lesson-02-A1:068",
+      "word": "la stanza",
+      "meaningFa": "اتاق؛ فضای اتاق",
+      "additionalExamples": [
+        {
+          "it": "La stanza di mia sorella è al piano di sopra.",
+          "fa": "اتاق خواهرم در طبقهٔ بالا است.",
+          "origin": "authored"
+        },
+        {
+          "it": "In questa stanza ci sono due letti.",
+          "fa": "در این اتاق دو تخت وجود دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 69,
+      "sourceKey": "italian-Lesson-02-A1:069",
+      "word": "libera",
+      "meaningFa": "خالی؛ آزاد؛ صورت مؤنث در وصف اتاق",
+      "additionalExamples": [
+        {
+          "it": "Questa camera è libera da domani.",
+          "fa": "این اتاق از فردا خالی است.",
+          "origin": "authored"
+        },
+        {
+          "it": "La sedia vicino alla finestra è libera.",
+          "fa": "صندلی کنار پنجره خالی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 70,
+      "sourceKey": "italian-Lesson-02-A1:070",
+      "word": "avere bisogno di",
+      "meaningFa": "به … نیاز داشتن",
+      "additionalExamples": [
+        {
+          "it": "È normale avere bisogno di aiuto.",
+          "fa": "طبیعی است که به کمک نیاز داشته باشی.",
+          "origin": "authored"
+        },
+        {
+          "it": "Anche tu puoi avere bisogno di una pausa.",
+          "fa": "تو هم ممکن است به استراحت نیاز داشته باشی.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 71,
+      "sourceKey": "italian-Lesson-02-A1:071",
+      "word": "figlio / figlia",
+      "meaningFa": "پسر یا دخترِ کسی؛ فرزند",
+      "additionalExamples": [
+        {
+          "it": "Il figlio di Marco ha cinque anni.",
+          "fa": "پسر مارکو پنج سال دارد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Mio figlio frequenta questa scuola.",
+          "fa": "پسرم به این مدرسه می‌رود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 72,
+      "sourceKey": "italian-Lesson-02-A1:072",
+      "word": "l’insegnante",
+      "meaningFa": "معلم؛ در این نمونه زن",
+      "additionalExamples": [
+        {
+          "it": "La nostra insegnante parla lentamente.",
+          "fa": "معلم ما آهسته صحبت می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Un'insegnante ci aiuta con gli esercizi.",
+          "fa": "یک معلم زن در تمرین‌ها به ما کمک می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 73,
+      "sourceKey": "italian-Lesson-02-A1:073",
+      "word": "studiare",
+      "meaningFa": "درس‌خواندن؛ تحصیل‌کردن؛ مطالعه‌کردن",
+      "additionalExamples": [
+        {
+          "it": "Voglio studiare medicina a Bologna.",
+          "fa": "می‌خواهم در بولونیا پزشکی بخوانم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Per studiare bene ho bisogno di silenzio.",
+          "fa": "برای خوب درس‌خواندن به سکوت نیاز دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 74,
+      "sourceKey": "italian-Lesson-02-A1:074",
+      "word": "cercare",
+      "meaningFa": "جست‌وجوکردن؛ دنبال چیزی گشتن",
+      "additionalExamples": [
+        {
+          "it": "Devo cercare le chiavi nella borsa.",
+          "fa": "باید در کیف دنبال کلیدها بگردم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Puoi cercare l'indirizzo sulla mappa.",
+          "fa": "می‌توانی نشانی را روی نقشه جست‌وجو کنی.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 75,
+      "sourceKey": "italian-Lesson-02-A1:075",
+      "word": "piccolo / piccola",
+      "meaningFa": "کوچک؛ صورت مذکر / مؤنث",
+      "additionalExamples": [
+        {
+          "it": "Abito in un piccolo appartamento.",
+          "fa": "در یک آپارتمان کوچک زندگی می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questo negozio è piccolo ma molto bello.",
+          "fa": "این مغازه کوچک ولی خیلی زیبا است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 76,
+      "sourceKey": "italian-Lesson-02-A1:076",
+      "word": "venti",
+      "meaningFa": "بیست",
+      "additionalExamples": [
+        {
+          "it": "Mia sorella ha venti anni.",
+          "fa": "خواهرم بیست سال دارد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il corso costa venti euro.",
+          "fa": "کلاس بیست یورو هزینه دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 77,
+      "sourceKey": "italian-Lesson-02-A1:077",
+      "word": "trenta",
+      "meaningFa": "سی",
+      "additionalExamples": [
+        {
+          "it": "Il treno parte tra trenta minuti.",
+          "fa": "قطار سی دقیقهٔ دیگر حرکت می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Mio fratello ha trenta anni.",
+          "fa": "برادرم سی سال دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 78,
+      "sourceKey": "italian-Lesson-02-A1:078",
+      "word": "quaranta",
+      "meaningFa": "چهل",
+      "additionalExamples": [
+        {
+          "it": "In questo corso ci sono quaranta studenti.",
+          "fa": "در این دوره چهل دانشجو هست.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il biglietto costa quaranta euro.",
+          "fa": "بلیط چهل یورو قیمت دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 79,
+      "sourceKey": "italian-Lesson-02-A1:079",
+      "word": "cinquanta",
+      "meaningFa": "پنجاه",
+      "additionalExamples": [
+        {
+          "it": "Mio zio ha cinquanta anni.",
+          "fa": "عمویم پنجاه سال دارد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Ho cinquanta euro nel portafoglio.",
+          "fa": "پنجاه یورو در کیف پولم دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 80,
+      "sourceKey": "italian-Lesson-02-A1:080",
+      "word": "sessanta",
+      "meaningFa": "شصت",
+      "additionalExamples": [
+        {
+          "it": "Un'ora ha sessanta minuti.",
+          "fa": "یک ساعت شصت دقیقه دارد.",
+          "origin": "authored"
+        },
+        {
+          "it": "La nonna festeggia sessanta anni di matrimonio.",
+          "fa": "مادربزرگ شصت سال زندگی مشترک را جشن می‌گیرد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 81,
+      "sourceKey": "italian-Lesson-02-A1:081",
+      "word": "settanta",
+      "meaningFa": "هفتاد",
+      "additionalExamples": [
+        {
+          "it": "Questo libro ha settanta pagine.",
+          "fa": "این کتاب هفتاد صفحه دارد.",
+          "origin": "authored"
+        },
+        {
+          "it": "La giacca costa settanta euro.",
+          "fa": "کت هفتاد یورو قیمت دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 82,
+      "sourceKey": "italian-Lesson-02-A1:082",
+      "word": "ottanta",
+      "meaningFa": "هشتاد",
+      "additionalExamples": [
+        {
+          "it": "Mio nonno ha ottanta anni.",
+          "fa": "پدربزرگم هشتاد سال دارد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Il viaggio dura ottanta minuti.",
+          "fa": "سفر هشتاد دقیقه طول می‌کشد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 83,
+      "sourceKey": "italian-Lesson-02-A1:083",
+      "word": "novanta",
+      "meaningFa": "نود",
+      "additionalExamples": [
+        {
+          "it": "La partita dura novanta minuti.",
+          "fa": "بازی نود دقیقه طول می‌کشد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Questo tavolo costa novanta euro.",
+          "fa": "این میز نود یورو قیمت دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 84,
+      "sourceKey": "italian-Lesson-02-A1:084",
+      "word": "cento",
+      "meaningFa": "صد",
+      "additionalExamples": [
+        {
+          "it": "La scuola ha cento studenti.",
+          "fa": "مدرسه صد دانش‌آموز دارد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Risparmio cento euro per il viaggio.",
+          "fa": "برای سفر صد یورو پس‌انداز می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 85,
+      "sourceKey": "italian-Lesson-02-A1:085",
+      "word": "anni",
+      "meaningFa": "سال‌ها؛ برای بیان سن",
+      "additionalExamples": [
+        {
+          "it": "Lavoro qui da tre anni.",
+          "fa": "سه سال است اینجا کار می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Quanti anni ha tua sorella?",
+          "fa": "خواهرت چند سال دارد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 86,
+      "sourceKey": "italian-Lesson-02-A1:086",
+      "word": "l’età",
+      "meaningFa": "سن",
+      "additionalExamples": [
+        {
+          "it": "Non conosco la tua età.",
+          "fa": "سن تو را نمی‌دانم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Abbiamo la stessa età.",
+          "fa": "ما هم‌سن هستیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 87,
+      "sourceKey": "italian-Lesson-02-A1:087",
+      "word": "indovinare",
+      "meaningFa": "حدس‌زدن",
+      "additionalExamples": [
+        {
+          "it": "Puoi indovinare la mia età?",
+          "fa": "می‌توانی سن مرا حدس بزنی؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Provo a indovinare il numero.",
+          "fa": "سعی می‌کنم عدد را حدس بزنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 88,
+      "sourceKey": "italian-Lesson-02-A1:088",
+      "word": "lo straniero / la straniera",
+      "meaningFa": "خارجی؛ فرد خارجی مرد / زن",
+      "additionalExamples": [
+        {
+          "it": "Lo straniero chiede un'informazione.",
+          "fa": "آن مرد خارجی یک راهنمایی می‌خواهد.",
+          "origin": "authored"
+        },
+        {
+          "it": "Aiuto uno straniero a trovare la stazione.",
+          "fa": "به یک مرد خارجی کمک می‌کنم ایستگاه را پیدا کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 89,
+      "sourceKey": "italian-Lesson-02-A1:089",
+      "word": "a",
+      "meaningFa": "در؛ برای بیان محل با نام شهر",
+      "additionalExamples": [
+        {
+          "it": "Mia sorella abita a Milano.",
+          "fa": "خواهرم در میلان زندگی می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "it": "Domani vado a Roma.",
+          "fa": "فردا به رم می‌روم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 90,
+      "sourceKey": "italian-Lesson-02-A1:090",
+      "word": "in",
+      "meaningFa": "در؛ برای بیان محل با نام کشور",
+      "additionalExamples": [
+        {
+          "it": "Luca vive in Italia.",
+          "fa": "لوکا در ایتالیا زندگی می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "it": "La mia famiglia abita in Francia.",
+          "fa": "خانواده‌ام در فرانسه زندگی می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 91,
+      "sourceKey": "italian-Lesson-02-A1:091",
+      "word": "pronto?",
+      "meaningFa": "الو؟؛ هنگام پاسخ‌دادن به تلفن",
+      "additionalExamples": [
+        {
+          "it": "Pronto? Chi parla?",
+          "fa": "الو؟ چه کسی صحبت می‌کند؟",
+          "origin": "authored"
+        },
+        {
+          "it": "Pronto? Sono Anna, cerco Paolo.",
+          "fa": "الو؟ من آنا هستم، با پائولو کار دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "row": 92,
+      "sourceKey": "italian-Lesson-02-A1:092",
+      "word": "telefonare",
+      "meaningFa": "تلفن‌کردن",
+      "additionalExamples": [
+        {
+          "it": "Devo telefonare alla scuola.",
+          "fa": "باید به آموزشگاه تلفن کنم.",
+          "origin": "authored"
+        },
+        {
+          "it": "Posso telefonare a mia madre dopo il lavoro.",
+          "fa": "می‌توانم بعد از کار به مادرم تلفن کنم.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

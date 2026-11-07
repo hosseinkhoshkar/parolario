@@ -30,6 +30,13 @@ const ITALIAN_ARTICLES: readonly string[] = ['il', 'lo', 'la', "l'", 'i', 'gli',
 function hasArticle(entry: Entry): boolean {
   return entry.partOfSpeech === 'noun' && Boolean(entry.nounData?.article)
 }
+function distinctMeanings(ids: string[], bundle: ContentBundle): boolean {
+  const entries = ids.map(id => bundle.entries.find(entry => entry.entryId === id))
+  if (entries.some(entry => !entry)) return false
+  const meanings = entries.map(entry => entry!.meaningFa)
+  const groups = entries.flatMap(entry => entry!.meaningGroup ? [entry!.meaningGroup] : [])
+  return new Set(meanings).size === ids.length && new Set(groups).size === groups.length
+}
 
 /** Preserve the complete original-direction evidence checks using the active Italian contract. */
 function validateEvidenceState(value: unknown, bundle: ContentBundle): asserts value is AppState {
@@ -130,14 +137,16 @@ function validateEvidenceState(value: unknown, bundle: ContentBundle): asserts v
           || !uniqueStrings(task.leftOrder) || !uniqueStrings(task.rightOrder)
           || task.leftOrder.length !== 4 || task.rightOrder.length !== 4
           || task.leftOrder.some(id => !task.entryIds.includes(id)) || task.rightOrder.some(id => !task.entryIds.includes(id))
-          || !uniqueStrings(task.matchedEntryIds) || task.matchedEntryIds.some(id => !task.entryIds.includes(id))) fail()
+          || !uniqueStrings(task.matchedEntryIds) || task.matchedEntryIds.some(id => !task.entryIds.includes(id))
+          || !distinctMeanings(task.entryIds, bundle)) fail()
       } else {
         if (!known.has(task.entryId)) fail()
         if (task.kind === 'flashcard') {
           if (typeof task.revealed !== 'boolean') fail()
         } else if (task.kind === 'choose-meaning') {
           if (!uniqueStrings(task.optionIds) || task.optionIds.length !== 4
-            || !task.optionIds.includes(task.entryId) || task.optionIds.some(id => !known.has(id))) fail()
+            || !task.optionIds.includes(task.entryId) || task.optionIds.some(id => !known.has(id))
+            || !distinctMeanings(task.optionIds, bundle)) fail()
         } else if (task.kind === 'cloze' || task.kind === 'write-word') {
           if (!['initial', 'scheduled', 'recovery'].includes(task.cycleKind)) fail()
         } else if (task.kind === 'choose-article') {

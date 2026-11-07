@@ -1,5 +1,6 @@
 import type { ContentBundle } from '../contracts/index.ts'
 import { lessonBundles } from './lessons.ts'
+import repeatedOccurrences from './lesson-two-occurrences.json' with { type: 'json' }
 export { lessonBundles }
 /** Registry aggregation preserves independently sourced future lessons. */
 export function combineLessonBundles(bundles: ContentBundle[]): ContentBundle {
@@ -12,4 +13,20 @@ export function combineLessonBundles(bundles: ContentBundle[]): ContentBundle {
     provenance: { file: bundles.map(bundle => bundle.provenance.file).join('؛ '), reviewStatus: 'excerpt-checked',
       noteFa: bundles.map(bundle => bundle.provenance.noteFa).join(' ') } }
 }
-export const courseBundle: ContentBundle = combineLessonBundles(lessonBundles)
+/** Repeated source occurrences keep the original identity and all original examples. */
+function withRepeatedOccurrences(bundle: ContentBundle): ContentBundle {
+  const lessonId = 'it-a1-lesson-02'
+  const extraRefs = repeatedOccurrences.flatMap(row => row.refs.map((ref,index) => ({
+    sourceRefId: `${row.entryId}-lesson-02-ref-${index+1}`, sourceId: 'nuovo-espresso-1', lessonId, locator: ref.locator,
+  })))
+  const entries = bundle.entries.map(entry => {
+    const repeat = repeatedOccurrences.find(row => row.entryId === entry.entryId)
+    if (!repeat) return entry
+    const sourceRefIds = repeat.refs.map((_,index) => `${entry.entryId}-lesson-02-ref-${index+1}`)
+    return { ...entry, sourceRefIds: [...entry.sourceRefIds,...sourceRefIds],
+      occurrences: [...entry.occurrences,{ lessonId,sourceRefIds }] }
+  })
+  for (const row of repeatedOccurrences) if (!entries.some(entry => entry.entryId === row.entryId && entry.introducedInLessonId !== lessonId)) throw new Error(`Unknown repeated entry: ${row.entryId}`)
+  return { ...bundle, sourceRefs: [...bundle.sourceRefs,...extraRefs], entries }
+}
+export const courseBundle: ContentBundle = withRepeatedOccurrences(combineLessonBundles(lessonBundles))
