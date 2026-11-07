@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-26-B1.txt",
+  "lessonNumber": 26,
+  "level": "B1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-26-B1:001",
+      "row": 1,
+      "word": "der Antrag",
+      "meaningFa": "درخواست رسمی",
+      "additionalExamples": [
+        {
+          "de": "Den Antrag für den neuen Pass habe ich gestern beim Amt abgegeben.",
+          "fa": "درخواست رسمی گذرنامهٔ جدید را دیروز به اداره تحویل دادم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Lesen Sie den Antrag bitte genau durch und unterschreiben Sie ihn erst danach.",
+          "fa": "لطفاً درخواست را دقیق بخوانید و بعد آن را امضا کنید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-26-B1:002",
+      "row": 2,
+      "word": "der Arbeitgeber",
+      "meaningFa": "کارفرما",
+      "additionalExamples": [
+        {
+          "de": "Mein Arbeitgeber bietet mir eine Weiterbildung an.",
+          "fa": "کارفرمایم یک دورهٔ آموزش تکمیلی به من پیشنهاد می‌دهد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bei Problemen mit der Arbeitszeit möchte ich zuerst mit meinem Arbeitgeber sprechen.",
+          "fa": "اگر دربارهٔ ساعت کاری مشکلی پیش بیاید، می‌خواهم اول با کارفرمایم صحبت کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-26-B1:003",
+      "row": 3,
+      "word": "der Arbeitnehmer",
+      "meaningFa": "کارمند یا کارگر؛ نیروی شاغل",
+      "additionalExamples": [
+        {
+          "de": "Die Arbeitnehmer möchten früher erfahren, wann sie Urlaub nehmen können.",
+          "fa": "کارکنان می‌خواهند زودتر بدانند چه زمانی می‌توانند مرخصی بگیرند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Als Arbeitnehmer ist mir ein sicherer Arbeitsplatz besonders wichtig.",
+          "fa": "برای من به‌عنوان یک فرد شاغل، داشتن موقعیت کاری مطمئن اهمیت ویژه‌ای دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-26-B1:004",
+      "row": 4,
+      "word": "der Arbeitsvertrag",
+      "meaningFa": "قرارداد کار",
+      "additionalExamples": [
+        {
+          "de": "Ich habe meinen neuen Arbeitsvertrag in Ruhe zu Hause gelesen.",
+          "fa": "قرارداد کار جدیدم را با آرامش در خانه خواندم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Arbeitsvertrag steht, wie viele Stunden ich pro Woche arbeite.",
+          "fa": "در قرارداد کار نوشته شده است که هفته‌ای چند ساعت کار می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-26-B1:005",
+      "row": 5,
+      "word": "berufstätig",
+      "meaningFa": "شاغل",
+      "additionalExamples": [
+        {
+          "de": "Seit ihre Kinder zur Schule gehen, ist sie wieder berufstätig.",
+          "fa": "از وقتی بچه‌هایش مدرسه می‌روند، دوباره شاغل شده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für berufstätige Eltern sind passende Arbeitszeiten sehr wichtig.",
+          "fa": "برای پدر و مادرهای شاغل، ساعت‌های کاری مناسب خیلی مهم است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-26-B1:006",
+      "row": 6,
+      "word": "die Frist",
+      "meaningFa": "مهلت",
+      "additionalExamples": [
+        {
+          "de": "Die Frist für meine Bewerbung endet am Freitag.",
+          "fa": "مهلت فرستادن درخواست شغلم جمعه تمام می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte schicken Sie die Unterlagen innerhalb der angegebenen Frist zurück.",
+          "fa": "لطفاً مدارک را در مهلت مشخص‌شده برگردانید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-26-B1:007",
+      "row": 7,
+      "word": "die Herkunft",
+      "meaningFa": "خاستگاه؛ اصل‌ونسب",
+      "additionalExamples": [
+        {
+          "de": "Im Kurs erzählen die Teilnehmer von ihrer Herkunft und ihren Familien.",
+          "fa": "شرکت‌کنندگان در کلاس از خاستگاه و خانواده‌هایشان می‌گویند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Herkunft eines Menschen sagt nichts darüber aus, welche Fähigkeiten er hat.",
+          "fa": "خاستگاه یک فرد نشان نمی‌دهد که چه توانایی‌هایی دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-26-B1:008",
+      "row": 8,
+      "word": "kündigen",
+      "meaningFa": "فسخ‌کردن؛ استعفادادن",
+      "additionalExamples": [
+        {
+          "de": "Er möchte kündigen und eine Stelle in der Nähe seiner Familie suchen.",
+          "fa": "او می‌خواهد استعفا بدهد و نزدیک خانواده‌اش کار پیدا کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir haben den Vertrag schriftlich gekündigt und um eine Bestätigung gebeten.",
+          "fa": "قرارداد را کتبی فسخ کردیم و درخواست تأییدیه دادیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-26-B1:009",
+      "row": 9,
+      "word": "die Kündigung",
+      "meaningFa": "فسخ قرارداد؛ استعفا؛ اخراج",
+      "additionalExamples": [
+        {
+          "de": "Nach der Kündigung begann sie, sich auf neue Stellen zu bewerben.",
+          "fa": "پس از پایان رابطهٔ کاری، شروع به درخواست‌دادن برای شغل‌های جدید کرد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe die Kündigung meines Mietvertrags per Einschreiben verschickt.",
+          "fa": "اعلام فسخ قرارداد اجاره‌ام را با پست سفارشی فرستادم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-26-B1:010",
+      "row": 10,
+      "word": "der Lohn",
+      "meaningFa": "دستمزد",
+      "additionalExamples": [
+        {
+          "de": "Mit meinem Lohn bezahle ich die Miete und die Kosten für den Alltag.",
+          "fa": "با دستمزدم اجاره و هزینه‌های زندگی روزمره را می‌پردازم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für die zusätzliche Arbeit hat er einen höheren Lohn bekommen.",
+          "fa": "او برای کار اضافه دستمزد بیشتری گرفت.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-26-B1:011",
+      "row": 11,
+      "word": "das Passwort",
+      "meaningFa": "گذرواژه",
+      "additionalExamples": [
+        {
+          "de": "Ich habe mein Passwort vergessen und kann mich nicht anmelden.",
+          "fa": "گذرواژه‌ام را فراموش کرده‌ام و نمی‌توانم وارد حسابم شوم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Gib dein Passwort nicht an andere Personen weiter.",
+          "fa": "گذرواژه‌ات را در اختیار افراد دیگر نگذار.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

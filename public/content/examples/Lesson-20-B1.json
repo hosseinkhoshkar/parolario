@@ -1,0 +1,404 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-20-B1.txt",
+  "lessonNumber": 20,
+  "level": "B1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-20-B1:001",
+      "row": 1,
+      "word": "die Ampel",
+      "meaningFa": "چراغ راهنمایی",
+      "additionalExamples": [
+        {
+          "de": "Wenn die Ampel rot ist, müssen wir warten.",
+          "fa": "وقتی چراغ راهنمایی قرمز است، باید صبر کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "An der nächsten Ampel biegen Sie links ab.",
+          "fa": "سر چراغ راهنمایی بعدی به چپ بپیچید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:002",
+      "row": 2,
+      "word": "die Aussage",
+      "meaningFa": "گفته؛ اظهارات",
+      "additionalExamples": [
+        {
+          "de": "Die Polizei hat die Aussage des Fahrers aufgeschrieben.",
+          "fa": "پلیس اظهارات راننده را یادداشت کرده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Diese Aussage passt nicht zu dem, was ich gesehen habe.",
+          "fa": "این گفته با چیزی که دیده‌ام مطابقت ندارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:003",
+      "row": 3,
+      "word": "die Brücke",
+      "meaningFa": "پل",
+      "additionalExamples": [
+        {
+          "de": "Über diese Brücke können auch Fahrräder fahren.",
+          "fa": "دوچرخه‌ها هم می‌توانند از این پل عبور کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Von der Brücke aus hat man einen schönen Blick auf den Fluss.",
+          "fa": "از روی پل منظرهٔ زیبایی از رودخانه دیده می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:004",
+      "row": 4,
+      "word": "diskutieren",
+      "meaningFa": "بحث‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Wir diskutieren im Kurs darüber, wie sicher der Verkehr in unserer Stadt ist.",
+          "fa": "در کلاس دربارهٔ میزان ایمنی رفت‌وآمد در شهرمان بحث می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Über dieses Problem haben die Nachbarn lange diskutiert.",
+          "fa": "همسایه‌ها مدت زیادی دربارهٔ این مشکل بحث کردند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:005",
+      "row": 5,
+      "word": "einschlafen",
+      "meaningFa": "به خواب رفتن",
+      "additionalExamples": [
+        {
+          "de": "Nach der langen Fahrt ist das Kind sofort eingeschlafen.",
+          "fa": "بچه بعد از سفر طولانی با خودرو فوراً خوابش برد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich konnte gestern nicht einschlafen, weil es draußen so laut war.",
+          "fa": "دیشب نمی‌توانستم بخوابم، چون بیرون خیلی پرسروصدا بود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:006",
+      "row": 6,
+      "word": "die Folge",
+      "meaningFa": "پیامد؛ قسمتِ مجموعه",
+      "additionalExamples": [
+        {
+          "de": "Die Folge des Unfalls war eine lange Pause von der Arbeit.",
+          "fa": "پیامد تصادف، وقفه‌ای طولانی در کار بود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Heute Abend sehen wir die letzte Folge der Sendung.",
+          "fa": "امشب آخرین قسمت برنامه را می‌بینیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:007",
+      "row": 7,
+      "word": "die Geduld",
+      "meaningFa": "صبر",
+      "additionalExamples": [
+        {
+          "de": "Vielen Dank für Ihre Geduld; wir helfen Ihnen gleich.",
+          "fa": "از صبوری‌تان بسیار ممنونیم؛ همین الان به شما کمک می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Beim Lernen einer Fremdsprache braucht man viel Geduld.",
+          "fa": "برای یادگیری یک زبان خارجی به صبر زیادی نیاز است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:008",
+      "row": 8,
+      "word": "die Haut",
+      "meaningFa": "پوست",
+      "additionalExamples": [
+        {
+          "de": "Meine Haut ist nach dem Baden sehr trocken.",
+          "fa": "پوستم بعد از حمام‌کردن خیلی خشک است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Diese Kleidung schützt die Haut vor der Sonne.",
+          "fa": "این لباس از پوست در برابر آفتاب محافظت می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:009",
+      "row": 9,
+      "word": "das Motorrad",
+      "meaningFa": "موتورسیکلت",
+      "additionalExamples": [
+        {
+          "de": "Mein Bruder fährt auch im Herbst mit dem Motorrad zur Arbeit.",
+          "fa": "برادرم حتی پاییز هم با موتورسیکلت به محل کار می‌رود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf dem nassen Boden kann das Motorrad leicht rutschen.",
+          "fa": "موتورسیکلت روی سطح خیس به‌راحتی ممکن است سُر بخورد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:010",
+      "row": 10,
+      "word": "der Notarzt",
+      "meaningFa": "پزشک اورژانس",
+      "additionalExamples": [
+        {
+          "de": "Nach dem Unfall kam der Notarzt sehr schnell.",
+          "fa": "بعد از تصادف، پزشک اورژانس خیلی زود رسید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Notarzt hat den verletzten Fahrer untersucht.",
+          "fa": "پزشک اورژانس رانندهٔ زخمی را معاینه کرد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:011",
+      "row": 11,
+      "word": "der Notfall",
+      "meaningFa": "وضعیت اضطراری",
+      "additionalExamples": [
+        {
+          "de": "Bei einem Notfall sollten Sie sofort Hilfe holen.",
+          "fa": "در وضعیت اضطراری باید فوراً کمک بیاورید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für einen Notfall habe ich die Telefonnummer meiner Nachbarin gespeichert.",
+          "fa": "برای مواقع اضطراری شمارهٔ تلفن همسایه‌ام را ذخیره کرده‌ام.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:012",
+      "row": 12,
+      "word": "die Polizistin",
+      "meaningFa": "پلیس زن",
+      "additionalExamples": [
+        {
+          "de": "Die Polizistin erklärt uns, warum die Straße geschlossen ist.",
+          "fa": "پلیس زن برایمان توضیح می‌دهد که چرا خیابان بسته است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Eine Polizistin hat mir geholfen, den Weg zum Bahnhof zu finden.",
+          "fa": "یک پلیس زن کمکم کرد راه ایستگاه را پیدا کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:013",
+      "row": 13,
+      "word": "die S-Bahn",
+      "meaningFa": "قطار شهری و حومه",
+      "additionalExamples": [
+        {
+          "de": "Mit der S-Bahn komme ich schneller ins Zentrum als mit dem Auto.",
+          "fa": "با قطار شهری سریع‌تر از خودرو به مرکز شهر می‌رسم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unsere S-Bahn hält heute nicht am Hauptbahnhof.",
+          "fa": "قطار شهری ما امروز در ایستگاه مرکزی توقف نمی‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:014",
+      "row": 14,
+      "word": "die Stimme",
+      "meaningFa": "صدا؛ رأی",
+      "additionalExamples": [
+        {
+          "de": "Am Telefon habe ich die Stimme meiner alten Lehrerin sofort erkannt.",
+          "fa": "پشت تلفن صدای معلم قدیمی‌ام را فوراً شناختم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie hat eine so leise Stimme, dass ich sie kaum verstehen kann.",
+          "fa": "صدای او آن‌قدر آرام است که به‌سختی حرفش را می‌فهمم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:015",
+      "row": 15,
+      "word": "die Strafe",
+      "meaningFa": "مجازات",
+      "additionalExamples": [
+        {
+          "de": "Welche Strafe bekommt man, wenn man hier zu schnell fährt?",
+          "fa": "اگر اینجا با سرعت غیرمجاز رانندگی کنیم، چه مجازاتی دارد؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Strafe war höher, als er erwartet hatte.",
+          "fa": "مجازات از چیزی که انتظار داشت سنگین‌تر بود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:016",
+      "row": 16,
+      "word": "der Streit",
+      "meaningFa": "دعوا؛ اختلاف",
+      "additionalExamples": [
+        {
+          "de": "Der Streit zwischen den Nachbarn hat gestern den ganzen Abend gedauert.",
+          "fa": "دعوای همسایه‌ها دیروز تمام عصر طول کشید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach dem Streit haben wir in Ruhe miteinander gesprochen.",
+          "fa": "بعد از دعوا با آرامش با هم صحبت کردیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:017",
+      "row": 17,
+      "word": "das Taxi",
+      "meaningFa": "تاکسی",
+      "additionalExamples": [
+        {
+          "de": "Da der letzte Bus schon weg war, sind wir mit dem Taxi nach Hause gefahren.",
+          "fa": "چون آخرین اتوبوس رفته بود، با تاکسی به خانه برگشتیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Können Sie bitte ein Taxi zum Krankenhaus bestellen?",
+          "fa": "ممکن است لطفاً یک تاکسی برای رفتن به بیمارستان سفارش بدهید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:018",
+      "row": 18,
+      "word": "der Unfall",
+      "meaningFa": "حادثه",
+      "additionalExamples": [
+        {
+          "de": "Zum Glück wurde bei dem Unfall niemand verletzt.",
+          "fa": "خوشبختانه در آن حادثه کسی زخمی نشد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach dem Unfall war die Straße eine Stunde lang geschlossen.",
+          "fa": "بعد از تصادف، خیابان یک ساعت بسته بود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:019",
+      "row": 19,
+      "word": "verletzen",
+      "meaningFa": "زخمی‌کردن؛ نقض‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Mit dem kaputten Messer könntest du jemanden verletzen.",
+          "fa": "ممکن است با آن چاقوی خراب کسی را زخمی کنی.",
+          "origin": "authored"
+        },
+        {
+          "de": "Er hat sich beim Sport am Knie verletzt.",
+          "fa": "او هنگام ورزش از ناحیهٔ زانو آسیب دید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:020",
+      "row": 20,
+      "word": "die Verletzung",
+      "meaningFa": "آسیب؛ جراحت",
+      "additionalExamples": [
+        {
+          "de": "Wegen einer Verletzung am Fuß kann sie heute nicht arbeiten.",
+          "fa": "به‌خاطر آسیب پا امروز نمی‌تواند کار کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Ärztin hat meine Verletzung untersucht und behandelt.",
+          "fa": "پزشک جراحتم را معاینه و درمان کرد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:021",
+      "row": 21,
+      "word": "der Zeuge",
+      "meaningFa": "شاهد مرد",
+      "additionalExamples": [
+        {
+          "de": "Ein Zeuge hat den Unfall vom Fenster aus gesehen.",
+          "fa": "یک شاهد مرد حادثه را از پنجره دیده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Polizei hat mit dem Zeugen gesprochen, der an der Haltestelle stand.",
+          "fa": "پلیس با شاهد مردی که در ایستگاه ایستاده بود صحبت کرده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-20-B1:022",
+      "row": 22,
+      "word": "die Zeugin",
+      "meaningFa": "شاهد زن",
+      "additionalExamples": [
+        {
+          "de": "Die Zeugin konnte den Fahrer genau beschreiben.",
+          "fa": "شاهد زن توانست راننده را دقیق توصیف کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir warten auf die Aussage einer Zeugin, die den Unfall gesehen hat.",
+          "fa": "منتظر اظهارات شاهد زنی هستیم که حادثه را دیده است.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

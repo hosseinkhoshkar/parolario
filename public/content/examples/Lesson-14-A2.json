@@ -1,0 +1,332 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-14-A2.txt",
+  "lessonNumber": 14,
+  "level": "A2",
+  "entries": [
+    {
+      "sourceKey": "Lesson-14-A2:001",
+      "row": 1,
+      "word": "bequem",
+      "meaningFa": "راحت",
+      "additionalExamples": [
+        {
+          "de": "Diese Schuhe sind sehr bequem.",
+          "fa": "این کفش‌ها خیلی راحت هستند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf dem Sofa sitze ich bequemer als auf dem Stuhl.",
+          "fa": "روی مبل راحت‌تر از صندلی می‌نشینم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-14-A2:002",
+      "row": 2,
+      "word": "bereits",
+      "meaningFa": "از قبل؛ پیشاپیش",
+      "additionalExamples": [
+        {
+          "de": "Wir haben die Karten bereits gekauft.",
+          "fa": "ما بلیت‌ها را از قبل خریده‌ایم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Kurs hat bereits angefangen.",
+          "fa": "کلاس از قبل شروع شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-14-A2:003",
+      "row": 3,
+      "word": "entscheiden",
+      "meaningFa": "تصمیم‌گرفتن؛ تعیین‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Wer entscheidet über den Preis?",
+          "fa": "چه کسی قیمت را تعیین می‌کند؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir müssen heute entscheiden, wann wir fahren.",
+          "fa": "باید امروز تصمیم بگیریم که چه زمانی حرکت کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-14-A2:004",
+      "row": 4,
+      "word": "entwickeln",
+      "meaningFa": "توسعه‌دادن؛ پرورش‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Die Kinder entwickeln eigene Ideen.",
+          "fa": "بچه‌ها ایده‌های خودشان را پرورش می‌دهند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Firma entwickelt ein neues Programm.",
+          "fa": "شرکت یک برنامهٔ تازه طراحی و توسعه می‌دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-14-A2:005",
+      "row": 5,
+      "word": "die Erinnerung",
+      "meaningFa": "خاطره؛ یادآوری",
+      "additionalExamples": [
+        {
+          "de": "Das Foto ist eine schöne Erinnerung an unsere Reise.",
+          "fa": "این عکس یادگاری خوبی از سفرمان است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe noch viele Erinnerungen an meine Schulzeit.",
+          "fa": "من هنوز خاطرات زیادی از دوران مدرسه‌ام دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-14-A2:006",
+      "row": 6,
+      "word": "gewinnen",
+      "meaningFa": "بردن؛ برنده‌شدن",
+      "additionalExamples": [
+        {
+          "de": "Unsere Mannschaft hat das Spiel gewonnen.",
+          "fa": "تیم ما بازی را برده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bei diesem Spiel kann man eine Reise gewinnen.",
+          "fa": "در این بازی می‌شود یک سفر برنده شد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-14-A2:007",
+      "row": 7,
+      "word": "das Gewitter",
+      "meaningFa": "رعدوبرق و طوفان",
+      "additionalExamples": [
+        {
+          "de": "Wegen des Gewitters bleiben wir drinnen.",
+          "fa": "به‌خاطر رعدوبرق داخل می‌مانیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach dem Gewitter ist die Luft kühl.",
+          "fa": "بعد از رعدوبرق هوا خنک است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-14-A2:008",
+      "row": 8,
+      "word": "hässlich",
+      "meaningFa": "زشت",
+      "additionalExamples": [
+        {
+          "de": "Ich finde diese Farbe hässlich.",
+          "fa": "به نظر من این رنگ زشت است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Haus ist alt, aber nicht hässlich.",
+          "fa": "خانه قدیمی است، اما زشت نیست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-14-A2:009",
+      "row": 9,
+      "word": "kühl",
+      "meaningFa": "خنک",
+      "additionalExamples": [
+        {
+          "de": "Am Morgen ist es noch kühl.",
+          "fa": "صبح هوا هنوز خنک است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Getränke bleiben im Keller kühl.",
+          "fa": "نوشیدنی‌ها در زیرزمین خنک می‌مانند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-14-A2:010",
+      "row": 10,
+      "word": "das Pferd",
+      "meaningFa": "اسب",
+      "additionalExamples": [
+        {
+          "de": "Auf dem Foto steht ein braunes Pferd.",
+          "fa": "در عکس یک اسب قهوه‌ای دیده می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Kind möchte das Pferd füttern.",
+          "fa": "کودک می‌خواهد به اسب غذا بدهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-14-A2:011",
+      "row": 11,
+      "word": "der Schinken",
+      "meaningFa": "ژامبون",
+      "additionalExamples": [
+        {
+          "de": "Möchtest du Brot mit Schinken?",
+          "fa": "نان با ژامبون می‌خواهی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich esse keinen Schinken, weil ich vegetarisch esse.",
+          "fa": "من ژامبون نمی‌خورم، چون گیاه‌خوارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-14-A2:012",
+      "row": 12,
+      "word": "der Schnee",
+      "meaningFa": "برف",
+      "additionalExamples": [
+        {
+          "de": "Im Garten liegt noch Schnee.",
+          "fa": "هنوز در باغ برف هست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Kinder spielen gern im Schnee.",
+          "fa": "بچه‌ها دوست دارند در برف بازی کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-14-A2:013",
+      "row": 13,
+      "word": "sich entscheiden",
+      "meaningFa": "تصمیم‌گرفتن",
+      "additionalExamples": [
+        {
+          "de": "Ich kann mich nicht zwischen den beiden Jacken entscheiden.",
+          "fa": "نمی‌توانم بین این دو کت تصمیم بگیرم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir haben uns für die kleinere Wohnung entschieden.",
+          "fa": "ما آپارتمان کوچک‌تر را انتخاب کرده‌ایم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-14-A2:014",
+      "row": 14,
+      "word": "der Stift",
+      "meaningFa": "قلم",
+      "additionalExamples": [
+        {
+          "de": "Hast du einen Stift für mich?",
+          "fa": "یک قلم برای من داری؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Mit diesem Stift kann ich gut schreiben.",
+          "fa": "با این قلم خوب می‌توانم بنویسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-14-A2:015",
+      "row": 15,
+      "word": "übersetzen",
+      "meaningFa": "ترجمه‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Kannst du diesen Satz ins Persische übersetzen?",
+          "fa": "می‌توانی این جمله را به فارسی ترجمه کنی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie hat den Brief für ihre Mutter übersetzt.",
+          "fa": "او نامه را برای مادرش ترجمه کرده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-14-A2:016",
+      "row": 16,
+      "word": "umtauschen",
+      "meaningFa": "تعویض‌کردن کالای خریده‌شده",
+      "additionalExamples": [
+        {
+          "de": "Kann ich diese Hose umtauschen?",
+          "fa": "می‌توانم این شلوار را تعویض کنم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Schuhe sind zu klein, deshalb tausche ich sie um.",
+          "fa": "کفش‌ها خیلی کوچک هستند، برای همین آن‌ها را تعویض می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-14-A2:017",
+      "row": 17,
+      "word": "wandern",
+      "meaningFa": "پیاده‌روی طولانی در طبیعت",
+      "additionalExamples": [
+        {
+          "de": "Am Wochenende wandern wir in den Bergen.",
+          "fa": "آخر هفته در کوه‌ها پیاده‌روی می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für die lange Strecke müssen wir früh loswandern.",
+          "fa": "برای این مسیر طولانی باید صبح زود پیاده‌روی را شروع کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-14-A2:018",
+      "row": 18,
+      "word": "der Wind",
+      "meaningFa": "باد",
+      "additionalExamples": [
+        {
+          "de": "Heute weht ein starker Wind.",
+          "fa": "امروز باد شدیدی می‌وزد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bei diesem Wind bleibe ich lieber zu Hause.",
+          "fa": "با این باد ترجیح می‌دهم در خانه بمانم.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

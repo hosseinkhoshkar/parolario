@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-25-B1.txt",
+  "lessonNumber": 25,
+  "level": "B1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-25-B1:001",
+      "row": 1,
+      "word": "Arabisch",
+      "meaningFa": "زبان عربی",
+      "additionalExamples": [
+        {
+          "de": "Meine Kollegin spricht Deutsch und Arabisch.",
+          "fa": "همکارم آلمانی و عربی صحبت می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Er lernt Arabisch, weil er sich für die Sprache seiner Großeltern interessiert.",
+          "fa": "او عربی یاد می‌گیرد، چون به زبان پدربزرگ و مادربزرگش علاقه دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-25-B1:002",
+      "row": 2,
+      "word": "die Friseurin",
+      "meaningFa": "آرایشگر زن",
+      "additionalExamples": [
+        {
+          "de": "Die Friseurin hat mir gezeigt, wie ich meine Haare zu Hause pflegen kann.",
+          "fa": "آرایشگر زن به من نشان داد که چگونه در خانه از موهایم مراقبت کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für den Termin bei der Friseurin habe ich mir den Nachmittag freigenommen.",
+          "fa": "برای وقت آرایشگاه، بعدازظهر را مرخصی گرفتم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-25-B1:003",
+      "row": 3,
+      "word": "die Geste",
+      "meaningFa": "اشاره یا حرکتِ معنی‌دار بدن",
+      "additionalExamples": [
+        {
+          "de": "Mit einer freundlichen Geste hat sie mir einen Platz angeboten.",
+          "fa": "او با اشاره‌ای دوستانه به من جا تعارف کرد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Manchmal versteht man eine Geste, auch wenn man die Sprache nicht spricht.",
+          "fa": "گاهی حتی اگر زبان را بلد نباشیم، معنی یک اشاره را می‌فهمیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-25-B1:004",
+      "row": 4,
+      "word": "der Handschlag",
+      "meaningFa": "دست‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Zur Begrüßung gab mir der neue Kollege einen festen Handschlag.",
+          "fa": "همکار جدید هنگام سلام‌کردن محکم با من دست داد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ob ein Handschlag üblich ist, hängt oft von der Situation ab.",
+          "fa": "اینکه دست‌دادن معمول باشد یا نه، اغلب به موقعیت بستگی دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-25-B1:005",
+      "row": 5,
+      "word": "die Leitung",
+      "meaningFa": "مدیریت؛ خط ارتباطی",
+      "additionalExamples": [
+        {
+          "de": "Sie hat die Leitung der neuen Abteilung übernommen.",
+          "fa": "او مدیریت بخش جدید را بر عهده گرفته است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Leitung war schlecht, deshalb konnte ich dich am Telefon kaum hören.",
+          "fa": "خط تلفن کیفیت خوبی نداشت؛ به همین دلیل صدایت را به‌سختی می‌شنیدم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-25-B1:006",
+      "row": 6,
+      "word": "der Respekt",
+      "meaningFa": "احترام",
+      "additionalExamples": [
+        {
+          "de": "Auch bei verschiedenen Meinungen sollten wir respektvoll miteinander umgehen und Respekt zeigen.",
+          "fa": "حتی وقتی نظرهای متفاوتی داریم، باید محترمانه با هم رفتار کنیم و احترام بگذاریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe großen Respekt vor Menschen, die anderen in schwierigen Situationen helfen.",
+          "fa": "برای افرادی که در موقعیت‌های دشوار به دیگران کمک می‌کنند احترام زیادی قائلم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-25-B1:007",
+      "row": 7,
+      "word": "die Schwierigkeit",
+      "meaningFa": "دشواری",
+      "additionalExamples": [
+        {
+          "de": "Am Anfang hatte ich Schwierigkeiten, die Aussprache zu verstehen.",
+          "fa": "اوایل در فهمیدن تلفظ مشکل داشتم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bei Schwierigkeiten mit dem Formular hilft Ihnen die Mitarbeiterin weiter.",
+          "fa": "اگر در پرکردن فرم مشکلی داشتید، آن کارمند به شما کمک می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-25-B1:008",
+      "row": 8,
+      "word": "die Ursache",
+      "meaningFa": "علت",
+      "additionalExamples": [
+        {
+          "de": "Wir möchten die Ursache des Problems finden, statt nur die Folgen zu behandeln.",
+          "fa": "می‌خواهیم به‌جای پرداختن صرف به پیامدها، علت مشکل را پیدا کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Ärztin hat mir erklärt, was die Ursache meiner Schmerzen sein könnte.",
+          "fa": "پزشک برایم توضیح داد که علت دردهایم چه می‌تواند باشد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-25-B1:009",
+      "row": 9,
+      "word": "vermeiden",
+      "meaningFa": "اجتناب‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Um Fehler zu vermeiden, lese ich meine Bewerbung noch einmal durch.",
+          "fa": "برای جلوگیری از اشتباه، درخواست شغلم را یک بار دیگر می‌خوانم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir versuchen, unnötige Fahrten mit dem Auto zu vermeiden.",
+          "fa": "سعی می‌کنیم از رفت‌وآمد غیرضروری با خودرو اجتناب کنیم.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

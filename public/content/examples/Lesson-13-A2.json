@@ -1,0 +1,656 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-13-A2.txt",
+  "lessonNumber": 13,
+  "level": "A2",
+  "entries": [
+    {
+      "sourceKey": "Lesson-13-A2:001",
+      "row": 1,
+      "word": "die Abteilung",
+      "meaningFa": "بخش؛ واحد سازمانی",
+      "additionalExamples": [
+        {
+          "de": "In welcher Abteilung arbeiten Sie?",
+          "fa": "در کدام بخش کار می‌کنید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Abteilung für Kleidung ist im ersten Stock.",
+          "fa": "بخش پوشاک در طبقهٔ اول است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:002",
+      "row": 2,
+      "word": "die Allergie",
+      "meaningFa": "حساسیت",
+      "additionalExamples": [
+        {
+          "de": "Ich habe eine Allergie gegen Katzen.",
+          "fa": "من به گربه حساسیت دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wegen ihrer Allergie kann sie diese Suppe nicht essen.",
+          "fa": "او به‌دلیل حساسیتش نمی‌تواند این سوپ را بخورد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:003",
+      "row": 3,
+      "word": "der Bauch",
+      "meaningFa": "شکم",
+      "additionalExamples": [
+        {
+          "de": "Nach dem Essen tut mir der Bauch weh.",
+          "fa": "بعد از غذا شکمم درد می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Leg dich auf den Bauch.",
+          "fa": "روی شکمت دراز بکش.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:004",
+      "row": 4,
+      "word": "behandeln",
+      "meaningFa": "درمان‌کردن؛ برخوردکردن",
+      "additionalExamples": [
+        {
+          "de": "Die Ärztin behandelt meine Allergie.",
+          "fa": "پزشک حساسیت مرا درمان می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "In diesem Geschäft behandelt man die Kunden freundlich.",
+          "fa": "در این مغازه با مشتری‌ها دوستانه برخورد می‌کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:005",
+      "row": 5,
+      "word": "die Behandlung",
+      "meaningFa": "درمان؛ نحوهٔ برخورد",
+      "additionalExamples": [
+        {
+          "de": "Die Behandlung dauert etwa zwei Wochen.",
+          "fa": "درمان حدود دو هفته طول می‌کشد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach der Behandlung geht es ihm besser.",
+          "fa": "بعد از درمان حالش بهتر است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:006",
+      "row": 6,
+      "word": "das Bein",
+      "meaningFa": "پا",
+      "additionalExamples": [
+        {
+          "de": "Mein linkes Bein tut beim Gehen weh.",
+          "fa": "پای چپم هنگام راه رفتن درد می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie kann wieder auf beiden Beinen stehen.",
+          "fa": "او دوباره می‌تواند روی هر دو پا بایستد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:007",
+      "row": 7,
+      "word": "deshalb",
+      "meaningFa": "به همین دلیل",
+      "additionalExamples": [
+        {
+          "de": "Ich bin krank, deshalb bleibe ich im Bett.",
+          "fa": "بیمارم، به همین دلیل در تخت می‌مانم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Zug kommt spät, deshalb warten wir hier.",
+          "fa": "قطار دیر می‌رسد، برای همین اینجا منتظر می‌مانیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:008",
+      "row": 8,
+      "word": "der Eintritt",
+      "meaningFa": "ورود؛ بهای ورودی",
+      "additionalExamples": [
+        {
+          "de": "Wie viel kostet der Eintritt?",
+          "fa": "بهای ورودی چقدر است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Eintritt für Kinder ist heute frei.",
+          "fa": "ورود برای کودکان امروز رایگان است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:009",
+      "row": 9,
+      "word": "die Entwicklung",
+      "meaningFa": "توسعه؛ تحول",
+      "additionalExamples": [
+        {
+          "de": "Die Entwicklung des Kindes ist ganz normal.",
+          "fa": "روند رشد کودک کاملاً طبیعی است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir sprechen über die Entwicklung unserer Stadt.",
+          "fa": "ما دربارهٔ تحولات شهرمان صحبت می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:010",
+      "row": 10,
+      "word": "erfahren",
+      "meaningFa": "باخبرشدن؛ تجربه‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Wann hast du von der Feier erfahren?",
+          "fa": "چه زمانی از جشن باخبر شدی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Gespräch habe ich viel über seine Arbeit erfahren.",
+          "fa": "در گفت‌وگو چیزهای زیادی دربارهٔ کارش فهمیدم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:011",
+      "row": 11,
+      "word": "fehlen",
+      "meaningFa": "کم‌بودن؛ غایب‌بودن",
+      "additionalExamples": [
+        {
+          "de": "Heute fehlen drei Schüler im Kurs.",
+          "fa": "امروز سه دانش‌آموز در کلاس غایب هستند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für die Suppe fehlt noch etwas Salz.",
+          "fa": "سوپ هنوز کمی نمک کم دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:012",
+      "row": 12,
+      "word": "der Finger",
+      "meaningFa": "انگشت دست",
+      "additionalExamples": [
+        {
+          "de": "Ich habe mich am Finger geschnitten.",
+          "fa": "انگشتم را بریده‌ام.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Kind zeigt mit dem Finger auf die Katze.",
+          "fa": "کودک با انگشت به گربه اشاره می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:013",
+      "row": 13,
+      "word": "die Forschung",
+      "meaningFa": "پژوهش",
+      "additionalExamples": [
+        {
+          "de": "Sie arbeitet in der medizinischen Forschung.",
+          "fa": "او در پژوهش‌های پزشکی کار می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für diese Forschung braucht man viel Zeit.",
+          "fa": "برای این پژوهش زمان زیادی لازم است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:014",
+      "row": 14,
+      "word": "der Hals",
+      "meaningFa": "گردن؛ گلو",
+      "additionalExamples": [
+        {
+          "de": "Mein Hals tut seit gestern weh.",
+          "fa": "گلویم از دیروز درد می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Winter trage ich einen Schal um den Hals.",
+          "fa": "زمستان دور گردنم شال می‌اندازم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:015",
+      "row": 15,
+      "word": "die Hand",
+      "meaningFa": "دست",
+      "additionalExamples": [
+        {
+          "de": "Wasch dir bitte vor dem Essen die Hände.",
+          "fa": "لطفاً پیش از غذا دست‌هایت را بشوی.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie hält das Kind an der Hand.",
+          "fa": "او دست کودک را گرفته است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:016",
+      "row": 16,
+      "word": "das Knie",
+      "meaningFa": "زانو",
+      "additionalExamples": [
+        {
+          "de": "Beim Sport habe ich mir das Knie verletzt.",
+          "fa": "هنگام ورزش زانویم آسیب دیده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das kleine Kind sitzt auf meinem Knie.",
+          "fa": "کودک کوچک روی زانویم نشسته است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:017",
+      "row": 17,
+      "word": "der Körper",
+      "meaningFa": "بدن",
+      "additionalExamples": [
+        {
+          "de": "Der ganze Körper braucht Ruhe.",
+          "fa": "تمام بدن به استراحت نیاز دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bewegung ist gut für den Körper.",
+          "fa": "تحرک برای بدن خوب است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:018",
+      "row": 18,
+      "word": "das Medikament",
+      "meaningFa": "دارو",
+      "additionalExamples": [
+        {
+          "de": "Dieses Medikament nehme ich morgens.",
+          "fa": "این دارو را صبح‌ها مصرف می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Ärztin erklärt mir, wie ich das Medikament nehmen soll.",
+          "fa": "پزشک توضیح می‌دهد که چگونه باید دارو را مصرف کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:019",
+      "row": 19,
+      "word": "müde",
+      "meaningFa": "خسته؛ خواب‌آلود",
+      "additionalExamples": [
+        {
+          "de": "Nach der Arbeit bin ich oft müde.",
+          "fa": "بعد از کار اغلب خسته‌ام.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wenn du müde bist, geh früher ins Bett.",
+          "fa": "اگر خوابت می‌آید زودتر به تخت برو.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:020",
+      "row": 20,
+      "word": "der Mund",
+      "meaningFa": "دهان",
+      "additionalExamples": [
+        {
+          "de": "Machen Sie bitte den Mund auf.",
+          "fa": "لطفاً دهانتان را باز کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mit vollem Mund soll man nicht sprechen.",
+          "fa": "نباید با دهان پر صحبت کرد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:021",
+      "row": 21,
+      "word": "nötig",
+      "meaningFa": "لازم",
+      "additionalExamples": [
+        {
+          "de": "Für diesen Kurs sind keine Bücher nötig.",
+          "fa": "برای این دوره کتاب لازم نیست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist ein weiterer Termin wirklich nötig?",
+          "fa": "آیا واقعاً یک وقت دیگر لازم است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:022",
+      "row": 22,
+      "word": "das Ohr",
+      "meaningFa": "گوش",
+      "additionalExamples": [
+        {
+          "de": "Mein rechtes Ohr tut weh.",
+          "fa": "گوش راستم درد می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Musik ist zu laut für meine Ohren.",
+          "fa": "صدای موسیقی برای گوش‌هایم زیادی بلند است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:023",
+      "row": 23,
+      "word": "die Praxis",
+      "meaningFa": "مطب؛ عمل در برابر نظریه",
+      "additionalExamples": [
+        {
+          "de": "Die Praxis öffnet morgen um acht.",
+          "fa": "مطب فردا ساعت هشت باز می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich rufe in der Praxis an und frage nach einem Termin.",
+          "fa": "به مطب زنگ می‌زنم و دربارهٔ وقت می‌پرسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:024",
+      "row": 24,
+      "word": "das Recht",
+      "meaningFa": "حق؛ حقوق",
+      "additionalExamples": [
+        {
+          "de": "Du hast das Recht, deine Meinung zu sagen.",
+          "fa": "حق داری نظرت را بگویی.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir sprechen über die Rechte der Kinder.",
+          "fa": "ما دربارهٔ حقوق کودکان صحبت می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:025",
+      "row": 25,
+      "word": "die Rezeption",
+      "meaningFa": "پذیرش هتل",
+      "additionalExamples": [
+        {
+          "de": "An der Rezeption bekommen Sie Ihren Schlüssel.",
+          "fa": "کلیدتان را از پذیرش می‌گیرید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich frage an der Rezeption nach dem Frühstück.",
+          "fa": "از پذیرش دربارهٔ صبحانه می‌پرسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:026",
+      "row": 26,
+      "word": "der Schmerz",
+      "meaningFa": "درد",
+      "additionalExamples": [
+        {
+          "de": "Wo genau haben Sie Schmerzen?",
+          "fa": "دقیقاً کجایتان درد می‌کند؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Schmerz im Rücken ist jetzt schwächer.",
+          "fa": "درد کمرم حالا کمتر شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:027",
+      "row": 27,
+      "word": "die Schulter",
+      "meaningFa": "شانه",
+      "additionalExamples": [
+        {
+          "de": "Meine Tasche hängt über der Schulter.",
+          "fa": "کیفم روی شانه‌ام آویزان است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach der Arbeit tut mir die rechte Schulter weh.",
+          "fa": "بعد از کار شانهٔ راستم درد می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:028",
+      "row": 28,
+      "word": "seitdem",
+      "meaningFa": "از آن زمان که",
+      "additionalExamples": [
+        {
+          "de": "Seitdem ich hier wohne, fahre ich mit dem Bus.",
+          "fa": "از زمانی که اینجا زندگی می‌کنم، با اتوبوس رفت‌وآمد می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Er war krank; seitdem bleibt er abends zu Hause.",
+          "fa": "او بیمار بود؛ از آن زمان شب‌ها در خانه می‌ماند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:029",
+      "row": 29,
+      "word": "sich ausruhen",
+      "meaningFa": "استراحت‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Nach dem Spaziergang ruhe ich mich aus.",
+          "fa": "بعد از پیاده‌روی استراحت می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Du solltest dich heute ein bisschen ausruhen.",
+          "fa": "بهتر است امروز کمی استراحت کنی.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:030",
+      "row": 30,
+      "word": "spazieren gehen",
+      "meaningFa": "به پیاده‌روی رفتن",
+      "additionalExamples": [
+        {
+          "de": "Abends gehen wir zusammen spazieren.",
+          "fa": "شب‌ها با هم به پیاده‌روی می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Möchtest du nach dem Essen spazieren gehen?",
+          "fa": "دوست داری بعد از غذا به پیاده‌روی برویم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:031",
+      "row": 31,
+      "word": "die Tablette",
+      "meaningFa": "قرص",
+      "additionalExamples": [
+        {
+          "de": "Die Ärztin hat mir Tabletten gegeben.",
+          "fa": "پزشک به من قرص داده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Haben Sie die Tablette schon genommen?",
+          "fa": "قرص را قبلاً مصرف کرده‌اید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:032",
+      "row": 32,
+      "word": "verschieben",
+      "meaningFa": "عقب یا جلو انداختن؛ جابه‌جاکردن",
+      "additionalExamples": [
+        {
+          "de": "Wir müssen das Treffen auf nächste Woche verschieben.",
+          "fa": "باید دیدار را به هفتهٔ آینده موکول کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kannst du den Tisch etwas nach links verschieben?",
+          "fa": "می‌توانی میز را کمی به سمت چپ جابه‌جا کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:033",
+      "row": 33,
+      "word": "die Wirkung",
+      "meaningFa": "اثر",
+      "additionalExamples": [
+        {
+          "de": "Die Wirkung des Medikaments beginnt langsam.",
+          "fa": "اثر دارو به‌آرامی شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Tee hatte keine Wirkung gegen meinen Husten.",
+          "fa": "چای روی سرفه‌ام اثری نداشت.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:034",
+      "row": 34,
+      "word": "wöchentlich",
+      "meaningFa": "هفتگی",
+      "additionalExamples": [
+        {
+          "de": "Der Kurs findet wöchentlich statt.",
+          "fa": "این کلاس هر هفته برگزار می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir treffen uns wöchentlich zum Sport.",
+          "fa": "ما هر هفته برای ورزش همدیگر را می‌بینیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:035",
+      "row": 35,
+      "word": "zuletzt",
+      "meaningFa": "در پایان؛ آخر از همه",
+      "additionalExamples": [
+        {
+          "de": "Zuletzt geben wir die Tomaten dazu.",
+          "fa": "در پایان گوجه‌فرنگی‌ها را اضافه می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wann hast du sie zuletzt gesehen?",
+          "fa": "آخرین بار کی او را دیدی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-13-A2:036",
+      "row": 36,
+      "word": "zurückkommen",
+      "meaningFa": "برگشتن",
+      "additionalExamples": [
+        {
+          "de": "Wann kommst du aus dem Urlaub zurück?",
+          "fa": "چه زمانی از تعطیلات برمی‌گردی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich komme gleich zurück, warte bitte hier.",
+          "fa": "من همین الان برمی‌گردم، لطفاً اینجا منتظر بمان.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,944 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-08-A1.txt",
+  "lessonNumber": 8,
+  "level": "A1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-08-A1:001",
+      "row": 1,
+      "word": "absagen",
+      "meaningFa": "لغوکردن؛ جواب رد دادن",
+      "additionalExamples": [
+        {
+          "de": "Ich muss den Termin leider absagen.",
+          "fa": "متأسفانه باید قرار را لغو کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Anna sagt das Essen am Freitag ab.",
+          "fa": "آنا برنامهٔ شام جمعه را لغو می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:002",
+      "row": 2,
+      "word": "am liebsten",
+      "meaningFa": "بیشتر از همه؛ ترجیح اصلی",
+      "additionalExamples": [
+        {
+          "de": "Am liebsten esse ich Reis mit Gemüse.",
+          "fa": "بیشتر از همه برنج با سبزیجات دوست دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Was trinkst du am liebsten?",
+          "fa": "چه نوشیدنی‌ای را بیشتر از همه دوست داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:003",
+      "row": 3,
+      "word": "anziehen",
+      "meaningFa": "پوشاندن؛ به تن کردن",
+      "additionalExamples": [
+        {
+          "de": "Zieh bitte eine warme Jacke an.",
+          "fa": "لطفاً یک کت گرم بپوش.",
+          "origin": "authored"
+        },
+        {
+          "de": "Heute zieht sie ihr neues Kleid an.",
+          "fa": "امروز او پیراهن تازه‌اش را می‌پوشد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:004",
+      "row": 4,
+      "word": "das Besteck",
+      "meaningFa": "قاشق و چنگال و کارد",
+      "additionalExamples": [
+        {
+          "de": "Das Besteck liegt auf dem Tisch.",
+          "fa": "قاشق و چنگال و کارد روی میز هستند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir brauchen noch Besteck für zwei Personen.",
+          "fa": "هنوز برای دو نفر قاشق و چنگال و کارد لازم داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:005",
+      "row": 5,
+      "word": "bestehen",
+      "meaningFa": "قبول‌شدن؛ وجودداشتن",
+      "additionalExamples": [
+        {
+          "de": "Sie besteht die Prüfung beim ersten Mal.",
+          "fa": "او بار اول در امتحان قبول می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Gruppe besteht aus fünf Personen.",
+          "fa": "این گروه از پنج نفر تشکیل شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:006",
+      "row": 6,
+      "word": "bestellen",
+      "meaningFa": "سفارش‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Ich bestelle eine Suppe und Wasser.",
+          "fa": "من یک سوپ و آب سفارش می‌دهم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Möchten Sie schon bestellen?",
+          "fa": "مایل هستید همین حالا سفارش بدهید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:007",
+      "row": 7,
+      "word": "die Betonung",
+      "meaningFa": "تکیه؛ تأکید آوایی",
+      "additionalExamples": [
+        {
+          "de": "Hör bitte auf die Betonung des Wortes.",
+          "fa": "لطفاً به تکیهٔ این واژه گوش بده.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bei diesem Wort ist die Betonung am Anfang.",
+          "fa": "تکیهٔ این واژه در ابتدای آن است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:008",
+      "row": 8,
+      "word": "das Bier",
+      "meaningFa": "آبجو",
+      "additionalExamples": [
+        {
+          "de": "Mein Vater trinkt abends manchmal ein Bier.",
+          "fa": "پدرم بعضی شب‌ها یک آبجو می‌نوشد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für mich bitte ein Bier ohne Alkohol.",
+          "fa": "برای من لطفاً یک آبجوی بدون الکل بیاورید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:009",
+      "row": 9,
+      "word": "die Birne",
+      "meaningFa": "گلابی",
+      "additionalExamples": [
+        {
+          "de": "Die Birne ist noch nicht weich.",
+          "fa": "این گلابی هنوز نرم نشده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich schneide eine Birne für das Kind.",
+          "fa": "من یک گلابی برای کودک خرد می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:010",
+      "row": 10,
+      "word": "bitter",
+      "meaningFa": "تلخ",
+      "additionalExamples": [
+        {
+          "de": "Ohne Zucker schmeckt der Kaffee bitter.",
+          "fa": "قهوه بدون شکر تلخ است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Diese Schokolade ist mir zu bitter.",
+          "fa": "این شکلات برای من زیادی تلخ است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:011",
+      "row": 11,
+      "word": "der Brauch",
+      "meaningFa": "رسم",
+      "additionalExamples": [
+        {
+          "de": "Das ist ein alter Brauch in unserer Familie.",
+          "fa": "این یک رسم قدیمی در خانوادهٔ ماست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welchen Brauch gibt es bei euch zu Hause?",
+          "fa": "شما در خانه چه رسمی دارید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:012",
+      "row": 12,
+      "word": "die Dame",
+      "meaningFa": "خانم",
+      "additionalExamples": [
+        {
+          "de": "Die Dame am Fenster möchte bezahlen.",
+          "fa": "آن خانمی که کنار پنجره است می‌خواهد حساب کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Eine ältere Dame fragt nach dem Weg.",
+          "fa": "خانمی مسن آدرس می‌پرسد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:013",
+      "row": 13,
+      "word": "das Dessert",
+      "meaningFa": "دسر",
+      "additionalExamples": [
+        {
+          "de": "Zum Dessert nehme ich ein Eis.",
+          "fa": "برای دسر یک بستنی می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Heute gibt es Obst als Dessert.",
+          "fa": "امروز برای دسر میوه داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:014",
+      "row": 14,
+      "word": "draußen",
+      "meaningFa": "بیرون",
+      "additionalExamples": [
+        {
+          "de": "Wir essen heute draußen.",
+          "fa": "ما امروز بیرون غذا می‌خوریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Draußen wartet schon mein Bruder.",
+          "fa": "برادرم همین حالا بیرون منتظر است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:015",
+      "row": 15,
+      "word": "drinnen",
+      "meaningFa": "داخل",
+      "additionalExamples": [
+        {
+          "de": "Drinnen ist es schön warm.",
+          "fa": "داخل حسابی گرم است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bei Regen spielen die Kinder drinnen.",
+          "fa": "وقتی باران می‌آید بچه‌ها داخل بازی می‌کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:016",
+      "row": 16,
+      "word": "die Gabel",
+      "meaningFa": "چنگال",
+      "additionalExamples": [
+        {
+          "de": "Kannst du mir eine Gabel geben?",
+          "fa": "می‌توانی یک چنگال به من بدهی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die kleine Gabel ist für den Kuchen.",
+          "fa": "چنگال کوچک برای کیک است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:017",
+      "row": 17,
+      "word": "das Gericht",
+      "meaningFa": "غذا؛ دادگاه",
+      "additionalExamples": [
+        {
+          "de": "Welches Gericht möchten Sie bestellen?",
+          "fa": "مایل هستید کدام غذا را سفارش بدهید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Dieses Gericht gibt es auch ohne Fleisch.",
+          "fa": "این غذا بدون گوشت هم موجود است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:018",
+      "row": 18,
+      "word": "das Geschirr",
+      "meaningFa": "ظرف‌وظروف",
+      "additionalExamples": [
+        {
+          "de": "Das Geschirr ist noch schmutzig.",
+          "fa": "ظرف‌ها هنوز کثیف هستند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach dem Essen spülen wir das Geschirr.",
+          "fa": "بعد از غذا ظرف‌ها را می‌شوییم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:019",
+      "row": 19,
+      "word": "geschlossen",
+      "meaningFa": "بسته",
+      "additionalExamples": [
+        {
+          "de": "Das Restaurant ist am Montag geschlossen.",
+          "fa": "رستوران دوشنبه‌ها بسته است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Tür bleibt heute geschlossen.",
+          "fa": "در امروز بسته می‌ماند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:020",
+      "row": 20,
+      "word": "das Getränk",
+      "meaningFa": "نوشیدنی",
+      "additionalExamples": [
+        {
+          "de": "Welches Getränk möchtest du zum Essen?",
+          "fa": "همراه غذا چه نوشیدنی‌ای می‌خواهی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ein kaltes Getränk kostet hier drei Euro.",
+          "fa": "یک نوشیدنی سرد اینجا سه یورو قیمت دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:021",
+      "row": 21,
+      "word": "gratulieren",
+      "meaningFa": "تبریک‌گفتن",
+      "additionalExamples": [
+        {
+          "de": "Wir gratulieren dir zum Geburtstag!",
+          "fa": "تولدت را تبریک می‌گوییم!",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich möchte Ihnen zur Prüfung gratulieren.",
+          "fa": "می‌خواهم قبولی در امتحان را به شما تبریک بگویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:022",
+      "row": 22,
+      "word": "das Hauptgericht",
+      "meaningFa": "غذای اصلی",
+      "additionalExamples": [
+        {
+          "de": "Als Hauptgericht nehme ich Fisch.",
+          "fa": "برای غذای اصلی ماهی می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Hauptgericht kommt nach der Suppe.",
+          "fa": "غذای اصلی بعد از سوپ می‌آید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:023",
+      "row": 23,
+      "word": "der Kellner",
+      "meaningFa": "پیشخدمت مرد",
+      "additionalExamples": [
+        {
+          "de": "Der Kellner bringt die Rechnung.",
+          "fa": "پیشخدمت صورتحساب را می‌آورد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir fragen den Kellner nach einem freien Tisch.",
+          "fa": "از پیشخدمت سراغ یک میز خالی را می‌گیریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:024",
+      "row": 24,
+      "word": "die Kellnerin",
+      "meaningFa": "پیشخدمت زن",
+      "additionalExamples": [
+        {
+          "de": "Die Kellnerin empfiehlt uns die Suppe.",
+          "fa": "پیشخدمت زن سوپ را به ما پیشنهاد می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Eine Kellnerin arbeitet heute draußen.",
+          "fa": "امروز یک پیشخدمت زن در فضای بیرون کار می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:025",
+      "row": 25,
+      "word": "der Knoblauch",
+      "meaningFa": "سیر",
+      "additionalExamples": [
+        {
+          "de": "In dieser Suppe ist viel Knoblauch.",
+          "fa": "در این سوپ سیر زیادی هست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich koche gern mit frischem Knoblauch.",
+          "fa": "دوست دارم با سیر تازه آشپزی کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:026",
+      "row": 26,
+      "word": "der Koch",
+      "meaningFa": "آشپز مرد",
+      "additionalExamples": [
+        {
+          "de": "Der Koch bereitet das Essen vor.",
+          "fa": "آشپز غذا را آماده می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Onkel ist Koch in einem Hotel.",
+          "fa": "عموی من در یک هتل آشپز است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:027",
+      "row": 27,
+      "word": "lieben",
+      "meaningFa": "عاشق‌بودن؛ بسیار دوست‌داشتن",
+      "additionalExamples": [
+        {
+          "de": "Ich liebe meine Familie.",
+          "fa": "من عاشق خانواده‌ام هستم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie liebt italienisches Essen.",
+          "fa": "او غذای ایتالیایی را بسیار دوست دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:028",
+      "row": 28,
+      "word": "der Löffel",
+      "meaningFa": "قاشق",
+      "additionalExamples": [
+        {
+          "de": "Für die Suppe brauche ich einen Löffel.",
+          "fa": "برای سوپ به یک قاشق نیاز دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Löffel ist noch in der Suppe.",
+          "fa": "قاشق هنوز داخل سوپ است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:029",
+      "row": 29,
+      "word": "meinen",
+      "meaningFa": "منظورداشتن؛ عقیده‌داشتن",
+      "additionalExamples": [
+        {
+          "de": "Was meinst du mit dieser Frage?",
+          "fa": "منظورت از این سؤال چیست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich meine, das Essen ist zu teuer.",
+          "fa": "به نظر من این غذا زیادی گران است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:030",
+      "row": 30,
+      "word": "das Messer",
+      "meaningFa": "چاقو",
+      "additionalExamples": [
+        {
+          "de": "Das Messer ist sehr scharf.",
+          "fa": "این چاقو خیلی تیز است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mit diesem Messer schneide ich Brot.",
+          "fa": "من با این چاقو نان می‌برم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:031",
+      "row": 31,
+      "word": "die Nachbarin",
+      "meaningFa": "همسایهٔ زن",
+      "additionalExamples": [
+        {
+          "de": "Unsere Nachbarin kommt heute zum Essen.",
+          "fa": "همسایهٔ زن ما امروز برای غذا می‌آید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich gebe meiner Nachbarin ein Stück Kuchen.",
+          "fa": "من یک تکه کیک به همسایهٔ زنم می‌دهم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:032",
+      "row": 32,
+      "word": "die Nachspeise",
+      "meaningFa": "دسر",
+      "additionalExamples": [
+        {
+          "de": "Möchtest du noch eine Nachspeise?",
+          "fa": "هنوز دسر هم میل داری؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Nachspeise schmeckt nach Zitrone.",
+          "fa": "این دسر مزهٔ لیمو می‌دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:033",
+      "row": 33,
+      "word": "die Rechnung",
+      "meaningFa": "صورتحساب",
+      "additionalExamples": [
+        {
+          "de": "Auf der Rechnung stehen zwei Getränke.",
+          "fa": "در صورتحساب دو نوشیدنی نوشته شده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Können wir bitte die Rechnung bekommen?",
+          "fa": "ممکن است لطفاً صورتحساب را بیاورید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:034",
+      "row": 34,
+      "word": "reservieren",
+      "meaningFa": "رزروکردن",
+      "additionalExamples": [
+        {
+          "de": "Ich reserviere einen Tisch für vier Personen.",
+          "fa": "من برای چهار نفر میز رزرو می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kann man hier telefonisch reservieren?",
+          "fa": "می‌شود اینجا تلفنی رزرو کرد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:035",
+      "row": 35,
+      "word": "das Rezept",
+      "meaningFa": "دستور پخت؛ نسخهٔ پزشک",
+      "additionalExamples": [
+        {
+          "de": "Dieses Rezept habe ich von meiner Mutter.",
+          "fa": "این دستور پخت را از مادرم گرفته‌ام.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für den Kuchen brauche ich ein einfaches Rezept.",
+          "fa": "برای کیک به یک دستور پخت ساده نیاز دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:036",
+      "row": 36,
+      "word": "salzig",
+      "meaningFa": "شور",
+      "additionalExamples": [
+        {
+          "de": "Die Suppe ist heute etwas salzig.",
+          "fa": "سوپ امروز کمی شور است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Diese Soße schmeckt mir zu salzig.",
+          "fa": "این سس برای ذائقهٔ من زیادی شور است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:037",
+      "row": 37,
+      "word": "satt",
+      "meaningFa": "سیر",
+      "additionalExamples": [
+        {
+          "de": "Danke, ich bin schon satt.",
+          "fa": "ممنون، من دیگر سیر شده‌ام.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach zwei Tellern ist er endlich satt.",
+          "fa": "او بعد از دو بشقاب بالاخره سیر می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:038",
+      "row": 38,
+      "word": "sauer",
+      "meaningFa": "ترش؛ عصبانی در گفتار",
+      "additionalExamples": [
+        {
+          "de": "Die Zitrone ist sehr sauer.",
+          "fa": "این لیمو خیلی ترش است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Dieser Apfel schmeckt etwas sauer.",
+          "fa": "این سیب کمی ترش است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:039",
+      "row": 39,
+      "word": "scharf",
+      "meaningFa": "تند؛ تیز",
+      "additionalExamples": [
+        {
+          "de": "Ist das Gericht scharf?",
+          "fa": "این غذا تند است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte nicht so scharf, ich esse das nicht gern.",
+          "fa": "لطفاً زیاد تند نباشد، من غذای تند دوست ندارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:040",
+      "row": 40,
+      "word": "schmutzig",
+      "meaningFa": "کثیف",
+      "additionalExamples": [
+        {
+          "de": "Dein Teller ist noch schmutzig.",
+          "fa": "بشقاب تو هنوز کثیف است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Kinder kommen mit schmutzigen Händen zum Tisch.",
+          "fa": "بچه‌ها با دست‌های کثیف سر میز می‌آیند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:041",
+      "row": 41,
+      "word": "die Serviette",
+      "meaningFa": "دستمال سفره",
+      "additionalExamples": [
+        {
+          "de": "Hier ist eine Serviette für dich.",
+          "fa": "این هم یک دستمال سفره برای تو.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Serviette liegt unter der Gabel.",
+          "fa": "دستمال سفره زیر چنگال است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:042",
+      "row": 42,
+      "word": "setzen",
+      "meaningFa": "نشاندن؛ قرار‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Bitte setzen Sie sich an diesen Tisch.",
+          "fa": "لطفاً پشت این میز بنشینید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Mutter setzt das Kind auf den Stuhl.",
+          "fa": "مادر کودک را روی صندلی می‌نشاند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:043",
+      "row": 43,
+      "word": "die Speisekarte",
+      "meaningFa": "منوی غذا",
+      "additionalExamples": [
+        {
+          "de": "Kann ich bitte die Speisekarte sehen?",
+          "fa": "ممکن است لطفاً منو را ببینم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Speisekarte gibt es auch auf Englisch.",
+          "fa": "منو به زبان انگلیسی هم موجود است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:044",
+      "row": 44,
+      "word": "die Suppe",
+      "meaningFa": "سوپ",
+      "additionalExamples": [
+        {
+          "de": "Die Suppe ist noch zu heiß.",
+          "fa": "سوپ هنوز زیادی داغ است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Zum Mittagessen koche ich eine Suppe.",
+          "fa": "برای ناهار سوپ می‌پزم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:045",
+      "row": 45,
+      "word": "die Tasse",
+      "meaningFa": "فنجان",
+      "additionalExamples": [
+        {
+          "de": "Möchtest du eine Tasse Tee?",
+          "fa": "یک فنجان چای می‌خواهی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Tasse steht auf dem Tisch.",
+          "fa": "فنجان من روی میز است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:046",
+      "row": 46,
+      "word": "der Teller",
+      "meaningFa": "بشقاب",
+      "additionalExamples": [
+        {
+          "de": "Auf dem Teller liegt ein Stück Brot.",
+          "fa": "روی بشقاب یک تکه نان هست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kannst du mir einen sauberen Teller bringen?",
+          "fa": "می‌توانی یک بشقاب تمیز برایم بیاوری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:047",
+      "row": 47,
+      "word": "die Torte",
+      "meaningFa": "کیک خامه‌ای یا لایه‌ای",
+      "additionalExamples": [
+        {
+          "de": "Zum Geburtstag gibt es eine große Torte.",
+          "fa": "برای تولد یک کیک بزرگ داریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie nimmt ein kleines Stück von der Torte.",
+          "fa": "او یک تکهٔ کوچک از کیک برمی‌دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:048",
+      "row": 48,
+      "word": "das Trinkgeld",
+      "meaningFa": "انعام",
+      "additionalExamples": [
+        {
+          "de": "Das Trinkgeld ist für die Kellnerin.",
+          "fa": "این انعام برای پیشخدمت زن است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir geben dem Kellner drei Euro Trinkgeld.",
+          "fa": "ما سه یورو به پیشخدمت انعام می‌دهیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:049",
+      "row": 49,
+      "word": "vegetarisch",
+      "meaningFa": "گیاه‌خواری؛ بدون گوشت",
+      "additionalExamples": [
+        {
+          "de": "Ich esse heute vegetarisch.",
+          "fa": "من امروز غذای بدون گوشت می‌خورم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Haben Sie auch ein vegetarisches Gericht?",
+          "fa": "غذای گیاهی هم دارید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:050",
+      "row": 50,
+      "word": "die Vorspeise",
+      "meaningFa": "پیش‌غذا",
+      "additionalExamples": [
+        {
+          "de": "Als Vorspeise bestellen wir einen Salat.",
+          "fa": "برای پیش‌غذا یک سالاد سفارش می‌دهیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Vorspeise ist klein, aber sehr gut.",
+          "fa": "پیش‌غذا کوچک است، اما خیلی خوشمزه است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:051",
+      "row": 51,
+      "word": "die Zitrone",
+      "meaningFa": "لیموترش",
+      "additionalExamples": [
+        {
+          "de": "Ich möchte Tee mit Zitrone.",
+          "fa": "من چای با لیمو می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für den Fisch brauchen wir eine Zitrone.",
+          "fa": "برای ماهی به یک لیمو نیاز داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-08-A1:052",
+      "row": 52,
+      "word": "die Zutat",
+      "meaningFa": "مادهٔ اولیهٔ غذا",
+      "additionalExamples": [
+        {
+          "de": "Welche Zutaten brauchen wir für die Suppe?",
+          "fa": "برای سوپ به چه موادی نیاز داریم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Eine wichtige Zutat fehlt noch.",
+          "fa": "هنوز یکی از مواد اولیهٔ مهم را نداریم.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

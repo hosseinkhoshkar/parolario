@@ -1,0 +1,998 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-07-A1.txt",
+  "lessonNumber": 7,
+  "level": "A1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-07-A1:001",
+      "row": 1,
+      "word": "aussteigen",
+      "meaningFa": "پیاده‌شدن",
+      "additionalExamples": [
+        {
+          "de": "Steig bitte am Bahnhof aus.",
+          "fa": "لطفاً در ایستگاه قطار پیاده شو.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wo müssen wir aus dem Bus aussteigen?",
+          "fa": "کجا باید از اتوبوس پیاده شویم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:002",
+      "row": 2,
+      "word": "der Bahnhof",
+      "meaningFa": "ایستگاه قطار",
+      "additionalExamples": [
+        {
+          "de": "Wir holen unsere Freunde am Bahnhof ab.",
+          "fa": "می‌رویم ایستگاه قطار دنبال دوستانمان.",
+          "origin": "authored"
+        },
+        {
+          "de": "Vom Bahnhof sind es zehn Minuten zum Hotel.",
+          "fa": "از ایستگاه قطار تا هتل ده دقیقه راه است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:003",
+      "row": 3,
+      "word": "begründen",
+      "meaningFa": "دلیل‌آوردن",
+      "additionalExamples": [
+        {
+          "de": "Bitte begründen Sie Ihre Antwort.",
+          "fa": "لطفاً برای پاسختان دلیل بیاورید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kannst du deinen Wunsch begründen?",
+          "fa": "می‌توانی برای خواسته‌ات دلیل بیاوری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:004",
+      "row": 4,
+      "word": "berichten",
+      "meaningFa": "گزارش‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Meine Freundin berichtet von ihrer Reise.",
+          "fa": "دوستم از سفرش گزارش می‌دهد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Zeitung berichtet über das Fest in unserer Stadt.",
+          "fa": "روزنامه دربارهٔ جشن شهر ما گزارش می‌دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:005",
+      "row": 5,
+      "word": "berühmt",
+      "meaningFa": "مشهور",
+      "additionalExamples": [
+        {
+          "de": "Dieser Künstler ist in Deutschland sehr berühmt.",
+          "fa": "این هنرمند در آلمان خیلی مشهور است.",
+          "origin": "authored"
+        },
+        {
+          "de": "In unserer Stadt gibt es ein berühmtes Theater.",
+          "fa": "در شهر ما یک تئاتر مشهور هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:006",
+      "row": 6,
+      "word": "besichtigen",
+      "meaningFa": "بازدیدکردن",
+      "additionalExamples": [
+        {
+          "de": "Morgen besichtigen wir das Rathaus.",
+          "fa": "فردا از ساختمان شهرداری بازدید می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welche Sehenswürdigkeiten möchtest du besichtigen?",
+          "fa": "دوست داری از کدام جاهای دیدنی بازدید کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:007",
+      "row": 7,
+      "word": "die Blume",
+      "meaningFa": "گل",
+      "additionalExamples": [
+        {
+          "de": "Die Blumen stehen auf dem Tisch.",
+          "fa": "گل‌ها روی میز هستند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich bringe meiner Mutter eine Blume mit.",
+          "fa": "برای مادرم یک گل می‌آورم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:008",
+      "row": 8,
+      "word": "der Bus",
+      "meaningFa": "اتوبوس",
+      "additionalExamples": [
+        {
+          "de": "Der Bus kommt in fünf Minuten.",
+          "fa": "اتوبوس پنج دقیقهٔ دیگر می‌آید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Fährst du mit dem Bus zur Arbeit?",
+          "fa": "با اتوبوس سر کار می‌روی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:009",
+      "row": 9,
+      "word": "danken",
+      "meaningFa": "تشکرکردن",
+      "additionalExamples": [
+        {
+          "de": "Ich danke Ihnen für Ihre Hilfe.",
+          "fa": "از کمکتان سپاسگزارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir danken unserer Lehrerin für den schönen Ausflug.",
+          "fa": "برای گردش خوب از معلممان تشکر می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:010",
+      "row": 10,
+      "word": "durch",
+      "meaningFa": "از میان؛ از طریق",
+      "additionalExamples": [
+        {
+          "de": "Wir gehen durch den Park zum Bahnhof.",
+          "fa": "از میان پارک به ایستگاه قطار می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Durch das Fenster höre ich die Musik.",
+          "fa": "صدای موسیقی را از پنجره می‌شنوم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:011",
+      "row": 11,
+      "word": "die Fahrkarte",
+      "meaningFa": "بلیط حمل‌ونقل",
+      "additionalExamples": [
+        {
+          "de": "Wo kann ich eine Fahrkarte kaufen?",
+          "fa": "از کجا می‌توانم بلیط بخرم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Fahrkarte nach Berlin kostet dreißig Euro.",
+          "fa": "بلیط برلین سی یورو قیمت دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:012",
+      "row": 12,
+      "word": "früher",
+      "meaningFa": "قبلاً؛ در گذشته",
+      "additionalExamples": [
+        {
+          "de": "Früher habe ich in einer Wohngemeinschaft gewohnt.",
+          "fa": "قبلاً در یک خانهٔ اشتراکی زندگی می‌کردم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Warst du früher oft im Theater?",
+          "fa": "قبلاً زیاد به تئاتر می‌رفتی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:013",
+      "row": 13,
+      "word": "die Führung",
+      "meaningFa": "بازدید همراه راهنما؛ مدیریت",
+      "additionalExamples": [
+        {
+          "de": "Die Führung durch das Museum beginnt um zehn.",
+          "fa": "بازدید همراه راهنما از موزه ساعت ده شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir möchten eine Führung auf Deutsch.",
+          "fa": "ما یک بازدید همراه راهنما به زبان آلمانی می‌خواهیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:014",
+      "row": 14,
+      "word": "der Fuß",
+      "meaningFa": "پا؛ از مچ به پایین",
+      "additionalExamples": [
+        {
+          "de": "Mein rechter Fuß tut weh.",
+          "fa": "پای راستم درد می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Dieser Schuh ist zu schmal für meinen Fuß.",
+          "fa": "این کفش برای پای من زیادی باریک است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:015",
+      "row": 15,
+      "word": "der Garten",
+      "meaningFa": "باغ؛ حیاطِ باغ‌دار",
+      "additionalExamples": [
+        {
+          "de": "Die Kinder spielen im Garten.",
+          "fa": "بچه‌ها در باغ بازی می‌کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Garten meiner Eltern stehen viele Blumen.",
+          "fa": "در باغ پدر و مادرم گل‌های زیادی هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:016",
+      "row": 16,
+      "word": "gefallen",
+      "meaningFa": "خوش‌آمدن",
+      "additionalExamples": [
+        {
+          "de": "Gefällt dir das Bild über dem Sofa?",
+          "fa": "از تابلوی بالای مبل خوشت می‌آید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die neuen Schuhe gefallen meiner Schwester.",
+          "fa": "خواهرم از کفش‌های جدید خوشش می‌آید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:017",
+      "row": 17,
+      "word": "die Gegenwart",
+      "meaningFa": "حال؛ زمان حاضر",
+      "additionalExamples": [
+        {
+          "de": "Dieser Satz steht in der Gegenwart.",
+          "fa": "این جمله در زمان حال است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für mich ist die Gegenwart wichtiger als die Vergangenheit.",
+          "fa": "برای من زمان حال از گذشته مهم‌تر است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:018",
+      "row": 18,
+      "word": "geradeaus",
+      "meaningFa": "مستقیم؛ به مسیر مستقیم",
+      "additionalExamples": [
+        {
+          "de": "Gehen Sie hier immer geradeaus.",
+          "fa": "از اینجا همین‌طور مستقیم بروید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Fahr an der Kreuzung geradeaus.",
+          "fa": "در تقاطع مستقیم برو.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:019",
+      "row": 19,
+      "word": "das Geschenk",
+      "meaningFa": "هدیه",
+      "additionalExamples": [
+        {
+          "de": "Das Geschenk ist für meine Lehrerin.",
+          "fa": "این هدیه برای معلمم است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welches Geschenk wünschst du dir zum Geburtstag?",
+          "fa": "برای تولدت چه هدیه‌ای آرزو داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:020",
+      "row": 20,
+      "word": "Guten Appetit",
+      "meaningFa": "نوش جان",
+      "additionalExamples": [
+        {
+          "de": "Das Essen ist fertig. Guten Appetit!",
+          "fa": "غذا آماده است. نوش جان!",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir wünschen euch guten Appetit.",
+          "fa": "برای شما آرزو می‌کنیم از غذایتان لذت ببرید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:021",
+      "row": 21,
+      "word": "die Hauptstadt",
+      "meaningFa": "پایتخت",
+      "additionalExamples": [
+        {
+          "de": "Kennst du die Hauptstadt von Österreich?",
+          "fa": "پایتخت اتریش را می‌شناسی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Schwester studiert in der Hauptstadt.",
+          "fa": "خواهرم در پایتخت درس می‌خواند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:022",
+      "row": 22,
+      "word": "heiraten",
+      "meaningFa": "ازدواج‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Meine Cousine heiratet im Sommer.",
+          "fa": "دخترخاله‌ام تابستان ازدواج می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wo möchtet ihr heiraten?",
+          "fa": "می‌خواهید کجا ازدواج کنید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:023",
+      "row": 23,
+      "word": "die Kreuzung",
+      "meaningFa": "تقاطع",
+      "additionalExamples": [
+        {
+          "de": "An der nächsten Kreuzung gehen Sie links.",
+          "fa": "در تقاطع بعدی به چپ بروید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Bus wartet vor der Kreuzung.",
+          "fa": "اتوبوس قبل از تقاطع منتظر است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:024",
+      "row": 24,
+      "word": "die Kunst",
+      "meaningFa": "هنر",
+      "additionalExamples": [
+        {
+          "de": "Ich interessiere mich für Kunst.",
+          "fa": "من به هنر علاقه دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Museum sehen wir Kunst aus Italien.",
+          "fa": "در موزه هنر ایتالیا را می‌بینیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:025",
+      "row": 25,
+      "word": "der Künstler",
+      "meaningFa": "هنرمند مرد",
+      "additionalExamples": [
+        {
+          "de": "Der Künstler zeigt uns seine Bilder.",
+          "fa": "هنرمند تابلوهایش را به ما نشان می‌دهد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich möchte den Künstler persönlich kennenlernen.",
+          "fa": "می‌خواهم این هنرمند را حضوری بشناسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:026",
+      "row": 26,
+      "word": "die Künstlerin",
+      "meaningFa": "هنرمند زن",
+      "additionalExamples": [
+        {
+          "de": "Meine Tante ist Künstlerin.",
+          "fa": "خاله‌ام هنرمند است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Künstlerin arbeitet in einem kleinen Zimmer.",
+          "fa": "هنرمند زن در یک اتاق کوچک کار می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:027",
+      "row": 27,
+      "word": "lachen",
+      "meaningFa": "خندیدن",
+      "additionalExamples": [
+        {
+          "de": "Die Kinder lachen über das lustige Bild.",
+          "fa": "بچه‌ها به تصویر خنده‌دار می‌خندند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Warum lachst du so laut?",
+          "fa": "چرا این‌قدر بلند می‌خندی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:028",
+      "row": 28,
+      "word": "lecker",
+      "meaningFa": "خوش‌مزه",
+      "additionalExamples": [
+        {
+          "de": "Der Kuchen ist wirklich lecker.",
+          "fa": "کیک واقعاً خوشمزه است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Danke für das leckere Abendessen!",
+          "fa": "ممنون از شام خوشمزه!",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:029",
+      "row": 29,
+      "word": "legen",
+      "meaningFa": "گذاشتن در حالت افقی",
+      "additionalExamples": [
+        {
+          "de": "Leg das Buch bitte auf den Tisch.",
+          "fa": "لطفاً کتاب را روی میز بگذار.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich lege die neuen Socken in den Schrank.",
+          "fa": "جوراب‌های جدید را در کمد می‌گذارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:030",
+      "row": 30,
+      "word": "leicht",
+      "meaningFa": "آسان؛ سبک",
+      "additionalExamples": [
+        {
+          "de": "Diese Aufgabe ist sehr leicht.",
+          "fa": "این تکلیف خیلی آسان است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Tasche ist leicht; ich kann sie allein tragen.",
+          "fa": "کیف سبک است؛ می‌توانم آن را به‌تنهایی حمل کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:031",
+      "row": 31,
+      "word": "liegen",
+      "meaningFa": "درازکش‌بودن؛ قرارداشتن",
+      "additionalExamples": [
+        {
+          "de": "Mein Handy liegt unter der Zeitung.",
+          "fa": "موبایلم زیر روزنامه است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Kind liegt im Bett und schläft.",
+          "fa": "کودک در تخت دراز کشیده و خوابیده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:032",
+      "row": 32,
+      "word": "lustig",
+      "meaningFa": "خنده‌دار؛ شاد",
+      "additionalExamples": [
+        {
+          "de": "Der Film war sehr lustig.",
+          "fa": "فیلم خیلی خنده‌دار بود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Dein Bruder erzählt immer lustige Geschichten.",
+          "fa": "برادرت همیشه داستان‌های خنده‌دار تعریف می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:033",
+      "row": 33,
+      "word": "mehrere",
+      "meaningFa": "چندین",
+      "additionalExamples": [
+        {
+          "de": "Ich habe mehrere Fragen zur Reise.",
+          "fa": "چندین سؤال دربارهٔ سفر دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "In unserer Straße gibt es mehrere kleine Läden.",
+          "fa": "در خیابان ما چندین مغازهٔ کوچک هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:034",
+      "row": 34,
+      "word": "ob",
+      "meaningFa": "آیا؛ در پرسش غیرمستقیم",
+      "additionalExamples": [
+        {
+          "de": "Weißt du, ob das Museum heute offen ist?",
+          "fa": "می‌دانی موزه امروز باز است یا نه؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich frage Anna, ob sie zum Fest kommt.",
+          "fa": "از آنا می‌پرسم آیا به جشن می‌آید یا نه.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:035",
+      "row": 35,
+      "word": "das Parlament",
+      "meaningFa": "مجلس",
+      "additionalExamples": [
+        {
+          "de": "Das Parlament ist in der Hauptstadt.",
+          "fa": "مجلس در پایتخت است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir besichtigen morgen das Parlament.",
+          "fa": "فردا از مجلس بازدید می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:036",
+      "row": 36,
+      "word": "probieren",
+      "meaningFa": "امتحان‌کردن؛ چشیدن",
+      "additionalExamples": [
+        {
+          "de": "Möchtest du den Kuchen probieren?",
+          "fa": "می‌خواهی کیک را بچشی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Probier bitte den Salat ohne Salz.",
+          "fa": "لطفاً سالاد را بدون نمک بچش.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:037",
+      "row": 37,
+      "word": "das Rathaus",
+      "meaningFa": "ساختمان شهرداری",
+      "additionalExamples": [
+        {
+          "de": "Das Rathaus steht am großen Platz.",
+          "fa": "ساختمان شهرداری در میدان بزرگ قرار دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Vor dem Rathaus treffen wir unsere Freunde.",
+          "fa": "جلوی ساختمان شهرداری با دوستانمان دیدار می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:038",
+      "row": 38,
+      "word": "die Regierung",
+      "meaningFa": "دولت",
+      "additionalExamples": [
+        {
+          "de": "Die Regierung informiert die Menschen.",
+          "fa": "دولت به مردم اطلاع‌رسانی می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "In der Zeitung steht heute etwas über die Regierung.",
+          "fa": "امروز در روزنامه مطلبی دربارهٔ دولت نوشته شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:039",
+      "row": 39,
+      "word": "die Reise",
+      "meaningFa": "سفر",
+      "additionalExamples": [
+        {
+          "de": "Wir planen eine Reise nach Österreich.",
+          "fa": "داریم برای سفری به اتریش برنامه‌ریزی می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie lange dauert eure Reise?",
+          "fa": "سفرتان چقدر طول می‌کشد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:040",
+      "row": 40,
+      "word": "die Richtung",
+      "meaningFa": "جهت",
+      "additionalExamples": [
+        {
+          "de": "Fährt dieser Bus in Richtung Bahnhof?",
+          "fa": "این اتوبوس به سمت ایستگاه قطار می‌رود؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir gehen in die andere Richtung.",
+          "fa": "ما به سمت دیگری می‌رویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:041",
+      "row": 41,
+      "word": "schmecken",
+      "meaningFa": "مزه‌دادن؛ خوش‌مزه‌بودن",
+      "additionalExamples": [
+        {
+          "de": "Schmeckt dir der Salat?",
+          "fa": "سالاد به مذاقت خوش می‌آید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Dieser Tee schmeckt ohne Zucker besser.",
+          "fa": "این چای بدون شکر خوشمزه‌تر است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:042",
+      "row": 42,
+      "word": "die Sehenswürdigkeit",
+      "meaningFa": "جای دیدنی",
+      "additionalExamples": [
+        {
+          "de": "Welche Sehenswürdigkeit besichtigen wir zuerst?",
+          "fa": "اول از کدام جای دیدنی بازدید می‌کنیم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Rathaus ist eine bekannte Sehenswürdigkeit.",
+          "fa": "ساختمان شهرداری یک جای دیدنیِ شناخته‌شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:043",
+      "row": 43,
+      "word": "die Stelle",
+      "meaningFa": "موقعیت شغلی؛ محل",
+      "additionalExamples": [
+        {
+          "de": "Meine Freundin sucht eine neue Stelle.",
+          "fa": "دوستم دنبال یک موقعیت شغلی جدید می‌گردد.",
+          "origin": "authored"
+        },
+        {
+          "de": "An dieser Stelle gehen Sie nach links.",
+          "fa": "از این نقطه به سمت چپ بروید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:044",
+      "row": 44,
+      "word": "sterben",
+      "meaningFa": "مردن",
+      "additionalExamples": [
+        {
+          "de": "Mein Großvater ist vor drei Jahren gestorben.",
+          "fa": "پدربزرگم سه سال پیش درگذشت.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ohne Wasser sterben die Blumen.",
+          "fa": "گل‌ها بدون آب می‌میرند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:045",
+      "row": 45,
+      "word": "die Straßenbahn",
+      "meaningFa": "تراموا",
+      "additionalExamples": [
+        {
+          "de": "Wir fahren mit der Straßenbahn zum Museum.",
+          "fa": "با تراموا به موزه می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Straßenbahn hält vor dem Theater.",
+          "fa": "تراموا جلوی تئاتر توقف می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:046",
+      "row": 46,
+      "word": "das Ticket",
+      "meaningFa": "بلیط",
+      "additionalExamples": [
+        {
+          "de": "Ein Ticket für das Konzert kostet zwanzig Euro.",
+          "fa": "یک بلیط کنسرت بیست یورو قیمت دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hast du dein Ticket schon gekauft?",
+          "fa": "بلیطت را خریده‌ای؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:047",
+      "row": 47,
+      "word": "traurig",
+      "meaningFa": "غمگین",
+      "additionalExamples": [
+        {
+          "de": "Mein Sohn ist traurig, denn sein Fahrrad ist kaputt.",
+          "fa": "پسرم غمگین است، چون دوچرخه‌اش خراب شده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Warum bist du heute so traurig?",
+          "fa": "چرا امروز این‌قدر ناراحتی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:048",
+      "row": 48,
+      "word": "der Turm",
+      "meaningFa": "برج",
+      "additionalExamples": [
+        {
+          "de": "Vom Turm sehen wir die ganze Stadt.",
+          "fa": "از بالای برج تمام شهر را می‌بینیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Turm ist höher als das Rathaus.",
+          "fa": "برج از ساختمان شهرداری بلندتر است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:049",
+      "row": 49,
+      "word": "überhaupt",
+      "meaningFa": "اصلاً؛ به‌طور کلی",
+      "additionalExamples": [
+        {
+          "de": "Ich verstehe dieses Wort überhaupt nicht.",
+          "fa": "اصلاً این واژه را نمی‌فهمم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hast du überhaupt Zeit für einen Ausflug?",
+          "fa": "اصلاً برای گردش وقت داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:050",
+      "row": 50,
+      "word": "umsteigen",
+      "meaningFa": "عوض‌کردن وسیله در مسیر",
+      "additionalExamples": [
+        {
+          "de": "Am Bahnhof müssen wir in den Bus umsteigen.",
+          "fa": "در ایستگاه قطار باید سوار اتوبوس شویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wo kann ich in die Straßenbahn umsteigen?",
+          "fa": "کجا می‌توانم وسیله‌ام را عوض کنم و سوار تراموا شوم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:051",
+      "row": 51,
+      "word": "unterrichten",
+      "meaningFa": "تدریس‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Meine Mutter unterrichtet Deutsch.",
+          "fa": "مادرم آلمانی تدریس می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unterrichtest du auch am Samstag?",
+          "fa": "شنبه هم تدریس می‌کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:052",
+      "row": 52,
+      "word": "die Vergangenheit",
+      "meaningFa": "گذشته",
+      "additionalExamples": [
+        {
+          "de": "Wir sprechen heute über die Vergangenheit unserer Stadt.",
+          "fa": "امروز دربارهٔ گذشتهٔ شهرمان صحبت می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Dieser Satz steht in der Vergangenheit.",
+          "fa": "این جمله در زمان گذشته است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:053",
+      "row": 53,
+      "word": "verkaufen",
+      "meaningFa": "فروختن",
+      "additionalExamples": [
+        {
+          "de": "Mein Kollege verkauft sein Auto.",
+          "fa": "همکارم ماشینش را می‌فروشد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Verkaufen Sie auch deutsche Zeitungen?",
+          "fa": "روزنامهٔ آلمانی هم می‌فروشید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:054",
+      "row": 54,
+      "word": "weder",
+      "meaningFa": "نه؛ در ساخت weder ... noch",
+      "additionalExamples": [
+        {
+          "de": "Ich trinke weder Kaffee noch Tee.",
+          "fa": "نه قهوه می‌نوشم و نه چای.",
+          "origin": "authored"
+        },
+        {
+          "de": "Diese Hose ist weder billig noch schön.",
+          "fa": "این شلوار نه ارزان است و نه زیبا.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-07-A1:055",
+      "row": 55,
+      "word": "die Zukunft",
+      "meaningFa": "آینده",
+      "additionalExamples": [
+        {
+          "de": "In Zukunft möchte ich näher bei der Arbeit wohnen.",
+          "fa": "در آینده می‌خواهم نزدیک‌تر به محل کارم زندگی کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich denke oft an meine Zukunft.",
+          "fa": "اغلب به آینده‌ام فکر می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

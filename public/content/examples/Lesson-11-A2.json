@@ -1,0 +1,692 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-11-A2.txt",
+  "lessonNumber": 11,
+  "level": "A2",
+  "entries": [
+    {
+      "sourceKey": "Lesson-11-A2:001",
+      "row": 1,
+      "word": "aktuell",
+      "meaningFa": "فعلی؛ روزآمد",
+      "additionalExamples": [
+        {
+          "de": "Ist diese Adresse noch aktuell?",
+          "fa": "آیا این آدرس هنوز معتبر و به‌روز است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die aktuellen Informationen stehen auf unserer Webseite.",
+          "fa": "اطلاعات به‌روز در وب‌سایت ما قرار دارند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:002",
+      "row": 2,
+      "word": "anbieten",
+      "meaningFa": "عرضه‌کردن؛ پیشنهاد‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Die Schule bietet auch Abendkurse an.",
+          "fa": "این مدرسه کلاس شبانه هم ارائه می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kann ich dir einen Tee anbieten?",
+          "fa": "می‌توانم به تو چای تعارف کنم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:003",
+      "row": 3,
+      "word": "die Ankunft",
+      "meaningFa": "ورود؛ رسیدن",
+      "additionalExamples": [
+        {
+          "de": "Nach der Ankunft rufe ich dich an.",
+          "fa": "بعد از رسیدن به تو زنگ می‌زنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Ankunft des Zuges ist um zehn Uhr.",
+          "fa": "زمان رسیدن قطار ساعت ده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:004",
+      "row": 4,
+      "word": "aufräumen",
+      "meaningFa": "مرتب‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Am Samstag räume ich mein Zimmer auf.",
+          "fa": "شنبه اتاقم را مرتب می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hast du die Küche schon aufgeräumt?",
+          "fa": "آشپزخانه را قبلاً مرتب کرده‌ای؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:005",
+      "row": 5,
+      "word": "das Auge",
+      "meaningFa": "چشم",
+      "additionalExamples": [
+        {
+          "de": "Mein rechtes Auge tut weh.",
+          "fa": "چشم راستم درد می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mach bitte die Augen zu.",
+          "fa": "لطفاً چشم‌هایت را ببند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:006",
+      "row": 6,
+      "word": "das Ausland",
+      "meaningFa": "خارج از کشور",
+      "additionalExamples": [
+        {
+          "de": "Meine Schwester lebt im Ausland.",
+          "fa": "خواهرم در خارج از کشور زندگی می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Möchtest du später im Ausland arbeiten?",
+          "fa": "دوست داری در آینده در خارج از کشور کار کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:007",
+      "row": 7,
+      "word": "die Aussprache",
+      "meaningFa": "تلفظ",
+      "additionalExamples": [
+        {
+          "de": "Kannst du mir bei der Aussprache dieses Namens helfen?",
+          "fa": "می‌توانی در تلفظ این نام به من کمک کنی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir üben jeden Tag unsere Aussprache.",
+          "fa": "ما هر روز تلفظمان را تمرین می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:008",
+      "row": 8,
+      "word": "bekannt",
+      "meaningFa": "شناخته‌شده",
+      "additionalExamples": [
+        {
+          "de": "Dieses Restaurant ist in der Stadt sehr bekannt.",
+          "fa": "این رستوران در شهر خیلی شناخته‌شده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist dir dieser Name bekannt?",
+          "fa": "این نام برایت آشناست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:009",
+      "row": 9,
+      "word": "beliebt",
+      "meaningFa": "محبوب",
+      "additionalExamples": [
+        {
+          "de": "Der Lehrer ist bei den Schülern beliebt.",
+          "fa": "این معلم در میان دانش‌آموزان محبوب است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Sommer ist der Park besonders beliebt.",
+          "fa": "این پارک در تابستان به‌ویژه محبوب است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:010",
+      "row": 10,
+      "word": "die Bibliothek",
+      "meaningFa": "کتابخانه",
+      "additionalExamples": [
+        {
+          "de": "In der Bibliothek kann man in Ruhe lesen.",
+          "fa": "در کتابخانه می‌شود در آرامش مطالعه کرد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich hole morgen ein Buch aus der Bibliothek.",
+          "fa": "فردا یک کتاب از کتابخانه می‌گیرم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:011",
+      "row": 11,
+      "word": "der Bürger",
+      "meaningFa": "شهروند مرد",
+      "additionalExamples": [
+        {
+          "de": "Jeder Bürger kann seine Meinung sagen.",
+          "fa": "هر شهروندی می‌تواند نظرش را بیان کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Bürger fragt im Rathaus nach einem Formular.",
+          "fa": "آن شهروند در ساختمان شهرداری سراغ یک فرم را می‌گیرد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:012",
+      "row": 12,
+      "word": "die Bürgerin",
+      "meaningFa": "شهروند زن",
+      "additionalExamples": [
+        {
+          "de": "Sie ist Bürgerin dieser Stadt.",
+          "fa": "او شهروند این شهر است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Eine Bürgerin spricht mit dem Bürgermeister.",
+          "fa": "یک شهروند زن با شهردار صحبت می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:013",
+      "row": 13,
+      "word": "die Erfahrung",
+      "meaningFa": "تجربه",
+      "additionalExamples": [
+        {
+          "de": "Hast du schon Erfahrung mit dieser Arbeit?",
+          "fa": "آیا در این کار از قبل تجربه داری؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Reise war eine schöne Erfahrung für mich.",
+          "fa": "این سفر برای من تجربهٔ خوبی بود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:014",
+      "row": 14,
+      "word": "erleben",
+      "meaningFa": "تجربه‌کردن؛ از سر گذراندن",
+      "additionalExamples": [
+        {
+          "de": "Auf der Reise haben wir viel erlebt.",
+          "fa": "در سفر تجربه‌های زیادی داشتیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich möchte einmal Weihnachten in Deutschland erleben.",
+          "fa": "دوست دارم یک بار کریسمس را در آلمان تجربه کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:015",
+      "row": 15,
+      "word": "das Fach",
+      "meaningFa": "رشته یا درس تخصصی؛ محفظه",
+      "additionalExamples": [
+        {
+          "de": "Welches Fach magst du in der Schule am liebsten?",
+          "fa": "در مدرسه کدام درس را بیشتر از همه دوست داری؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Tasche liegt im oberen Fach.",
+          "fa": "کیفم در محفظهٔ بالایی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:016",
+      "row": 16,
+      "word": "fremd",
+      "meaningFa": "بیگانه؛ ناآشنا",
+      "additionalExamples": [
+        {
+          "de": "Die Stadt war mir am Anfang fremd.",
+          "fa": "این شهر در ابتدا برایم ناآشنا بود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sprichst du gern mit fremden Menschen?",
+          "fa": "دوست داری با آدم‌های ناآشنا صحبت کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:017",
+      "row": 17,
+      "word": "die Fremdsprache",
+      "meaningFa": "زبان خارجی",
+      "additionalExamples": [
+        {
+          "de": "Welche Fremdsprachen lernst du?",
+          "fa": "چه زبان‌های خارجی‌ای یاد می‌گیری؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Englisch war meine erste Fremdsprache.",
+          "fa": "انگلیسی اولین زبان خارجی من بود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:018",
+      "row": 18,
+      "word": "die Freude",
+      "meaningFa": "شادی",
+      "additionalExamples": [
+        {
+          "de": "Die Kinder lachen vor Freude.",
+          "fa": "بچه‌ها از خوشحالی می‌خندند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Du hast mir mit deinem Besuch eine Freude gemacht.",
+          "fa": "با آمدنت خوشحالم کردی.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:019",
+      "row": 19,
+      "word": "die Gebühr",
+      "meaningFa": "کارمزد؛ هزینهٔ خدمات",
+      "additionalExamples": [
+        {
+          "de": "Für diesen Kurs muss man eine Gebühr bezahlen.",
+          "fa": "برای این دوره باید هزینه پرداخت کرد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie hoch ist die monatliche Gebühr?",
+          "fa": "هزینهٔ ماهانه چقدر است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:020",
+      "row": 20,
+      "word": "der Geschirrspüler",
+      "meaningFa": "ماشین ظرف‌شویی",
+      "additionalExamples": [
+        {
+          "de": "Das schmutzige Geschirr kommt in den Geschirrspüler.",
+          "fa": "ظرف‌های کثیف را در ماشین ظرف‌شویی می‌گذاریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Geschirrspüler läuft jeden Abend.",
+          "fa": "ماشین ظرف‌شویی هر شب کار می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:021",
+      "row": 21,
+      "word": "Gesundheit",
+      "meaningFa": "سلامتی؛ عافیت باشد",
+      "additionalExamples": [
+        {
+          "de": "Wenn ich niese, sagt meine Nachbarin: „Gesundheit!“",
+          "fa": "وقتی عطسه می‌کنم، همسایه‌ام می‌گوید: «عافیت باشد!»",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach dem Niesen sagt man oft „Gesundheit!“.",
+          "fa": "بعد از عطسه معمولاً می‌گویند «عافیت باشد!».",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:022",
+      "row": 22,
+      "word": "die Gesundheit",
+      "meaningFa": "سلامتی",
+      "additionalExamples": [
+        {
+          "de": "Sport ist gut für die Gesundheit.",
+          "fa": "ورزش برای سلامتی خوب است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Gesundheit meiner Familie ist mir wichtig.",
+          "fa": "سلامتی خانواده‌ام برایم مهم است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:023",
+      "row": 23,
+      "word": "glauben",
+      "meaningFa": "باورداشتن؛ گمان‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Ich glaube, der Kurs beginnt um neun.",
+          "fa": "فکر می‌کنم کلاس ساعت نه شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Glaubst du mir diese Geschichte?",
+          "fa": "این داستان را از من باور می‌کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:024",
+      "row": 24,
+      "word": "das Grundgesetz",
+      "meaningFa": "قانون اساسی آلمان",
+      "additionalExamples": [
+        {
+          "de": "Wir lesen einen Text über das Grundgesetz.",
+          "fa": "ما متنی دربارهٔ قانون اساسی آلمان می‌خوانیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Grundgesetz ist für alle Menschen in Deutschland wichtig.",
+          "fa": "قانون اساسی آلمان برای همهٔ مردم این کشور مهم است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:025",
+      "row": 25,
+      "word": "die Hochschule",
+      "meaningFa": "مؤسسهٔ آموزش عالی",
+      "additionalExamples": [
+        {
+          "de": "Sie studiert an einer Hochschule in Hamburg.",
+          "fa": "او در یک مؤسسهٔ آموزش عالی در هامبورگ تحصیل می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Hochschule bietet einen Deutschkurs an.",
+          "fa": "این مؤسسهٔ آموزش عالی یک دورهٔ آلمانی ارائه می‌دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:026",
+      "row": 26,
+      "word": "der Husten",
+      "meaningFa": "سرفه",
+      "additionalExamples": [
+        {
+          "de": "Wegen des Hustens konnte ich nicht schlafen.",
+          "fa": "به‌خاطر سرفه نتوانستم بخوابم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nachts wird der Husten besonders stark.",
+          "fa": "سرفه شب‌ها به‌ویژه شدید می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:027",
+      "row": 27,
+      "word": "die Meinung",
+      "meaningFa": "نظر",
+      "additionalExamples": [
+        {
+          "de": "Was ist deine Meinung zu diesem Vorschlag?",
+          "fa": "نظرت دربارهٔ این پیشنهاد چیست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir haben nicht immer die gleiche Meinung.",
+          "fa": "ما همیشه هم‌نظر نیستیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:028",
+      "row": 28,
+      "word": "mindestens",
+      "meaningFa": "دست‌کم",
+      "additionalExamples": [
+        {
+          "de": "Du musst mindestens achtzehn Jahre alt sein.",
+          "fa": "باید دست‌کم هجده سال داشته باشی.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Fahrt dauert mindestens zwei Stunden.",
+          "fa": "این مسیر دست‌کم دو ساعت طول می‌کشد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:029",
+      "row": 29,
+      "word": "die Ruhe",
+      "meaningFa": "آرامش؛ سکوت",
+      "additionalExamples": [
+        {
+          "de": "Ich brauche jetzt etwas Ruhe.",
+          "fa": "الان کمی آرامش لازم دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Lass mich bitte in Ruhe arbeiten.",
+          "fa": "لطفاً بگذار در آرامش کار کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:030",
+      "row": 30,
+      "word": "das Semester",
+      "meaningFa": "نیمسال تحصیلی",
+      "additionalExamples": [
+        {
+          "de": "Das neue Semester beginnt im April.",
+          "fa": "نیمسال جدید در آوریل شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "In diesem Semester habe ich vier Kurse.",
+          "fa": "این نیمسال چهار درس دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:031",
+      "row": 31,
+      "word": "sich erholen",
+      "meaningFa": "تجدید قوا کردن؛ بهبود‌یافتن",
+      "additionalExamples": [
+        {
+          "de": "Am Wochenende möchte ich mich erholen.",
+          "fa": "می‌خواهم آخر هفته تجدید قوا کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie hat sich nach der Krankheit gut erholt.",
+          "fa": "او بعد از بیماری به‌خوبی بهبود یافته است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:032",
+      "row": 32,
+      "word": "sich fühlen",
+      "meaningFa": "احساس‌کردن؛ حال‌داشتن",
+      "additionalExamples": [
+        {
+          "de": "Wie fühlst du dich heute?",
+          "fa": "امروز حالت چطور است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach dem Spaziergang fühle ich mich besser.",
+          "fa": "بعد از پیاده‌روی حالم بهتر است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:033",
+      "row": 33,
+      "word": "sich kümmern",
+      "meaningFa": "رسیدگی‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Wer kümmert sich im Urlaub um die Katze?",
+          "fa": "در تعطیلات چه کسی از گربه مراقبت می‌کند؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich kümmere mich heute um das Essen.",
+          "fa": "امروز من به کار غذا رسیدگی می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:034",
+      "row": 34,
+      "word": "das Studium",
+      "meaningFa": "تحصیل دانشگاهی",
+      "additionalExamples": [
+        {
+          "de": "Nach dem Studium möchte sie arbeiten.",
+          "fa": "او می‌خواهد بعد از تحصیل دانشگاهی کار کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Studium dauert noch zwei Jahre.",
+          "fa": "از تحصیل دانشگاهی من هنوز دو سال باقی مانده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:035",
+      "row": 35,
+      "word": "der Umzug",
+      "meaningFa": "اسباب‌کشی؛ رژه",
+      "additionalExamples": [
+        {
+          "de": "Beim Umzug helfen uns die Nachbarn.",
+          "fa": "همسایه‌ها در اسباب‌کشی به ما کمک می‌کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Umzug in die neue Wohnung war anstrengend.",
+          "fa": "اسباب‌کشی به آپارتمان جدید خسته‌کننده بود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:036",
+      "row": 36,
+      "word": "der Unterschied",
+      "meaningFa": "تفاوت",
+      "additionalExamples": [
+        {
+          "de": "Was ist der Unterschied zwischen diesen Wörtern?",
+          "fa": "تفاوت این واژه‌ها چیست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Zwischen den beiden Wohnungen gibt es große Unterschiede.",
+          "fa": "بین این دو آپارتمان تفاوت‌های زیادی هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:037",
+      "row": 37,
+      "word": "verändern",
+      "meaningFa": "تغییردادن",
+      "additionalExamples": [
+        {
+          "de": "Die neue Arbeit hat meinen Alltag verändert.",
+          "fa": "کار جدید زندگی روزمره‌ام را تغییر داده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir wollen an diesem Plan nichts verändern.",
+          "fa": "نمی‌خواهیم چیزی را در این برنامه تغییر بدهیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-11-A2:038",
+      "row": 38,
+      "word": "wach",
+      "meaningFa": "بیدار",
+      "additionalExamples": [
+        {
+          "de": "Bist du schon wach?",
+          "fa": "بیدار شده‌ای؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Kaffee hält mich abends lange wach.",
+          "fa": "قهوه شب‌ها مدت زیادی بیدار نگهم می‌دارد.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1448 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-06-A1.txt",
+  "lessonNumber": 6,
+  "level": "A1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-06-A1:001",
+      "row": 1,
+      "word": "anfangen",
+      "meaningFa": "شروع‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Wann fängt der Unterricht heute an?",
+          "fa": "امروز کلاس چه ساعتی شروع می‌شود؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich fange morgen mit dem neuen Buch an.",
+          "fa": "فردا خواندن کتاب جدید را شروع می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:002",
+      "row": 2,
+      "word": "die Angst",
+      "meaningFa": "ترس",
+      "additionalExamples": [
+        {
+          "de": "Das Kind hat Angst vor der Kuh.",
+          "fa": "کودک از گاو می‌ترسد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Vor der Prüfung habe ich immer ein bisschen Angst.",
+          "fa": "قبل از امتحان همیشه کمی می‌ترسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:003",
+      "row": 3,
+      "word": "anprobieren",
+      "meaningFa": "لباس را برای امتحان پوشیدن",
+      "additionalExamples": [
+        {
+          "de": "Kann ich diese Hose anprobieren?",
+          "fa": "می‌توانم این شلوار را پرو کنم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Probier bitte auch den blauen Mantel an.",
+          "fa": "لطفاً پالتوی آبی را هم پرو کن.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:004",
+      "row": 4,
+      "word": "der Anzug",
+      "meaningFa": "کت‌وشلوار",
+      "additionalExamples": [
+        {
+          "de": "Mein Vater trägt heute einen Anzug.",
+          "fa": "پدرم امروز کت‌وشلوار پوشیده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Dieser Anzug ist mir zu teuer.",
+          "fa": "این کت‌وشلوار برایم خیلی گران است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:005",
+      "row": 5,
+      "word": "außerdem",
+      "meaningFa": "علاوه بر این",
+      "additionalExamples": [
+        {
+          "de": "Ich brauche Brot und außerdem noch Milch.",
+          "fa": "نان می‌خواهم و علاوه بر آن کمی شیر هم لازم دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Wohnung ist billig und außerdem sehr schön.",
+          "fa": "آپارتمان ارزان است و علاوه بر این خیلی زیباست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:006",
+      "row": 6,
+      "word": "bedeuten",
+      "meaningFa": "معنی‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Was bedeutet dieses Wort auf Deutsch?",
+          "fa": "این واژه در آلمانی چه معنایی دارد؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Diese Nachricht bedeutet mir viel.",
+          "fa": "این پیام برایم خیلی ارزش دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:007",
+      "row": 7,
+      "word": "das Bild",
+      "meaningFa": "تصویر؛ تابلو",
+      "additionalExamples": [
+        {
+          "de": "Das Bild hängt über dem Sofa.",
+          "fa": "تابلو بالای مبل آویزان است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf diesem Bild sehen wir eine Familie.",
+          "fa": "در این تصویر یک خانواده می‌بینیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:008",
+      "row": 8,
+      "word": "bitten",
+      "meaningFa": "درخواست‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Ich bitte dich um Hilfe.",
+          "fa": "از تو درخواست کمک می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Lehrer bittet uns, leise zu sprechen.",
+          "fa": "معلم از ما می‌خواهد آرام صحبت کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:009",
+      "row": 9,
+      "word": "das Blatt",
+      "meaningFa": "برگ؛ برگه",
+      "additionalExamples": [
+        {
+          "de": "Schreiben Sie Ihren Namen auf das Blatt.",
+          "fa": "نامتان را روی برگه بنویسید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Herbst werden viele Blätter gelb.",
+          "fa": "پاییز برگ‌های زیادی زرد می‌شوند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:010",
+      "row": 10,
+      "word": "die Bluse",
+      "meaningFa": "بلوز زنانه",
+      "additionalExamples": [
+        {
+          "de": "Die weiße Bluse passt gut zum Rock.",
+          "fa": "بلوز سفید به دامن می‌آید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich suche eine Bluse für die Arbeit.",
+          "fa": "دنبال یک بلوز برای محل کار می‌گردم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:011",
+      "row": 11,
+      "word": "braun",
+      "meaningFa": "قهوه‌ای",
+      "additionalExamples": [
+        {
+          "de": "Meine Schuhe sind braun.",
+          "fa": "کفش‌هایم قهوه‌ای هستند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Möchtest du den braunen oder den schwarzen Gürtel?",
+          "fa": "کمربند قهوه‌ای را می‌خواهی یا مشکی را؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:012",
+      "row": 12,
+      "word": "der Brief",
+      "meaningFa": "نامه",
+      "additionalExamples": [
+        {
+          "de": "Ich schreibe meiner Oma einen Brief.",
+          "fa": "برای مادربزرگم نامه می‌نویسم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Brief ist heute mit der Post gekommen.",
+          "fa": "نامه امروز با پست رسیده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:013",
+      "row": 13,
+      "word": "dass",
+      "meaningFa": "که؛ برای اتصال جمله",
+      "additionalExamples": [
+        {
+          "de": "Ich denke, dass die Wohnung gut zu uns passt.",
+          "fa": "فکر می‌کنم این آپارتمان برای ما مناسب است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Mutter sagt, dass ich mehr schlafen soll.",
+          "fa": "مادرم می‌گوید باید بیشتر بخوابم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:014",
+      "row": 14,
+      "word": "direkt",
+      "meaningFa": "مستقیم",
+      "additionalExamples": [
+        {
+          "de": "Nach dem Kurs gehe ich direkt nach Hause.",
+          "fa": "بعد از کلاس مستقیم به خانه می‌روم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unser Haus steht direkt am See.",
+          "fa": "خانهٔ ما درست کنار دریاچه است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:015",
+      "row": 15,
+      "word": "das Dokument",
+      "meaningFa": "سند",
+      "additionalExamples": [
+        {
+          "de": "Bitte bringen Sie das Dokument zum Termin mit.",
+          "fa": "لطفاً سند را هنگام مراجعه همراه بیاورید.",
+          "origin": "authored"
+        },
+        {
+          "de": "In diesem Dokument fehlt Ihre Adresse.",
+          "fa": "آدرس شما در این سند نیست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:016",
+      "row": 16,
+      "word": "dunkel",
+      "meaningFa": "تاریک؛ تیره",
+      "additionalExamples": [
+        {
+          "de": "Im Winter ist es früh dunkel.",
+          "fa": "زمستان هوا زود تاریک می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Dunkle Farben passen gut zu meiner Kleidung.",
+          "fa": "رنگ‌های تیره به لباس‌هایم می‌آیند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:017",
+      "row": 17,
+      "word": "der Durst",
+      "meaningFa": "تشنگی",
+      "additionalExamples": [
+        {
+          "de": "Hast du Durst? Hier ist ein Glas Wasser.",
+          "fa": "تشنه‌ای؟ این هم یک لیوان آب.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach dem Sport habe ich großen Durst.",
+          "fa": "بعد از ورزش خیلی تشنه می‌شوم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:018",
+      "row": 18,
+      "word": "das Ehepaar",
+      "meaningFa": "زوج متأهل",
+      "additionalExamples": [
+        {
+          "de": "Das Ehepaar wohnt seit drei Jahren hier.",
+          "fa": "این زوج متأهل سه سال است که اینجا زندگی می‌کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir laden das Ehepaar zum Abendessen ein.",
+          "fa": "این زن و شوهر را برای شام دعوت می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:019",
+      "row": 19,
+      "word": "einladen",
+      "meaningFa": "دعوت‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Ich lade dich zu meinem Geburtstag ein.",
+          "fa": "تو را به تولدم دعوت می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wen möchtet ihr zum Fest einladen?",
+          "fa": "می‌خواهید چه کسی را به جشن دعوت کنید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:020",
+      "row": 20,
+      "word": "die Einladung",
+      "meaningFa": "دعوت؛ دعوت‌نامه",
+      "additionalExamples": [
+        {
+          "de": "Vielen Dank für die Einladung!",
+          "fa": "خیلی ممنون از دعوتتان!",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Einladung zur Party liegt auf dem Tisch.",
+          "fa": "دعوت‌نامهٔ مهمانی روی میز است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:021",
+      "row": 21,
+      "word": "entschuldigen",
+      "meaningFa": "بخشیدن؛ معذور‌دانستن",
+      "additionalExamples": [
+        {
+          "de": "Bitte entschuldigen Sie meinen Fehler.",
+          "fa": "لطفاً اشتباهم را ببخشید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kannst du mich für einen Moment entschuldigen?",
+          "fa": "می‌توانی یک لحظه به من اجازه بدهی بروم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:022",
+      "row": 22,
+      "word": "der Fahrer",
+      "meaningFa": "رانندهٔ مرد",
+      "additionalExamples": [
+        {
+          "de": "Der Fahrer wartet vor dem Hotel.",
+          "fa": "راننده جلوی هتل منتظر است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unser Fahrer kennt den Weg zur Universität.",
+          "fa": "رانندهٔ ما راه دانشگاه را بلد است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:023",
+      "row": 23,
+      "word": "die Farbe",
+      "meaningFa": "رنگ",
+      "additionalExamples": [
+        {
+          "de": "Welche Farbe hat dein neues Fahrrad?",
+          "fa": "دوچرخهٔ جدیدت چه رنگی است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich mag diese Farbe sehr.",
+          "fa": "این رنگ را خیلی دوست دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:024",
+      "row": 24,
+      "word": "das Fest",
+      "meaningFa": "جشن",
+      "additionalExamples": [
+        {
+          "de": "Wir organisieren ein Fest für die Kinder.",
+          "fa": "برای بچه‌ها یک جشن ترتیب می‌دهیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Zum Fest bringt jeder etwas zu essen mit.",
+          "fa": "هرکس برای جشن چیزی برای خوردن می‌آورد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:025",
+      "row": 25,
+      "word": "freundlich",
+      "meaningFa": "خوش‌برخورد؛ دوستانه",
+      "additionalExamples": [
+        {
+          "de": "Die Verkäuferin ist sehr freundlich.",
+          "fa": "فروشنده خیلی خوش‌برخورد است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein neuer Kollege hat mich freundlich begrüßt.",
+          "fa": "همکار جدیدم با مهربانی به من خوشامد گفت.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:026",
+      "row": 26,
+      "word": "das Gedicht",
+      "meaningFa": "شعر",
+      "additionalExamples": [
+        {
+          "de": "Unsere Lehrerin liest uns ein Gedicht vor.",
+          "fa": "معلممان برایمان یک شعر می‌خواند.",
+          "origin": "authored"
+        },
+        {
+          "de": "In diesem Buch steht ein kurzes Gedicht.",
+          "fa": "در این کتاب یک شعر کوتاه نوشته شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:027",
+      "row": 27,
+      "word": "grau",
+      "meaningFa": "خاکستری",
+      "additionalExamples": [
+        {
+          "de": "Die Kommode ist grau, das Sofa ist blau.",
+          "fa": "دراور خاکستری و مبل آبی است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich trage zum grauen Anzug ein weißes Hemd.",
+          "fa": "با کت‌وشلوار خاکستری یک پیراهن سفید می‌پوشم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:028",
+      "row": 28,
+      "word": "der Gürtel",
+      "meaningFa": "کمربند",
+      "additionalExamples": [
+        {
+          "de": "Dieser Gürtel passt nicht zu meiner Hose.",
+          "fa": "این کمربند به شلوارم نمی‌آید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie viel kostet der braune Gürtel?",
+          "fa": "کمربند قهوه‌ای چقدر قیمت دارد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:029",
+      "row": 29,
+      "word": "der Handschuh",
+      "meaningFa": "دستکش",
+      "additionalExamples": [
+        {
+          "de": "Im Winter brauche ich warme Handschuhe.",
+          "fa": "زمستان به دستکش گرم نیاز دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ein Handschuh liegt unter dem Bett.",
+          "fa": "یک دستکش زیر تخت است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:030",
+      "row": 30,
+      "word": "das Hemd",
+      "meaningFa": "پیراهن مردانه",
+      "additionalExamples": [
+        {
+          "de": "Das Hemd ist noch nass.",
+          "fa": "پیراهن مردانه هنوز خیس است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welches Hemd möchtest du zum Fest tragen?",
+          "fa": "می‌خواهی برای جشن کدام پیراهن را بپوشی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:031",
+      "row": 31,
+      "word": "höflich",
+      "meaningFa": "مؤدب",
+      "additionalExamples": [
+        {
+          "de": "Bitte seien Sie höflich zu den anderen.",
+          "fa": "لطفاً با دیگران مؤدب باشید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Schüler fragt höflich nach dem Weg.",
+          "fa": "دانش‌آموز مؤدبانه مسیر را می‌پرسد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:032",
+      "row": 32,
+      "word": "die Hose",
+      "meaningFa": "شلوار",
+      "additionalExamples": [
+        {
+          "de": "Meine neue Hose ist zu lang.",
+          "fa": "شلوار جدیدم زیادی بلند است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Diese Hose kostet nur zwanzig Euro.",
+          "fa": "این شلوار فقط بیست یورو قیمت دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:033",
+      "row": 33,
+      "word": "der Hunger",
+      "meaningFa": "گرسنگی",
+      "additionalExamples": [
+        {
+          "de": "Nach der Arbeit habe ich oft Hunger.",
+          "fa": "بعد از کار اغلب گرسنه‌ام می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hast du keinen Hunger mehr?",
+          "fa": "دیگر گرسنه نیستی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:034",
+      "row": 34,
+      "word": "der Hut",
+      "meaningFa": "کلاه لبه‌دار",
+      "additionalExamples": [
+        {
+          "de": "Der Mann mit dem schwarzen Hut ist mein Lehrer.",
+          "fa": "مردی که کلاه لبه‌دار مشکی دارد معلم من است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Sommer trage ich gern einen Hut.",
+          "fa": "تابستان‌ها دوست دارم کلاه لبه‌دار بگذارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:035",
+      "row": 35,
+      "word": "die Jacke",
+      "meaningFa": "کاپشن؛ ژاکت",
+      "additionalExamples": [
+        {
+          "de": "Zieh bitte deine Jacke an; es ist kalt.",
+          "fa": "لطفاً کاپشنت را بپوش؛ هوا سرد است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Jacke hängt neben der Tür.",
+          "fa": "کاپشنم کنار در آویزان است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:036",
+      "row": 36,
+      "word": "die Jeans",
+      "meaningFa": "شلوار جین",
+      "additionalExamples": [
+        {
+          "de": "Ich trage meine Jeans jeden Tag.",
+          "fa": "هر روز شلوار جینم را می‌پوشم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Diese Jeans passt mir gut.",
+          "fa": "این شلوار جین کاملاً اندازه‌ام است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:037",
+      "row": 37,
+      "word": "jemand",
+      "meaningFa": "کسی",
+      "additionalExamples": [
+        {
+          "de": "Ist jemand zu Hause?",
+          "fa": "کسی خانه است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich suche jemanden für unsere Wohngemeinschaft.",
+          "fa": "دنبال کسی برای خانهٔ اشتراکی‌مان می‌گردم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:038",
+      "row": 38,
+      "word": "die Kasse",
+      "meaningFa": "صندوق فروشگاه",
+      "additionalExamples": [
+        {
+          "de": "Bezahlen Sie bitte an der Kasse.",
+          "fa": "لطفاً در صندوق پرداخت کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Verkäuferin steht an der Kasse.",
+          "fa": "فروشنده پشت صندوق ایستاده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:039",
+      "row": 39,
+      "word": "das Kleid",
+      "meaningFa": "پیراهن زنانه",
+      "additionalExamples": [
+        {
+          "de": "Meine Schwester trägt ein rosa Kleid.",
+          "fa": "خواهرم یک پیراهن زنانهٔ صورتی پوشیده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für die Hochzeit möchte ich ein neues Kleid.",
+          "fa": "برای عروسی یک پیراهن زنانهٔ جدید می‌خواهم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:040",
+      "row": 40,
+      "word": "die Kleidung",
+      "meaningFa": "پوشاک",
+      "additionalExamples": [
+        {
+          "de": "Für den Winter brauchen die Kinder warme Kleidung.",
+          "fa": "بچه‌ها برای زمستان به لباس گرم نیاز دارند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Kleidung in diesem Laden ist nicht teuer.",
+          "fa": "لباس‌های این مغازه گران نیستند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:041",
+      "row": 41,
+      "word": "die Kuh",
+      "meaningFa": "گاو ماده",
+      "additionalExamples": [
+        {
+          "de": "Die Kuh gibt Milch.",
+          "fa": "گاو شیر می‌دهد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf dem Foto steht eine braune Kuh neben dem Haus.",
+          "fa": "در عکس یک گاو قهوه‌ای کنار خانه ایستاده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:042",
+      "row": 42,
+      "word": "der Laden",
+      "meaningFa": "مغازه",
+      "additionalExamples": [
+        {
+          "de": "Der Laden macht um neun Uhr auf.",
+          "fa": "مغازه ساعت نه باز می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "In diesem Laden kaufe ich meine Kleidung.",
+          "fa": "لباس‌هایم را از این مغازه می‌خرم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:043",
+      "row": 43,
+      "word": "lila",
+      "meaningFa": "بنفش",
+      "additionalExamples": [
+        {
+          "de": "Die Mütze ist lila.",
+          "fa": "کلاه بنفش است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Tochter möchte einen lila Pullover.",
+          "fa": "دخترم یک پلیور بنفش می‌خواهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:044",
+      "row": 44,
+      "word": "der Mantel",
+      "meaningFa": "پالتو",
+      "additionalExamples": [
+        {
+          "de": "Im Herbst trage ich oft einen Mantel.",
+          "fa": "پاییزها اغلب پالتو می‌پوشم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Dieser Mantel hat große Taschen.",
+          "fa": "این پالتو جیب‌های بزرگی دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:045",
+      "row": 45,
+      "word": "die Mütze",
+      "meaningFa": "کلاه",
+      "additionalExamples": [
+        {
+          "de": "Wo ist meine Mütze?",
+          "fa": "کلاهم کجاست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die rote Mütze passt gut zur Jacke.",
+          "fa": "کلاه قرمز به کاپشن می‌آید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:046",
+      "row": 46,
+      "word": "nass",
+      "meaningFa": "خیس",
+      "additionalExamples": [
+        {
+          "de": "Nach dem Regen sind meine Schuhe nass.",
+          "fa": "بعد از باران کفش‌هایم خیس هستند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Zieh bitte die nasse Jacke aus.",
+          "fa": "لطفاً کاپشن خیس را دربیاور.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:047",
+      "row": 47,
+      "word": "nie",
+      "meaningFa": "هرگز",
+      "additionalExamples": [
+        {
+          "de": "Mein Bruder trinkt nie Kaffee.",
+          "fa": "برادرم هرگز قهوه نمی‌نوشد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich vergesse deinen Geburtstag nie.",
+          "fa": "هیچ‌وقت تولدت را فراموش نمی‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:048",
+      "row": 48,
+      "word": "öffnen",
+      "meaningFa": "بازکردن",
+      "additionalExamples": [
+        {
+          "de": "Öffnen Sie bitte das Fenster.",
+          "fa": "لطفاً پنجره را باز کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wann öffnet der Laden am Samstag?",
+          "fa": "مغازه شنبه چه ساعتی باز می‌کند؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:049",
+      "row": 49,
+      "word": "das Papier",
+      "meaningFa": "کاغذ",
+      "additionalExamples": [
+        {
+          "de": "Haben Sie ein Blatt Papier für mich?",
+          "fa": "یک برگ کاغذ به من می‌دهید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte schreiben Sie die Antwort auf Papier.",
+          "fa": "لطفاً جواب را روی کاغذ بنویسید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:050",
+      "row": 50,
+      "word": "privat",
+      "meaningFa": "خصوصی؛ شخصی",
+      "additionalExamples": [
+        {
+          "de": "Das ist meine private Telefonnummer.",
+          "fa": "این شماره‌تلفن شخصی من است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Privat lese ich gern Bücher und höre Musik.",
+          "fa": "در وقت شخصی‌ام دوست دارم کتاب بخوانم و موسیقی گوش کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:051",
+      "row": 51,
+      "word": "der Pullover",
+      "meaningFa": "پلیور",
+      "additionalExamples": [
+        {
+          "de": "Der Pullover ist mir zu warm.",
+          "fa": "این پلیور برایم زیادی گرم است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Was kostet der grüne Pullover im Fenster?",
+          "fa": "پلیور سبز پشت ویترین چقدر قیمت دارد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:052",
+      "row": 52,
+      "word": "ruhig",
+      "meaningFa": "آرام",
+      "additionalExamples": [
+        {
+          "de": "Das Baby ist heute ganz ruhig.",
+          "fa": "نوزاد امروز کاملاً آرام است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich möchte in einem ruhigen Zimmer lernen.",
+          "fa": "می‌خواهم در یک اتاق آرام درس بخوانم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:053",
+      "row": 53,
+      "word": "sauber",
+      "meaningFa": "تمیز",
+      "additionalExamples": [
+        {
+          "de": "Die Küche ist wieder sauber.",
+          "fa": "آشپزخانه دوباره تمیز شده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte bring ein sauberes Glas mit.",
+          "fa": "لطفاً یک لیوان تمیز بیاور.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:054",
+      "row": 54,
+      "word": "der Schal",
+      "meaningFa": "شال‌گردن",
+      "additionalExamples": [
+        {
+          "de": "Ohne Schal ist es mir zu kalt.",
+          "fa": "بدون شال‌گردن سردم می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Diesen Schal habe ich für meinen Vater gekauft.",
+          "fa": "این شال‌گردن را برای پدرم خریده‌ام.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:055",
+      "row": 55,
+      "word": "schicken",
+      "meaningFa": "فرستادن",
+      "additionalExamples": [
+        {
+          "de": "Ich schicke dir morgen die Fotos.",
+          "fa": "فردا عکس‌ها را برایت می‌فرستم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kannst du den Brief heute noch schicken?",
+          "fa": "می‌توانی نامه را همین امروز بفرستی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:056",
+      "row": 56,
+      "word": "schließen",
+      "meaningFa": "بستن",
+      "additionalExamples": [
+        {
+          "de": "Schließ bitte die Tür.",
+          "fa": "لطفاً در را ببند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unser Laden schließt am Samstag schon um zwei.",
+          "fa": "مغازهٔ ما شنبه از ساعت دو بسته می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:057",
+      "row": 57,
+      "word": "die Sekunde",
+      "meaningFa": "ثانیه",
+      "additionalExamples": [
+        {
+          "de": "Warte bitte eine Sekunde.",
+          "fa": "لطفاً یک ثانیه صبر کن.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Film beginnt in zehn Sekunden.",
+          "fa": "فیلم ده ثانیهٔ دیگر شروع می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:058",
+      "row": 58,
+      "word": "selbst",
+      "meaningFa": "خود؛ حتی",
+      "additionalExamples": [
+        {
+          "de": "Das Kind kann die Schuhe selbst putzen.",
+          "fa": "کودک می‌تواند خودش کفش‌ها را تمیز کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hast du den Kuchen selbst gebacken?",
+          "fa": "کیک را خودت پخته‌ای؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:059",
+      "row": 59,
+      "word": "sich entschuldigen",
+      "meaningFa": "عذرخواهی‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Ich entschuldige mich für meine späte Antwort.",
+          "fa": "برای پاسخ دیرهنگامم عذرخواهی می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Du musst dich bei der Lehrerin entschuldigen.",
+          "fa": "باید از معلم عذرخواهی کنی.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:060",
+      "row": 60,
+      "word": "die Socke",
+      "meaningFa": "جوراب",
+      "additionalExamples": [
+        {
+          "de": "Eine Socke ist in der Waschmaschine geblieben.",
+          "fa": "یک جوراب داخل ماشین لباس‌شویی جا مانده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich brauche noch ein Paar warme Socken.",
+          "fa": "هنوز به یک جفت جوراب گرم نیاز دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:061",
+      "row": 61,
+      "word": "sollen",
+      "meaningFa": "بایستن؛ وظیفه یا توصیه‌داشتن",
+      "additionalExamples": [
+        {
+          "de": "Was soll ich zur Party mitbringen?",
+          "fa": "برای مهمانی چه چیزی باید همراه بیاورم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Arzt sagt, ich soll mehr Wasser trinken.",
+          "fa": "دکتر می‌گوید باید بیشتر آب بنوشم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:062",
+      "row": 62,
+      "word": "der Stress",
+      "meaningFa": "فشار روانی",
+      "additionalExamples": [
+        {
+          "de": "Heute habe ich bei der Arbeit viel Stress.",
+          "fa": "امروز در محل کار فشار زیادی دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach dem Stress brauche ich eine Pause.",
+          "fa": "بعد از این فشار به یک استراحت نیاز دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:063",
+      "row": 63,
+      "word": "das T-Shirt",
+      "meaningFa": "تی‌شرت",
+      "additionalExamples": [
+        {
+          "de": "Im Sommer trage ich gern ein T-Shirt.",
+          "fa": "تابستان‌ها دوست دارم تی‌شرت بپوشم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das gelbe T-Shirt ist in der Waschmaschine.",
+          "fa": "تی‌شرت زرد داخل ماشین لباس‌شویی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:064",
+      "row": 64,
+      "word": "die Tasche",
+      "meaningFa": "کیف؛ جیب",
+      "additionalExamples": [
+        {
+          "de": "Mein Handy ist in meiner Tasche.",
+          "fa": "موبایلم داخل کیفم است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Dieser Mantel hat keine Taschen.",
+          "fa": "این پالتو جیب ندارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:065",
+      "row": 65,
+      "word": "der Tee",
+      "meaningFa": "چای",
+      "additionalExamples": [
+        {
+          "de": "Möchtest du einen Tee ohne Zucker?",
+          "fa": "یک چای بدون شکر می‌خواهی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Tee ist noch zu heiß.",
+          "fa": "چای هنوز زیادی داغ است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:066",
+      "row": 66,
+      "word": "trocken",
+      "meaningFa": "خشک",
+      "additionalExamples": [
+        {
+          "de": "Die Jeans ist wieder trocken.",
+          "fa": "شلوار جین دوباره خشک شده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nimm bitte ein trockenes Blatt Papier.",
+          "fa": "لطفاً یک برگ کاغذ خشک بردار.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:067",
+      "row": 67,
+      "word": "die Tür",
+      "meaningFa": "در",
+      "additionalExamples": [
+        {
+          "de": "Die Tür zum Bad ist offen.",
+          "fa": "در حمام باز است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Vor unserer Tür steht ein Fahrrad.",
+          "fa": "جلوی درِ خانه‌مان یک دوچرخه قرار دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:068",
+      "row": 68,
+      "word": "üben",
+      "meaningFa": "تمرین‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Ich übe jeden Tag die neuen Wörter.",
+          "fa": "هر روز واژه‌های جدید را تمرین می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Können wir das Gespräch zusammen üben?",
+          "fa": "می‌توانیم این گفت‌وگو را با هم تمرین کنیم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:069",
+      "row": 69,
+      "word": "unsicher",
+      "meaningFa": "نامطمئن؛ ناامن",
+      "additionalExamples": [
+        {
+          "de": "Bei dieser Antwort bin ich unsicher.",
+          "fa": "دربارهٔ این پاسخ مطمئن نیستم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Junge fährt noch sehr unsicher Fahrrad.",
+          "fa": "این پسر هنوز با تسلط کمی دوچرخه‌سواری می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:070",
+      "row": 70,
+      "word": "unten",
+      "meaningFa": "پایین",
+      "additionalExamples": [
+        {
+          "de": "Die Küche ist unten, das Bad ist oben.",
+          "fa": "آشپزخانه پایین است و حمام بالاست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir warten unten am Eingang auf dich.",
+          "fa": "پایین، جلوی ورودی، منتظرت هستیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:071",
+      "row": 71,
+      "word": "versuchen",
+      "meaningFa": "تلاش‌کردن؛ امتحان‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Ich versuche, jeden Tag Deutsch zu sprechen.",
+          "fa": "تلاش می‌کنم هر روز آلمانی صحبت کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Versuch bitte noch einmal, den Satz zu lesen.",
+          "fa": "لطفاً یک بار دیگر سعی کن جمله را بخوانی.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:072",
+      "row": 72,
+      "word": "voll",
+      "meaningFa": "پر",
+      "additionalExamples": [
+        {
+          "de": "Die Waschmaschine ist schon voll.",
+          "fa": "ماشین لباس‌شویی دیگر پر شده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Glas ist noch voll.",
+          "fa": "لیوانم هنوز پر است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:073",
+      "row": 73,
+      "word": "wählen",
+      "meaningFa": "انتخاب‌کردن؛ رأی‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Für das Fest wählen wir einen Freitag.",
+          "fa": "برای جشن یک جمعه را انتخاب می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welches Bild möchtest du wählen?",
+          "fa": "می‌خواهی کدام تصویر را انتخاب کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:074",
+      "row": 74,
+      "word": "der Wald",
+      "meaningFa": "جنگل",
+      "additionalExamples": [
+        {
+          "de": "Wir gehen am Sonntag im Wald spazieren.",
+          "fa": "یکشنبه در جنگل قدم می‌زنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hinter unserem Haus ist ein großer Wald.",
+          "fa": "پشت خانهٔ ما یک جنگل بزرگ است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:075",
+      "row": 75,
+      "word": "warm",
+      "meaningFa": "گرم",
+      "additionalExamples": [
+        {
+          "de": "Das Wasser ist jetzt warm.",
+          "fa": "آب حالا گرم است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nimm bitte einen warmen Pullover mit.",
+          "fa": "لطفاً یک پلیور گرم همراهت ببر.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:076",
+      "row": 76,
+      "word": "warten",
+      "meaningFa": "منتظرماندن",
+      "additionalExamples": [
+        {
+          "de": "Ich warte seit einer Stunde auf dich.",
+          "fa": "یک ساعت است که منتظرت هستم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wartet bitte vor dem Eingang.",
+          "fa": "لطفاً جلوی ورودی منتظر بمانید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:077",
+      "row": 77,
+      "word": "waschen",
+      "meaningFa": "شستن",
+      "additionalExamples": [
+        {
+          "de": "Ich wasche heute meine Jeans.",
+          "fa": "امروز شلوار جینم را می‌شویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wasch bitte das Obst vor dem Essen.",
+          "fa": "لطفاً میوه را قبل از خوردن بشوی.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:078",
+      "row": 78,
+      "word": "die Waschmaschine",
+      "meaningFa": "ماشین لباس‌شویی",
+      "additionalExamples": [
+        {
+          "de": "Unsere Waschmaschine ist kaputt.",
+          "fa": "ماشین لباس‌شویی ما خراب است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kannst du die Waschmaschine reparieren?",
+          "fa": "می‌توانی ماشین لباس‌شویی را تعمیر کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:079",
+      "row": 79,
+      "word": "die Webseite",
+      "meaningFa": "صفحهٔ وب",
+      "additionalExamples": [
+        {
+          "de": "Die Adresse steht auf unserer Webseite.",
+          "fa": "آدرس در صفحهٔ وب ما نوشته شده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf dieser Webseite finde ich einen Deutschkurs.",
+          "fa": "در این صفحهٔ وب یک دورهٔ آلمانی پیدا می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-06-A1:080",
+      "row": 80,
+      "word": "zumachen",
+      "meaningFa": "بستن",
+      "additionalExamples": [
+        {
+          "de": "Mach bitte die Tür zum Balkon zu.",
+          "fa": "لطفاً در بالکن را ببند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wann macht der Laden heute zu?",
+          "fa": "مغازه امروز چه ساعتی می‌بندد؟",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

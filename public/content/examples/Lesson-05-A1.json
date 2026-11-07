@@ -1,0 +1,1376 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-05-A1.txt",
+  "lessonNumber": 5,
+  "level": "A1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-05-A1:001",
+      "row": 1,
+      "word": "abholen",
+      "meaningFa": "رفتن دنبال کسی یا چیزی",
+      "additionalExamples": [
+        {
+          "de": "Ich hole dich um acht vor dem Haus ab.",
+          "fa": "ساعت هشت جلوی خانه می‌آیم دنبالت.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kannst du bitte das Päckchen bei der Post abholen?",
+          "fa": "می‌توانی لطفاً بسته را از پست بگیری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:002",
+      "row": 2,
+      "word": "das Adjektiv",
+      "meaningFa": "صفت",
+      "additionalExamples": [
+        {
+          "de": "In diesem Satz fehlt ein Adjektiv.",
+          "fa": "در این جمله یک صفت کم است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist „gesund“ ein Adjektiv?",
+          "fa": "آیا «سالم» یک صفت است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:003",
+      "row": 3,
+      "word": "Alles Gute",
+      "meaningFa": "بهترین آرزوها",
+      "additionalExamples": [
+        {
+          "de": "Alles Gute zum Geburtstag, liebe Anna!",
+          "fa": "آنای عزیز، تولدت مبارک؛ بهترین‌ها را برایت آرزو می‌کنم!",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich wünsche euch alles Gute für das neue Jahr.",
+          "fa": "برای سال جدید بهترین‌ها را برایتان آرزو می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:004",
+      "row": 4,
+      "word": "anrufen",
+      "meaningFa": "تلفن‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Rufst du heute deine Mutter an?",
+          "fa": "امروز به مادرت زنگ می‌زنی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie können mich am Nachmittag anrufen.",
+          "fa": "می‌توانید بعدازظهر به من تلفن کنید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:005",
+      "row": 5,
+      "word": "aufmachen",
+      "meaningFa": "بازکردن",
+      "additionalExamples": [
+        {
+          "de": "Mach bitte das Fenster auf.",
+          "fa": "لطفاً پنجره را باز کن.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wann macht das Museum auf?",
+          "fa": "موزه چه ساعتی باز می‌شود؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:006",
+      "row": 6,
+      "word": "ausziehen",
+      "meaningFa": "از تن درآوردن؛ از خانه رفتن",
+      "additionalExamples": [
+        {
+          "de": "Zieh bitte die Schuhe aus.",
+          "fa": "لطفاً کفش‌هایت را دربیاور.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Mitbewohner zieht nächste Woche aus.",
+          "fa": "هم‌خانه‌ام هفتهٔ آینده از این خانه می‌رود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:007",
+      "row": 7,
+      "word": "das Bad",
+      "meaningFa": "حمام",
+      "additionalExamples": [
+        {
+          "de": "Das Bad ist neben meinem Zimmer.",
+          "fa": "حمام کنار اتاق من است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir putzen das Bad am Samstag.",
+          "fa": "شنبه حمام را تمیز می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:008",
+      "row": 8,
+      "word": "die Badewanne",
+      "meaningFa": "وان",
+      "additionalExamples": [
+        {
+          "de": "Das Kind spielt in der Badewanne.",
+          "fa": "کودک در وان بازی می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unsere Wohnung hat keine Badewanne.",
+          "fa": "آپارتمان ما وان ندارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:009",
+      "row": 9,
+      "word": "das Badezimmer",
+      "meaningFa": "حمام",
+      "additionalExamples": [
+        {
+          "de": "Wo ist hier das Badezimmer?",
+          "fa": "اینجا حمام کجاست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Badezimmer ist es sehr kalt.",
+          "fa": "در حمام خیلی سرد است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:010",
+      "row": 10,
+      "word": "der Balkon",
+      "meaningFa": "بالکن",
+      "additionalExamples": [
+        {
+          "de": "Auf dem Balkon steht ein kleiner Tisch.",
+          "fa": "در بالکن یک میز کوچک قرار دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Eltern frühstücken gern auf dem Balkon.",
+          "fa": "پدر و مادرم دوست دارند صبحانه را در بالکن بخورند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:011",
+      "row": 11,
+      "word": "billig",
+      "meaningFa": "ارزان",
+      "additionalExamples": [
+        {
+          "de": "Die Wohnung ist schön und billig.",
+          "fa": "این آپارتمان زیبا و ارزان است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wo kann man hier billig essen?",
+          "fa": "اینجا کجا می‌شود ارزان غذا خورد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:012",
+      "row": 12,
+      "word": "bleiben",
+      "meaningFa": "ماندن",
+      "additionalExamples": [
+        {
+          "de": "Bleibst du heute zum Abendessen?",
+          "fa": "امروز برای شام می‌مانی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Fenster bleibt in der Nacht zu.",
+          "fa": "پنجره شب بسته می‌ماند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:013",
+      "row": 13,
+      "word": "breit",
+      "meaningFa": "پهن",
+      "additionalExamples": [
+        {
+          "de": "Der Tisch ist einen Meter breit.",
+          "fa": "عرض میز یک متر است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für dieses breite Sofa ist das Zimmer zu klein.",
+          "fa": "این اتاق برای این مبل پهن خیلی کوچک است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:014",
+      "row": 14,
+      "word": "der Briefkasten",
+      "meaningFa": "صندوق پست",
+      "additionalExamples": [
+        {
+          "de": "Im Briefkasten ist eine Nachricht.",
+          "fa": "در صندوق پست یک پیام است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist das mein Briefkasten oder deiner?",
+          "fa": "این صندوق پست مال من است یا تو؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:015",
+      "row": 15,
+      "word": "bringen",
+      "meaningFa": "آوردن",
+      "additionalExamples": [
+        {
+          "de": "Bringst du mir bitte ein Glas Wasser?",
+          "fa": "لطفاً برایم یک لیوان آب می‌آوری؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich bringe meine Tochter um acht zur Schule.",
+          "fa": "ساعت هشت دخترم را به مدرسه می‌برم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:016",
+      "row": 16,
+      "word": "das Büro",
+      "meaningFa": "دفتر کار",
+      "additionalExamples": [
+        {
+          "de": "Mein Mann arbeitet in einem kleinen Büro.",
+          "fa": "شوهرم در یک دفتر کوچک کار می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Büro stehen drei Computer.",
+          "fa": "در دفتر سه کامپیوتر قرار دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:017",
+      "row": 17,
+      "word": "dauern",
+      "meaningFa": "طول‌کشیدن",
+      "additionalExamples": [
+        {
+          "de": "Wie lange dauert der Deutschkurs?",
+          "fa": "دورهٔ آلمانی چقدر طول می‌کشد؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Fahrt dauert heute länger als sonst.",
+          "fa": "امروز رفتن از این مسیر بیشتر از معمول طول می‌کشد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:018",
+      "row": 18,
+      "word": "denken",
+      "meaningFa": "فکرکردن",
+      "additionalExamples": [
+        {
+          "de": "Ich denke oft an meine Heimat.",
+          "fa": "من زیاد به زادگاهم فکر می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Was denkst du über die neue Wohnung?",
+          "fa": "نظرت دربارهٔ آپارتمان جدید چیست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:019",
+      "row": 19,
+      "word": "die Dusche",
+      "meaningFa": "دوش",
+      "additionalExamples": [
+        {
+          "de": "Die Dusche im Bad ist kaputt.",
+          "fa": "دوش حمام خراب است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach dem Sport brauche ich eine Dusche.",
+          "fa": "بعد از ورزش به یک دوش نیاز دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:020",
+      "row": 20,
+      "word": "duschen",
+      "meaningFa": "دوش‌گرفتن",
+      "additionalExamples": [
+        {
+          "de": "Ich dusche jeden Morgen.",
+          "fa": "هر روز صبح دوش می‌گیرم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Möchtest du nach dem Schwimmen duschen?",
+          "fa": "می‌خواهی بعد از شنا دوش بگیری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:021",
+      "row": 21,
+      "word": "der Eingang",
+      "meaningFa": "ورودی",
+      "additionalExamples": [
+        {
+          "de": "Wir treffen uns am Eingang.",
+          "fa": "جلوی ورودی همدیگر را می‌بینیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Eingang zum Museum ist rechts.",
+          "fa": "ورودی موزه سمت راست است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:022",
+      "row": 22,
+      "word": "einziehen",
+      "meaningFa": "به خانه‌ای نقل مکان کردن",
+      "additionalExamples": [
+        {
+          "de": "Wann zieht ihr in die neue Wohnung ein?",
+          "fa": "چه موقع به آپارتمان جدید نقل مکان می‌کنید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Schwester zieht heute bei mir ein.",
+          "fa": "خواهرم امروز می‌آید تا با من زندگی کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:023",
+      "row": 23,
+      "word": "der Erfolg",
+      "meaningFa": "موفقیت",
+      "additionalExamples": [
+        {
+          "de": "Der Erfolg freut die ganze Familie.",
+          "fa": "این موفقیت تمام خانواده را خوشحال می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir feiern seinen Erfolg mit einem Essen.",
+          "fa": "موفقیت او را با یک وعده غذا جشن می‌گیریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:024",
+      "row": 24,
+      "word": "die Erkältung",
+      "meaningFa": "سرماخوردگی",
+      "additionalExamples": [
+        {
+          "de": "Wegen der Erkältung bleibe ich heute zu Hause.",
+          "fa": "به‌خاطر سرماخوردگی امروز در خانه می‌مانم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist deine Erkältung schon besser?",
+          "fa": "سرماخوردگی‌ات بهتر شده است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:025",
+      "row": 25,
+      "word": "erreichen",
+      "meaningFa": "رسیدن به؛ دسترسی‌یافتن",
+      "additionalExamples": [
+        {
+          "de": "Wie erreiche ich Sie morgen?",
+          "fa": "فردا چطور می‌توانم با شما تماس بگیرم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir erreichen unser Ziel am Abend.",
+          "fa": "عصر به مقصدمان می‌رسیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:026",
+      "row": 26,
+      "word": "Es geht",
+      "meaningFa": "بد نیست؛ می‌گذرد",
+      "additionalExamples": [
+        {
+          "de": "Wie geht es dir heute? – Es geht.",
+          "fa": "امروز حالت چطور است؟ ـ بد نیست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist die Wohnung teuer? – Es geht.",
+          "fa": "آپارتمان گران است؟ ـ بد نیست، قیمتش قابل‌قبول است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:027",
+      "row": 27,
+      "word": "das Fieber",
+      "meaningFa": "تب",
+      "additionalExamples": [
+        {
+          "de": "Das Kind hat hohes Fieber.",
+          "fa": "کودک تب بالایی دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hast du noch Fieber?",
+          "fa": "هنوز تب داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:028",
+      "row": 28,
+      "word": "der Flur",
+      "meaningFa": "راهرو",
+      "additionalExamples": [
+        {
+          "de": "Meine Schuhe stehen im Flur.",
+          "fa": "کفش‌هایم در راهرو هستند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Vom Flur geht es links in die Küche.",
+          "fa": "از راهرو که بروی، آشپزخانه سمت چپ است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:029",
+      "row": 29,
+      "word": "das Geld",
+      "meaningFa": "پول",
+      "additionalExamples": [
+        {
+          "de": "Ich habe heute kein Geld dabei.",
+          "fa": "امروز پول همراهم نیست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie viel Geld brauchst du für die Miete?",
+          "fa": "برای اجاره چقدر پول نیاز داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:030",
+      "row": 30,
+      "word": "das Glück",
+      "meaningFa": "خوشبختی؛ شانس",
+      "additionalExamples": [
+        {
+          "de": "Du hast Glück: Der Platz ist noch frei.",
+          "fa": "شانس آورده‌ای؛ این جا هنوز خالی است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich wünsche dir viel Glück bei der Prüfung.",
+          "fa": "برای امتحانت آرزوی موفقیت و خوش‌شانسی می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:031",
+      "row": 31,
+      "word": "die Größe",
+      "meaningFa": "اندازه؛ قد",
+      "additionalExamples": [
+        {
+          "de": "Welche Größe brauchen Sie?",
+          "fa": "چه سایزی نیاز دارید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Größe des Zimmers steht im Mietvertrag.",
+          "fa": "اندازهٔ اتاق در قرارداد اجاره نوشته شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:032",
+      "row": 32,
+      "word": "Gute Besserung",
+      "meaningFa": "امیدوارم زود خوب شوی",
+      "additionalExamples": [
+        {
+          "de": "Du bist krank? Gute Besserung!",
+          "fa": "مریض شده‌ای؟ امیدوارم زود خوب شوی!",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir wünschen Ihrer Tochter gute Besserung.",
+          "fa": "امیدواریم دخترتان زود خوب شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:033",
+      "row": 33,
+      "word": "die Heizung",
+      "meaningFa": "وسیله یا سیستم گرمایشی",
+      "additionalExamples": [
+        {
+          "de": "Die Heizung funktioniert nicht.",
+          "fa": "وسیلهٔ گرمایشی کار نمی‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Winter brauchen wir die Heizung jeden Tag.",
+          "fa": "زمستان هر روز به گرمایش نیاز داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:034",
+      "row": 34,
+      "word": "hoch",
+      "meaningFa": "بلند؛ مرتفع",
+      "additionalExamples": [
+        {
+          "de": "Wie hoch ist die Miete?",
+          "fa": "اجاره‌بها چقدر است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Regal ist zu hoch für das Kind.",
+          "fa": "قفسه برای کودک خیلی بلند است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:035",
+      "row": 35,
+      "word": "holen",
+      "meaningFa": "رفتن و آوردن",
+      "additionalExamples": [
+        {
+          "de": "Ich hole noch Brot für das Frühstück.",
+          "fa": "می‌روم برای صبحانه نان بیاورم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hol bitte den Stuhl aus der Küche.",
+          "fa": "لطفاً برو صندلی را از آشپزخانه بیاور.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:036",
+      "row": 36,
+      "word": "informieren",
+      "meaningFa": "اطلاع‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Bitte informieren Sie mich über die Kosten.",
+          "fa": "لطفاً دربارهٔ هزینه‌ها به من اطلاع بدهید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich informiere meinen Vermieter sofort.",
+          "fa": "بلافاصله به صاحبخانه‌ام خبر می‌دهم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:037",
+      "row": 37,
+      "word": "das Internet",
+      "meaningFa": "اینترنت",
+      "additionalExamples": [
+        {
+          "de": "Die Anmeldung geht auch im Internet.",
+          "fa": "ثبت‌نام از طریق اینترنت هم امکان دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich suche im Internet eine Wohnung.",
+          "fa": "در اینترنت دنبال آپارتمان می‌گردم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:038",
+      "row": 38,
+      "word": "kalt",
+      "meaningFa": "سرد",
+      "additionalExamples": [
+        {
+          "de": "Das Wasser ist mir zu kalt.",
+          "fa": "این آب برایم زیادی سرد است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Januar ist es hier oft kalt.",
+          "fa": "ژانویه اینجا اغلب سرد است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:039",
+      "row": 39,
+      "word": "kaputt",
+      "meaningFa": "خراب",
+      "additionalExamples": [
+        {
+          "de": "Mein Handy ist leider kaputt.",
+          "fa": "متأسفانه موبایلم خراب است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist die Heizung kaputt oder nur aus?",
+          "fa": "گرمایش خراب است یا فقط خاموش است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:040",
+      "row": 40,
+      "word": "die Kommode",
+      "meaningFa": "دراور",
+      "additionalExamples": [
+        {
+          "de": "Die Kommode steht zwischen dem Bett und dem Fenster.",
+          "fa": "دراور بین تخت و پنجره قرار دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir brauchen eine kleine Kommode für den Flur.",
+          "fa": "برای راهرو به یک دراور کوچک نیاز داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:041",
+      "row": 41,
+      "word": "krank",
+      "meaningFa": "بیمار",
+      "additionalExamples": [
+        {
+          "de": "Meine Kollegin ist heute krank.",
+          "fa": "همکارم امروز بیمار است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wenn ich krank bin, schlafe ich viel.",
+          "fa": "وقتی بیمار می‌شوم، زیاد می‌خوابم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:042",
+      "row": 42,
+      "word": "die Küche",
+      "meaningFa": "آشپزخانه",
+      "additionalExamples": [
+        {
+          "de": "In unserer Küche essen wir auch.",
+          "fa": "در آشپزخانه‌مان غذا هم می‌خوریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Küche hat zwei Fenster.",
+          "fa": "آشپزخانه دو پنجره دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:043",
+      "row": 43,
+      "word": "die Lampe",
+      "meaningFa": "چراغ",
+      "additionalExamples": [
+        {
+          "de": "Die Lampe über dem Tisch ist neu.",
+          "fa": "چراغ بالای میز جدید است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich brauche eine Lampe zum Lesen.",
+          "fa": "برای مطالعه به یک چراغ نیاز دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:044",
+      "row": 44,
+      "word": "leer",
+      "meaningFa": "خالی",
+      "additionalExamples": [
+        {
+          "de": "Die Wohnung ist noch leer.",
+          "fa": "آپارتمان هنوز خالی است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist die Flasche schon leer?",
+          "fa": "بطری دیگر خالی شده است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:045",
+      "row": 45,
+      "word": "manchmal",
+      "meaningFa": "گاهی",
+      "additionalExamples": [
+        {
+          "de": "Manchmal fahre ich mit dem Fahrrad zur Arbeit.",
+          "fa": "گاهی با دوچرخه سر کار می‌روم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Freundin kommt manchmal zum Abendessen.",
+          "fa": "دوستم گاهی برای شام می‌آید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:046",
+      "row": 46,
+      "word": "die Miete",
+      "meaningFa": "اجاره‌بها",
+      "additionalExamples": [
+        {
+          "de": "Die Miete ist für mich zu hoch.",
+          "fa": "اجاره‌بها برای من خیلی زیاد است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie viel Miete zahlst du monatlich?",
+          "fa": "ماهانه چقدر اجاره می‌دهی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:047",
+      "row": 47,
+      "word": "mieten",
+      "meaningFa": "اجاره‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Wir möchten eine kleine Wohnung mieten.",
+          "fa": "می‌خواهیم یک آپارتمان کوچک اجاره کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kann man hier ein Fahrrad mieten?",
+          "fa": "اینجا می‌شود دوچرخه اجاره کرد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:048",
+      "row": 48,
+      "word": "der Mieter",
+      "meaningFa": "مستأجر مرد",
+      "additionalExamples": [
+        {
+          "de": "Der Mieter bezahlt die Miete am Anfang des Monats.",
+          "fa": "مستأجر ابتدای ماه اجاره را پرداخت می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unser neuer Mieter heißt Paul.",
+          "fa": "مستأجر جدید ما پائول نام دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:049",
+      "row": 49,
+      "word": "die Mieterin",
+      "meaningFa": "مستأجر زن",
+      "additionalExamples": [
+        {
+          "de": "Die Mieterin informiert den Vermieter über die Heizung.",
+          "fa": "زن مستأجر دربارهٔ گرمایش به صاحبخانه اطلاع می‌دهد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bist du die neue Mieterin?",
+          "fa": "تو مستأجر جدید هستی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:050",
+      "row": 50,
+      "word": "der Mietvertrag",
+      "meaningFa": "قرارداد اجاره",
+      "additionalExamples": [
+        {
+          "de": "Bitte lesen Sie den Mietvertrag genau.",
+          "fa": "لطفاً قرارداد اجاره را با دقت بخوانید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Mietvertrag steht die Größe der Wohnung.",
+          "fa": "اندازهٔ آپارتمان در قرارداد اجاره نوشته شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:051",
+      "row": 51,
+      "word": "der Mitbewohner",
+      "meaningFa": "هم‌خانهٔ مرد",
+      "additionalExamples": [
+        {
+          "de": "Mein Mitbewohner kocht gern.",
+          "fa": "هم‌خانه‌ام آشپزی را دوست دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich suche einen Mitbewohner für meine Wohnung.",
+          "fa": "برای آپارتمانم دنبال یک هم‌خانهٔ مرد می‌گردم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:052",
+      "row": 52,
+      "word": "mitbringen",
+      "meaningFa": "همراه خود آوردن",
+      "additionalExamples": [
+        {
+          "de": "Bring bitte deine Bücher mit.",
+          "fa": "لطفاً کتاب‌هایت را همراه بیاور.",
+          "origin": "authored"
+        },
+        {
+          "de": "Zum Abendessen bringe ich einen Salat mit.",
+          "fa": "برای شام یک سالاد همراه می‌آورم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:053",
+      "row": 53,
+      "word": "die Möbel",
+      "meaningFa": "مبلمان؛ جمع",
+      "additionalExamples": [
+        {
+          "de": "Die Möbel in der Wohnung sind alt.",
+          "fa": "مبلمان داخل آپارتمان قدیمی است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir kaufen die Möbel zusammen.",
+          "fa": "مبلمان را با هم می‌خریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:054",
+      "row": 54,
+      "word": "modern",
+      "meaningFa": "مدرن",
+      "additionalExamples": [
+        {
+          "de": "Das Bad ist klein, aber modern.",
+          "fa": "حمام کوچک ولی مدرن است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Magst du moderne Möbel?",
+          "fa": "مبلمان مدرن دوست داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:055",
+      "row": 55,
+      "word": "die Nachricht",
+      "meaningFa": "پیام؛ خبر",
+      "additionalExamples": [
+        {
+          "de": "Ich schreibe dir später eine Nachricht.",
+          "fa": "بعداً برایت یک پیام می‌نویسم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Nachricht von meiner Schwester freut mich.",
+          "fa": "پیام خواهرم خوشحالم می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:056",
+      "row": 56,
+      "word": "niedrig",
+      "meaningFa": "پایین؛ کم‌ارتفاع",
+      "additionalExamples": [
+        {
+          "de": "Die Miete ist hier niedrig.",
+          "fa": "اجاره‌بها اینجا پایین است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das niedrige Regal passt unter das Fenster.",
+          "fa": "این قفسهٔ کم‌ارتفاع زیر پنجره جا می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:057",
+      "row": 57,
+      "word": "persönlich",
+      "meaningFa": "شخصی؛ حضوری",
+      "additionalExamples": [
+        {
+          "de": "Ich möchte den Vermieter persönlich treffen.",
+          "fa": "می‌خواهم صاحبخانه را حضوری ببینم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das ist eine persönliche Frage.",
+          "fa": "این یک سؤال شخصی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:058",
+      "row": 58,
+      "word": "das Regal",
+      "meaningFa": "قفسه",
+      "additionalExamples": [
+        {
+          "de": "Meine Bücher stehen im Regal.",
+          "fa": "کتاب‌هایم در قفسه قرار دارند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kannst du das Regal neben das Bett stellen?",
+          "fa": "می‌توانی قفسه را کنار تخت بگذاری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:059",
+      "row": 59,
+      "word": "reparieren",
+      "meaningFa": "تعمیرکردن",
+      "additionalExamples": [
+        {
+          "de": "Mein Vater repariert das Fahrrad.",
+          "fa": "پدرم دوچرخه را تعمیر می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wer kann die Heizung reparieren?",
+          "fa": "چه کسی می‌تواند گرمایش را تعمیر کند؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:060",
+      "row": 60,
+      "word": "schmal",
+      "meaningFa": "باریک",
+      "additionalExamples": [
+        {
+          "de": "Der Flur ist lang und schmal.",
+          "fa": "راهرو دراز و باریک است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der schmale Tisch passt auf den Balkon.",
+          "fa": "میز باریک در بالکن جا می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:061",
+      "row": 61,
+      "word": "der Schrank",
+      "meaningFa": "کمد",
+      "additionalExamples": [
+        {
+          "de": "Der Schrank ist für das Zimmer zu groß.",
+          "fa": "کمد برای این اتاق خیلی بزرگ است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Schrank ist noch Platz für deine Bücher.",
+          "fa": "در کمد هنوز برای کتاب‌هایت جا هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:062",
+      "row": 62,
+      "word": "schwarz",
+      "meaningFa": "سیاه",
+      "additionalExamples": [
+        {
+          "de": "Ich möchte die Schuhe in Schwarz.",
+          "fa": "این کفش‌ها را به رنگ سیاه می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Sofa ist schwarz und die Kommode ist weiß.",
+          "fa": "مبل سیاه و دراور سفید است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:063",
+      "row": 63,
+      "word": "der Sessel",
+      "meaningFa": "مبل تک‌نفره",
+      "additionalExamples": [
+        {
+          "de": "Mein Großvater liest im Sessel Zeitung.",
+          "fa": "پدربزرگم روی مبل تک‌نفره روزنامه می‌خواند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Sessel steht vor dem Fenster.",
+          "fa": "مبل تک‌نفره جلوی پنجره است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:064",
+      "row": 64,
+      "word": "sitzen",
+      "meaningFa": "نشسته‌بودن",
+      "additionalExamples": [
+        {
+          "de": "Wir sitzen am Tisch und frühstücken.",
+          "fa": "پشت میز نشسته‌ایم و صبحانه می‌خوریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Warum sitzt du allein auf dem Balkon?",
+          "fa": "چرا تنها در بالکن نشسته‌ای؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:065",
+      "row": 65,
+      "word": "sofort",
+      "meaningFa": "فوراً",
+      "additionalExamples": [
+        {
+          "de": "Ich komme sofort.",
+          "fa": "بلافاصله می‌آیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte rufen Sie sofort einen Arzt an.",
+          "fa": "لطفاً فوراً به یک پزشک تلفن کنید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:066",
+      "row": 66,
+      "word": "spät",
+      "meaningFa": "دیر",
+      "additionalExamples": [
+        {
+          "de": "Es ist schon spät; ich muss nach Hause.",
+          "fa": "دیگر دیر شده؛ باید به خانه بروم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Warum beginnt die Party so spät?",
+          "fa": "چرا مهمانی این‌قدر دیر شروع می‌شود؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:067",
+      "row": 67,
+      "word": "der Stock",
+      "meaningFa": "طبقه؛ چوب‌دستی",
+      "additionalExamples": [
+        {
+          "de": "Unsere Wohnung ist im dritten Stock.",
+          "fa": "آپارتمان ما در طبقهٔ سوم است.",
+          "origin": "authored"
+        },
+        {
+          "de": "In welchem Stock wohnst du?",
+          "fa": "در کدام طبقه زندگی می‌کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:068",
+      "row": 68,
+      "word": "der Stuhl",
+      "meaningFa": "صندلی",
+      "additionalExamples": [
+        {
+          "de": "Wir brauchen noch einen Stuhl für dich.",
+          "fa": "برای تو به یک صندلی دیگر نیاز داریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Stell den Stuhl bitte an den Tisch.",
+          "fa": "لطفاً صندلی را کنار میز بگذار.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:069",
+      "row": 69,
+      "word": "die Toilette",
+      "meaningFa": "توالت",
+      "additionalExamples": [
+        {
+          "de": "Wo ist die Toilette, bitte?",
+          "fa": "ببخشید، توالت کجاست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Toilette ist zwischen dem Bad und der Küche.",
+          "fa": "توالت بین حمام و آشپزخانه است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:070",
+      "row": 70,
+      "word": "die Überraschung",
+      "meaningFa": "غافلگیری",
+      "additionalExamples": [
+        {
+          "de": "Dein Besuch ist eine schöne Überraschung.",
+          "fa": "آمدنت یک غافلگیریِ خوشایند است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe eine Überraschung für deinen Geburtstag.",
+          "fa": "برای تولدت یک غافلگیری دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:071",
+      "row": 71,
+      "word": "vergessen",
+      "meaningFa": "فراموش‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Vergiss bitte den Termin nicht.",
+          "fa": "لطفاً قرار را فراموش نکن.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich vergesse oft die neuen Wörter.",
+          "fa": "من اغلب واژه‌های جدید را فراموش می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:072",
+      "row": 72,
+      "word": "der Vermieter",
+      "meaningFa": "موجر مرد",
+      "additionalExamples": [
+        {
+          "de": "Unser Vermieter wohnt auch im Haus.",
+          "fa": "صاحبخانهٔ ما هم در همین ساختمان زندگی می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich rufe den Vermieter wegen der Heizung an.",
+          "fa": "به‌خاطر گرمایش به صاحبخانه زنگ می‌زنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:073",
+      "row": 73,
+      "word": "die Vermieterin",
+      "meaningFa": "موجر زن",
+      "additionalExamples": [
+        {
+          "de": "Die Vermieterin zeigt uns die Küche.",
+          "fa": "زن صاحبخانه آشپزخانه را به ما نشان می‌دهد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir haben eine Frage an unsere Vermieterin.",
+          "fa": "از صاحبخانه‌مان یک سؤال داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:074",
+      "row": 74,
+      "word": "Viel Erfolg",
+      "meaningFa": "موفق باشی",
+      "additionalExamples": [
+        {
+          "de": "Du hast morgen eine Prüfung? Viel Erfolg!",
+          "fa": "فردا امتحان داری؟ موفق باشی!",
+          "origin": "authored"
+        },
+        {
+          "de": "Viel Erfolg bei der Wohnungssuche!",
+          "fa": "در پیدا کردن خانه موفق باشی!",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:075",
+      "row": 75,
+      "word": "wichtig",
+      "meaningFa": "مهم",
+      "additionalExamples": [
+        {
+          "de": "Der Termin beim Arzt ist wichtig.",
+          "fa": "وقت دکتر مهم است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welche Informationen sind für dich wichtig?",
+          "fa": "چه اطلاعاتی برایت مهم است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-05-A1:076",
+      "row": 76,
+      "word": "die Wohngemeinschaft",
+      "meaningFa": "خانهٔ اشتراکی",
+      "additionalExamples": [
+        {
+          "de": "Ich wohne mit drei Studenten in einer Wohngemeinschaft.",
+          "fa": "با سه دانشجو در یک خانهٔ اشتراکی زندگی می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unsere Wohngemeinschaft hat eine große Küche.",
+          "fa": "خانهٔ اشتراکی ما یک آشپزخانهٔ بزرگ دارد.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

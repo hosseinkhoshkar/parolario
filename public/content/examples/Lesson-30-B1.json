@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-30-B1.txt",
+  "lessonNumber": 30,
+  "level": "B1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-30-B1:001",
+      "row": 1,
+      "word": "der Austausch",
+      "meaningFa": "تبادل",
+      "additionalExamples": [
+        {
+          "de": "Der Austausch mit meinen Kollegen hilft mir, neue Ideen zu entwickeln.",
+          "fa": "تبادل نظر با همکارانم کمکم می‌کند ایده‌های تازه‌ای پرورش دهم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Während eines Austauschs habe ich ein Semester an einer anderen Hochschule studiert.",
+          "fa": "در یک دورهٔ تبادل دانشجو، یک نیمسال در مؤسسهٔ آموزش عالی دیگری تحصیل کردم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-30-B1:002",
+      "row": 2,
+      "word": "der Fortschritt",
+      "meaningFa": "پیشرفت",
+      "additionalExamples": [
+        {
+          "de": "Seit dem Beginn des Kurses habe ich große Fortschritte gemacht.",
+          "fa": "از شروع دوره تا حالا پیشرفت زیادی کرده‌ام.",
+          "origin": "authored"
+        },
+        {
+          "de": "Den Fortschritt bei der Arbeit können wir jede Woche gemeinsam besprechen.",
+          "fa": "می‌توانیم هر هفته با هم دربارهٔ پیشرفت کار صحبت کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-30-B1:003",
+      "row": 3,
+      "word": "jedoch",
+      "meaningFa": "با این حال؛ اما",
+      "additionalExamples": [
+        {
+          "de": "Die Wohnung gefällt mir, sie ist jedoch zu teuer.",
+          "fa": "از آن خانه خوشم می‌آید، اما بیش از حد گران است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe mich gut vorbereitet, bei der Prüfung war ich jedoch sehr nervös.",
+          "fa": "خوب آماده شده بودم، با این حال هنگام امتحان خیلی مضطرب بودم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-30-B1:004",
+      "row": 4,
+      "word": "die Minderheit",
+      "meaningFa": "اقلیت",
+      "additionalExamples": [
+        {
+          "de": "Nur eine Minderheit der Teilnehmer war gegen den neuen Plan.",
+          "fa": "فقط اقلیتی از شرکت‌کنندگان مخالف طرح جدید بودند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auch die Meinung einer Minderheit sollte in der Diskussion gehört werden.",
+          "fa": "در بحث باید به نظر اقلیت هم گوش داده شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-30-B1:005",
+      "row": 5,
+      "word": "die Traube",
+      "meaningFa": "انگور؛ خوشه",
+      "additionalExamples": [
+        {
+          "de": "Zum Frühstück esse ich gern frische Trauben mit Joghurt.",
+          "fa": "دوست دارم برای صبحانه انگور تازه با ماست بخورم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Trauben vom Markt sind süßer als die aus dem Supermarkt.",
+          "fa": "انگورهای بازار از انگورهای سوپرمارکت شیرین‌ترند.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

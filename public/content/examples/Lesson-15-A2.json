@@ -1,0 +1,332 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-15-A2.txt",
+  "lessonNumber": 15,
+  "level": "A2",
+  "entries": [
+    {
+      "sourceKey": "Lesson-15-A2:001",
+      "row": 1,
+      "word": "die Abfahrt",
+      "meaningFa": "حرکت؛ عزیمت",
+      "additionalExamples": [
+        {
+          "de": "Bis zur Abfahrt haben wir noch zehn Minuten.",
+          "fa": "هنوز تا حرکت ده دقیقه وقت داریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Abfahrt des Busses ist um sieben Uhr.",
+          "fa": "زمان حرکت اتوبوس ساعت هفت است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-15-A2:002",
+      "row": 2,
+      "word": "die Autobahn",
+      "meaningFa": "بزرگراه",
+      "additionalExamples": [
+        {
+          "de": "Auf der Autobahn gibt es heute viel Verkehr.",
+          "fa": "امروز در بزرگراه ترافیک زیادی هست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir fahren über die Autobahn nach Hamburg.",
+          "fa": "ما از راه بزرگراه به هامبورگ می‌رویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-15-A2:003",
+      "row": 3,
+      "word": "danach",
+      "meaningFa": "پس از آن",
+      "additionalExamples": [
+        {
+          "de": "Zuerst essen wir, danach gehen wir spazieren.",
+          "fa": "اول غذا می‌خوریم و بعد به پیاده‌روی می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe einen Termin und komme danach zu dir.",
+          "fa": "یک قرار دارم و بعد از آن پیش تو می‌آیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-15-A2:004",
+      "row": 4,
+      "word": "einsteigen",
+      "meaningFa": "سوارشدن",
+      "additionalExamples": [
+        {
+          "de": "Bitte steigen Sie jetzt ein.",
+          "fa": "لطفاً همین حالا سوار شوید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir sind am Hauptbahnhof in den Zug eingestiegen.",
+          "fa": "ما در ایستگاه مرکزی سوار قطار شدیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-15-A2:005",
+      "row": 5,
+      "word": "empfehlen",
+      "meaningFa": "توصیه‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Welches Hotel kannst du uns empfehlen?",
+          "fa": "کدام هتل را می‌توانی به ما توصیه کنی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Ärztin empfiehlt ihm mehr Ruhe.",
+          "fa": "پزشک به او توصیه می‌کند بیشتر استراحت کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-15-A2:006",
+      "row": 6,
+      "word": "der Fahrplan",
+      "meaningFa": "برنامهٔ حرکت وسایل نقلیه",
+      "additionalExamples": [
+        {
+          "de": "Ich sehe im Fahrplan nach, wann der Bus kommt.",
+          "fa": "در برنامهٔ حرکت نگاه می‌کنم که اتوبوس چه زمانی می‌آید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der neue Fahrplan gilt ab Montag.",
+          "fa": "برنامهٔ حرکت جدید از دوشنبه اجرا می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-15-A2:007",
+      "row": 7,
+      "word": "die Gelegenheit",
+      "meaningFa": "فرصت",
+      "additionalExamples": [
+        {
+          "de": "Bei der Feier hatte ich Gelegenheit, mit ihr zu sprechen.",
+          "fa": "در جشن فرصت داشتم با او صحبت کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wenn du Gelegenheit hast, ruf mich bitte an.",
+          "fa": "اگر فرصت کردی، لطفاً به من زنگ بزن.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-15-A2:008",
+      "row": 8,
+      "word": "die Grenze",
+      "meaningFa": "مرز",
+      "additionalExamples": [
+        {
+          "de": "An der Grenze kontrolliert die Polizei die Ausweise.",
+          "fa": "پلیس در مرز کارت‌های شناسایی را بررسی می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unser Dorf liegt direkt an der Grenze.",
+          "fa": "روستای ما درست کنار مرز قرار دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-15-A2:009",
+      "row": 9,
+      "word": "indirekt",
+      "meaningFa": "غیرمستقیم",
+      "additionalExamples": [
+        {
+          "de": "Er hat mir das nur indirekt gesagt.",
+          "fa": "او این را فقط غیرمستقیم به من گفته است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ihre Antwort war indirekt, aber ich habe sie verstanden.",
+          "fa": "پاسخش غیرمستقیم بود، ولی منظورش را فهمیدم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-15-A2:010",
+      "row": 10,
+      "word": "öffentlich",
+      "meaningFa": "عمومی",
+      "additionalExamples": [
+        {
+          "de": "Wir fahren mit öffentlichen Verkehrsmitteln.",
+          "fa": "ما با وسایل نقلیهٔ عمومی می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Feier ist öffentlich, jeder kann kommen.",
+          "fa": "این جشن عمومی است و همه می‌توانند بیایند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-15-A2:011",
+      "row": 11,
+      "word": "parken",
+      "meaningFa": "پارک‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Wo kann ich hier parken?",
+          "fa": "اینجا کجا می‌توانم پارک کنم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe mein Auto vor dem Haus geparkt.",
+          "fa": "ماشینم را جلوی خانه پارک کرده‌ام.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-15-A2:012",
+      "row": 12,
+      "word": "das Schloss",
+      "meaningFa": "قفل؛ قصر",
+      "additionalExamples": [
+        {
+          "de": "Das Schloss an der Tür ist kaputt.",
+          "fa": "قفل در خراب است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Sonntag besuchen wir ein altes Schloss.",
+          "fa": "یکشنبه از یک قصر قدیمی دیدن می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-15-A2:013",
+      "row": 13,
+      "word": "sich interessieren",
+      "meaningFa": "علاقه‌مندبودن",
+      "additionalExamples": [
+        {
+          "de": "Ich interessiere mich für Musik und Reisen.",
+          "fa": "من به موسیقی و سفر علاقه دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wofür interessiert sich deine Schwester?",
+          "fa": "خواهرت به چه چیزی علاقه دارد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-15-A2:014",
+      "row": 14,
+      "word": "die Tankstelle",
+      "meaningFa": "پمپ بنزین",
+      "additionalExamples": [
+        {
+          "de": "An der Tankstelle kaufen wir auch etwas zu trinken.",
+          "fa": "در پمپ بنزین چیزی برای نوشیدن هم می‌خریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die nächste Tankstelle ist noch zehn Kilometer entfernt.",
+          "fa": "پمپ بنزین بعدی هنوز ده کیلومتر فاصله دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-15-A2:015",
+      "row": 15,
+      "word": "die Technik",
+      "meaningFa": "فناوری؛ فن",
+      "additionalExamples": [
+        {
+          "de": "Die Technik in diesem Zug ist ganz neu.",
+          "fa": "فناوری این قطار کاملاً جدید است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unsere Schule nutzt moderne Technik im Unterricht.",
+          "fa": "مدرسهٔ ما در کلاس از فناوری روز استفاده می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-15-A2:016",
+      "row": 16,
+      "word": "die U-Bahn",
+      "meaningFa": "مترو",
+      "additionalExamples": [
+        {
+          "de": "Mit der U-Bahn sind wir schneller am Bahnhof.",
+          "fa": "با مترو زودتر به ایستگاه قطار می‌رسیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welche U-Bahn fährt zum Kaufhaus?",
+          "fa": "کدام خط مترو به فروشگاه بزرگ می‌رود؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-15-A2:017",
+      "row": 17,
+      "word": "die Übernachtung",
+      "meaningFa": "شب‌مانی",
+      "additionalExamples": [
+        {
+          "de": "Eine Übernachtung mit Frühstück kostet achtzig Euro.",
+          "fa": "یک شب اقامت همراه با صبحانه هشتاد یورو هزینه دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für die Reise planen wir zwei Übernachtungen.",
+          "fa": "برای سفر دو شب اقامت در نظر می‌گیریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-15-A2:018",
+      "row": 18,
+      "word": "das Unternehmen",
+      "meaningFa": "شرکت؛ بنگاه",
+      "additionalExamples": [
+        {
+          "de": "Sie arbeitet für ein großes Unternehmen.",
+          "fa": "او برای یک شرکت بزرگ کار می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Unternehmen hat Büros in drei Ländern.",
+          "fa": "این شرکت در سه کشور دفتر دارد.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

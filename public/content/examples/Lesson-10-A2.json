@@ -1,0 +1,926 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-10-A2.txt",
+  "lessonNumber": 10,
+  "level": "A2",
+  "entries": [
+    {
+      "sourceKey": "Lesson-10-A2:001",
+      "row": 1,
+      "word": "der Abschied",
+      "meaningFa": "خداحافظی",
+      "additionalExamples": [
+        {
+          "de": "Der Abschied von meinen Freunden war schwer.",
+          "fa": "خداحافظی با دوستانم سخت بود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Zum Abschied essen wir noch einmal zusammen.",
+          "fa": "برای خداحافظی یک بار دیگر با هم غذا می‌خوریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:002",
+      "row": 2,
+      "word": "ändern",
+      "meaningFa": "تغییردادن",
+      "additionalExamples": [
+        {
+          "de": "Können wir die Uhrzeit noch ändern?",
+          "fa": "می‌توانیم ساعت را هنوز تغییر بدهیم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe meine Adresse geändert.",
+          "fa": "من آدرسم را عوض کرده‌ام.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:003",
+      "row": 3,
+      "word": "der Aufzug",
+      "meaningFa": "آسانسور",
+      "additionalExamples": [
+        {
+          "de": "Der Aufzug fährt bis in den fünften Stock.",
+          "fa": "آسانسور تا طبقهٔ پنجم می‌رود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Heute ist der Aufzug leider kaputt.",
+          "fa": "متأسفانه امروز آسانسور خراب است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:004",
+      "row": 4,
+      "word": "ausfüllen",
+      "meaningFa": "پرکردن فرم",
+      "additionalExamples": [
+        {
+          "de": "Bitte füllen Sie dieses Formular aus.",
+          "fa": "لطفاً این فرم را پر کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir füllen die Lücken im Text aus.",
+          "fa": "ما جاهای خالی متن را پر می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:005",
+      "row": 5,
+      "word": "die Bank",
+      "meaningFa": "بانک؛ نیمکت",
+      "additionalExamples": [
+        {
+          "de": "Die Bank öffnet erst um neun Uhr.",
+          "fa": "بانک تازه ساعت نه باز می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir sitzen auf einer Bank im Park.",
+          "fa": "ما روی یک نیمکت در پارک نشسته‌ایم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:006",
+      "row": 6,
+      "word": "der Berg",
+      "meaningFa": "کوه",
+      "additionalExamples": [
+        {
+          "de": "Vom Berg aus sehen wir das Dorf.",
+          "fa": "از بالای کوه روستا را می‌بینیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Dieser Berg ist über tausend Meter hoch.",
+          "fa": "ارتفاع این کوه بیش از هزار متر است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:007",
+      "row": 7,
+      "word": "der Boden",
+      "meaningFa": "کف؛ زمین",
+      "additionalExamples": [
+        {
+          "de": "Auf dem Boden liegt ein Teppich.",
+          "fa": "روی زمین یک فرش هست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Kinder sitzen auf dem Boden und spielen.",
+          "fa": "بچه‌ها روی زمین نشسته‌اند و بازی می‌کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:008",
+      "row": 8,
+      "word": "die Chance",
+      "meaningFa": "شانس؛ فرصت",
+      "additionalExamples": [
+        {
+          "de": "Ich möchte diese Chance nutzen.",
+          "fa": "می‌خواهم از این فرصت استفاده کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bei der nächsten Prüfung hast du eine neue Chance.",
+          "fa": "در امتحان بعدی یک فرصت تازه داری.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:009",
+      "row": 9,
+      "word": "das Dach",
+      "meaningFa": "سقف شیب‌دار؛ بام",
+      "additionalExamples": [
+        {
+          "de": "Das Dach unseres Hauses ist rot.",
+          "fa": "سقف خانهٔ ما قرمز است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unser Dach ist nach dem Regen nass.",
+          "fa": "سقف خانه‌مان بعد از باران خیس است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:010",
+      "row": 10,
+      "word": "die Decke",
+      "meaningFa": "سقف اتاق؛ پتو",
+      "additionalExamples": [
+        {
+          "de": "Die Lampe hängt an der Decke.",
+          "fa": "چراغ از سقف آویزان است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kannst du mir eine warme Decke bringen?",
+          "fa": "می‌توانی یک پتو گرم برایم بیاوری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:011",
+      "row": 11,
+      "word": "das Erdgeschoss",
+      "meaningFa": "طبقهٔ همکف",
+      "additionalExamples": [
+        {
+          "de": "Unsere Wohnung liegt im Erdgeschoss.",
+          "fa": "آپارتمان ما در طبقهٔ همکف است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Erdgeschoss gibt es ein kleines Geschäft.",
+          "fa": "در طبقهٔ همکف یک مغازهٔ کوچک هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:012",
+      "row": 12,
+      "word": "geschieden",
+      "meaningFa": "طلاق‌گرفته",
+      "additionalExamples": [
+        {
+          "de": "Meine Eltern sind seit zwei Jahren geschieden.",
+          "fa": "پدر و مادرم دو سال است که طلاق گرفته‌اند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Formular steht: ledig, verheiratet oder geschieden.",
+          "fa": "در فرم نوشته شده: مجرد، متأهل یا طلاق‌گرفته.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:013",
+      "row": 13,
+      "word": "die Haltestelle",
+      "meaningFa": "ایستگاه اتوبوس یا تراموا",
+      "additionalExamples": [
+        {
+          "de": "Die nächste Haltestelle ist vor der Kirche.",
+          "fa": "ایستگاه بعدی جلوی کلیساست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir warten an der Haltestelle auf den Bus.",
+          "fa": "ما در ایستگاه منتظر اتوبوس هستیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:014",
+      "row": 14,
+      "word": "der Hauptbahnhof",
+      "meaningFa": "ایستگاه مرکزی قطار",
+      "additionalExamples": [
+        {
+          "de": "Wie komme ich zum Hauptbahnhof?",
+          "fa": "چگونه به ایستگاه مرکزی قطار بروم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Hauptbahnhof steigen wir aus.",
+          "fa": "ما در ایستگاه مرکزی قطار پیاده می‌شویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:015",
+      "row": 15,
+      "word": "hell",
+      "meaningFa": "روشن",
+      "additionalExamples": [
+        {
+          "de": "Die Wohnung ist hell und gemütlich.",
+          "fa": "آپارتمان روشن و دنج است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Sommer ist es abends noch lange hell.",
+          "fa": "تابستان شب‌ها هوا تا دیر وقت روشن است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:016",
+      "row": 16,
+      "word": "der Herd",
+      "meaningFa": "اجاق گاز یا اجاق برقی",
+      "additionalExamples": [
+        {
+          "de": "Der Topf steht auf dem Herd.",
+          "fa": "قابلمه روی اجاق است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hast du den Herd ausgeschaltet?",
+          "fa": "اجاق را خاموش کرده‌ای؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:017",
+      "row": 17,
+      "word": "hinter",
+      "meaningFa": "پشت",
+      "additionalExamples": [
+        {
+          "de": "Hinter dem Haus ist ein Garten.",
+          "fa": "پشت خانه یک باغ هست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Stell den Stuhl bitte hinter den Tisch.",
+          "fa": "لطفاً صندلی را پشت میز بگذار.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:018",
+      "row": 18,
+      "word": "insgesamt",
+      "meaningFa": "در مجموع",
+      "additionalExamples": [
+        {
+          "de": "Insgesamt bezahlen wir sechshundert Euro.",
+          "fa": "ما در مجموع ششصد یورو می‌پردازیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "In dem Haus wohnen insgesamt acht Personen.",
+          "fa": "در این خانه در مجموع هشت نفر زندگی می‌کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:019",
+      "row": 19,
+      "word": "die Kaltmiete",
+      "meaningFa": "اجاره بدون هزینهٔ گرمایش و هزینه‌های جانبی",
+      "additionalExamples": [
+        {
+          "de": "Die Kaltmiete beträgt fünfhundert Euro.",
+          "fa": "اجارهٔ پایه بدون هزینه‌های جانبی پانصد یورو است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Zu der Kaltmiete kommen die Nebenkosten dazu.",
+          "fa": "هزینه‌های جانبی به اجارهٔ پایه اضافه می‌شوند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:020",
+      "row": 20,
+      "word": "die Katze",
+      "meaningFa": "گربه",
+      "additionalExamples": [
+        {
+          "de": "Unsere Katze schläft auf dem Sofa.",
+          "fa": "گربهٔ ما روی مبل خوابیده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wer gibt der Katze heute Futter?",
+          "fa": "امروز چه کسی به گربه غذا می‌دهد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:021",
+      "row": 21,
+      "word": "das Kaufhaus",
+      "meaningFa": "فروشگاه بزرگ",
+      "additionalExamples": [
+        {
+          "de": "Im Kaufhaus suche ich eine neue Jacke.",
+          "fa": "در فروشگاه بزرگ دنبال یک کت تازه می‌گردم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Dieses Kaufhaus hat fünf Stockwerke.",
+          "fa": "این فروشگاه بزرگ پنج طبقه دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:022",
+      "row": 22,
+      "word": "die Kaution",
+      "meaningFa": "ودیعه؛ ضمانت مالی",
+      "additionalExamples": [
+        {
+          "de": "Wann muss ich die Kaution bezahlen?",
+          "fa": "چه زمانی باید ودیعه را پرداخت کنم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Kaution bekommst du später zurück.",
+          "fa": "ودیعه را بعداً پس می‌گیری.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:023",
+      "row": 23,
+      "word": "der Keller",
+      "meaningFa": "زیرزمین",
+      "additionalExamples": [
+        {
+          "de": "Mein Fahrrad steht im Keller.",
+          "fa": "دوچرخه‌ام در زیرزمین است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Keller gibt es kein Fenster.",
+          "fa": "در زیرزمین پنجره‌ای نیست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:024",
+      "row": 24,
+      "word": "das Kinderzimmer",
+      "meaningFa": "اتاق کودک",
+      "additionalExamples": [
+        {
+          "de": "Das Kinderzimmer liegt neben dem Schlafzimmer.",
+          "fa": "اتاق کودک کنار اتاق خواب است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für das Kinderzimmer brauchen wir noch einen Teppich.",
+          "fa": "برای اتاق کودک هنوز به یک فرش نیاز داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:025",
+      "row": 25,
+      "word": "kontrollieren",
+      "meaningFa": "کنترل یا بررسی‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Bitte kontrollieren Sie Ihre Adresse.",
+          "fa": "لطفاً آدرستان را بررسی کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Vor der Fahrt kontrolliere ich noch die Türen.",
+          "fa": "پیش از حرکت یک بار دیگر درها را بررسی می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:026",
+      "row": 26,
+      "word": "der Kühlschrank",
+      "meaningFa": "یخچال",
+      "additionalExamples": [
+        {
+          "de": "Die Milch steht im Kühlschrank.",
+          "fa": "شیر در یخچال است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unser Kühlschrank ist fast leer.",
+          "fa": "یخچالمان تقریباً خالی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:027",
+      "row": 27,
+      "word": "ledig",
+      "meaningFa": "مجرد",
+      "additionalExamples": [
+        {
+          "de": "Ich bin ledig und wohne allein.",
+          "fa": "من مجردم و تنها زندگی می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Muss ich hier ankreuzen, dass ich ledig bin?",
+          "fa": "باید اینجا علامت بزنم که مجردم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:028",
+      "row": 28,
+      "word": "der Müll",
+      "meaningFa": "زباله",
+      "additionalExamples": [
+        {
+          "de": "Bitte bring den Müll nach draußen.",
+          "fa": "لطفاً زباله را بیرون ببر.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir trennen unseren Müll.",
+          "fa": "ما زباله‌هایمان را جدا می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:029",
+      "row": 29,
+      "word": "der Nachteil",
+      "meaningFa": "عیب؛ نکتهٔ منفی",
+      "additionalExamples": [
+        {
+          "de": "Ein Nachteil ist die hohe Miete.",
+          "fa": "یکی از معایب، اجارهٔ بالاست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welche Nachteile hat die Wohnung?",
+          "fa": "این آپارتمان چه معایبی دارد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:030",
+      "row": 30,
+      "word": "neben",
+      "meaningFa": "کنار",
+      "additionalExamples": [
+        {
+          "de": "Neben der Bank ist ein Café.",
+          "fa": "کنار بانک یک کافه هست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Setz dich doch neben mich.",
+          "fa": "بیا کنار من بنشین.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:031",
+      "row": 31,
+      "word": "die Nebenkosten",
+      "meaningFa": "هزینه‌های جانبی؛ جمع",
+      "additionalExamples": [
+        {
+          "de": "Sind die Nebenkosten schon in der Miete enthalten?",
+          "fa": "آیا هزینه‌های جانبی در مبلغ اجاره حساب شده‌اند؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Nebenkosten sind dieses Jahr höher.",
+          "fa": "هزینه‌های جانبی امسال بیشتر شده‌اند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:032",
+      "row": 32,
+      "word": "der Parkplatz",
+      "meaningFa": "پارکینگ؛ محل پارک",
+      "additionalExamples": [
+        {
+          "de": "Vor dem Haus ist ein freier Parkplatz.",
+          "fa": "جلوی خانه یک جای پارک خالی هست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Parkplatz kostet fünf Euro am Tag.",
+          "fa": "پارکینگ روزی پنج یورو هزینه دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:033",
+      "row": 33,
+      "word": "die Probezeit",
+      "meaningFa": "دورهٔ آزمایشی",
+      "additionalExamples": [
+        {
+          "de": "Meine Probezeit dauert sechs Monate.",
+          "fa": "دورهٔ آزمایشی من شش ماه طول می‌کشد.",
+          "origin": "authored"
+        },
+        {
+          "de": "In der Probezeit stelle ich viele Fragen.",
+          "fa": "در دورهٔ آزمایشی سؤال‌های زیادی می‌پرسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:034",
+      "row": 34,
+      "word": "das Schlafzimmer",
+      "meaningFa": "اتاق خواب",
+      "additionalExamples": [
+        {
+          "de": "Im Schlafzimmer steht nur ein großes Bett.",
+          "fa": "در اتاق خواب فقط یک تخت بزرگ هست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Fenster im Schlafzimmer sind offen.",
+          "fa": "پنجره‌های اتاق خواب باز هستند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:035",
+      "row": 35,
+      "word": "der Schlüssel",
+      "meaningFa": "کلید",
+      "additionalExamples": [
+        {
+          "de": "Ich finde meinen Schlüssel nicht.",
+          "fa": "کلیدم را پیدا نمی‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Gibst du mir bitte den Schlüssel zur Wohnung?",
+          "fa": "لطفاً کلید آپارتمان را به من می‌دهی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:036",
+      "row": 36,
+      "word": "die Sicherheit",
+      "meaningFa": "امنیت؛ ایمنی",
+      "additionalExamples": [
+        {
+          "de": "Die Sicherheit der Kinder ist uns wichtig.",
+          "fa": "ایمنی بچه‌ها برای ما مهم است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Diese Tür sorgt für mehr Sicherheit.",
+          "fa": "این در امنیت بیشتری فراهم می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:037",
+      "row": 37,
+      "word": "der Spiegel",
+      "meaningFa": "آینه",
+      "additionalExamples": [
+        {
+          "de": "Im Bad hängt ein großer Spiegel.",
+          "fa": "در حمام یک آینهٔ بزرگ آویزان است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie sieht kurz in den Spiegel.",
+          "fa": "او نگاهی کوتاه به آینه می‌اندازد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:038",
+      "row": 38,
+      "word": "täglich",
+      "meaningFa": "روزانه",
+      "additionalExamples": [
+        {
+          "de": "Ich fahre täglich mit dem Bus zur Arbeit.",
+          "fa": "من هر روز با اتوبوس به محل کار می‌روم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Küche wird täglich sauber gemacht.",
+          "fa": "آشپزخانه روزانه تمیز می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:039",
+      "row": 39,
+      "word": "der Teppich",
+      "meaningFa": "فرش",
+      "additionalExamples": [
+        {
+          "de": "Der Teppich passt gut zum Sofa.",
+          "fa": "این فرش به مبل خوب می‌آید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf dem Teppich spielen die Kinder.",
+          "fa": "بچه‌ها روی فرش بازی می‌کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:040",
+      "row": 40,
+      "word": "die Terrasse",
+      "meaningFa": "تراس",
+      "additionalExamples": [
+        {
+          "de": "Im Sommer frühstücken wir auf der Terrasse.",
+          "fa": "تابستان روی تراس صبحانه می‌خوریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Terrasse ist direkt vor dem Wohnzimmer.",
+          "fa": "تراس درست جلوی اتاق نشیمن است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:041",
+      "row": 41,
+      "word": "trennen",
+      "meaningFa": "جداکردن",
+      "additionalExamples": [
+        {
+          "de": "Hier müssen wir Papier und Glas trennen.",
+          "fa": "اینجا باید کاغذ و شیشه را جدا کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Eine Wand trennt die Küche vom Wohnzimmer.",
+          "fa": "یک دیوار آشپزخانه را از اتاق نشیمن جدا می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:042",
+      "row": 42,
+      "word": "die Treppe",
+      "meaningFa": "راه‌پله؛ پله",
+      "additionalExamples": [
+        {
+          "de": "Die Wohnung liegt oben an der Treppe.",
+          "fa": "آپارتمان بالای راه‌پله قرار دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir gehen die Treppe hinunter.",
+          "fa": "ما از پله‌ها پایین می‌رویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:043",
+      "row": 43,
+      "word": "umziehen",
+      "meaningFa": "اسباب‌کشی‌کردن؛ لباس عوض‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Nächsten Monat ziehen wir nach Hamburg um.",
+          "fa": "ماه آینده به هامبورگ اسباب‌کشی می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach der Arbeit zieht sie sich um.",
+          "fa": "او بعد از کار لباسش را عوض می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:044",
+      "row": 44,
+      "word": "unterschreiben",
+      "meaningFa": "امضاکردن",
+      "additionalExamples": [
+        {
+          "de": "Bitte unterschreiben Sie unten auf der Seite.",
+          "fa": "لطفاً پایین صفحه را امضا کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe den Vertrag gestern unterschrieben.",
+          "fa": "من دیروز قرارداد را امضا کردم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:045",
+      "row": 45,
+      "word": "verheiratet",
+      "meaningFa": "متأهل",
+      "additionalExamples": [
+        {
+          "de": "Sie ist verheiratet und hat zwei Kinder.",
+          "fa": "او متأهل است و دو فرزند دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Seit wann seid ihr verheiratet?",
+          "fa": "از چه زمانی ازدواج کرده‌اید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:046",
+      "row": 46,
+      "word": "der Verkehr",
+      "meaningFa": "ترافیک؛ رفت‌وآمد",
+      "additionalExamples": [
+        {
+          "de": "Morgens gibt es hier viel Verkehr.",
+          "fa": "صبح‌ها اینجا رفت‌وآمد زیادی هست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wegen des Verkehrs komme ich heute später.",
+          "fa": "امروز به‌خاطر ترافیک دیرتر می‌رسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:047",
+      "row": 47,
+      "word": "vermieten",
+      "meaningFa": "اجاره‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Wir vermieten ein Zimmer in unserer Wohnung.",
+          "fa": "ما یک اتاق در آپارتمانمان اجاره می‌دهیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist dieses Haus schon vermietet?",
+          "fa": "این خانه قبلاً اجاره داده شده است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:048",
+      "row": 48,
+      "word": "der Vertrag",
+      "meaningFa": "قرارداد",
+      "additionalExamples": [
+        {
+          "de": "Lies den Vertrag bitte genau durch.",
+          "fa": "لطفاً قرارداد را با دقت کامل بخوان.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Vertrag beginnt am ersten April.",
+          "fa": "قرارداد من از اول آوریل شروع می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:049",
+      "row": 49,
+      "word": "verwitwet",
+      "meaningFa": "همسر ازدست‌داده",
+      "additionalExamples": [
+        {
+          "de": "Mein Großvater ist seit drei Jahren verwitwet.",
+          "fa": "پدربزرگم سه سال است که همسرش را از دست داده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie ist verwitwet und lebt bei ihrer Tochter.",
+          "fa": "او همسرش را از دست داده و پیش دخترش زندگی می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:050",
+      "row": 50,
+      "word": "der Vorteil",
+      "meaningFa": "مزیت",
+      "additionalExamples": [
+        {
+          "de": "Ein Vorteil ist der kurze Weg zur Arbeit.",
+          "fa": "یکی از مزایا کوتاهی مسیر تا محل کار است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Diese Wohnung hat viele Vorteile.",
+          "fa": "این آپارتمان مزایای زیادی دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-10-A2:051",
+      "row": 51,
+      "word": "die Wand",
+      "meaningFa": "دیوار",
+      "additionalExamples": [
+        {
+          "de": "An der Wand hängen zwei Bilder.",
+          "fa": "روی دیوار دو تابلو آویزان هستند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir möchten die Wand hell streichen.",
+          "fa": "ما می‌خواهیم دیوار را رنگ روشن بزنیم.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2257 @@
+{
+  "schemaVersion": 4,
+  "learningPolicyVersion": "learning-policy-v2",
+  "contentVersion": "course-a1-lessons-01-04-v1",
+  "revision": 180,
+  "settings": {
+    "studyTimeZone": "Europe/Berlin",
+    "maxNewPerSession": 5,
+    "targetActiveMs": 1200000
+  },
+  "progress": {
+    "e-6f3c02a1": {
+      "entryId": "e-6f3c02a1",
+      "introducedAt": "2026-11-03T12:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-03",
+      "scheduledReviewDates": [],
+      "correctCount": 4,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "e-8b10a4d2": {
+      "entryId": "e-8b10a4d2",
+      "introducedAt": "2026-11-03T12:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-03",
+      "scheduledReviewDates": [],
+      "correctCount": 4,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "e-5ac839e0": {
+      "entryId": "e-5ac839e0",
+      "introducedAt": "2026-11-03T12:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-03",
+      "scheduledReviewDates": [],
+      "correctCount": 4,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "e-d1b274f8": {
+      "entryId": "e-d1b274f8",
+      "introducedAt": "2026-11-03T12:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-03",
+      "scheduledReviewDates": [],
+      "correctCount": 4,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "e-a92e03c6": {
+      "entryId": "e-a92e03c6",
+      "introducedAt": "2026-11-03T12:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-03",
+      "scheduledReviewDates": [],
+      "correctCount": 3,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "e-c46b1f07": {
+      "entryId": "e-c46b1f07",
+      "introducedAt": "2026-11-03T12:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-03",
+      "scheduledReviewDates": [],
+      "correctCount": 4,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "e-f31a085b": {
+      "entryId": "e-f31a085b",
+      "introducedAt": "2026-11-03T12:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-03",
+      "scheduledReviewDates": [],
+      "correctCount": 4,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "e-20ce47a9": {
+      "entryId": "e-20ce47a9",
+      "introducedAt": "2026-11-03T12:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-03",
+      "scheduledReviewDates": [],
+      "correctCount": 4,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "e-7e92bd14": {
+      "entryId": "e-7e92bd14",
+      "introducedAt": "2026-11-03T12:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-03",
+      "scheduledReviewDates": [],
+      "correctCount": 4,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "e-91b806dc": {
+      "entryId": "e-91b806dc",
+      "introducedAt": "2026-11-03T12:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-03",
+      "scheduledReviewDates": [],
+      "correctCount": 3,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "article": null
+      }
+    },
+    "e-3d4a09b7": {
+      "entryId": "e-3d4a09b7",
+      "introducedAt": "2026-11-03T12:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-03",
+      "scheduledReviewDates": [],
+      "correctCount": 5,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "article": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        }
+      }
+    },
+    "e-b672e1c4": {
+      "entryId": "e-b672e1c4",
+      "introducedAt": "2026-11-03T12:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-03",
+      "scheduledReviewDates": [],
+      "correctCount": 5,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "article": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        }
+      }
+    },
+    "e-04f2cd83": {
+      "entryId": "e-04f2cd83",
+      "introducedAt": "2026-11-03T12:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-03",
+      "scheduledReviewDates": [],
+      "correctCount": 5,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "article": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        }
+      }
+    },
+    "e-ef903c18": {
+      "entryId": "e-ef903c18",
+      "introducedAt": "2026-11-03T12:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-03",
+      "scheduledReviewDates": [],
+      "correctCount": 5,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "article": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        }
+      }
+    },
+    "e-2bd8a756": {
+      "entryId": "e-2bd8a756",
+      "introducedAt": "2026-11-03T12:00:00.000Z",
+      "initialRecallPending": false,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "intervalIndex": 0,
+      "lastSuccessDate": "2026-11-03",
+      "scheduledReviewDates": [],
+      "correctCount": 4,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "writing": {
+          "correct": 2,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 2,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        },
+        "article": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-03T12:00:00.000Z"
+        }
+      }
+    },
+    "a1-l04-001": {
+      "entryId": "a1-l04-001",
+      "introducedAt": "2026-11-04T12:00:00.000Z",
+      "initialRecallPending": true,
+      "nextDueAt": null,
+      "intervalIndex": 0,
+      "lastSuccessDate": null,
+      "scheduledReviewDates": [],
+      "correctCount": 1,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 1,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 1,
+          "lastAttemptAt": "2026-11-04T12:00:00.000Z"
+        },
+        "writing": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "article": null
+      }
+    },
+    "a1-l04-002": {
+      "entryId": "a1-l04-002",
+      "introducedAt": "2026-11-04T12:00:00.000Z",
+      "initialRecallPending": true,
+      "nextDueAt": null,
+      "intervalIndex": 0,
+      "lastSuccessDate": null,
+      "scheduledReviewDates": [],
+      "correctCount": 0,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "writing": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "article": null
+      }
+    },
+    "a1-l04-003": {
+      "entryId": "a1-l04-003",
+      "introducedAt": "2026-11-04T12:00:00.000Z",
+      "initialRecallPending": true,
+      "nextDueAt": null,
+      "intervalIndex": 0,
+      "lastSuccessDate": null,
+      "scheduledReviewDates": [],
+      "correctCount": 0,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "writing": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "article": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        }
+      }
+    },
+    "a1-l04-004": {
+      "entryId": "a1-l04-004",
+      "introducedAt": "2026-11-04T12:00:00.000Z",
+      "initialRecallPending": true,
+      "nextDueAt": null,
+      "intervalIndex": 0,
+      "lastSuccessDate": null,
+      "scheduledReviewDates": [],
+      "correctCount": 0,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "writing": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "article": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        }
+      }
+    },
+    "a1-l04-005": {
+      "entryId": "a1-l04-005",
+      "introducedAt": "2026-11-04T12:00:00.000Z",
+      "initialRecallPending": true,
+      "nextDueAt": null,
+      "intervalIndex": 0,
+      "lastSuccessDate": null,
+      "scheduledReviewDates": [],
+      "correctCount": 0,
+      "wrongCount": 0,
+      "pendingError": null,
+      "skills": {
+        "meaning": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "writing": {
+          "correct": 0,
+          "wrong": 0,
+          "assisted": 0,
+          "unassistedCorrect": 0,
+          "lastAttemptAt": null
+        },
+        "article": null
+      }
+    }
+  },
+  "reverseProgress": {
+    "e-6f3c02a1": {
+      "entryId": "e-6f3c02a1",
+      "completedAt": "2026-11-03T12:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "e-8b10a4d2": {
+      "entryId": "e-8b10a4d2",
+      "completedAt": "2026-11-03T12:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "e-5ac839e0": {
+      "entryId": "e-5ac839e0",
+      "completedAt": "2026-11-03T12:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "e-d1b274f8": {
+      "entryId": "e-d1b274f8",
+      "completedAt": "2026-11-03T12:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "e-a92e03c6": {
+      "entryId": "e-a92e03c6",
+      "completedAt": "2026-11-03T12:00:00.000Z",
+      "lastReviewedAt": "2026-11-04T12:00:00.000Z",
+      "nextDueAt": "2026-11-07T12:00:00.000Z",
+      "successStreak": 1,
+      "correctCount": 1,
+      "incorrectCount": 0,
+      "intervalDays": 3
+    },
+    "e-c46b1f07": {
+      "entryId": "e-c46b1f07",
+      "completedAt": "2026-11-03T12:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "e-f31a085b": {
+      "entryId": "e-f31a085b",
+      "completedAt": "2026-11-03T12:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "e-20ce47a9": {
+      "entryId": "e-20ce47a9",
+      "completedAt": "2026-11-03T12:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "e-7e92bd14": {
+      "entryId": "e-7e92bd14",
+      "completedAt": "2026-11-03T12:00:00.000Z",
+      "lastReviewedAt": "2026-11-04T12:00:00.000Z",
+      "nextDueAt": "2026-11-07T12:00:00.000Z",
+      "successStreak": 1,
+      "correctCount": 1,
+      "incorrectCount": 0,
+      "intervalDays": 3
+    },
+    "e-91b806dc": {
+      "entryId": "e-91b806dc",
+      "completedAt": "2026-11-03T12:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "e-3d4a09b7": {
+      "entryId": "e-3d4a09b7",
+      "completedAt": "2026-11-03T12:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "e-b672e1c4": {
+      "entryId": "e-b672e1c4",
+      "completedAt": "2026-11-03T12:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "e-04f2cd83": {
+      "entryId": "e-04f2cd83",
+      "completedAt": "2026-11-03T12:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "e-ef903c18": {
+      "entryId": "e-ef903c18",
+      "completedAt": "2026-11-03T12:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    },
+    "e-2bd8a756": {
+      "entryId": "e-2bd8a756",
+      "completedAt": "2026-11-03T12:00:00.000Z",
+      "lastReviewedAt": null,
+      "nextDueAt": "2026-11-04T12:00:00.000Z",
+      "successStreak": 0,
+      "correctCount": 0,
+      "incorrectCount": 0,
+      "intervalDays": 1
+    }
+  },
+  "reverseReviews": [
+    {
+      "reviewId": "before5-review-63",
+      "sessionId": "before5-fourth",
+      "taskId": "before5-fourth:reverse:e-7e92bd14",
+      "entryId": "e-7e92bd14",
+      "correct": true,
+      "at": "2026-11-04T12:00:00.000Z",
+      "studyDate": "2026-11-04"
+    },
+    {
+      "reviewId": "before5-review-64",
+      "sessionId": "before5-fourth",
+      "taskId": "before5-fourth:reverse:e-a92e03c6",
+      "entryId": "e-a92e03c6",
+      "correct": true,
+      "at": "2026-11-04T12:00:00.000Z",
+      "studyDate": "2026-11-04"
+    }
+  ],
+  "attempts": [
+    {
+      "attemptId": "before5-attempt-1",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:new:e-6f3c02a1:meaning",
+      "entryId": "e-6f3c02a1",
+      "exercise": "choose-meaning",
+      "answer": "e-6f3c02a1",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-2",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:new:e-6f3c02a1:cloze",
+      "entryId": "e-6f3c02a1",
+      "exercise": "cloze",
+      "answer": "Hallo",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-3",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:new:e-6f3c02a1:write",
+      "entryId": "e-6f3c02a1",
+      "exercise": "write-word",
+      "answer": "Hallo",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-4",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:new:e-8b10a4d2:meaning",
+      "entryId": "e-8b10a4d2",
+      "exercise": "choose-meaning",
+      "answer": "e-8b10a4d2",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-5",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:new:e-8b10a4d2:write",
+      "entryId": "e-8b10a4d2",
+      "exercise": "write-word",
+      "answer": "Guten Tag",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-6",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:new:e-8b10a4d2:cloze",
+      "entryId": "e-8b10a4d2",
+      "exercise": "cloze",
+      "answer": "Guten Tag",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-7",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:new:e-5ac839e0:meaning",
+      "entryId": "e-5ac839e0",
+      "exercise": "choose-meaning",
+      "answer": "e-5ac839e0",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-8",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:new:e-5ac839e0:cloze",
+      "entryId": "e-5ac839e0",
+      "exercise": "cloze",
+      "answer": "Guten Morgen",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-9",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:new:e-5ac839e0:write",
+      "entryId": "e-5ac839e0",
+      "exercise": "write-word",
+      "answer": "Guten Morgen",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-10",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:new:e-d1b274f8:meaning",
+      "entryId": "e-d1b274f8",
+      "exercise": "choose-meaning",
+      "answer": "e-d1b274f8",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-11",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:new:e-d1b274f8:write",
+      "entryId": "e-d1b274f8",
+      "exercise": "write-word",
+      "answer": "Tschüss",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-12",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:new:e-d1b274f8:cloze",
+      "entryId": "e-d1b274f8",
+      "exercise": "cloze",
+      "answer": "Tschüss",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-13",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:new:e-a92e03c6:meaning",
+      "entryId": "e-a92e03c6",
+      "exercise": "choose-meaning",
+      "answer": "e-a92e03c6",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-14",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:new:e-a92e03c6:cloze",
+      "entryId": "e-a92e03c6",
+      "exercise": "cloze",
+      "answer": "danke",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-15",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:new:e-a92e03c6:write",
+      "entryId": "e-a92e03c6",
+      "exercise": "write-word",
+      "answer": "danke",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-16",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:match",
+      "entryId": "e-6f3c02a1",
+      "exercise": "match",
+      "answer": "e-6f3c02a1",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-17",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:match",
+      "entryId": "e-8b10a4d2",
+      "exercise": "match",
+      "answer": "e-8b10a4d2",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-18",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:match",
+      "entryId": "e-5ac839e0",
+      "exercise": "match",
+      "answer": "e-5ac839e0",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-19",
+      "sessionId": "before5-first-0",
+      "taskId": "before5-first-0:match",
+      "entryId": "e-d1b274f8",
+      "exercise": "match",
+      "answer": "e-d1b274f8",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-20",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:new:e-c46b1f07:meaning",
+      "entryId": "e-c46b1f07",
+      "exercise": "choose-meaning",
+      "answer": "e-c46b1f07",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-21",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:new:e-c46b1f07:cloze",
+      "entryId": "e-c46b1f07",
+      "exercise": "cloze",
+      "answer": "heißen",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-22",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:new:e-c46b1f07:write",
+      "entryId": "e-c46b1f07",
+      "exercise": "write-word",
+      "answer": "heißen",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-23",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:new:e-f31a085b:meaning",
+      "entryId": "e-f31a085b",
+      "exercise": "choose-meaning",
+      "answer": "e-f31a085b",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-24",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:new:e-f31a085b:write",
+      "entryId": "e-f31a085b",
+      "exercise": "write-word",
+      "answer": "kommen",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-25",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:new:e-f31a085b:cloze",
+      "entryId": "e-f31a085b",
+      "exercise": "cloze",
+      "answer": "kommen",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-26",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:new:e-20ce47a9:meaning",
+      "entryId": "e-20ce47a9",
+      "exercise": "choose-meaning",
+      "answer": "e-20ce47a9",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-27",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:new:e-20ce47a9:cloze",
+      "entryId": "e-20ce47a9",
+      "exercise": "cloze",
+      "answer": "wohnen",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-28",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:new:e-20ce47a9:write",
+      "entryId": "e-20ce47a9",
+      "exercise": "write-word",
+      "answer": "wohnen",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-29",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:new:e-7e92bd14:meaning",
+      "entryId": "e-7e92bd14",
+      "exercise": "choose-meaning",
+      "answer": "e-7e92bd14",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-30",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:new:e-7e92bd14:write",
+      "entryId": "e-7e92bd14",
+      "exercise": "write-word",
+      "answer": "sprechen",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-31",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:new:e-7e92bd14:cloze",
+      "entryId": "e-7e92bd14",
+      "exercise": "cloze",
+      "answer": "sprechen",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-32",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:new:e-91b806dc:meaning",
+      "entryId": "e-91b806dc",
+      "exercise": "choose-meaning",
+      "answer": "e-91b806dc",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-33",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:new:e-91b806dc:cloze",
+      "entryId": "e-91b806dc",
+      "exercise": "cloze",
+      "answer": "arbeiten",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-34",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:new:e-91b806dc:write",
+      "entryId": "e-91b806dc",
+      "exercise": "write-word",
+      "answer": "arbeiten",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-35",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:match",
+      "entryId": "e-c46b1f07",
+      "exercise": "match",
+      "answer": "e-c46b1f07",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-36",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:match",
+      "entryId": "e-f31a085b",
+      "exercise": "match",
+      "answer": "e-f31a085b",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-37",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:match",
+      "entryId": "e-20ce47a9",
+      "exercise": "match",
+      "answer": "e-20ce47a9",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-38",
+      "sessionId": "before5-first-1",
+      "taskId": "before5-first-1:match",
+      "entryId": "e-7e92bd14",
+      "exercise": "match",
+      "answer": "e-7e92bd14",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-39",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-3d4a09b7:meaning",
+      "entryId": "e-3d4a09b7",
+      "exercise": "choose-meaning",
+      "answer": "e-3d4a09b7",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-40",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-3d4a09b7:cloze",
+      "entryId": "e-3d4a09b7",
+      "exercise": "cloze",
+      "answer": "Name",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-41",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-3d4a09b7:write",
+      "entryId": "e-3d4a09b7",
+      "exercise": "write-word",
+      "answer": "Name",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-42",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-3d4a09b7:article",
+      "entryId": "e-3d4a09b7",
+      "exercise": "choose-article",
+      "answer": "der",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-43",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-b672e1c4:meaning",
+      "entryId": "e-b672e1c4",
+      "exercise": "choose-meaning",
+      "answer": "e-b672e1c4",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-44",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-b672e1c4:write",
+      "entryId": "e-b672e1c4",
+      "exercise": "write-word",
+      "answer": "Vorname",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-45",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-b672e1c4:cloze",
+      "entryId": "e-b672e1c4",
+      "exercise": "cloze",
+      "answer": "Vorname",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-46",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-b672e1c4:article",
+      "entryId": "e-b672e1c4",
+      "exercise": "choose-article",
+      "answer": "der",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-47",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-04f2cd83:meaning",
+      "entryId": "e-04f2cd83",
+      "exercise": "choose-meaning",
+      "answer": "e-04f2cd83",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-48",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-04f2cd83:cloze",
+      "entryId": "e-04f2cd83",
+      "exercise": "cloze",
+      "answer": "Familienname",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-49",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-04f2cd83:write",
+      "entryId": "e-04f2cd83",
+      "exercise": "write-word",
+      "answer": "Familienname",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-50",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-04f2cd83:article",
+      "entryId": "e-04f2cd83",
+      "exercise": "choose-article",
+      "answer": "der",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-51",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-ef903c18:meaning",
+      "entryId": "e-ef903c18",
+      "exercise": "choose-meaning",
+      "answer": "e-ef903c18",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-52",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-ef903c18:write",
+      "entryId": "e-ef903c18",
+      "exercise": "write-word",
+      "answer": "Adresse",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-53",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-ef903c18:cloze",
+      "entryId": "e-ef903c18",
+      "exercise": "cloze",
+      "answer": "Adresse",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-54",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-ef903c18:article",
+      "entryId": "e-ef903c18",
+      "exercise": "choose-article",
+      "answer": "die",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-55",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-2bd8a756:meaning",
+      "entryId": "e-2bd8a756",
+      "exercise": "choose-meaning",
+      "answer": "e-2bd8a756",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-56",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-2bd8a756:cloze",
+      "entryId": "e-2bd8a756",
+      "exercise": "cloze",
+      "answer": "Stadt",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-57",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-2bd8a756:write",
+      "entryId": "e-2bd8a756",
+      "exercise": "write-word",
+      "answer": "Stadt",
+      "correct": true,
+      "independent": true,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-58",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:new:e-2bd8a756:article",
+      "entryId": "e-2bd8a756",
+      "exercise": "choose-article",
+      "answer": "die",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-59",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:match",
+      "entryId": "e-3d4a09b7",
+      "exercise": "match",
+      "answer": "e-3d4a09b7",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-60",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:match",
+      "entryId": "e-b672e1c4",
+      "exercise": "match",
+      "answer": "e-b672e1c4",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-61",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:match",
+      "entryId": "e-04f2cd83",
+      "exercise": "match",
+      "answer": "e-04f2cd83",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-62",
+      "sessionId": "before5-first-2",
+      "taskId": "before5-first-2:match",
+      "entryId": "e-ef903c18",
+      "exercise": "match",
+      "answer": "e-ef903c18",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-03T12:00:00.000Z",
+      "studyDate": "2026-11-03"
+    },
+    {
+      "attemptId": "before5-attempt-65",
+      "sessionId": "before5-fourth",
+      "taskId": "before5-fourth:new:a1-l04-001:meaning",
+      "entryId": "a1-l04-001",
+      "exercise": "choose-meaning",
+      "answer": "a1-l04-001",
+      "correct": true,
+      "independent": false,
+      "assisted": false,
+      "normalizationVersion": "answer-normalization-v2",
+      "at": "2026-11-04T12:00:00.000Z",
+      "studyDate": "2026-11-04"
+    }
+  ],
+  "session": {
+    "sessionId": "before5-fourth",
+    "contentVersion": "course-a1-lessons-01-04-v1",
+    "state": "paused",
+    "lessonId": "lesson-04",
+    "startedAt": "2026-11-04T12:00:00.000Z",
+    "endedAt": null,
+    "queue": [
+      {
+        "taskId": "before5-fourth:new:a1-l04-001:card",
+        "kind": "flashcard",
+        "entryId": "a1-l04-001",
+        "revealed": true
+      },
+      {
+        "taskId": "before5-fourth:reverse:e-7e92bd14",
+        "kind": "reverse-card",
+        "entryId": "e-7e92bd14",
+        "revealed": true
+      },
+      {
+        "taskId": "before5-fourth:reverse:e-a92e03c6",
+        "kind": "reverse-card",
+        "entryId": "e-a92e03c6",
+        "revealed": true
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-002:card",
+        "kind": "flashcard",
+        "entryId": "a1-l04-002",
+        "revealed": true
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-003:card",
+        "kind": "flashcard",
+        "entryId": "a1-l04-003",
+        "revealed": true
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-004:card",
+        "kind": "flashcard",
+        "entryId": "a1-l04-004",
+        "revealed": true
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-005:card",
+        "kind": "flashcard",
+        "entryId": "a1-l04-005",
+        "revealed": true
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-001:meaning",
+        "kind": "choose-meaning",
+        "entryId": "a1-l04-001",
+        "optionIds": [
+          "a1-l04-021",
+          "a1-l04-005",
+          "a1-l04-024",
+          "a1-l04-001"
+        ]
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-001:write",
+        "kind": "write-word",
+        "entryId": "a1-l04-001",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-001:cloze",
+        "kind": "cloze",
+        "entryId": "a1-l04-001",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-002:meaning",
+        "kind": "choose-meaning",
+        "entryId": "a1-l04-002",
+        "optionIds": [
+          "a1-l04-023",
+          "a1-l04-031",
+          "a1-l04-011",
+          "a1-l04-002"
+        ]
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-002:cloze",
+        "kind": "cloze",
+        "entryId": "a1-l04-002",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-002:write",
+        "kind": "write-word",
+        "entryId": "a1-l04-002",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-003:meaning",
+        "kind": "choose-meaning",
+        "entryId": "a1-l04-003",
+        "optionIds": [
+          "a1-l04-009",
+          "a1-l04-015",
+          "a1-l04-014",
+          "a1-l04-003"
+        ]
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-003:write",
+        "kind": "write-word",
+        "entryId": "a1-l04-003",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-003:cloze",
+        "kind": "cloze",
+        "entryId": "a1-l04-003",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-003:article",
+        "kind": "choose-article",
+        "entryId": "a1-l04-003",
+        "options": [
+          "der",
+          "das",
+          "die"
+        ]
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-004:meaning",
+        "kind": "choose-meaning",
+        "entryId": "a1-l04-004",
+        "optionIds": [
+          "a1-l04-004",
+          "a1-l04-014",
+          "a1-l04-016",
+          "a1-l04-015"
+        ]
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-004:cloze",
+        "kind": "cloze",
+        "entryId": "a1-l04-004",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-004:write",
+        "kind": "write-word",
+        "entryId": "a1-l04-004",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-004:article",
+        "kind": "choose-article",
+        "entryId": "a1-l04-004",
+        "options": [
+          "der",
+          "das",
+          "die"
+        ]
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-005:meaning",
+        "kind": "choose-meaning",
+        "entryId": "a1-l04-005",
+        "optionIds": [
+          "a1-l04-005",
+          "a1-l04-072",
+          "a1-l04-043",
+          "a1-l04-054"
+        ]
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-005:write",
+        "kind": "write-word",
+        "entryId": "a1-l04-005",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "before5-fourth:new:a1-l04-005:cloze",
+        "kind": "cloze",
+        "entryId": "a1-l04-005",
+        "cycleKind": "initial"
+      },
+      {
+        "taskId": "before5-fourth:match",
+        "kind": "match",
+        "entryIds": [
+          "a1-l04-001",
+          "a1-l04-002",
+          "a1-l04-003",
+          "a1-l04-004"
+        ],
+        "leftOrder": [
+          "a1-l04-002",
+          "a1-l04-004",
+          "a1-l04-003",
+          "a1-l04-001"
+        ],
+        "rightOrder": [
+          "a1-l04-004",
+          "a1-l04-003",
+          "a1-l04-001",
+          "a1-l04-002"
+        ],
+        "matchedEntryIds": []
+      }
+    ],
+    "cursor": 8,
+    "introducedEntryIds": [
+      "a1-l04-001",
+      "a1-l04-002",
+      "a1-l04-003",
+      "a1-l04-004",
+      "a1-l04-005"
+    ],
+    "draft": "Entwurf aus Lektion vier",
+    "feedback": null,
+    "activeMs": 0,
+    "targetAcknowledged": false,
+    "targetAcknowledgedDate": null
+  },
+  "assistanceEvents": [],
+  "dailyActivity": {},
+  "activityEventIds": [],
+  "activeLessonId": "lesson-04",
+  "savedSessions": {
+    "a1-lesson-01": {
+      "sessionId": "before5-first-pending",
+      "contentVersion": "course-a1-lessons-01-04-v1",
+      "state": "paused",
+      "lessonId": "a1-lesson-01",
+      "startedAt": "2026-11-04T12:00:00.000Z",
+      "endedAt": null,
+      "queue": [
+        {
+          "taskId": "before5-first-pending:recall:e-04f2cd83:start-0",
+          "kind": "write-word",
+          "entryId": "e-04f2cd83",
+          "cycleKind": "scheduled"
+        },
+        {
+          "taskId": "before5-first-pending:recall:e-20ce47a9:start-1",
+          "kind": "write-word",
+          "entryId": "e-20ce47a9",
+          "cycleKind": "scheduled"
+        },
+        {
+          "taskId": "before5-first-pending:recall:e-2bd8a756:start-2",
+          "kind": "cloze",
+          "entryId": "e-2bd8a756",
+          "cycleKind": "scheduled"
+        },
+        {
+          "taskId": "before5-first-pending:recall:e-3d4a09b7:start-3",
+          "kind": "cloze",
+          "entryId": "e-3d4a09b7",
+          "cycleKind": "scheduled"
+        },
+        {
+          "taskId": "before5-first-pending:recall:e-5ac839e0:start-4",
+          "kind": "write-word",
+          "entryId": "e-5ac839e0",
+          "cycleKind": "scheduled"
+        },
+        {
+          "taskId": "before5-first-pending:recall:e-6f3c02a1:start-5",
+          "kind": "cloze",
+          "entryId": "e-6f3c02a1",
+          "cycleKind": "scheduled"
+        },
+        {
+          "taskId": "before5-first-pending:recall:e-7e92bd14:start-6",
+          "kind": "write-word",
+          "entryId": "e-7e92bd14",
+          "cycleKind": "scheduled"
+        },
+        {
+          "taskId": "before5-first-pending:recall:e-8b10a4d2:start-7",
+          "kind": "cloze",
+          "entryId": "e-8b10a4d2",
+          "cycleKind": "scheduled"
+        },
+        {
+          "taskId": "before5-first-pending:recall:e-91b806dc:start-8",
+          "kind": "cloze",
+          "entryId": "e-91b806dc",
+          "cycleKind": "scheduled"
+        },
+        {
+          "taskId": "before5-first-pending:recall:e-a92e03c6:start-9",
+          "kind": "write-word",
+          "entryId": "e-a92e03c6",
+          "cycleKind": "scheduled"
+        },
+        {
+          "taskId": "before5-first-pending:recall:e-b672e1c4:start-10",
+          "kind": "cloze",
+          "entryId": "e-b672e1c4",
+          "cycleKind": "scheduled"
+        },
+        {
+          "taskId": "before5-first-pending:recall:e-c46b1f07:start-11",
+          "kind": "cloze",
+          "entryId": "e-c46b1f07",
+          "cycleKind": "scheduled"
+        },
+        {
+          "taskId": "before5-first-pending:recall:e-d1b274f8:start-12",
+          "kind": "cloze",
+          "entryId": "e-d1b274f8",
+          "cycleKind": "scheduled"
+        },
+        {
+          "taskId": "before5-first-pending:recall:e-ef903c18:start-13",
+          "kind": "cloze",
+          "entryId": "e-ef903c18",
+          "cycleKind": "scheduled"
+        },
+        {
+          "taskId": "before5-first-pending:recall:e-f31a085b:start-14",
+          "kind": "cloze",
+          "entryId": "e-f31a085b",
+          "cycleKind": "scheduled"
+        },
+        {
+          "taskId": "before5-first-pending:new:e-49a017fd:card",
+          "kind": "flashcard",
+          "entryId": "e-49a017fd",
+          "revealed": false
+        },
+        {
+          "taskId": "before5-first-pending:new:e-abc87230:card",
+          "kind": "flashcard",
+          "entryId": "e-abc87230",
+          "revealed": false
+        },
+        {
+          "taskId": "before5-first-pending:reverse:e-5ac839e0",
+          "kind": "reverse-card",
+          "entryId": "e-5ac839e0",
+          "revealed": false
+        },
+        {
+          "taskId": "before5-first-pending:reverse:e-ef903c18",
+          "kind": "reverse-card",
+          "entryId": "e-ef903c18",
+          "revealed": false
+        },
+        {
+          "taskId": "before5-first-pending:new:e-728e63a4:card",
+          "kind": "flashcard",
+          "entryId": "e-728e63a4",
+          "revealed": false
+        },
+        {
+          "taskId": "before5-first-pending:new:e-c03f4d82:card",
+          "kind": "flashcard",
+          "entryId": "e-c03f4d82",
+          "revealed": false
+        },
+        {
+          "taskId": "before5-first-pending:new:e-1a978b6e:card",
+          "kind": "flashcard",
+          "entryId": "e-1a978b6e",
+          "revealed": false
+        },
+        {
+          "taskId": "before5-first-pending:new:e-49a017fd:meaning",
+          "kind": "choose-meaning",
+          "entryId": "e-49a017fd",
+          "optionIds": [
+            "e-49a017fd",
+            "e-2bd8a756",
+            "e-abc87230",
+            "e-ef903c18"
+          ]
+        },
+        {
+          "taskId": "before5-first-pending:new:e-49a017fd:write",
+          "kind": "write-word",
+          "entryId": "e-49a017fd",
+          "cycleKind": "initial"
+        },
+        {
+          "taskId": "before5-first-pending:new:e-49a017fd:cloze",
+          "kind": "cloze",
+          "entryId": "e-49a017fd",
+          "cycleKind": "initial"
+        },
+        {
+          "taskId": "before5-first-pending:new:e-49a017fd:article",
+          "kind": "choose-article",
+          "entryId": "e-49a017fd",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ]
+        },
+        {
+          "taskId": "before5-first-pending:new:e-abc87230:meaning",
+          "kind": "choose-meaning",
+          "entryId": "e-abc87230",
+          "optionIds": [
+            "e-abc87230",
+            "e-49a017fd",
+            "e-2bd8a756",
+            "e-728e63a4"
+          ]
+        },
+        {
+          "taskId": "before5-first-pending:new:e-abc87230:cloze",
+          "kind": "cloze",
+          "entryId": "e-abc87230",
+          "cycleKind": "initial"
+        },
+        {
+          "taskId": "before5-first-pending:new:e-abc87230:write",
+          "kind": "write-word",
+          "entryId": "e-abc87230",
+          "cycleKind": "initial"
+        },
+        {
+          "taskId": "before5-first-pending:new:e-abc87230:article",
+          "kind": "choose-article",
+          "entryId": "e-abc87230",
+          "options": [
+            "das",
+            "der",
+            "die"
+          ]
+        },
+        {
+          "taskId": "before5-first-pending:new:e-728e63a4:meaning",
+          "kind": "choose-meaning",
+          "entryId": "e-728e63a4",
+          "optionIds": [
+            "e-ef903c18",
+            "e-49a017fd",
+            "e-728e63a4",
+            "e-3d4a09b7"
+          ]
+        },
+        {
+          "taskId": "before5-first-pending:new:e-728e63a4:write",
+          "kind": "write-word",
+          "entryId": "e-728e63a4",
+          "cycleKind": "initial"
+        },
+        {
+          "taskId": "before5-first-pending:new:e-728e63a4:cloze",
+          "kind": "cloze",
+          "entryId": "e-728e63a4",
+          "cycleKind": "initial"
+        },
+        {
+          "taskId": "before5-first-pending:new:e-728e63a4:article",
+          "kind": "choose-article",
+          "entryId": "e-728e63a4",
+          "options": [
+            "der",
+            "das",
+            "die"
+          ]
+        },
+        {
+          "taskId": "before5-first-pending:new:e-c03f4d82:meaning",
+          "kind": "choose-meaning",
+          "entryId": "e-c03f4d82",
+          "optionIds": [
+            "e-c03f4d82",
+            "e-04f2cd83",
+            "e-1a978b6e",
+            "e-ef903c18"
+          ]
+        },
+        {
+          "taskId": "before5-first-pending:new:e-c03f4d82:cloze",
+          "kind": "cloze",
+          "entryId": "e-c03f4d82",
+          "cycleKind": "initial"
+        },
+        {
+          "taskId": "before5-first-pending:new:e-c03f4d82:write",
+          "kind": "write-word",
+          "entryId": "e-c03f4d82",
+          "cycleKind": "initial"
+        },
+        {
+          "taskId": "before5-first-pending:new:e-c03f4d82:article",
+          "kind": "choose-article",
+          "entryId": "e-c03f4d82",
+          "options": [
+            "die",
+            "das",
+            "der"
+          ]
+        },
+        {
+          "taskId": "before5-first-pending:new:e-1a978b6e:meaning",
+          "kind": "choose-meaning",
+          "entryId": "e-1a978b6e",
+          "optionIds": [
+            "e-c03f4d82",
+            "e-49a017fd",
+            "e-2bd8a756",
+            "e-1a978b6e"
+          ]
+        },
+        {
+          "taskId": "before5-first-pending:new:e-1a978b6e:write",
+          "kind": "write-word",
+          "entryId": "e-1a978b6e",
+          "cycleKind": "initial"
+        },
+        {
+          "taskId": "before5-first-pending:new:e-1a978b6e:cloze",
+          "kind": "cloze",
+          "entryId": "e-1a978b6e",
+          "cycleKind": "initial"
+        },
+        {
+          "taskId": "before5-first-pending:new:e-1a978b6e:article",
+          "kind": "choose-article",
+          "entryId": "e-1a978b6e",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ]
+        },
+        {
+          "taskId": "before5-first-pending:match",
+          "kind": "match",
+          "entryIds": [
+            "e-49a017fd",
+            "e-abc87230",
+            "e-728e63a4",
+            "e-c03f4d82"
+          ],
+          "leftOrder": [
+            "e-c03f4d82",
+            "e-abc87230",
+            "e-49a017fd",
+            "e-728e63a4"
+          ],
+          "rightOrder": [
+            "e-c03f4d82",
+            "e-49a017fd",
+            "e-728e63a4",
+            "e-abc87230"
+          ],
+          "matchedEntryIds": []
+        }
+      ],
+      "cursor": 0,
+      "introducedEntryIds": [],
+      "draft": "Entwurf aus Lektion eins",
+      "feedback": null,
+      "activeMs": 0,
+      "targetAcknowledged": false,
+      "targetAcknowledgedDate": null
+    }
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-23-B1.txt",
+  "lessonNumber": 23,
+  "level": "B1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-23-B1:001",
+      "row": 1,
+      "word": "die Aufnahmeprüfung",
+      "meaningFa": "آزمون ورودی",
+      "additionalExamples": [
+        {
+          "de": "Für diesen Studienplatz muss ich zuerst eine Aufnahmeprüfung bestehen.",
+          "fa": "برای گرفتن این جایگاه تحصیلی باید ابتدا در آزمون ورودی قبول شوم.",
+          "origin": "authored"
+        },
+        {
+          "de": "In der Aufnahmeprüfung wurden meine Kenntnisse in Mathematik getestet.",
+          "fa": "در آزمون ورودی، دانش ریاضی‌ام سنجیده شد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-23-B1:002",
+      "row": 2,
+      "word": "der Dozent",
+      "meaningFa": "مدرس دانشگاه مرد",
+      "additionalExamples": [
+        {
+          "de": "Nach der Vorlesung habe ich dem Dozenten noch eine Frage gestellt.",
+          "fa": "بعد از کلاس سخنرانی، یک سؤال دیگر هم از مدرس پرسیدم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unser Dozent erklärt die schwierigen Texte mit einfachen Beispielen.",
+          "fa": "مدرس ما متن‌های دشوار را با مثال‌های ساده توضیح می‌دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-23-B1:003",
+      "row": 3,
+      "word": "die Dozentin",
+      "meaningFa": "مدرس دانشگاه زن",
+      "additionalExamples": [
+        {
+          "de": "Die Dozentin hat uns auf die Aufnahmeprüfung vorbereitet.",
+          "fa": "مدرس زن ما را برای آزمون ورودی آماده کرد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe mit der Dozentin einen Termin für ein Gespräch vereinbart.",
+          "fa": "با مدرس زن برای یک گفت‌وگو وقت تعیین کردم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-23-B1:004",
+      "row": 4,
+      "word": "die Fachhochschule",
+      "meaningFa": "دانشگاه علوم کاربردی",
+      "additionalExamples": [
+        {
+          "de": "An dieser Fachhochschule kann man Informatik studieren.",
+          "fa": "در این دانشگاه علوم کاربردی می‌توان علوم کامپیوتر خواند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Studium an einer Fachhochschule bietet oft viel praktische Erfahrung.",
+          "fa": "تحصیل در دانشگاه علوم کاربردی اغلب تجربهٔ عملی زیادی فراهم می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-23-B1:005",
+      "row": 5,
+      "word": "die Informatik",
+      "meaningFa": "علوم کامپیوتر",
+      "additionalExamples": [
+        {
+          "de": "Meine Schwester interessiert sich für Informatik und arbeitet gern am Computer.",
+          "fa": "خواهرم به علوم کامپیوتر علاقه دارد و دوست دارد با کامپیوتر کار کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Studium der Informatik lernt man auch, Programme zu entwickeln.",
+          "fa": "در رشتهٔ علوم کامپیوتر یاد می‌گیرند که برنامه هم طراحی کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-23-B1:006",
+      "row": 6,
+      "word": "die Ingenieurin",
+      "meaningFa": "مهندس زن",
+      "additionalExamples": [
+        {
+          "de": "Die Ingenieurin hat uns erklärt, wie die neue Maschine funktioniert.",
+          "fa": "مهندس زن برایمان توضیح داد که دستگاه جدید چگونه کار می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach dem Studium möchte sie als Ingenieurin bei einem großen Unternehmen arbeiten.",
+          "fa": "او می‌خواهد بعد از تحصیل به‌عنوان مهندس در یک شرکت بزرگ کار کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-23-B1:007",
+      "row": 7,
+      "word": "nachdem",
+      "meaningFa": "بعد از اینکه",
+      "additionalExamples": [
+        {
+          "de": "Nachdem ich die Aufnahmeprüfung bestanden hatte, konnte ich mich anmelden.",
+          "fa": "بعد از اینکه در آزمون ورودی قبول شدم، توانستم ثبت‌نام کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir sind ins Café gegangen, nachdem die Vorlesung zu Ende war.",
+          "fa": "بعد از اینکه کلاس سخنرانی تمام شد، به کافه رفتیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-23-B1:008",
+      "row": 8,
+      "word": "obwohl",
+      "meaningFa": "با اینکه",
+      "additionalExamples": [
+        {
+          "de": "Obwohl das Studium schwierig ist, macht es mir viel Spaß.",
+          "fa": "با اینکه تحصیل دشوار است، از آن خیلی لذت می‌برم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie hat die Prüfung bestanden, obwohl sie vorher krank war.",
+          "fa": "با اینکه پیش از امتحان بیمار بود، در آن قبول شد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-23-B1:009",
+      "row": 9,
+      "word": "selbstständig",
+      "meaningFa": "مستقل؛ خوداشتغال",
+      "additionalExamples": [
+        {
+          "de": "Mein Bruder ist selbstständig und arbeitet für verschiedene Kunden.",
+          "fa": "برادرم خوداشتغال است و برای مشتریان مختلف کار می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach einem Jahr konnte ich die Aufgaben schon selbstständig erledigen.",
+          "fa": "بعد از یک سال می‌توانستم کارها را خودم و مستقل انجام دهم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-23-B1:010",
+      "row": 10,
+      "word": "trotz",
+      "meaningFa": "با وجودِ",
+      "additionalExamples": [
+        {
+          "de": "Trotz des schlechten Wetters sind alle zur Vorlesung gekommen.",
+          "fa": "با وجود هوای بد، همه به کلاس سخنرانی آمدند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Trotz ihrer Berufserfahrung musste sie sich gut auf das Gespräch vorbereiten.",
+          "fa": "با وجود تجربهٔ کاری‌اش، باید به‌خوبی برای گفت‌وگو آماده می‌شد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-23-B1:011",
+      "row": 11,
+      "word": "trotzdem",
+      "meaningFa": "با این حال",
+      "additionalExamples": [
+        {
+          "de": "Die Aufgabe war schwierig, trotzdem habe ich sie ohne Hilfe geschafft.",
+          "fa": "تمرین دشوار بود؛ با این حال بدون کمک از عهده‌اش برآمدم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Er hat wenig Freizeit, geht aber trotzdem jede Woche schwimmen.",
+          "fa": "وقت آزاد کمی دارد، اما با این حال هر هفته شنا می‌رود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-23-B1:012",
+      "row": 12,
+      "word": "die Vorlesung",
+      "meaningFa": "کلاس سخنرانی دانشگاه",
+      "additionalExamples": [
+        {
+          "de": "Die erste Vorlesung beginnt am Montag um neun Uhr.",
+          "fa": "اولین کلاس سخنرانی دوشنبه ساعت نه شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Während der Vorlesung machen sich viele Studenten Notizen.",
+          "fa": "در طول کلاس سخنرانی، بسیاری از دانشجوها یادداشت برمی‌دارند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-23-B1:013",
+      "row": 13,
+      "word": "die Wirtschaft",
+      "meaningFa": "اقتصاد",
+      "additionalExamples": [
+        {
+          "de": "In der Zeitung lese ich regelmäßig Berichte über die Wirtschaft.",
+          "fa": "در روزنامه به‌طور مرتب گزارش‌های اقتصادی می‌خوانم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wenn die Wirtschaft wächst, können neue Arbeitsplätze entstehen.",
+          "fa": "اگر اقتصاد رشد کند، موقعیت‌های شغلی تازه‌ای می‌توانند ایجاد شوند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-23-B1:014",
+      "row": 14,
+      "word": "die Wissenschaft",
+      "meaningFa": "علم",
+      "additionalExamples": [
+        {
+          "de": "In der Wissenschaft ist es wichtig, Ergebnisse genau zu untersuchen.",
+          "fa": "در علم مهم است که نتایج را دقیق بررسی کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie möchte später in der Wissenschaft arbeiten und an einer Hochschule forschen.",
+          "fa": "او می‌خواهد بعداً در حوزهٔ علم کار کند و در یک مؤسسهٔ آموزش عالی پژوهش کند.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

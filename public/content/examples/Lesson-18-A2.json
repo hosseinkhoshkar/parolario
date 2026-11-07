@@ -1,0 +1,278 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-18-A2.txt",
+  "lessonNumber": 18,
+  "level": "A2",
+  "entries": [
+    {
+      "sourceKey": "Lesson-18-A2:001",
+      "row": 1,
+      "word": "ankommen",
+      "meaningFa": "رسیدن",
+      "additionalExamples": [
+        {
+          "de": "Unser Zug kommt heute um zehn Uhr an.",
+          "fa": "قطار ما امروز ساعت ده می‌رسد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Als wir im Hotel ankamen, war unser Zimmer schon fertig.",
+          "fa": "وقتی به هتل رسیدیم، اتاقمان از قبل آماده بود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-18-A2:002",
+      "row": 2,
+      "word": "ausgeben",
+      "meaningFa": "خرج‌کردن؛ منتشرکردن",
+      "additionalExamples": [
+        {
+          "de": "Im Urlaub geben wir viel Geld für gutes Essen aus.",
+          "fa": "در تعطیلات برای غذای خوب پول زیادی خرج می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich möchte diesen Monat weniger ausgeben und mehr sparen.",
+          "fa": "می‌خواهم این ماه کمتر خرج کنم و بیشتر پس‌انداز کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-18-A2:003",
+      "row": 3,
+      "word": "das Doppelzimmer",
+      "meaningFa": "اتاق دونفره",
+      "additionalExamples": [
+        {
+          "de": "Wir suchen ein Doppelzimmer mit einem großen Bett.",
+          "fa": "دنبال اتاق دونفره‌ای با یک تخت بزرگ هستیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist das Frühstück im Preis für das Doppelzimmer enthalten?",
+          "fa": "آیا صبحانه در قیمت اتاق دونفره حساب شده است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-18-A2:004",
+      "row": 4,
+      "word": "das Einzelzimmer",
+      "meaningFa": "اتاق یک‌نفره",
+      "additionalExamples": [
+        {
+          "de": "Für meine Reise allein habe ich ein Einzelzimmer gebucht.",
+          "fa": "برای سفر تنهایی‌ام یک اتاق یک‌نفره رزرو کرده‌ام.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ein Einzelzimmer kostet hier zwanzig Euro weniger.",
+          "fa": "اتاق یک‌نفره اینجا بیست یورو ارزان‌تر است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-18-A2:005",
+      "row": 5,
+      "word": "frisch",
+      "meaningFa": "تازه",
+      "additionalExamples": [
+        {
+          "de": "Morgens kaufen wir frisches Brot in der Bäckerei.",
+          "fa": "صبح‌ها از نانوایی نان تازه می‌خریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Luft am See ist heute besonders frisch.",
+          "fa": "هوای کنار دریاچه امروز به‌خصوص خنک و تازه است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-18-A2:006",
+      "row": 6,
+      "word": "die Insel",
+      "meaningFa": "جزیره",
+      "additionalExamples": [
+        {
+          "de": "Auf der Insel gibt es nur ein kleines Dorf.",
+          "fa": "در جزیره فقط یک روستای کوچک وجود دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir fahren mit dem Schiff zu einer anderen Insel.",
+          "fa": "با کشتی به جزیرهٔ دیگری می‌رویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-18-A2:007",
+      "row": 7,
+      "word": "die Jugend",
+      "meaningFa": "جوانی؛ جوانان",
+      "additionalExamples": [
+        {
+          "de": "In meiner Jugend wollte ich einmal um die Welt reisen.",
+          "fa": "در جوانی می‌خواستم روزی دور دنیا سفر کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Großvater erzählt gern Geschichten aus seiner Jugend.",
+          "fa": "پدربزرگم دوست دارد از دوران جوانی‌اش داستان تعریف کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-18-A2:008",
+      "row": 8,
+      "word": "das Meer",
+      "meaningFa": "دریا",
+      "additionalExamples": [
+        {
+          "de": "Vom Balkon aus können wir das Meer sehen.",
+          "fa": "از بالکن می‌توانیم دریا را ببینیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Meer vergesse ich den Stress aus dem Alltag.",
+          "fa": "کنار دریا استرس زندگی روزمره را فراموش می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-18-A2:009",
+      "row": 9,
+      "word": "mitmachen",
+      "meaningFa": "همراهی یا مشارکت‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Beim gemeinsamen Kochen können alle mitmachen.",
+          "fa": "همه می‌توانند در آشپزی گروهی مشارکت کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir organisieren einen Ausflug; möchtest du mitmachen?",
+          "fa": "داریم یک گردش برنامه‌ریزی می‌کنیم؛ می‌خواهی همراه شوی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-18-A2:010",
+      "row": 10,
+      "word": "die Pension",
+      "meaningFa": "مهمان‌خانه؛ مستمری",
+      "additionalExamples": [
+        {
+          "de": "Die kleine Pension liegt direkt am See.",
+          "fa": "مهمان‌خانهٔ کوچک درست کنار دریاچه قرار دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "In unserer Pension bekommen Sie jeden Morgen ein frisches Frühstück.",
+          "fa": "در مهمان‌خانهٔ ما هر روز صبح یک صبحانهٔ تازه دریافت می‌کنید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-18-A2:011",
+      "row": 11,
+      "word": "die Sendung",
+      "meaningFa": "مرسوله؛ برنامهٔ رادیویی یا تلویزیونی",
+      "additionalExamples": [
+        {
+          "de": "Die Sendung über die Insel beginnt um acht Uhr.",
+          "fa": "برنامهٔ مربوط به آن جزیره ساعت هشت شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ihre Sendung können Sie morgen bei der Post abholen.",
+          "fa": "می‌توانید مرسوله‌تان را فردا از پست تحویل بگیرید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-18-A2:012",
+      "row": 12,
+      "word": "der Strand",
+      "meaningFa": "ساحل",
+      "additionalExamples": [
+        {
+          "de": "Nach dem Frühstück gehen wir zusammen zum Strand.",
+          "fa": "بعد از صبحانه با هم به ساحل می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "An diesem Strand kann man auch abends noch schwimmen.",
+          "fa": "در این ساحل حتی عصرها هم هنوز می‌توان شنا کرد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-18-A2:013",
+      "row": 13,
+      "word": "die Unterkunft",
+      "meaningFa": "محل اقامت",
+      "additionalExamples": [
+        {
+          "de": "Unsere Unterkunft ist einfach, aber sehr sauber.",
+          "fa": "محل اقامتمان ساده، اما بسیار تمیز است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für die erste Nacht suchen wir noch eine günstige Unterkunft.",
+          "fa": "برای شب اول هنوز دنبال محل اقامت ارزانی هستیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-18-A2:014",
+      "row": 14,
+      "word": "die Veränderung",
+      "meaningFa": "تغییر",
+      "additionalExamples": [
+        {
+          "de": "Nach der Veränderung ihrer Arbeitszeit hat sie mehr Freizeit.",
+          "fa": "بعد از تغییر ساعت کاری‌اش، وقت آزاد بیشتری دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Eine neue Wohnung ist oft auch eine große Veränderung im Alltag.",
+          "fa": "خانهٔ جدید اغلب تغییر بزرگی در زندگی روزمره هم هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-18-A2:015",
+      "row": 15,
+      "word": "der Vogel",
+      "meaningFa": "پرنده",
+      "additionalExamples": [
+        {
+          "de": "Ein kleiner Vogel sitzt vor meinem Fenster.",
+          "fa": "پرندهٔ کوچکی جلوی پنجره‌ام نشسته است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Garten hören wir morgens die Vögel singen.",
+          "fa": "صبح‌ها در باغ آواز پرنده‌ها را می‌شنویم.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

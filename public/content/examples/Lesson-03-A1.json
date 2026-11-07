@@ -1,0 +1,2708 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-03-A1.txt",
+  "lessonNumber": 3,
+  "level": "A1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-03-A1:001",
+      "row": 1,
+      "word": "das Abendessen",
+      "meaningFa": "شام",
+      "additionalExamples": [
+        {
+          "de": "Das Abendessen ist fertig.",
+          "fa": "شام آماده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Zum Abendessen gibt es heute Fisch.",
+          "fa": "امروز برای شام ماهی داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:002",
+      "row": 2,
+      "word": "der Alltag",
+      "meaningFa": "زندگی روزمره",
+      "additionalExamples": [
+        {
+          "de": "Im Alltag spreche ich oft Deutsch.",
+          "fa": "در زندگی روزمره اغلب آلمانی صحبت می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Alltag beginnt um sieben Uhr.",
+          "fa": "زندگی روزمرهٔ من از ساعت هفت شروع می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:003",
+      "row": 3,
+      "word": "alt",
+      "meaningFa": "قدیمی؛ پیر؛ دارای سنِ",
+      "additionalExamples": [
+        {
+          "de": "Wie alt ist deine Tochter?",
+          "fa": "دخترت چند سال دارد؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein altes Handy funktioniert noch.",
+          "fa": "موبایل قدیمی من هنوز کار می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:004",
+      "row": 4,
+      "word": "anders",
+      "meaningFa": "متفاوت؛ به شکلی دیگر",
+      "additionalExamples": [
+        {
+          "de": "Meine Schwester macht das anders.",
+          "fa": "خواهرم این کار را به شکل دیگری انجام می‌دهد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Heute ist das Wetter ganz anders.",
+          "fa": "امروز هوا کاملاً متفاوت است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:005",
+      "row": 5,
+      "word": "das Angebot",
+      "meaningFa": "پیشنهاد؛ عرضه؛ کالای تخفیف‌خورده",
+      "additionalExamples": [
+        {
+          "de": "Die Äpfel sind heute im Angebot.",
+          "fa": "سیب‌ها امروز تخفیف دارند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Danke für Ihr Angebot, ich komme gern mit.",
+          "fa": "از پیشنهادتان ممنونم؛ با میل همراهتان می‌آیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:006",
+      "row": 6,
+      "word": "der Apfel",
+      "meaningFa": "سیب",
+      "additionalExamples": [
+        {
+          "de": "Ich esse jeden Morgen einen Apfel.",
+          "fa": "هر صبح یک سیب می‌خورم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welche Äpfel möchten Sie kaufen?",
+          "fa": "کدام سیب‌ها را می‌خواهید بخرید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:007",
+      "row": 7,
+      "word": "der Architekt",
+      "meaningFa": "معمار مرد",
+      "additionalExamples": [
+        {
+          "de": "Mein Bruder ist Architekt.",
+          "fa": "برادرم معمار است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Architekt zeigt uns den Plan für das Haus.",
+          "fa": "معمار نقشهٔ خانه را به ما نشان می‌دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:008",
+      "row": 8,
+      "word": "die Architektin",
+      "meaningFa": "معمار زن",
+      "additionalExamples": [
+        {
+          "de": "Die Architektin arbeitet an einem neuen Projekt.",
+          "fa": "معمار روی یک پروژهٔ جدید کار می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich spreche heute mit unserer Architektin.",
+          "fa": "امروز با معمارمان صحبت می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:009",
+      "row": 9,
+      "word": "der Arzt",
+      "meaningFa": "پزشک مرد",
+      "additionalExamples": [
+        {
+          "de": "Ich habe morgen einen Termin beim Arzt.",
+          "fa": "فردا پیش پزشک وقت دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Arzt spricht auch Russisch.",
+          "fa": "پزشک روسی هم صحبت می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:010",
+      "row": 10,
+      "word": "die Ärztin",
+      "meaningFa": "پزشک زن",
+      "additionalExamples": [
+        {
+          "de": "Meine Ärztin ist sehr nett.",
+          "fa": "پزشکم خیلی مهربان است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Ärztin kennt meine ganze Familie.",
+          "fa": "پزشک تمام خانوادهٔ مرا می‌شناسد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:011",
+      "row": 11,
+      "word": "aufstehen",
+      "meaningFa": "از خواب یا جا بلندشدن",
+      "additionalExamples": [
+        {
+          "de": "Ich stehe jeden Morgen um sieben auf.",
+          "fa": "هر صبح ساعت هفت بیدار می‌شوم و بلند می‌شوم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Stehst du am Sonntag auch früh auf?",
+          "fa": "یکشنبه هم زود از خواب بلند می‌شوی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:012",
+      "row": 12,
+      "word": "das Baby",
+      "meaningFa": "نوزاد",
+      "additionalExamples": [
+        {
+          "de": "Das Baby ist bei seiner Mutter.",
+          "fa": "نوزاد پیش مادرش است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Schwester hat ein Baby.",
+          "fa": "خواهرم یک نوزاد دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:013",
+      "row": 13,
+      "word": "backen",
+      "meaningFa": "در فر پختن",
+      "additionalExamples": [
+        {
+          "de": "Am Samstag backen wir einen Kuchen.",
+          "fa": "شنبه یک کیک می‌پزیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Vater backt gern Brot.",
+          "fa": "پدرم دوست دارد نان بپزد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:014",
+      "row": 14,
+      "word": "die Bäckerei",
+      "meaningFa": "نانوایی",
+      "additionalExamples": [
+        {
+          "de": "Die Bäckerei ist gegenüber vom Supermarkt.",
+          "fa": "نانوایی روبه‌روی سوپرمارکت است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich kaufe jeden Morgen Brötchen in der Bäckerei.",
+          "fa": "هر صبح از نانوایی نان کوچک می‌خرم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:015",
+      "row": 15,
+      "word": "die Banane",
+      "meaningFa": "موز",
+      "additionalExamples": [
+        {
+          "de": "Mein Sohn isst gern Bananen.",
+          "fa": "پسرم موز دوست دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte nehmen Sie noch eine Banane.",
+          "fa": "لطفاً یک موز دیگر بردارید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:016",
+      "row": 16,
+      "word": "die Bedeutung",
+      "meaningFa": "معنی",
+      "additionalExamples": [
+        {
+          "de": "Welche Bedeutung hat dieses Wort?",
+          "fa": "این واژه چه معنی‌ای دارد؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Lehrerin erklärt die Bedeutung des Satzes.",
+          "fa": "معلم معنی جمله را توضیح می‌دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:017",
+      "row": 17,
+      "word": "beide",
+      "meaningFa": "هر دو",
+      "additionalExamples": [
+        {
+          "de": "Meine Eltern arbeiten beide.",
+          "fa": "پدر و مادرم هر دو کار می‌کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir nehmen beide Packungen.",
+          "fa": "ما هر دو بسته را برمی‌داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:018",
+      "row": 18,
+      "word": "beschreiben",
+      "meaningFa": "توصیف‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Beschreiben Sie bitte das Foto.",
+          "fa": "لطفاً عکس را توصیف کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie beschreibst du deinen Alltag?",
+          "fa": "زندگی روزمره‌ات را چطور توصیف می‌کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:019",
+      "row": 19,
+      "word": "bezahlen",
+      "meaningFa": "پرداخت‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Ich bezahle das Brot und den Käse.",
+          "fa": "پول نان و پنیر را می‌دهم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wer bezahlt heute das Mittagessen?",
+          "fa": "امروز چه کسی هزینهٔ ناهار را می‌دهد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:020",
+      "row": 20,
+      "word": "braten",
+      "meaningFa": "سرخ‌کردن؛ کباب‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Ich brate den Fisch.",
+          "fa": "ماهی را سرخ می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir braten heute Kartoffeln mit Zwiebeln.",
+          "fa": "امروز سیب‌زمینی را با پیاز سرخ می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:021",
+      "row": 21,
+      "word": "das Brot",
+      "meaningFa": "نان",
+      "additionalExamples": [
+        {
+          "de": "Das Brot kostet zwei Euro.",
+          "fa": "نان دو یورو قیمت دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Zum Frühstück esse ich Brot mit Butter.",
+          "fa": "برای صبحانه نان و کره می‌خورم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:022",
+      "row": 22,
+      "word": "das Brötchen",
+      "meaningFa": "نان کوچک",
+      "additionalExamples": [
+        {
+          "de": "Ich nehme drei Brötchen, bitte.",
+          "fa": "لطفاً سه نان کوچک می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Brötchen aus dieser Bäckerei sind sehr gut.",
+          "fa": "نان‌های کوچک این نانوایی خیلی خوب‌اند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:023",
+      "row": 23,
+      "word": "der Bruder",
+      "meaningFa": "برادر",
+      "additionalExamples": [
+        {
+          "de": "Mein Bruder lernt Deutsch in Hamburg.",
+          "fa": "برادرم در هامبورگ آلمانی می‌خواند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe zwei Brüder und eine Schwester.",
+          "fa": "دو برادر و یک خواهر دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:024",
+      "row": 24,
+      "word": "die Butter",
+      "meaningFa": "کره",
+      "additionalExamples": [
+        {
+          "de": "Haben wir noch Butter?",
+          "fa": "هنوز کره داریم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Für den Kuchen brauche ich hundert Gramm Butter.",
+          "fa": "برای کیک به صد گرم کره نیاز دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:025",
+      "row": 25,
+      "word": "der Cent",
+      "meaningFa": "سنت",
+      "additionalExamples": [
+        {
+          "de": "Ein Euro hat hundert Cent.",
+          "fa": "یک یورو صد سنت است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Brötchen kostet sechzig Cent.",
+          "fa": "نان کوچک شصت سنت قیمت دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:026",
+      "row": 26,
+      "word": "der Cousin",
+      "meaningFa": "پسرعمو؛ پسردایی؛ پسرخاله؛ پسرعمه",
+      "additionalExamples": [
+        {
+          "de": "Mein Cousin besucht uns am Sonntag.",
+          "fa": "پسرعمویم یکشنبه به دیدن ما می‌آید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich telefoniere oft mit meinem Cousin.",
+          "fa": "اغلب با پسرعمویم تلفنی صحبت می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:027",
+      "row": 27,
+      "word": "die Cousine",
+      "meaningFa": "دخترعمو؛ دختردایی؛ دخترخاله؛ دخترعمه",
+      "additionalExamples": [
+        {
+          "de": "Meine Cousine wohnt in Österreich.",
+          "fa": "دخترعمویم در اتریش زندگی می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Wochenende treffe ich meine Cousine.",
+          "fa": "آخر هفته دخترعمویم را می‌بینم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:028",
+      "row": 28,
+      "word": "die Dose",
+      "meaningFa": "قوطی",
+      "additionalExamples": [
+        {
+          "de": "Ich kaufe eine Dose Tomaten.",
+          "fa": "یک قوطی گوجه‌فرنگی می‌خرم.",
+          "origin": "authored"
+        },
+        {
+          "de": "In der Dose ist noch etwas Fisch.",
+          "fa": "در قوطی هنوز کمی ماهی هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:029",
+      "row": 29,
+      "word": "einkaufen",
+      "meaningFa": "خریدکردن",
+      "additionalExamples": [
+        {
+          "de": "Wir kaufen heute im Supermarkt ein.",
+          "fa": "امروز از سوپرمارکت خرید می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wann gehst du wieder einkaufen?",
+          "fa": "دوباره کی به خرید می‌روی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:030",
+      "row": 30,
+      "word": "das Eis",
+      "meaningFa": "بستنی؛ یخ",
+      "additionalExamples": [
+        {
+          "de": "Im Sommer essen die Kinder gern Eis.",
+          "fa": "بچه‌ها تابستان بستنی دوست دارند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Winter ist Eis auf dem See.",
+          "fa": "در زمستان روی دریاچه یخ هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:031",
+      "row": 31,
+      "word": "die Eltern",
+      "meaningFa": "پدر و مادر؛ جمع",
+      "additionalExamples": [
+        {
+          "de": "Meine Eltern leben in der Schweiz.",
+          "fa": "پدر و مادرم در سوئیس زندگی می‌کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Abend telefoniere ich mit meinen Eltern.",
+          "fa": "عصر با پدر و مادرم تلفنی صحبت می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:032",
+      "row": 32,
+      "word": "der Enkel",
+      "meaningFa": "نوهٔ پسر",
+      "additionalExamples": [
+        {
+          "de": "Unser Enkel ist drei Jahre alt.",
+          "fa": "نوهٔ پسرمان سه سال دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Großvater spielt mit seinem Enkel.",
+          "fa": "پدربزرگ با نوهٔ پسرش بازی می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:033",
+      "row": 33,
+      "word": "die Enkelin",
+      "meaningFa": "نوهٔ دختر",
+      "additionalExamples": [
+        {
+          "de": "Meine Enkelin kommt morgen zu Besuch.",
+          "fa": "نوهٔ دخترم فردا به دیدنم می‌آید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Großmutter backt einen Kuchen für ihre Enkelin.",
+          "fa": "مادربزرگ برای نوهٔ دخترش یک کیک می‌پزد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:034",
+      "row": 34,
+      "word": "die Erdbeere",
+      "meaningFa": "توت‌فرنگی",
+      "additionalExamples": [
+        {
+          "de": "Ich esse Erdbeeren mit Joghurt.",
+          "fa": "توت‌فرنگی را با ماست می‌خورم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie viel kostet ein Kilo Erdbeeren?",
+          "fa": "یک کیلو توت‌فرنگی چقدر قیمت دارد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:035",
+      "row": 35,
+      "word": "erkennen",
+      "meaningFa": "تشخیص‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Ich erkenne meinen Bruder auf dem Foto.",
+          "fa": "برادرم را در عکس تشخیص می‌دهم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Erkennst du dieses Lied?",
+          "fa": "این ترانه را می‌شناسی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:036",
+      "row": 36,
+      "word": "erzählen",
+      "meaningFa": "تعریف‌کردن؛ روایت‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Meine Oma erzählt gern Geschichten.",
+          "fa": "مامان‌بزرگم دوست دارد داستان تعریف کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Erzähl uns bitte von deinem Urlaub.",
+          "fa": "لطفاً از تعطیلاتت برایمان تعریف کن.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:037",
+      "row": 37,
+      "word": "euer",
+      "meaningFa": "مال شما؛ خطاب جمع خودمانی",
+      "additionalExamples": [
+        {
+          "de": "Ist das euer Auto?",
+          "fa": "این ماشین شماست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie heißt eure neue Lehrerin?",
+          "fa": "اسم معلم جدید شما چیست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:038",
+      "row": 38,
+      "word": "der Euro",
+      "meaningFa": "یورو",
+      "additionalExamples": [
+        {
+          "de": "Der Saft kostet einen Euro.",
+          "fa": "آب‌میوه یک یورو قیمت دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe nur noch fünf Euro.",
+          "fa": "فقط پنج یورو دیگر دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:039",
+      "row": 39,
+      "word": "der Fisch",
+      "meaningFa": "ماهی",
+      "additionalExamples": [
+        {
+          "de": "Zum Mittagessen gibt es Fisch und Reis.",
+          "fa": "برای ناهار ماهی و برنج داریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Vater kauft den Fisch auf dem Markt.",
+          "fa": "پدرم ماهی را از بازار می‌خرد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:040",
+      "row": 40,
+      "word": "die Flasche",
+      "meaningFa": "بطری",
+      "additionalExamples": [
+        {
+          "de": "Eine Flasche Wasser, bitte.",
+          "fa": "لطفاً یک بطری آب.",
+          "origin": "authored"
+        },
+        {
+          "de": "In dieser Flasche ist Apfelsaft.",
+          "fa": "در این بطری آب سیب است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:041",
+      "row": 41,
+      "word": "das Fleisch",
+      "meaningFa": "گوشت",
+      "additionalExamples": [
+        {
+          "de": "Ich esse wenig Fleisch.",
+          "fa": "گوشت کمی می‌خورم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir braten das Fleisch für das Abendessen.",
+          "fa": "گوشتِ شام را سرخ می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:042",
+      "row": 42,
+      "word": "früh",
+      "meaningFa": "زود",
+      "additionalExamples": [
+        {
+          "de": "Morgen muss ich früh aufstehen.",
+          "fa": "فردا باید زود بیدار شوم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für das Abendessen ist es noch zu früh.",
+          "fa": "هنوز برای شام خیلی زود است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:043",
+      "row": 43,
+      "word": "frühstücken",
+      "meaningFa": "صبحانه‌خوردن",
+      "additionalExamples": [
+        {
+          "de": "Wir frühstücken am Sonntag zusammen.",
+          "fa": "یکشنبه با هم صبحانه می‌خوریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Frühstückst du vor der Arbeit?",
+          "fa": "پیش از کار صبحانه می‌خوری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:044",
+      "row": 44,
+      "word": "das Gas",
+      "meaningFa": "گاز",
+      "additionalExamples": [
+        {
+          "de": "Wir kochen mit Gas.",
+          "fa": "ما با گاز آشپزی می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Gas ist dieses Jahr teuer.",
+          "fa": "گاز امسال گران است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:045",
+      "row": 45,
+      "word": "gegenüber",
+      "meaningFa": "روبروی",
+      "additionalExamples": [
+        {
+          "de": "Die Schule ist gegenüber vom Museum.",
+          "fa": "مدرسه روبه‌روی موزه است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Bruder wohnt mir gegenüber.",
+          "fa": "برادرم روبه‌روی من زندگی می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:046",
+      "row": 46,
+      "word": "das Gemüse",
+      "meaningFa": "سبزیجات",
+      "additionalExamples": [
+        {
+          "de": "Für den Salat brauchen wir viel Gemüse.",
+          "fa": "برای سالاد به سبزیجات زیادی نیاز داریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welches Gemüse isst du gern?",
+          "fa": "کدام سبزیجات را دوست داری بخوری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:047",
+      "row": 47,
+      "word": "die Geschichte",
+      "meaningFa": "داستان؛ تاریخ",
+      "additionalExamples": [
+        {
+          "de": "Erzähl mir eine Geschichte.",
+          "fa": "یک داستان برایم تعریف کن.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir sprechen im Kurs über die Geschichte der Stadt.",
+          "fa": "در کلاس دربارهٔ تاریخ شهر صحبت می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:048",
+      "row": 48,
+      "word": "die Geschwister",
+      "meaningFa": "خواهر و برادرها؛ جمع",
+      "additionalExamples": [
+        {
+          "de": "Hast du Geschwister?",
+          "fa": "خواهر یا برادر داری؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Geschwister sind beide älter als ich.",
+          "fa": "خواهر و برادرم هر دو از من بزرگ‌ترند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:049",
+      "row": 49,
+      "word": "das Glas",
+      "meaningFa": "لیوان؛ شیشه",
+      "additionalExamples": [
+        {
+          "de": "Ich trinke ein Glas Wasser.",
+          "fa": "یک لیوان آب می‌نوشم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Glas ist auf dem Tisch.",
+          "fa": "لیوان روی میز است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:050",
+      "row": 50,
+      "word": "das Gramm",
+      "meaningFa": "گرم؛ واحد وزن",
+      "additionalExamples": [
+        {
+          "de": "Ich brauche zweihundert Gramm Käse.",
+          "fa": "به دویست گرم پنیر نیاز دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie viel Gramm hat diese Packung?",
+          "fa": "این بسته چند گرم وزن دارد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:051",
+      "row": 51,
+      "word": "die Großeltern",
+      "meaningFa": "پدربزرگ و مادربزرگ؛ جمع",
+      "additionalExamples": [
+        {
+          "de": "Meine Großeltern besuchen uns im Sommer.",
+          "fa": "پدربزرگ و مادربزرگم تابستان به دیدن ما می‌آیند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bei meinen Großeltern gibt es immer Kuchen.",
+          "fa": "پیش پدربزرگ و مادربزرگم همیشه کیک هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:052",
+      "row": 52,
+      "word": "die Großmutter",
+      "meaningFa": "مادربزرگ",
+      "additionalExamples": [
+        {
+          "de": "Meine Großmutter backt sehr gut.",
+          "fa": "مادربزرگم خیلی خوب کیک و نان می‌پزد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich helfe meiner Großmutter beim Einkaufen.",
+          "fa": "در خرید به مادربزرگم کمک می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:053",
+      "row": 53,
+      "word": "der Großvater",
+      "meaningFa": "پدربزرگ",
+      "additionalExamples": [
+        {
+          "de": "Mein Großvater liest am Morgen die Post.",
+          "fa": "پدربزرگم صبح نامه‌هایش را می‌خواند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Junge spielt mit seinem Großvater.",
+          "fa": "پسر با پدربزرگش بازی می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:054",
+      "row": 54,
+      "word": "günstig",
+      "meaningFa": "مناسب از نظر قیمت یا شرایط",
+      "additionalExamples": [
+        {
+          "de": "Die Tomaten sind heute günstig.",
+          "fa": "گوجه‌فرنگی‌ها امروز قیمت مناسبی دارند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist ein Termin am Vormittag für Sie günstig?",
+          "fa": "آیا وقتِ پیش‌ازظهر برای شما مناسب است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:055",
+      "row": 55,
+      "word": "die Gurke",
+      "meaningFa": "خیار",
+      "additionalExamples": [
+        {
+          "de": "Ich nehme eine Gurke für den Salat.",
+          "fa": "برای سالاد یک خیار برمی‌دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Gurken kosten einen Euro pro Stück.",
+          "fa": "خیارها هر عدد یک یورو قیمت دارند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:056",
+      "row": 56,
+      "word": "das Haus",
+      "meaningFa": "خانه؛ ساختمان",
+      "additionalExamples": [
+        {
+          "de": "Das Haus hat drei Etagen.",
+          "fa": "ساختمان سه طبقه دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Eltern wohnen in einem kleinen Haus.",
+          "fa": "پدر و مادرم در یک خانهٔ کوچک زندگی می‌کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:057",
+      "row": 57,
+      "word": "helfen",
+      "meaningFa": "کمک‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Kannst du mir bitte helfen?",
+          "fa": "می‌توانی لطفاً به من کمک کنی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Sohn hilft mir beim Kochen.",
+          "fa": "پسرم در آشپزی به من کمک می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:058",
+      "row": 58,
+      "word": "das Hobby",
+      "meaningFa": "سرگرمی",
+      "additionalExamples": [
+        {
+          "de": "Mein Hobby ist Musik.",
+          "fa": "سرگرمی من موسیقی است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welche Hobbys habt ihr?",
+          "fa": "چه سرگرمی‌هایی دارید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:059",
+      "row": 59,
+      "word": "die Hochzeit",
+      "meaningFa": "عروسی",
+      "additionalExamples": [
+        {
+          "de": "Wir gehen am Samstag zu einer Hochzeit.",
+          "fa": "شنبه به یک عروسی می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf der Hochzeit singen wir zusammen ein Lied.",
+          "fa": "در عروسی با هم یک ترانه می‌خوانیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:060",
+      "row": 60,
+      "word": "immer",
+      "meaningFa": "همیشه",
+      "additionalExamples": [
+        {
+          "de": "Ich trinke meinen Kaffee immer ohne Zucker.",
+          "fa": "همیشه قهوه‌ام را بدون شکر می‌نوشم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bist du am Montag immer in der Schule?",
+          "fa": "دوشنبه‌ها همیشه در مدرسه هستی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:061",
+      "row": 61,
+      "word": "der Infinitiv",
+      "meaningFa": "مصدر",
+      "additionalExamples": [
+        {
+          "de": "„Gehen“ ist ein Infinitiv.",
+          "fa": "«رفتن» یک مصدر است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Schreiben Sie das Verb bitte im Infinitiv.",
+          "fa": "لطفاً فعل را به صورت مصدر بنویسید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:062",
+      "row": 62,
+      "word": "der Informatiker",
+      "meaningFa": "متخصص علوم کامپیوتر مرد",
+      "additionalExamples": [
+        {
+          "de": "Mein Cousin ist Informatiker.",
+          "fa": "پسرعمویم متخصص علوم کامپیوتر است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Informatiker hilft uns mit dem Computer.",
+          "fa": "متخصص علوم کامپیوتر در کار با کامپیوتر به ما کمک می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:063",
+      "row": 63,
+      "word": "jetzt",
+      "meaningFa": "اکنون",
+      "additionalExamples": [
+        {
+          "de": "Jetzt habe ich Zeit.",
+          "fa": "الان وقت دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir müssen jetzt zum Arzt gehen.",
+          "fa": "الان باید پیش پزشک برویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:064",
+      "row": 64,
+      "word": "der Joghurt",
+      "meaningFa": "ماست",
+      "additionalExamples": [
+        {
+          "de": "Zum Frühstück esse ich Joghurt mit Obst.",
+          "fa": "برای صبحانه ماست و میوه می‌خورم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist noch Joghurt in der Packung?",
+          "fa": "هنوز در بسته ماست هست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:065",
+      "row": 65,
+      "word": "der Journalist",
+      "meaningFa": "روزنامه‌نگار مرد",
+      "additionalExamples": [
+        {
+          "de": "Der Journalist schreibt einen Artikel über die Stadt.",
+          "fa": "روزنامه‌نگار دربارهٔ شهر یک مقاله می‌نویسد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich kenne einen Journalisten aus Hamburg.",
+          "fa": "یک روزنامه‌نگار اهل هامبورگ را می‌شناسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:066",
+      "row": 66,
+      "word": "die Journalistin",
+      "meaningFa": "روزنامه‌نگار زن",
+      "additionalExamples": [
+        {
+          "de": "Die Journalistin spricht mit dem Arzt.",
+          "fa": "روزنامه‌نگار با پزشک صحبت می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Schwester arbeitet als Journalistin.",
+          "fa": "خواهرم به‌عنوان روزنامه‌نگار کار می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:067",
+      "row": 67,
+      "word": "der Junge",
+      "meaningFa": "پسر",
+      "additionalExamples": [
+        {
+          "de": "Der Junge spielt gern mit seinem Bruder.",
+          "fa": "پسر دوست دارد با برادرش بازی کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich kenne den Jungen aus der Schule.",
+          "fa": "آن پسر را از مدرسه می‌شناسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:068",
+      "row": 68,
+      "word": "der Kaffee",
+      "meaningFa": "قهوه",
+      "additionalExamples": [
+        {
+          "de": "Möchtest du einen Kaffee?",
+          "fa": "قهوه میل داری؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Kaffee ist noch zu heiß.",
+          "fa": "قهوه‌ام هنوز زیادی داغ است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:069",
+      "row": 69,
+      "word": "die Karotte",
+      "meaningFa": "هویج",
+      "additionalExamples": [
+        {
+          "de": "Für das Abendessen brauche ich zwei Karotten.",
+          "fa": "برای شام به دو هویج نیاز دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Tochter isst gern Karotten.",
+          "fa": "دخترم هویج دوست دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:070",
+      "row": 70,
+      "word": "die Kartoffel",
+      "meaningFa": "سیب‌زمینی",
+      "additionalExamples": [
+        {
+          "de": "Heute kochen wir Kartoffeln.",
+          "fa": "امروز سیب‌زمینی می‌پزیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ein Kilo Kartoffeln kostet zwei Euro.",
+          "fa": "یک کیلو سیب‌زمینی دو یورو قیمت دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:071",
+      "row": 71,
+      "word": "der Käse",
+      "meaningFa": "پنیر",
+      "additionalExamples": [
+        {
+          "de": "Welchen Käse möchten Sie?",
+          "fa": "کدام پنیر را می‌خواهید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich esse Brot mit Käse.",
+          "fa": "نان و پنیر می‌خورم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:072",
+      "row": 72,
+      "word": "kaufen",
+      "meaningFa": "خریدن",
+      "additionalExamples": [
+        {
+          "de": "Ich kaufe heute Obst auf dem Markt.",
+          "fa": "امروز از بازار میوه می‌خرم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wo kaufst du dein Brot?",
+          "fa": "نانت را از کجا می‌خری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:073",
+      "row": 73,
+      "word": "das Kilo",
+      "meaningFa": "کیلو",
+      "additionalExamples": [
+        {
+          "de": "Wir nehmen ein Kilo Tomaten.",
+          "fa": "یک کیلو گوجه‌فرنگی می‌خواهیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie viel kostet das Kilo?",
+          "fa": "هر کیلو چقدر است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:074",
+      "row": 74,
+      "word": "das Kind",
+      "meaningFa": "کودک",
+      "additionalExamples": [
+        {
+          "de": "Das Kind ist erst zwei Jahre alt.",
+          "fa": "کودک تازه دو سال دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unsere Kinder gehen zusammen zur Schule.",
+          "fa": "بچه‌های ما با هم به مدرسه می‌روند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:075",
+      "row": 75,
+      "word": "kochen",
+      "meaningFa": "آشپزی‌کردن؛ جوشیدن",
+      "additionalExamples": [
+        {
+          "de": "Heute koche ich das Abendessen.",
+          "fa": "امروز من شام را می‌پزم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Wasser kocht schon.",
+          "fa": "آب همین حالا هم در حال جوشیدن است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:076",
+      "row": 76,
+      "word": "können",
+      "meaningFa": "توانستن",
+      "additionalExamples": [
+        {
+          "de": "Ich kann schon etwas Deutsch sprechen.",
+          "fa": "از حالا می‌توانم کمی آلمانی صحبت کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kannst du am Samstag kommen?",
+          "fa": "می‌توانی شنبه بیایی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:077",
+      "row": 77,
+      "word": "kosten",
+      "meaningFa": "قیمت‌داشتن؛ چشیدن",
+      "additionalExamples": [
+        {
+          "de": "Die Milch kostet einen Euro.",
+          "fa": "شیر یک یورو قیمت دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Koste bitte den Salat.",
+          "fa": "لطفاً سالاد را بچش.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:078",
+      "row": 78,
+      "word": "der Kuchen",
+      "meaningFa": "کیک",
+      "additionalExamples": [
+        {
+          "de": "Zum Geburtstag backe ich einen Kuchen.",
+          "fa": "برای تولد یک کیک می‌پزم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Möchtest du noch ein Stück Kuchen?",
+          "fa": "یک تکه کیک دیگر میل داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:079",
+      "row": 79,
+      "word": "der Kunde",
+      "meaningFa": "مشتری مرد",
+      "additionalExamples": [
+        {
+          "de": "Der Kunde fragt nach dem Preis.",
+          "fa": "مشتری قیمت را می‌پرسد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Verkäuferin hilft einem Kunden.",
+          "fa": "فروشنده به یک مشتری کمک می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:080",
+      "row": 80,
+      "word": "die Kundin",
+      "meaningFa": "مشتری زن",
+      "additionalExamples": [
+        {
+          "de": "Die Kundin kauft zwei Flaschen Wasser.",
+          "fa": "مشتری دو بطری آب می‌خرد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Verkäufer zeigt der Kundin das Angebot.",
+          "fa": "فروشنده کالای تخفیف‌خورده را به مشتری نشان می‌دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:081",
+      "row": 81,
+      "word": "leben",
+      "meaningFa": "زندگی‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Meine Familie lebt in Hamburg.",
+          "fa": "خانواده‌ام در هامبورگ زندگی می‌کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hier leben viele junge Menschen.",
+          "fa": "آدم‌های جوان زیادی اینجا زندگی می‌کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:082",
+      "row": 82,
+      "word": "der Lehrer",
+      "meaningFa": "معلم مرد",
+      "additionalExamples": [
+        {
+          "de": "Unser Lehrer erklärt die Grammatik.",
+          "fa": "معلم ما دستور زبان را توضیح می‌دهد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich frage den Lehrer nach der Bedeutung.",
+          "fa": "معنی را از معلم می‌پرسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:083",
+      "row": 83,
+      "word": "die Lehrerin",
+      "meaningFa": "معلم زن",
+      "additionalExamples": [
+        {
+          "de": "Meine Lehrerin kommt aus Österreich.",
+          "fa": "معلمم اهل اتریش است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Lehrerin hilft mir bei der Übung.",
+          "fa": "معلم در انجام تمرین به من کمک می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:084",
+      "row": 84,
+      "word": "links",
+      "meaningFa": "سمت چپ",
+      "additionalExamples": [
+        {
+          "de": "Links ist das Museum.",
+          "fa": "موزه سمت چپ است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Bruder ist links auf dem Foto.",
+          "fa": "برادرم سمت چپ عکس است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:085",
+      "row": 85,
+      "word": "der Liter",
+      "meaningFa": "لیتر",
+      "additionalExamples": [
+        {
+          "de": "Ich kaufe einen Liter Milch.",
+          "fa": "یک لیتر شیر می‌خرم.",
+          "origin": "authored"
+        },
+        {
+          "de": "In der Flasche ist ein halber Liter Wasser.",
+          "fa": "در بطری نیم لیتر آب هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:086",
+      "row": 86,
+      "word": "das Mädchen",
+      "meaningFa": "دختر",
+      "additionalExamples": [
+        {
+          "de": "Das Mädchen ist sieben Jahre alt.",
+          "fa": "دختر هفت سال دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich gehe mit dem Mädchen zum Arzt.",
+          "fa": "با آن دختر پیش پزشک می‌روم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:087",
+      "row": 87,
+      "word": "die Marmelade",
+      "meaningFa": "مربا",
+      "additionalExamples": [
+        {
+          "de": "Zum Frühstück esse ich Brot mit Marmelade.",
+          "fa": "برای صبحانه نان و مربا می‌خورم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Marmelade ist mir zu süß.",
+          "fa": "این مربا برای من زیادی شیرین است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:088",
+      "row": 88,
+      "word": "die Maus",
+      "meaningFa": "موش؛ ماوس کامپیوتر",
+      "additionalExamples": [
+        {
+          "de": "Die Maus ist im Haus.",
+          "fa": "موش داخل خانه است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Computermaus funktioniert nicht.",
+          "fa": "ماوس کامپیوترم کار نمی‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:089",
+      "row": 89,
+      "word": "das Mehl",
+      "meaningFa": "آرد",
+      "additionalExamples": [
+        {
+          "de": "Für das Brot brauchen wir Mehl.",
+          "fa": "برای نان به آرد نیاز داریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ein Kilo Mehl, bitte.",
+          "fa": "لطفاً یک کیلو آرد می‌خواهم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:090",
+      "row": 90,
+      "word": "die Milch",
+      "meaningFa": "شیر",
+      "additionalExamples": [
+        {
+          "de": "Ich trinke Kaffee mit Milch.",
+          "fa": "قهوه را با شیر می‌نوشم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kaufst du bitte noch Milch?",
+          "fa": "لطفاً شیر هم می‌خری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:091",
+      "row": 91,
+      "word": "das Mittagessen",
+      "meaningFa": "ناهار",
+      "additionalExamples": [
+        {
+          "de": "Das Mittagessen beginnt um zwölf Uhr.",
+          "fa": "ناهار ساعت دوازده شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach dem Mittagessen mache ich eine Pause.",
+          "fa": "بعد از ناهار استراحت می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:092",
+      "row": 92,
+      "word": "möchten",
+      "meaningFa": "میل‌داشتن؛ صورت مؤدبانهٔ درخواست",
+      "additionalExamples": [
+        {
+          "de": "Ich möchte einen Kaffee, bitte.",
+          "fa": "لطفاً یک قهوه می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Möchtest du heute mit uns essen?",
+          "fa": "میل داری امروز با ما غذا بخوری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:093",
+      "row": 93,
+      "word": "die Musik",
+      "meaningFa": "موسیقی",
+      "additionalExamples": [
+        {
+          "de": "Ich höre beim Kochen gern Musik.",
+          "fa": "دوست دارم هنگام آشپزی موسیقی گوش بدهم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welche Musik hört deine Schwester gern?",
+          "fa": "خواهرت چه موسیقی‌ای را دوست دارد گوش بدهد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:094",
+      "row": 94,
+      "word": "müssen",
+      "meaningFa": "مجبوربودن؛ باید",
+      "additionalExamples": [
+        {
+          "de": "Ich muss morgen früh arbeiten.",
+          "fa": "فردا باید صبح زود کار کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Müsst ihr am Samstag auch einkaufen?",
+          "fa": "شما شنبه هم باید خرید کنید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:095",
+      "row": 95,
+      "word": "nehmen",
+      "meaningFa": "گرفتن؛ برداشتن",
+      "additionalExamples": [
+        {
+          "de": "Ich nehme den Salat und ein Wasser.",
+          "fa": "سالاد و یک آب می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nimm bitte noch einen Apfel.",
+          "fa": "لطفاً یک سیب دیگر بردار.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:096",
+      "row": 96,
+      "word": "normal",
+      "meaningFa": "عادی",
+      "additionalExamples": [
+        {
+          "de": "Ist dieser Preis normal?",
+          "fa": "آیا این قیمت عادی است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Heute ist wieder ein ganz normaler Arbeitstag.",
+          "fa": "امروز دوباره یک روز کاری کاملاً عادی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:097",
+      "row": 97,
+      "word": "die Nudel",
+      "meaningFa": "رشتهٔ ماکارونی",
+      "additionalExamples": [
+        {
+          "de": "Die Nudeln kochen noch.",
+          "fa": "ماکارونی هنوز در حال پختن است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich kaufe eine Packung Nudeln.",
+          "fa": "یک بسته ماکارونی می‌خرم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:098",
+      "row": 98,
+      "word": "das Obst",
+      "meaningFa": "میوه",
+      "additionalExamples": [
+        {
+          "de": "Zum Frühstück essen wir viel Obst.",
+          "fa": "برای صبحانه میوهٔ زیادی می‌خوریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welches Obst ist heute im Angebot?",
+          "fa": "امروز کدام میوه تخفیف دارد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:099",
+      "row": 99,
+      "word": "die Oma",
+      "meaningFa": "مامان‌بزرگ",
+      "additionalExamples": [
+        {
+          "de": "Meine Oma wohnt gegenüber.",
+          "fa": "مامان‌بزرگم روبه‌رو زندگی می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Sonntag kochen wir mit Oma.",
+          "fa": "یکشنبه با مامان‌بزرگ آشپزی می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:100",
+      "row": 100,
+      "word": "der Onkel",
+      "meaningFa": "عمو؛ دایی",
+      "additionalExamples": [
+        {
+          "de": "Mein Onkel kommt aus der Schweiz.",
+          "fa": "عمویم اهل سوئیس است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich besuche meinen Onkel im Sommer.",
+          "fa": "تابستان به دیدن عمویم می‌روم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:101",
+      "row": 101,
+      "word": "der Opa",
+      "meaningFa": "بابابزرگ",
+      "additionalExamples": [
+        {
+          "de": "Mein Opa ist achtzig Jahre alt.",
+          "fa": "بابابزرگم هشتاد سال دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Opa erzählt uns eine Geschichte.",
+          "fa": "بابابزرگ یک داستان برایمان تعریف می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:102",
+      "row": 102,
+      "word": "die Orange",
+      "meaningFa": "پرتقال",
+      "additionalExamples": [
+        {
+          "de": "Ich kaufe sechs Orangen.",
+          "fa": "شش پرتقال می‌خرم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Orange ist sehr süß.",
+          "fa": "پرتقال خیلی شیرین است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:103",
+      "row": 103,
+      "word": "das Päckchen",
+      "meaningFa": "بستهٔ پستی کوچک",
+      "additionalExamples": [
+        {
+          "de": "Das Päckchen ist für meine Schwester.",
+          "fa": "این بستهٔ پستی کوچک برای خواهرم است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich sende ein kleines Päckchen nach Österreich.",
+          "fa": "یک بستهٔ کوچک به اتریش می‌فرستم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:104",
+      "row": 104,
+      "word": "die Packung",
+      "meaningFa": "بسته",
+      "additionalExamples": [
+        {
+          "de": "Eine Packung Reis, bitte.",
+          "fa": "لطفاً یک بسته برنج.",
+          "origin": "authored"
+        },
+        {
+          "de": "In dieser Packung sind fünfhundert Gramm Reis.",
+          "fa": "در این بسته پانصد گرم برنج هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:105",
+      "row": 105,
+      "word": "der Pfeffer",
+      "meaningFa": "فلفل",
+      "additionalExamples": [
+        {
+          "de": "Ich esse meinen Salat ohne Pfeffer.",
+          "fa": "سالادم را بدون فلفل می‌خورم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Gib bitte etwas Pfeffer ins Essen.",
+          "fa": "لطفاً کمی فلفل به غذا اضافه کن.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:106",
+      "row": 106,
+      "word": "der Plan",
+      "meaningFa": "برنامه؛ نقشه",
+      "additionalExamples": [
+        {
+          "de": "Was ist dein Plan für heute Abend?",
+          "fa": "برنامه‌ات برای امشب چیست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Plan zeigt das neue Haus.",
+          "fa": "نقشه خانهٔ جدید را نشان می‌دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:107",
+      "row": 107,
+      "word": "das Praktikum",
+      "meaningFa": "کارآموزی",
+      "additionalExamples": [
+        {
+          "de": "Meine Tochter macht ein Praktikum.",
+          "fa": "دخترم دورهٔ کارآموزی می‌گذراند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Praktikum beginnt im April und endet im Juni.",
+          "fa": "کارآموزی در آوریل شروع و در ژوئن تمام می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:108",
+      "row": 108,
+      "word": "der Preis",
+      "meaningFa": "قیمت؛ جایزه",
+      "additionalExamples": [
+        {
+          "de": "Ich frage nach dem Preis für diese Packung.",
+          "fa": "قیمتِ این بسته را می‌پرسم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Preise auf dem Markt sind oft günstig.",
+          "fa": "قیمت‌ها در بازار اغلب مناسب‌اند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:109",
+      "row": 109,
+      "word": "rechts",
+      "meaningFa": "سمت راست",
+      "additionalExamples": [
+        {
+          "de": "Rechts ist mein Auto.",
+          "fa": "ماشینم سمت راست است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Geh bitte nach rechts.",
+          "fa": "لطفاً به سمت راست برو.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:110",
+      "row": 110,
+      "word": "der Reis",
+      "meaningFa": "برنج",
+      "additionalExamples": [
+        {
+          "de": "Wir essen Reis mit Gemüse.",
+          "fa": "برنج و سبزیجات می‌خوریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie lange muss der Reis kochen?",
+          "fa": "برنج چقدر باید بپزد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:111",
+      "row": 111,
+      "word": "Russisch",
+      "meaningFa": "زبان روسی",
+      "additionalExamples": [
+        {
+          "de": "Meine Freundin spricht Russisch.",
+          "fa": "دوستم روسی صحبت می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Kurs lernen wir ein Lied auf Russisch.",
+          "fa": "در کلاس یک ترانه به زبان روسی یاد می‌گیریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:112",
+      "row": 112,
+      "word": "der Saft",
+      "meaningFa": "آب‌میوه",
+      "additionalExamples": [
+        {
+          "de": "Möchtest du ein Glas Saft?",
+          "fa": "یک لیوان آب‌میوه میل داری؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Saft ist aus Orangen.",
+          "fa": "این آب‌میوه از پرتقال تهیه شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:113",
+      "row": 113,
+      "word": "der Salat",
+      "meaningFa": "سالاد؛ کاهو",
+      "additionalExamples": [
+        {
+          "de": "Zum Abendessen mache ich einen Salat.",
+          "fa": "برای شام یک سالاد درست می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Dieser Salat ist sehr gut.",
+          "fa": "این سالاد خیلی خوب است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:114",
+      "row": 114,
+      "word": "das Salz",
+      "meaningFa": "نمک",
+      "additionalExamples": [
+        {
+          "de": "Im Essen ist zu viel Salz.",
+          "fa": "در غذا نمک زیادی هست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kannst du mir bitte das Salz geben?",
+          "fa": "می‌توانی لطفاً نمک را به من بدهی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:115",
+      "row": 115,
+      "word": "schnell",
+      "meaningFa": "سریع",
+      "additionalExamples": [
+        {
+          "de": "Mein Sohn rennt sehr schnell.",
+          "fa": "پسرم خیلی تند می‌دود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir müssen jetzt schnell einkaufen.",
+          "fa": "الان باید سریع خرید کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:116",
+      "row": 116,
+      "word": "die Schokolade",
+      "meaningFa": "شکلات",
+      "additionalExamples": [
+        {
+          "de": "Ich kaufe Schokolade für meine Oma.",
+          "fa": "برای مامان‌بزرگم شکلات می‌خرم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Schokolade ist mir zu süß.",
+          "fa": "این شکلات برای من زیادی شیرین است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:117",
+      "row": 117,
+      "word": "schwer",
+      "meaningFa": "دشوار؛ سنگین",
+      "additionalExamples": [
+        {
+          "de": "Die Packung ist sehr schwer.",
+          "fa": "بسته خیلی سنگین است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Findest du diese Aufgabe schwer?",
+          "fa": "این تمرین به نظرت دشوار است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:118",
+      "row": 118,
+      "word": "die Schwester",
+      "meaningFa": "خواهر",
+      "additionalExamples": [
+        {
+          "de": "Meine Schwester ist Ärztin.",
+          "fa": "خواهرم پزشک است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich gehe mit meiner Schwester einkaufen.",
+          "fa": "با خواهرم به خرید می‌روم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:119",
+      "row": 119,
+      "word": "der Sohn",
+      "meaningFa": "پسر؛ فرزند پسر",
+      "additionalExamples": [
+        {
+          "de": "Mein Sohn spielt gern Gitarre.",
+          "fa": "پسرم دوست دارد گیتار بزند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Frau auf dem Foto ist mit ihrem Sohn im Park.",
+          "fa": "زنِ داخل عکس با پسرش در پارک است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:120",
+      "row": 120,
+      "word": "sonst",
+      "meaningFa": "وگرنه؛ در غیر این صورت",
+      "additionalExamples": [
+        {
+          "de": "Lern heute, sonst hast du morgen zu viel Arbeit.",
+          "fa": "امروز درس بخوان، وگرنه فردا کار زیادی خواهی داشت.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich muss jetzt gehen, sonst ist der Arzt nicht mehr da.",
+          "fa": "باید الان بروم، وگرنه پزشک دیگر آنجا نیست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:121",
+      "row": 121,
+      "word": "das Stück",
+      "meaningFa": "تکه؛ قطعه",
+      "additionalExamples": [
+        {
+          "de": "Ich möchte ein Stück Kuchen.",
+          "fa": "یک تکه کیک می‌خواهم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Käse kostet drei Euro pro Stück.",
+          "fa": "این پنیر هر قطعه سه یورو قیمت دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:122",
+      "row": 122,
+      "word": "der Supermarkt",
+      "meaningFa": "سوپرمارکت",
+      "additionalExamples": [
+        {
+          "de": "Der Supermarkt hat heute ein gutes Angebot.",
+          "fa": "سوپرمارکت امروز یک پیشنهاد تخفیف خوب دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach der Arbeit gehe ich in den Supermarkt.",
+          "fa": "بعد از کار به سوپرمارکت می‌روم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:123",
+      "row": 123,
+      "word": "süß",
+      "meaningFa": "شیرین؛ بامزه",
+      "additionalExamples": [
+        {
+          "de": "Die Erdbeeren sind sehr süß.",
+          "fa": "توت‌فرنگی‌ها خیلی شیرین‌اند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist das nicht ein süßes Baby?",
+          "fa": "این نوزاد بامزه نیست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:124",
+      "row": 124,
+      "word": "die Tante",
+      "meaningFa": "عمه؛ خاله",
+      "additionalExamples": [
+        {
+          "de": "Meine Tante kommt morgen zu Besuch.",
+          "fa": "عمه‌ام فردا به دیدن ما می‌آید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich lerne mit meiner Tante Deutsch.",
+          "fa": "با عمه‌ام آلمانی یاد می‌گیرم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:125",
+      "row": 125,
+      "word": "der Tisch",
+      "meaningFa": "میز",
+      "additionalExamples": [
+        {
+          "de": "Die Milch ist auf dem Tisch.",
+          "fa": "شیر روی میز است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir essen zusammen an einem großen Tisch.",
+          "fa": "با هم دور یک میز بزرگ غذا می‌خوریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:126",
+      "row": 126,
+      "word": "die Tochter",
+      "meaningFa": "دختر؛ فرزند دختر",
+      "additionalExamples": [
+        {
+          "de": "Unsere Tochter geht schon zur Schule.",
+          "fa": "دخترمان دیگر به مدرسه می‌رود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich kaufe ein Eis für meine Tochter.",
+          "fa": "برای دخترم یک بستنی می‌خرم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:127",
+      "row": 127,
+      "word": "die Tomate",
+      "meaningFa": "گوجه‌فرنگی",
+      "additionalExamples": [
+        {
+          "de": "Für den Salat nehme ich zwei Tomaten.",
+          "fa": "برای سالاد دو گوجه‌فرنگی برمی‌دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Tomaten sind noch grün.",
+          "fa": "گوجه‌فرنگی‌ها هنوز سبزند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:128",
+      "row": 128,
+      "word": "trinken",
+      "meaningFa": "نوشیدن",
+      "additionalExamples": [
+        {
+          "de": "Ich trinke morgens ein Glas Wasser.",
+          "fa": "صبح‌ها یک لیوان آب می‌نوشم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Was möchtest du zum Essen trinken?",
+          "fa": "همراه غذا چه می‌خواهی بنوشی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:129",
+      "row": 129,
+      "word": "die Universität",
+      "meaningFa": "دانشگاه",
+      "additionalExamples": [
+        {
+          "de": "Meine Schwester lernt an der Universität Deutsch.",
+          "fa": "خواهرم در دانشگاه آلمانی می‌خواند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Universität ist gegenüber vom Museum.",
+          "fa": "دانشگاه روبه‌روی موزه است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:130",
+      "row": 130,
+      "word": "unser",
+      "meaningFa": "مال ما",
+      "additionalExamples": [
+        {
+          "de": "Unser Deutschkurs beginnt um neun.",
+          "fa": "کلاس آلمانی ما ساعت نه شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist das unsere neue Kollegin?",
+          "fa": "این همکار جدید ماست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:131",
+      "row": 131,
+      "word": "die Verbindung",
+      "meaningFa": "ارتباط؛ مسیر متصل حمل‌ونقل",
+      "additionalExamples": [
+        {
+          "de": "Die Verbindung nach Hamburg ist gut.",
+          "fa": "مسیر رفت‌وآمد به هامبورگ خوب است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Verbindung zwischen meinem Computer und dem Handy funktioniert nicht.",
+          "fa": "ارتباط بین کامپیوتر و موبایلم کار نمی‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:132",
+      "row": 132,
+      "word": "der Verkäufer",
+      "meaningFa": "فروشندهٔ مرد",
+      "additionalExamples": [
+        {
+          "de": "Der Verkäufer zeigt mir den Käse.",
+          "fa": "فروشنده پنیر را به من نشان می‌دهد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich frage den Verkäufer nach dem Preis.",
+          "fa": "قیمت را از فروشنده می‌پرسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:133",
+      "row": 133,
+      "word": "die Verkäuferin",
+      "meaningFa": "فروشندهٔ زن",
+      "additionalExamples": [
+        {
+          "de": "Die Verkäuferin gibt der Kundin das Brot.",
+          "fa": "فروشنده نان را به مشتری می‌دهد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unsere neue Verkäuferin spricht auch Türkisch.",
+          "fa": "فروشندهٔ جدید ما ترکی هم صحبت می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:134",
+      "row": 134,
+      "word": "vielleicht",
+      "meaningFa": "شاید",
+      "additionalExamples": [
+        {
+          "de": "Vielleicht besuchen wir am Sonntag ein Museum.",
+          "fa": "شاید یکشنبه از یک موزه بازدید کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kommt dein Bruder auch? Vielleicht.",
+          "fa": "برادرت هم می‌آید؟ شاید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:135",
+      "row": 135,
+      "word": "das Wasser",
+      "meaningFa": "آب",
+      "additionalExamples": [
+        {
+          "de": "Ich trinke lieber Wasser als Saft.",
+          "fa": "نوشیدن آب را به آب‌میوه ترجیح می‌دهم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Wasser im Glas ist für dich.",
+          "fa": "آبِ داخل لیوان برای توست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:136",
+      "row": 136,
+      "word": "wechseln",
+      "meaningFa": "عوض‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Ich möchte den Kurs wechseln.",
+          "fa": "می‌خواهم کلاسم را عوض کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir wechseln im Kurs die Partner.",
+          "fa": "در کلاس هم‌گروهی‌ها را عوض می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:137",
+      "row": 137,
+      "word": "der Weg",
+      "meaningFa": "راه",
+      "additionalExamples": [
+        {
+          "de": "Ist der Weg zum Museum lang?",
+          "fa": "راهِ موزه طولانی است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich frage einen Mann nach dem Weg.",
+          "fa": "راه را از یک مرد می‌پرسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:138",
+      "row": 138,
+      "word": "der Wein",
+      "meaningFa": "شراب",
+      "additionalExamples": [
+        {
+          "de": "Zum Essen trinkt mein Vater ein Glas Wein.",
+          "fa": "پدرم همراه غذا یک لیوان شراب می‌نوشد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Dieser Wein kommt aus Österreich.",
+          "fa": "این شراب از اتریش می‌آید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:139",
+      "row": 139,
+      "word": "wenig",
+      "meaningFa": "کم",
+      "additionalExamples": [
+        {
+          "de": "Heute habe ich wenig Zeit.",
+          "fa": "امروز وقت کمی دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich nehme nur wenig Zucker.",
+          "fa": "فقط کمی شکر برمی‌دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:140",
+      "row": 140,
+      "word": "werden",
+      "meaningFa": "شدن",
+      "additionalExamples": [
+        {
+          "de": "Mein Bruder möchte Arzt werden.",
+          "fa": "برادرم می‌خواهد پزشک شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Winter werden die Tage kurz.",
+          "fa": "در زمستان روزها کوتاه می‌شوند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:141",
+      "row": 141,
+      "word": "wie viel",
+      "meaningFa": "چقدر",
+      "additionalExamples": [
+        {
+          "de": "Wie viel kostet die Milch?",
+          "fa": "شیر چقدر قیمت دارد؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie viel Zeit brauchst du für das Essen?",
+          "fa": "برای غذا چقدر وقت لازم داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:142",
+      "row": 142,
+      "word": "wie viele",
+      "meaningFa": "چند تا",
+      "additionalExamples": [
+        {
+          "de": "Wie viele Kinder haben Sie?",
+          "fa": "چند فرزند دارید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie viele Eier brauchen wir für den Kuchen?",
+          "fa": "برای کیک چند تخم‌مرغ نیاز داریم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:143",
+      "row": 143,
+      "word": "wirklich",
+      "meaningFa": "واقعاً",
+      "additionalExamples": [
+        {
+          "de": "Ist das wirklich dein Bruder?",
+          "fa": "واقعاً او برادر توست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Kuchen ist wirklich gut.",
+          "fa": "کیک واقعاً خوب است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:144",
+      "row": 144,
+      "word": "wissen",
+      "meaningFa": "دانستن",
+      "additionalExamples": [
+        {
+          "de": "Ich weiß die Antwort nicht.",
+          "fa": "پاسخ را نمی‌دانم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Weißt du, wann der Kurs beginnt?",
+          "fa": "می‌دانی کلاس چه ساعتی شروع می‌شود؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:145",
+      "row": 145,
+      "word": "die Wohnung",
+      "meaningFa": "واحد مسکونی",
+      "additionalExamples": [
+        {
+          "de": "Unsere Wohnung hat drei Zimmer.",
+          "fa": "آپارتمان ما سه اتاق دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Bruder hat eine Wohnung in Hamburg.",
+          "fa": "برادرم در هامبورگ یک آپارتمان دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:146",
+      "row": 146,
+      "word": "die Wurst",
+      "meaningFa": "سوسیس؛ کالباس",
+      "additionalExamples": [
+        {
+          "de": "Möchtest du Brot mit Wurst?",
+          "fa": "نان و کالباس میل داری؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir braten heute Würste.",
+          "fa": "امروز سوسیس سرخ می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:147",
+      "row": 147,
+      "word": "das Zimmer",
+      "meaningFa": "اتاق",
+      "additionalExamples": [
+        {
+          "de": "Mein Zimmer ist klein, aber schön.",
+          "fa": "اتاقم کوچک اما زیباست.",
+          "origin": "authored"
+        },
+        {
+          "de": "In welchem Zimmer ist der Arzt?",
+          "fa": "پزشک در کدام اتاق است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:148",
+      "row": 148,
+      "word": "der Zucker",
+      "meaningFa": "شکر",
+      "additionalExamples": [
+        {
+          "de": "In diesem Saft ist kein Zucker.",
+          "fa": "در این آب‌میوه شکر نیست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für den Kuchen brauchen wir etwas Zucker.",
+          "fa": "برای کیک به کمی شکر نیاز داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:149",
+      "row": 149,
+      "word": "die Zwiebel",
+      "meaningFa": "پیاز",
+      "additionalExamples": [
+        {
+          "de": "Ich brate zuerst die Zwiebeln.",
+          "fa": "اول پیازها را سرخ می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Eine Zwiebel kostet zwanzig Cent.",
+          "fa": "یک پیاز بیست سنت قیمت دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-03-A1:150",
+      "row": 150,
+      "word": "zwischen",
+      "meaningFa": "بین",
+      "additionalExamples": [
+        {
+          "de": "Das Hotel liegt zwischen dem Kino und dem Museum.",
+          "fa": "هتل بین سینما و موزه قرار دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Zwischen den Terminen lerne ich Deutsch.",
+          "fa": "بین قرارها آلمانی می‌خوانم.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

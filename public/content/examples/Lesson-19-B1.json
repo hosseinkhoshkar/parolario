@@ -1,0 +1,332 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-19-B1.txt",
+  "lessonNumber": 19,
+  "level": "B1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-19-B1:001",
+      "row": 1,
+      "word": "abfahren",
+      "meaningFa": "حرکت‌کردن وسیله",
+      "additionalExamples": [
+        {
+          "de": "Der Zug fährt in fünf Minuten ab, wir müssen uns beeilen.",
+          "fa": "قطار پنج دقیقهٔ دیگر حرکت می‌کند؛ باید عجله کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Weil der Bus schon abgefahren war, musste ich auf den nächsten warten.",
+          "fa": "چون اتوبوس از قبل حرکت کرده بود، مجبور شدم منتظر اتوبوس بعدی بمانم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-19-B1:002",
+      "row": 2,
+      "word": "bereit",
+      "meaningFa": "آماده",
+      "additionalExamples": [
+        {
+          "de": "Sind Sie bereit für die lange Reise?",
+          "fa": "آیا برای این سفر طولانی آماده‌اید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wenn alle bereit sind, können wir mit der Besprechung beginnen.",
+          "fa": "اگر همه آماده‌اند، می‌توانیم جلسه را شروع کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-19-B1:003",
+      "row": 3,
+      "word": "bestätigen",
+      "meaningFa": "تأییدکردن",
+      "additionalExamples": [
+        {
+          "de": "Könnten Sie mir den Termin bitte schriftlich bestätigen?",
+          "fa": "ممکن است لطفاً وقت قرار را کتبی برایم تأیید کنید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Hotel hat unsere Reservierung per E-Mail bestätigt.",
+          "fa": "هتل رزرو ما را با ایمیل تأیید کرده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-19-B1:004",
+      "row": 4,
+      "word": "die Bevölkerung",
+      "meaningFa": "جمعیت؛ مردم یک ناحیه",
+      "additionalExamples": [
+        {
+          "de": "Die Bevölkerung dieser Stadt ist in den letzten Jahren gewachsen.",
+          "fa": "جمعیت این شهر در سال‌های اخیر بیشتر شده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ein großer Teil der Bevölkerung fährt täglich mit dem Bus.",
+          "fa": "بخش بزرگی از مردم این ناحیه هر روز با اتوبوس رفت‌وآمد می‌کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-19-B1:005",
+      "row": 5,
+      "word": "das Bundesland",
+      "meaningFa": "ایالت فدرال",
+      "additionalExamples": [
+        {
+          "de": "In welchem Bundesland möchten Sie später arbeiten?",
+          "fa": "می‌خواهید بعداً در کدام ایالت آلمان کار کنید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Für den neuen Arbeitsplatz zieht sie in ein anderes Bundesland.",
+          "fa": "او برای موقعیت شغلی جدید به ایالت دیگری نقل مکان می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-19-B1:006",
+      "row": 6,
+      "word": "der Flughafen",
+      "meaningFa": "فرودگاه",
+      "additionalExamples": [
+        {
+          "de": "Am Flughafen warten wir auf unsere Freunde aus Italien.",
+          "fa": "در فرودگاه منتظر دوستانمان از ایتالیا هستیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Da unser Flug sehr früh geht, übernachten wir in der Nähe des Flughafens.",
+          "fa": "چون پروازمان خیلی زود است، نزدیک فرودگاه شب را می‌گذرانیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-19-B1:007",
+      "row": 7,
+      "word": "das Gleis",
+      "meaningFa": "خط یا سکوی شماره‌دار قطار",
+      "additionalExamples": [
+        {
+          "de": "Der Zug nach Berlin steht heute auf Gleis sechs.",
+          "fa": "قطار برلین امروز در خط شش است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf dem Weg zum Gleis habe ich meine Fahrkarte verloren.",
+          "fa": "در راهِ سکوی قطار، بلیتم را گم کردم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-19-B1:008",
+      "row": 8,
+      "word": "Herzlichen Glückwunsch",
+      "meaningFa": "تبریک صمیمانه",
+      "additionalExamples": [
+        {
+          "de": "Herzlichen Glückwunsch zur bestandenen Prüfung!",
+          "fa": "قبولی در امتحان را صمیمانه تبریک می‌گویم!",
+          "origin": "authored"
+        },
+        {
+          "de": "Herzlichen Glückwunsch zum Geburtstag und alles Gute für das neue Lebensjahr!",
+          "fa": "تولدت مبارک و بهترین‌ها را برای سال جدید زندگی‌ات آرزو می‌کنم!",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-19-B1:009",
+      "row": 9,
+      "word": "der Hund",
+      "meaningFa": "سگ",
+      "additionalExamples": [
+        {
+          "de": "Unser Hund braucht jeden Tag einen langen Spaziergang.",
+          "fa": "سگ ما هر روز به یک پیاده‌روی طولانی نیاز دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wenn wir verreisen, kümmert sich unsere Nachbarin um den Hund.",
+          "fa": "وقتی به سفر می‌رویم، همسایه‌مان از سگ مراقبت می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-19-B1:010",
+      "row": 10,
+      "word": "der Koffer",
+      "meaningFa": "چمدان",
+      "additionalExamples": [
+        {
+          "de": "In meinem Koffer ist noch Platz für deine Jacke.",
+          "fa": "در چمدانم هنوز برای کاپشن تو جا هست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach der Ankunft am Flughafen musste ich lange auf meinen Koffer warten.",
+          "fa": "بعد از رسیدن به فرودگاه مجبور شدم مدت زیادی منتظر چمدانم بمانم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-19-B1:011",
+      "row": 11,
+      "word": "leihen",
+      "meaningFa": "قرض‌دادن یا گرفتن؛ با توجه به ساخت جمله",
+      "additionalExamples": [
+        {
+          "de": "Kannst du mir deinen Rucksack für den Ausflug leihen?",
+          "fa": "می‌توانی کوله‌پشتی‌ات را برای گردش به من قرض بدهی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich leihe mir in der Bibliothek jede Woche ein neues Buch.",
+          "fa": "من هر هفته از کتابخانه کتاب تازه‌ای امانت می‌گیرم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-19-B1:012",
+      "row": 12,
+      "word": "die Mitbewohnerin",
+      "meaningFa": "هم‌خانهٔ زن",
+      "additionalExamples": [
+        {
+          "de": "Meine Mitbewohnerin und ich teilen uns die Kosten für das Internet.",
+          "fa": "من و هم‌خانه‌ام هزینهٔ اینترنت را با هم تقسیم می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mit meiner neuen Mitbewohnerin kann ich jeden Abend Deutsch sprechen.",
+          "fa": "می‌توانم هر شب با هم‌خانهٔ جدیدم آلمانی صحبت کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-19-B1:013",
+      "row": 13,
+      "word": "notwendig",
+      "meaningFa": "ضروری",
+      "additionalExamples": [
+        {
+          "de": "Für die Reise ist ein gültiger Pass notwendig.",
+          "fa": "برای این سفر داشتن گذرنامهٔ معتبر ضروری است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Es ist nicht notwendig, dass Sie persönlich vorbeikommen.",
+          "fa": "لازم نیست شخصاً تشریف بیاورید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-19-B1:014",
+      "row": 14,
+      "word": "reich",
+      "meaningFa": "ثروتمند",
+      "additionalExamples": [
+        {
+          "de": "Er ist reich, aber sein Leben ist nicht immer einfach.",
+          "fa": "او ثروتمند است، اما زندگی‌اش همیشه آسان نیست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie möchte nicht unbedingt reich werden, sondern eine Arbeit finden, die ihr gefällt.",
+          "fa": "او لزوماً نمی‌خواهد ثروتمند شود، بلکه می‌خواهد کاری پیدا کند که دوستش داشته باشد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-19-B1:015",
+      "row": 15,
+      "word": "der Rucksack",
+      "meaningFa": "کوله‌پشتی",
+      "additionalExamples": [
+        {
+          "de": "Nimm einen kleinen Rucksack mit, damit du die Hände frei hast.",
+          "fa": "یک کوله‌پشتی کوچک همراهت ببر تا دست‌هایت آزاد باشد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für die Wanderung nehme ich Wasser und etwas zu essen im Rucksack mit.",
+          "fa": "برای پیاده‌روی در طبیعت، آب و کمی خوراکی در کوله‌پشتی‌ام همراه می‌برم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-19-B1:016",
+      "row": 16,
+      "word": "die Umwelt",
+      "meaningFa": "محیط زیست",
+      "additionalExamples": [
+        {
+          "de": "Wenn wir weniger Auto fahren, ist das besser für die Umwelt.",
+          "fa": "اگر کمتر با خودرو رفت‌وآمد کنیم، برای محیط زیست بهتر است.",
+          "origin": "authored"
+        },
+        {
+          "de": "In der Schule sprechen die Kinder darüber, wie sie die Umwelt schützen können.",
+          "fa": "بچه‌ها در مدرسه دربارهٔ این صحبت می‌کنند که چگونه می‌توانند از محیط زیست محافظت کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-19-B1:017",
+      "row": 17,
+      "word": "die Verspätung",
+      "meaningFa": "تأخیر",
+      "additionalExamples": [
+        {
+          "de": "Wegen der Verspätung unseres Zuges kommen wir erst am Abend an.",
+          "fa": "به‌دلیل تأخیر قطارمان، تازه عصر می‌رسیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte informieren Sie uns, wenn Sie Verspätung haben.",
+          "fa": "لطفاً اگر تأخیر دارید، به ما اطلاع دهید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-19-B1:018",
+      "row": 18,
+      "word": "das Visum",
+      "meaningFa": "ویزا",
+      "additionalExamples": [
+        {
+          "de": "Für diesen Urlaub brauche ich kein Visum.",
+          "fa": "برای این سفر تفریحی به ویزا نیاز ندارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie hat ihr Visum schon bekommen und kann jetzt den Flug buchen.",
+          "fa": "او ویزایش را گرفته و حالا می‌تواند پرواز را رزرو کند.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

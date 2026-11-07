@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-22-B1.txt",
+  "lessonNumber": 22,
+  "level": "B1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-22-B1:001",
+      "row": 1,
+      "word": "der Absender",
+      "meaningFa": "فرستنده",
+      "additionalExamples": [
+        {
+          "de": "Der Absender hat seine Adresse auf die Rückseite des Briefes geschrieben.",
+          "fa": "فرستنده آدرسش را پشت نامه نوشته است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich kenne den Absender dieser E-Mail nicht und öffne sie deshalb nicht.",
+          "fa": "فرستندهٔ این ایمیل را نمی‌شناسم و به همین دلیل آن را باز نمی‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-22-B1:002",
+      "row": 2,
+      "word": "abstimmen",
+      "meaningFa": "رأی‌گیری‌کردن؛ هماهنگ‌کردن",
+      "additionalExamples": [
+        {
+          "de": "In der Besprechung stimmen wir über den neuen Plan ab.",
+          "fa": "در جلسه دربارهٔ طرح جدید رأی‌گیری می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte stimmen Sie den Termin mit Ihrer Kollegin ab.",
+          "fa": "لطفاً زمان قرار را با همکارتان هماهنگ کنید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-22-B1:003",
+      "row": 3,
+      "word": "das Amt",
+      "meaningFa": "اداره؛ سمت رسمی",
+      "additionalExamples": [
+        {
+          "de": "Für die Anmeldung müssen Sie persönlich zum Amt gehen.",
+          "fa": "برای ثبت‌نام باید شخصاً به اداره بروید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Mitarbeiterin vom Amt hat mir beim Ausfüllen des Formulars geholfen.",
+          "fa": "کارمند اداره در پرکردن فرم به من کمک کرد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-22-B1:004",
+      "row": 4,
+      "word": "die Beschwerde",
+      "meaningFa": "شکایت",
+      "additionalExamples": [
+        {
+          "de": "Ich habe eine schriftliche Beschwerde an das Hotel geschickt.",
+          "fa": "یک شکایت کتبی برای هتل فرستاده‌ام.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach unserer Beschwerde wurde die kaputte Heizung endlich repariert.",
+          "fa": "بعد از شکایت ما، بالاخره بخاری خراب تعمیر شد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-22-B1:005",
+      "row": 5,
+      "word": "die Briefmarke",
+      "meaningFa": "تمبر",
+      "additionalExamples": [
+        {
+          "de": "Für diesen Brief brauche ich noch eine Briefmarke.",
+          "fa": "برای این نامه هنوز به یک تمبر نیاز دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "An der Kasse können Sie auch Briefmarken kaufen.",
+          "fa": "پای صندوق می‌توانید تمبر هم بخرید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-22-B1:006",
+      "row": 6,
+      "word": "das Einschreiben",
+      "meaningFa": "نامهٔ سفارشی",
+      "additionalExamples": [
+        {
+          "de": "Ich habe die wichtigen Dokumente als Einschreiben verschickt.",
+          "fa": "مدارک مهم را با پست سفارشی فرستادم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bei einem Einschreiben kann der Absender später sehen, ob der Brief angekommen ist.",
+          "fa": "در نامهٔ سفارشی، فرستنده می‌تواند بعداً ببیند که نامه رسیده است یا نه.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-22-B1:007",
+      "row": 7,
+      "word": "die Filiale",
+      "meaningFa": "شعبه",
+      "additionalExamples": [
+        {
+          "de": "Die Bank hat eine neue Filiale in unserem Viertel eröffnet.",
+          "fa": "بانک در محلهٔ ما شعبهٔ جدیدی باز کرده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "In dieser Filiale arbeiten weniger Mitarbeiter als im Zentrum.",
+          "fa": "در این شعبه کارمندان کمتری نسبت به شعبهٔ مرکز شهر کار می‌کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-22-B1:008",
+      "row": 8,
+      "word": "die Garantie",
+      "meaningFa": "ضمانت",
+      "additionalExamples": [
+        {
+          "de": "Wie lange gilt die Garantie für diese Waschmaschine?",
+          "fa": "ضمانت این ماشین لباس‌شویی تا چه مدتی اعتبار دارد؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Bewahren Sie die Rechnung auf, damit Sie die Garantie nutzen können.",
+          "fa": "رسید خرید را نگه دارید تا بتوانید از ضمانت استفاده کنید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-22-B1:009",
+      "row": 9,
+      "word": "die Geldstrafe",
+      "meaningFa": "جریمهٔ نقدی قضایی",
+      "additionalExamples": [
+        {
+          "de": "Nach dem Urteil musste er eine hohe Geldstrafe zahlen.",
+          "fa": "پس از صدور حکم، او مجبور شد جریمهٔ نقدی سنگینی بپردازد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Geldstrafe war höher als sein Gehalt für einen Monat.",
+          "fa": "مبلغ جریمهٔ نقدی از حقوق یک ماهش بیشتر بود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-22-B1:010",
+      "row": 10,
+      "word": "packen",
+      "meaningFa": "بسته‌بندی‌کردن؛ چمدان‌بستن",
+      "additionalExamples": [
+        {
+          "de": "Ich packe meinen Koffer heute Abend, weil wir morgen früh abfahren.",
+          "fa": "امشب چمدانم را می‌بندم، چون فردا صبح زود حرکت می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Pack die Gläser bitte so, dass sie auf der Fahrt nicht kaputtgehen.",
+          "fa": "لطفاً لیوان‌ها را طوری بسته‌بندی کن که در مسیر نشکنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-22-B1:011",
+      "row": 11,
+      "word": "das Paket",
+      "meaningFa": "بستهٔ پستی",
+      "additionalExamples": [
+        {
+          "de": "Das Paket für meine Schwester ist gestern angekommen.",
+          "fa": "بستهٔ پستی خواهرم دیروز رسیده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Könnten Sie dieses Paket für Ihre Nachbarin annehmen?",
+          "fa": "ممکن است این بسته را به‌جای همسایه‌تان تحویل بگیرید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-22-B1:012",
+      "row": 12,
+      "word": "die Postkarte",
+      "meaningFa": "کارت‌پستال",
+      "additionalExamples": [
+        {
+          "de": "Aus dem Urlaub schicke ich meinen Eltern immer eine Postkarte.",
+          "fa": "همیشه از سفر تفریحی برای پدر و مادرم کارت‌پستال می‌فرستم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf deiner Postkarte stand leider keine Adresse.",
+          "fa": "متأسفانه روی کارت‌پستالت آدرسی نوشته نشده بود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-22-B1:013",
+      "row": 13,
+      "word": "pünktlich",
+      "meaningFa": "سر وقت",
+      "additionalExamples": [
+        {
+          "de": "Bitte seien Sie pünktlich, damit wir gemeinsam anfangen können.",
+          "fa": "لطفاً سر وقت بیایید تا بتوانیم با هم شروع کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Zug kam pünktlich an, und ich habe den nächsten Zug nach Berlin erreicht.",
+          "fa": "قطار سر وقت رسید و به قطار بعدی به مقصد برلین رسیدم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-22-B1:014",
+      "row": 14,
+      "word": "schwierig",
+      "meaningFa": "دشوار",
+      "additionalExamples": [
+        {
+          "de": "Am Anfang war es schwierig, die Briefe vom Amt zu verstehen.",
+          "fa": "اوایل فهمیدن نامه‌های اداره دشوار بود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Diese Aufgabe ist schwieriger, als ich gedacht habe.",
+          "fa": "این تمرین از چیزی که فکر می‌کردم دشوارتر است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-22-B1:015",
+      "row": 15,
+      "word": "sich beschweren",
+      "meaningFa": "شکایت‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Ich habe mich bei der Firma über die kaputte Waschmaschine beschwert.",
+          "fa": "به شرکت دربارهٔ ماشین لباس‌شویی خراب شکایت کردم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wenn das Essen kalt ist, können Sie sich beim Kellner beschweren.",
+          "fa": "اگر غذا سرد است، می‌توانید به پیشخدمت شکایت کنید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-22-B1:016",
+      "row": 16,
+      "word": "die Zeitschrift",
+      "meaningFa": "مجله",
+      "additionalExamples": [
+        {
+          "de": "In dieser Zeitschrift lese ich gern Berichte über Reisen.",
+          "fa": "در این مجله دوست دارم گزارش‌های سفر را بخوانم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die neue Zeitschrift erscheint einmal im Monat.",
+          "fa": "شمارهٔ تازهٔ این مجله ماهی یک بار منتشر می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

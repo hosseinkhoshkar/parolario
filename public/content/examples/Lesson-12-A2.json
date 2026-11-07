@@ -1,0 +1,728 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-12-A2.txt",
+  "lessonNumber": 12,
+  "level": "A2",
+  "entries": [
+    {
+      "sourceKey": "Lesson-12-A2:001",
+      "row": 1,
+      "word": "abheben",
+      "meaningFa": "برداشت پول؛ بلندشدن از زمین",
+      "additionalExamples": [
+        {
+          "de": "Ich möchte fünfzig Euro abheben.",
+          "fa": "می‌خواهم پنجاه یورو پول برداشت کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unser Flugzeug hebt um zehn Uhr ab.",
+          "fa": "هواپیمای ما ساعت ده از زمین بلند می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:002",
+      "row": 2,
+      "word": "der Auftrag",
+      "meaningFa": "سفارش؛ مأموریت",
+      "additionalExamples": [
+        {
+          "de": "Die Firma hat einen neuen Auftrag bekommen.",
+          "fa": "شرکت یک سفارش تازه گرفته است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir müssen den Auftrag bis Freitag erledigen.",
+          "fa": "باید این مأموریت کاری را تا جمعه انجام بدهیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:003",
+      "row": 3,
+      "word": "der Ausgang",
+      "meaningFa": "خروجی",
+      "additionalExamples": [
+        {
+          "de": "Wo ist bitte der Ausgang?",
+          "fa": "ببخشید، خروجی کجاست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Ausgang wartet meine Schwester auf mich.",
+          "fa": "خواهرم کنار خروجی منتظرم است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:004",
+      "row": 4,
+      "word": "der Ausweis",
+      "meaningFa": "کارت شناسایی",
+      "additionalExamples": [
+        {
+          "de": "Darf ich bitte Ihren Ausweis sehen?",
+          "fa": "ممکن است لطفاً کارت شناسایی‌تان را ببینم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe meinen Ausweis zu Hause vergessen.",
+          "fa": "کارت شناسایی‌ام را در خانه جا گذاشته‌ام.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:005",
+      "row": 5,
+      "word": "das Bargeld",
+      "meaningFa": "پول نقد",
+      "additionalExamples": [
+        {
+          "de": "Ich habe heute kein Bargeld dabei.",
+          "fa": "امروز پول نقد همراهم نیست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kann ich hier mit Bargeld bezahlen?",
+          "fa": "می‌توانم اینجا نقدی پرداخت کنم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:006",
+      "row": 6,
+      "word": "die Bedingung",
+      "meaningFa": "شرط",
+      "additionalExamples": [
+        {
+          "de": "Welche Bedingungen muss ich für den Kurs erfüllen?",
+          "fa": "برای این دوره باید چه شرایطی داشته باشم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Unter dieser Bedingung bin ich einverstanden.",
+          "fa": "با این شرط موافقم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:007",
+      "row": 7,
+      "word": "beraten",
+      "meaningFa": "مشاوره‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Können Sie mich zu Ihren Konten beraten?",
+          "fa": "می‌توانید دربارهٔ حساب‌هایتان به من مشاوره بدهید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Bei der Bank hat man uns gut beraten.",
+          "fa": "در بانک به ما خوب مشاوره دادند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:008",
+      "row": 8,
+      "word": "die Beratung",
+      "meaningFa": "مشاوره",
+      "additionalExamples": [
+        {
+          "de": "Für eine Beratung brauche ich einen Termin.",
+          "fa": "برای مشاوره به وقت قبلی نیاز دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Beratung bei der Bank ist kostenlos.",
+          "fa": "مشاوره در بانک رایگان است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:009",
+      "row": 9,
+      "word": "einzahlen",
+      "meaningFa": "به حساب واریزکردن",
+      "additionalExamples": [
+        {
+          "de": "Ich möchte Geld auf mein Konto einzahlen.",
+          "fa": "می‌خواهم به حسابم پول واریز کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kann ich hier auch Münzen einzahlen?",
+          "fa": "اینجا می‌توانم سکه هم به حساب واریز کنم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:010",
+      "row": 10,
+      "word": "der Empfänger",
+      "meaningFa": "گیرنده",
+      "additionalExamples": [
+        {
+          "de": "Der Name des Empfängers steht oben.",
+          "fa": "نام گیرنده بالا نوشته شده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte kontrollieren Sie die Adresse des Empfängers.",
+          "fa": "لطفاً آدرس گیرنده را بررسی کنید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:011",
+      "row": 11,
+      "word": "die Firma",
+      "meaningFa": "شرکت",
+      "additionalExamples": [
+        {
+          "de": "Meine Firma hat ein Büro in Berlin.",
+          "fa": "شرکت من در برلین یک دفتر دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bei welcher Firma arbeiten Sie?",
+          "fa": "در کدام شرکت کار می‌کنید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:012",
+      "row": 12,
+      "word": "das Flugzeug",
+      "meaningFa": "هواپیما",
+      "additionalExamples": [
+        {
+          "de": "Wir reisen diesmal mit dem Flugzeug.",
+          "fa": "این بار با هواپیما سفر می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Flugzeug nach Hamburg ist schon voll.",
+          "fa": "هواپیمای هامبورگ از قبل پر شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:013",
+      "row": 13,
+      "word": "die Freiheit",
+      "meaningFa": "آزادی",
+      "additionalExamples": [
+        {
+          "de": "Die Freiheit ist ihm sehr wichtig.",
+          "fa": "آزادی برای او خیلی مهم است.",
+          "origin": "authored"
+        },
+        {
+          "de": "In meiner Freizeit genieße ich die Freiheit, nichts zu planen.",
+          "fa": "در وقت آزادم از آزادیِ برنامه‌ریزی نکردن لذت می‌برم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:014",
+      "row": 14,
+      "word": "das Geburtsdatum",
+      "meaningFa": "تاریخ تولد",
+      "additionalExamples": [
+        {
+          "de": "Bitte tragen Sie hier Ihr Geburtsdatum ein.",
+          "fa": "لطفاً تاریخ تولدتان را اینجا وارد کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Geburtsdatum steht auf dem Ausweis.",
+          "fa": "تاریخ تولدم روی کارت شناسایی نوشته شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:015",
+      "row": 15,
+      "word": "der Geburtsort",
+      "meaningFa": "محل تولد",
+      "additionalExamples": [
+        {
+          "de": "Was ist Ihr Geburtsort?",
+          "fa": "محل تولد شما کجاست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Als Geburtsort habe ich Hamburg angegeben.",
+          "fa": "من هامبورگ را به‌عنوان محل تولدم نوشته‌ام.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:016",
+      "row": 16,
+      "word": "das Gehalt",
+      "meaningFa": "حقوق",
+      "additionalExamples": [
+        {
+          "de": "Mein Gehalt kommt am Ende des Monats.",
+          "fa": "حقوقم آخر ماه واریز می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie hoch ist das Gehalt für diese Arbeit?",
+          "fa": "حقوق این کار چقدر است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:017",
+      "row": 17,
+      "word": "der Geldautomat",
+      "meaningFa": "دستگاه خودپرداز",
+      "additionalExamples": [
+        {
+          "de": "Der Geldautomat steht neben der Bank.",
+          "fa": "دستگاه خودپرداز کنار بانک است.",
+          "origin": "authored"
+        },
+        {
+          "de": "An diesem Geldautomaten kann man kostenlos Geld abheben.",
+          "fa": "در این دستگاه خودپرداز می‌شود بدون کارمزد پول برداشت کرد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:018",
+      "row": 18,
+      "word": "das Konto",
+      "meaningFa": "حساب بانکی",
+      "additionalExamples": [
+        {
+          "de": "Ich möchte ein Konto eröffnen.",
+          "fa": "می‌خواهم یک حساب بانکی باز کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf meinem Konto sind noch hundert Euro.",
+          "fa": "هنوز صد یورو در حسابم هست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:019",
+      "row": 19,
+      "word": "kostenlos",
+      "meaningFa": "رایگان",
+      "additionalExamples": [
+        {
+          "de": "Kinder fahren mit diesem Bus kostenlos.",
+          "fa": "کودکان با این اتوبوس رایگان سفر می‌کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie können kostenlos anrufen.",
+          "fa": "می‌توانید رایگان تماس بگیرید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:020",
+      "row": 20,
+      "word": "der Kredit",
+      "meaningFa": "وام؛ اعتبار بانکی",
+      "additionalExamples": [
+        {
+          "de": "Für das Haus brauchen wir einen Kredit.",
+          "fa": "برای خانه به وام نیاز داریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich frage die Bank nach einem Kredit.",
+          "fa": "از بانک دربارهٔ وام می‌پرسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:021",
+      "row": 21,
+      "word": "die Kreditkarte",
+      "meaningFa": "کارت اعتباری",
+      "additionalExamples": [
+        {
+          "de": "Kann ich mit Kreditkarte bezahlen?",
+          "fa": "می‌توانم با کارت اعتباری پرداخت کنم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Kreditkarte ist noch bis Dezember gültig.",
+          "fa": "کارت اعتباری من تا دسامبر اعتبار دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:022",
+      "row": 22,
+      "word": "mündlich",
+      "meaningFa": "شفاهی",
+      "additionalExamples": [
+        {
+          "de": "Die Prüfung findet mündlich statt.",
+          "fa": "امتحان به‌صورت شفاهی برگزار می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe die Antwort nur mündlich bekommen.",
+          "fa": "من پاسخ را فقط شفاهی دریافت کرده‌ام.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:023",
+      "row": 23,
+      "word": "die Nase",
+      "meaningFa": "بینی",
+      "additionalExamples": [
+        {
+          "de": "Meine Nase ist seit gestern zu.",
+          "fa": "بینی‌ام از دیروز گرفته است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Kind hat eine kleine rote Nase.",
+          "fa": "این کودک یک بینی کوچک و قرمز دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:024",
+      "row": 24,
+      "word": "niemand",
+      "meaningFa": "هیچ‌کس",
+      "additionalExamples": [
+        {
+          "de": "Heute ist niemand im Büro.",
+          "fa": "امروز هیچ‌کس در دفتر نیست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Niemand hat mir auf meine Frage geantwortet.",
+          "fa": "هیچ‌کس به سؤالم جواب نداده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:025",
+      "row": 25,
+      "word": "die Polizei",
+      "meaningFa": "پلیس",
+      "additionalExamples": [
+        {
+          "de": "Wir rufen die Polizei, weil unser Auto weg ist.",
+          "fa": "چون ماشینمان نیست، به پلیس زنگ می‌زنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Polizei kontrolliert die Ausweise.",
+          "fa": "پلیس کارت‌های شناسایی را بررسی می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:026",
+      "row": 26,
+      "word": "der Polizist",
+      "meaningFa": "پلیس مرد",
+      "additionalExamples": [
+        {
+          "de": "Der Polizist zeigt uns den Weg.",
+          "fa": "پلیس مسیر را به ما نشان می‌دهد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich frage einen Polizisten nach der Adresse.",
+          "fa": "من آدرس را از یک پلیس می‌پرسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:027",
+      "row": 27,
+      "word": "die Quittung",
+      "meaningFa": "رسید",
+      "additionalExamples": [
+        {
+          "de": "Kann ich bitte eine Quittung bekommen?",
+          "fa": "ممکن است لطفاً یک رسید بدهید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Bewahren Sie die Quittung gut auf.",
+          "fa": "رسید را خوب نگه دارید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:028",
+      "row": 28,
+      "word": "das Schiff",
+      "meaningFa": "کشتی",
+      "additionalExamples": [
+        {
+          "de": "Wir fahren mit dem Schiff über den See.",
+          "fa": "ما با کشتی از دریاچه عبور می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Schiff kommt erst am Abend an.",
+          "fa": "کشتی تازه شب می‌رسد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:029",
+      "row": 29,
+      "word": "der Schnupfen",
+      "meaningFa": "آبریزش و گرفتگی بینی",
+      "additionalExamples": [
+        {
+          "de": "Ich habe Schnupfen, aber kein Fieber.",
+          "fa": "آبریزش بینی دارم، ولی تب ندارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wegen des Schnupfens kann ich schlecht schlafen.",
+          "fa": "به‌خاطر گرفتگی و آبریزش بینی بد می‌خوابم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:030",
+      "row": 30,
+      "word": "sich anmelden",
+      "meaningFa": "ثبت‌نام‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Ich möchte mich für den Deutschkurs anmelden.",
+          "fa": "می‌خواهم در کلاس آلمانی ثبت‌نام کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hast du dich schon bei der Schule angemeldet?",
+          "fa": "قبلاً در مدرسه ثبت‌نام کرده‌ای؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:031",
+      "row": 31,
+      "word": "sparen",
+      "meaningFa": "پس‌اندازکردن؛ صرفه‌جویی‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Wir sparen für eine Reise.",
+          "fa": "ما برای یک سفر پس‌انداز می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mit dem Fahrrad spare ich jeden Monat Geld.",
+          "fa": "با دوچرخه رفتن هر ماه در هزینه‌ها صرفه‌جویی می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:032",
+      "row": 32,
+      "word": "die Temperatur",
+      "meaningFa": "دما",
+      "additionalExamples": [
+        {
+          "de": "Die Temperatur liegt heute bei zwanzig Grad.",
+          "fa": "دما امروز حدود بیست درجه است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Zimmer ist die Temperatur angenehm.",
+          "fa": "دمای اتاق مطبوع است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:033",
+      "row": 33,
+      "word": "überweisen",
+      "meaningFa": "انتقال بانکی دادن؛ ارجاع‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Ich überweise die Miete jeden Monat.",
+          "fa": "من اجاره را هر ماه انتقال بانکی می‌دهم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte überweisen Sie den Betrag bis Freitag.",
+          "fa": "لطفاً مبلغ را تا جمعه واریز کنید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:034",
+      "row": 34,
+      "word": "die Überweisung",
+      "meaningFa": "انتقال بانکی؛ ارجاع پزشکی",
+      "additionalExamples": [
+        {
+          "de": "Die Überweisung dauert einen Tag.",
+          "fa": "انتقال بانکی یک روز طول می‌کشد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für diese Überweisung brauche ich die Kontonummer.",
+          "fa": "برای این انتقال بانکی به شمارهٔ حساب نیاز دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:035",
+      "row": 35,
+      "word": "untersuchen",
+      "meaningFa": "معاینه یا بررسی‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Der Arzt untersucht meinen Rücken.",
+          "fa": "پزشک کمرم را معاینه می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Vor dem Flug hat sie ein Arzt untersucht.",
+          "fa": "پیش از پرواز یک پزشک او را معاینه کرده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:036",
+      "row": 36,
+      "word": "vereinbaren",
+      "meaningFa": "توافق‌کردن؛ قرارگذاشتن",
+      "additionalExamples": [
+        {
+          "de": "Wir vereinbaren einen Termin für Montag.",
+          "fa": "ما برای دوشنبه وقت تعیین می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welche Uhrzeit haben wir vereinbart?",
+          "fa": "چه ساعتی را با هم توافق کرده بودیم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:037",
+      "row": 37,
+      "word": "verlieren",
+      "meaningFa": "گم‌کردن؛ باختن",
+      "additionalExamples": [
+        {
+          "de": "Ich habe meinen Schlüssel verloren.",
+          "fa": "من کلیدم را گم کرده‌ام.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unsere Mannschaft hat das Spiel verloren.",
+          "fa": "تیم ما بازی را باخته است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:038",
+      "row": 38,
+      "word": "die Versicherung",
+      "meaningFa": "بیمه",
+      "additionalExamples": [
+        {
+          "de": "Welche Versicherung brauche ich für mein Auto?",
+          "fa": "برای ماشینم به چه بیمه‌ای نیاز دارم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Versicherung bezahlt einen Teil der Kosten.",
+          "fa": "بیمه بخشی از هزینه‌ها را پرداخت می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:039",
+      "row": 39,
+      "word": "zurückgeben",
+      "meaningFa": "پس‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Wann muss ich das Buch zurückgeben?",
+          "fa": "چه زمانی باید کتاب را پس بدهم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie gibt mir das Geld morgen zurück.",
+          "fa": "او فردا پول را به من پس می‌دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-12-A2:040",
+      "row": 40,
+      "word": "zusammenfassen",
+      "meaningFa": "خلاصه‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Kannst du den Text kurz zusammenfassen?",
+          "fa": "می‌توانی متن را کوتاه خلاصه کنی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Ende fassen wir die wichtigsten Punkte zusammen.",
+          "fa": "در پایان مهم‌ترین نکته‌ها را خلاصه می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

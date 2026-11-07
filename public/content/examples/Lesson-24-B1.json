@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-24-B1.txt",
+  "lessonNumber": 24,
+  "level": "B1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-24-B1:001",
+      "row": 1,
+      "word": "der Bauer",
+      "meaningFa": "کشاورز مرد",
+      "additionalExamples": [
+        {
+          "de": "Der Bauer verkauft sein Gemüse jeden Samstag auf dem Markt.",
+          "fa": "کشاورز هر شنبه سبزیجاتش را در بازار می‌فروشد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Obwohl der Bauer viel arbeitet, nimmt er sich Zeit für seine Familie.",
+          "fa": "با اینکه کشاورز زیاد کار می‌کند، برای خانواده‌اش وقت می‌گذارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-24-B1:002",
+      "row": 2,
+      "word": "die Bäuerin",
+      "meaningFa": "کشاورز زن",
+      "additionalExamples": [
+        {
+          "de": "Die Bäuerin zeigt den Kindern, wie die Tiere auf dem Hof leben.",
+          "fa": "کشاورز زن به بچه‌ها نشان می‌دهد که حیوانات در مزرعه چگونه زندگی می‌کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mit der Bäuerin haben wir über die Arbeit in der Landwirtschaft gesprochen.",
+          "fa": "با کشاورز زن دربارهٔ کار در کشاورزی صحبت کردیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-24-B1:003",
+      "row": 3,
+      "word": "der Bauernhof",
+      "meaningFa": "مزرعه",
+      "additionalExamples": [
+        {
+          "de": "Als Kind habe ich die Ferien oft auf einem Bauernhof verbracht.",
+          "fa": "در کودکی تعطیلات مدرسه را اغلب در یک مزرعه می‌گذراندم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf diesem Bauernhof werden Gemüse und Obst angebaut.",
+          "fa": "در این مزرعه سبزیجات و میوه کشت می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-24-B1:004",
+      "row": 4,
+      "word": "die Diskussion",
+      "meaningFa": "بحث",
+      "additionalExamples": [
+        {
+          "de": "Nach der Vorlesung gab es eine interessante Diskussion über Energie.",
+          "fa": "بعد از کلاس سخنرانی، بحث جالبی دربارهٔ انرژی شکل گرفت.",
+          "origin": "authored"
+        },
+        {
+          "de": "An der Diskussion haben sich auch die neuen Mitarbeiter beteiligt.",
+          "fa": "کارمندان جدید هم در آن بحث مشارکت کردند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-24-B1:005",
+      "row": 5,
+      "word": "die Energie",
+      "meaningFa": "انرژی",
+      "additionalExamples": [
+        {
+          "de": "Wenn wir die Heizung niedriger stellen, sparen wir Energie.",
+          "fa": "اگر درجهٔ گرمایش را پایین‌تر بیاوریم، در مصرف انرژی صرفه‌جویی می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach der langen Reise hatte sie keine Energie mehr zum Kochen.",
+          "fa": "بعد از سفر طولانی دیگر انرژی آشپزی نداشت.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-24-B1:006",
+      "row": 6,
+      "word": "falls",
+      "meaningFa": "در صورتی که",
+      "additionalExamples": [
+        {
+          "de": "Falls es morgen regnet, besuchen wir das Museum statt des Parks.",
+          "fa": "در صورتی که فردا باران ببارد، به‌جای پارک از موزه بازدید می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Rufen Sie mich bitte an, falls sich der Termin verändert.",
+          "fa": "اگر زمان قرار تغییر کرد، لطفاً با من تماس بگیرید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-24-B1:007",
+      "row": 7,
+      "word": "die Freundschaft",
+      "meaningFa": "دوستی",
+      "additionalExamples": [
+        {
+          "de": "Unsere Freundschaft ist mir wichtiger als dieser kleine Streit.",
+          "fa": "دوستی‌مان برایم از این دعوای کوچک مهم‌تر است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Aus der Bekanntschaft im Deutschkurs ist eine enge Freundschaft geworden.",
+          "fa": "آشنایی‌مان در کلاس آلمانی به دوستی نزدیکی تبدیل شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-24-B1:008",
+      "row": 8,
+      "word": "das Gras",
+      "meaningFa": "علف؛ چمن",
+      "additionalExamples": [
+        {
+          "de": "Nach dem Regen ist das Gras im Garten noch nass.",
+          "fa": "بعد از باران، چمن باغ هنوز خیس است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Schafe fressen das Gras auf der Wiese.",
+          "fa": "گوسفندها علفِ علفزار را می‌خورند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-24-B1:009",
+      "row": 9,
+      "word": "das Huhn",
+      "meaningFa": "مرغ",
+      "additionalExamples": [
+        {
+          "de": "Das Huhn hat heute wieder ein Ei gelegt.",
+          "fa": "آن مرغ امروز دوباره یک تخم گذاشته است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf dem Bauernhof laufen die Hühner frei herum.",
+          "fa": "مرغ‌ها در مزرعه آزادانه این‌طرف و آن‌طرف می‌روند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-24-B1:010",
+      "row": 10,
+      "word": "die Landwirtschaft",
+      "meaningFa": "کشاورزی",
+      "additionalExamples": [
+        {
+          "de": "Meine Großeltern haben ihr ganzes Leben in der Landwirtschaft gearbeitet.",
+          "fa": "پدربزرگ و مادربزرگم تمام عمرشان در کشاورزی کار کرده‌اند.",
+          "origin": "authored"
+        },
+        {
+          "de": "In der modernen Landwirtschaft werden viele Maschinen verwendet.",
+          "fa": "در کشاورزی مدرن از دستگاه‌های زیادی استفاده می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-24-B1:011",
+      "row": 11,
+      "word": "das Schaf",
+      "meaningFa": "گوسفند",
+      "additionalExamples": [
+        {
+          "de": "Ein kleines Schaf steht neben seiner Mutter.",
+          "fa": "یک گوسفند کوچک کنار مادرش ایستاده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Winter bleiben die Schafe bei schlechtem Wetter im Stall.",
+          "fa": "زمستان، گوسفندها در هوای بد داخل آغل می‌مانند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-24-B1:012",
+      "row": 12,
+      "word": "der Strom",
+      "meaningFa": "برق؛ جریان",
+      "additionalExamples": [
+        {
+          "de": "Wenn wir das Licht ausschalten, verbrauchen wir weniger Strom.",
+          "fa": "وقتی چراغ را خاموش می‌کنیم، برق کمتری مصرف می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ohne Strom funktionieren der Kühlschrank und der Herd nicht.",
+          "fa": "بدون برق، یخچال و اجاق کار نمی‌کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-24-B1:013",
+      "row": 13,
+      "word": "der Umweltschutz",
+      "meaningFa": "حفاظت از محیط زیست",
+      "additionalExamples": [
+        {
+          "de": "Die Studenten organisieren ein Projekt zum Umweltschutz.",
+          "fa": "دانشجویان پروژه‌ای برای حفاظت از محیط زیست ترتیب می‌دهند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Zum Umweltschutz gehört auch, weniger Müll zu machen.",
+          "fa": "کمتر زباله تولیدکردن هم بخشی از حفاظت از محیط زیست است.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

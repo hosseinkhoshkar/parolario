@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-21-B1.txt",
+  "lessonNumber": 21,
+  "level": "B1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-21-B1:001",
+      "row": 1,
+      "word": "der Anschluss",
+      "meaningFa": "اتصال؛ وسیلهٔ بعدی در مسیر",
+      "additionalExamples": [
+        {
+          "de": "Wenn unser Zug ohne Verspätung ankommt, erreichen wir den Anschluss nach Berlin.",
+          "fa": "اگر قطارمان بدون تأخیر برسد، به قطار بعدیِ مسیر برلین می‌رسیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wegen der Verspätung habe ich meinen Anschluss verpasst und musste warten.",
+          "fa": "به‌خاطر تأخیر، به قطار بعدیِ مسیرم نرسیدم و مجبور شدم منتظر بمانم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-21-B1:002",
+      "row": 2,
+      "word": "ausbilden",
+      "meaningFa": "آموزش حرفه‌ای دادن",
+      "additionalExamples": [
+        {
+          "de": "Das Krankenhaus bildet jedes Jahr junge Menschen aus.",
+          "fa": "این بیمارستان هر سال به جوانان آموزش حرفه‌ای می‌دهد.",
+          "origin": "authored"
+        },
+        {
+          "de": "In dieser Firma wurde ich zum Mechaniker ausgebildet.",
+          "fa": "من در این شرکت به‌عنوان مکانیک آموزش دیدم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-21-B1:003",
+      "row": 3,
+      "word": "entweder",
+      "meaningFa": "یا؛ در ساخت entweder ... oder",
+      "additionalExamples": [
+        {
+          "de": "Wir können entweder mit dem Zug fahren oder ein Auto mieten.",
+          "fa": "می‌توانیم یا با قطار برویم یا خودرو اجاره کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Entweder du rufst heute an, oder ich schreibe morgen eine E-Mail.",
+          "fa": "یا تو امروز تماس بگیر، یا من فردا ایمیل می‌نویسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-21-B1:004",
+      "row": 4,
+      "word": "das Gesicht",
+      "meaningFa": "صورت",
+      "additionalExamples": [
+        {
+          "de": "Nach dem langen Spaziergang war ihr Gesicht ganz rot.",
+          "fa": "بعد از پیاده‌روی طولانی صورتش کاملاً قرمز شده بود.",
+          "origin": "authored"
+        },
+        {
+          "de": "An seinem Gesicht konnte ich sehen, dass er unzufrieden war.",
+          "fa": "از چهره‌اش می‌توانستم بفهمم که ناراضی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-21-B1:005",
+      "row": 5,
+      "word": "hassen",
+      "meaningFa": "متنفر‌بودن",
+      "additionalExamples": [
+        {
+          "de": "Ich hasse es, morgens lange auf den Bus zu warten.",
+          "fa": "از اینکه صبح‌ها مدت زیادی منتظر اتوبوس بمانم متنفرم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Kinder hassen Streit und möchten, dass alle freundlich miteinander sprechen.",
+          "fa": "بچه‌ها از دعوا متنفرند و می‌خواهند همه با مهربانی با هم حرف بزنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-21-B1:006",
+      "row": 6,
+      "word": "retten",
+      "meaningFa": "نجات‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Ein Nachbar hat das Kind aus dem kalten Wasser gerettet.",
+          "fa": "یکی از همسایه‌ها کودک را از آب سرد نجات داد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Durch die schnelle Hilfe konnte die Ärztin sein Leben retten.",
+          "fa": "پزشک با کمک سریع توانست جان او را نجات دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-21-B1:007",
+      "row": 7,
+      "word": "verpassen",
+      "meaningFa": "ازدست‌دادن؛ نرسیدن به وسیله",
+      "additionalExamples": [
+        {
+          "de": "Wenn wir jetzt nicht losgehen, verpassen wir unseren Zug.",
+          "fa": "اگر همین حالا راه نیفتیم، به قطارمان نمی‌رسیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe den Anfang des Films verpasst, weil ich noch arbeiten musste.",
+          "fa": "ابتدای فیلم را از دست دادم، چون هنوز باید کار می‌کردم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-21-B1:008",
+      "row": 8,
+      "word": "zuordnen",
+      "meaningFa": "تطبیق‌دادن؛ مرتبط‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Ordnen Sie bitte jede Aussage dem passenden Foto zu.",
+          "fa": "لطفاً هر گفته را به عکس مناسب آن مرتبط کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir mussten die neuen Wörter ihren Bedeutungen zuordnen.",
+          "fa": "باید واژه‌های جدید را به معنی‌هایشان وصل می‌کردیم.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

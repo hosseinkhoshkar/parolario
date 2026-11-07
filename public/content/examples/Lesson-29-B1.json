@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-29-B1.txt",
+  "lessonNumber": 29,
+  "level": "B1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-29-B1:001",
+      "row": 1,
+      "word": "der Bundeskanzler",
+      "meaningFa": "صدراعظم مرد آلمان",
+      "additionalExamples": [
+        {
+          "de": "Im Unterricht lesen wir einen Bericht über die Aufgaben des Bundeskanzlers.",
+          "fa": "در کلاس گزارشی دربارهٔ وظایف صدراعظم آلمان می‌خوانیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Bundeskanzler hat sich in einer Rede an die Bevölkerung gewandt.",
+          "fa": "صدراعظم در یک سخنرانی مردم را خطاب قرار داد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-29-B1:002",
+      "row": 2,
+      "word": "die Bundeskanzlerin",
+      "meaningFa": "صدراعظم زن آلمان",
+      "additionalExamples": [
+        {
+          "de": "In dem Film wird eine frühere Bundeskanzlerin interviewt.",
+          "fa": "در آن فیلم با یکی از صدراعظم‌های زن پیشین مصاحبه می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Journalistin möchte von der Bundeskanzlerin wissen, welche Ziele sie hat.",
+          "fa": "خبرنگار زن می‌خواهد از صدراعظم زن بداند که چه هدف‌هایی دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-29-B1:003",
+      "row": 3,
+      "word": "der Bundespräsident",
+      "meaningFa": "رئیس‌جمهور مرد آلمان",
+      "additionalExamples": [
+        {
+          "de": "Wir sprechen im Kurs über die Rolle des Bundespräsidenten.",
+          "fa": "در کلاس دربارهٔ نقش رئیس‌جمهور آلمان صحبت می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Bundespräsident hat bei der Feier eine Rede gehalten.",
+          "fa": "رئیس‌جمهور آلمان در آن مراسم سخنرانی کرد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-29-B1:004",
+      "row": 4,
+      "word": "der Bundesrat",
+      "meaningFa": "شورای نمایندگان ایالت‌های آلمان",
+      "additionalExamples": [
+        {
+          "de": "In der Zeitung steht ein Bericht über eine Sitzung des Bundesrats.",
+          "fa": "در روزنامه گزارشی دربارهٔ یک جلسهٔ شورای نمایندگان ایالت‌های آلمان آمده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Diskussion im Bundesrat hat mehrere Stunden gedauert.",
+          "fa": "بحث در شورای نمایندگان ایالت‌های آلمان چند ساعت طول کشید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-29-B1:005",
+      "row": 5,
+      "word": "die Demokratie",
+      "meaningFa": "دموکراسی",
+      "additionalExamples": [
+        {
+          "de": "In einer Demokratie können Menschen verschiedene politische Meinungen haben.",
+          "fa": "در یک دموکراسی مردم می‌توانند نظرهای سیاسی متفاوتی داشته باشند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Studenten diskutieren darüber, warum freie Wahlen für eine Demokratie wichtig sind.",
+          "fa": "دانشجوها دربارهٔ این بحث می‌کنند که چرا انتخابات آزاد برای دموکراسی مهم است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-29-B1:006",
+      "row": 6,
+      "word": "der Frieden",
+      "meaningFa": "صلح",
+      "additionalExamples": [
+        {
+          "de": "Nach vielen Jahren Krieg hoffen die Menschen endlich auf Frieden.",
+          "fa": "مردم پس از سال‌ها جنگ، سرانجام به صلح امیدوارند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir wünschen uns, dass unsere Kinder in Frieden aufwachsen können.",
+          "fa": "آرزو داریم بچه‌هایمان بتوانند در صلح بزرگ شوند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-29-B1:007",
+      "row": 7,
+      "word": "die Mehrheit",
+      "meaningFa": "اکثریت",
+      "additionalExamples": [
+        {
+          "de": "Die Mehrheit der Teilnehmer hat für den Vorschlag gestimmt.",
+          "fa": "اکثریت شرکت‌کنندگان به آن پیشنهاد رأی موافق دادند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Obwohl ich anderer Meinung bin, akzeptiere ich die Entscheidung der Mehrheit.",
+          "fa": "با اینکه نظر دیگری دارم، تصمیم اکثریت را می‌پذیرم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-29-B1:008",
+      "row": 8,
+      "word": "die Partei",
+      "meaningFa": "حزب",
+      "additionalExamples": [
+        {
+          "de": "Vor der Wahl möchte ich wissen, welche Ziele die einzelnen Parteien haben.",
+          "fa": "پیش از انتخابات می‌خواهم بدانم هر حزب چه هدف‌هایی دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Nachbarin ist Mitglied einer politischen Partei.",
+          "fa": "همسایهٔ زن من عضو یک حزب سیاسی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-29-B1:009",
+      "row": 9,
+      "word": "regieren",
+      "meaningFa": "حکومت‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Welche Parteien regieren zurzeit gemeinsam in diesem Land?",
+          "fa": "در حال حاضر کدام حزب‌ها در این کشور با هم حکومت می‌کنند؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Geschichtsunterricht lernen wir, wer das Land früher regiert hat.",
+          "fa": "در کلاس تاریخ یاد می‌گیریم که قبلاً چه کسی بر آن کشور حکومت کرده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-29-B1:010",
+      "row": 10,
+      "word": "die Sitzung",
+      "meaningFa": "جلسه",
+      "additionalExamples": [
+        {
+          "de": "Die Sitzung beginnt um neun Uhr und ist öffentlich.",
+          "fa": "جلسه ساعت نه شروع می‌شود و شرکت در آن برای عموم آزاد است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Während der Sitzung haben wir über den neuen Antrag abgestimmt.",
+          "fa": "در طول جلسه دربارهٔ درخواست جدید رأی‌گیری کردیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-29-B1:011",
+      "row": 11,
+      "word": "die Verantwortung",
+      "meaningFa": "مسئولیت",
+      "additionalExamples": [
+        {
+          "de": "Wer eine Gruppe leitet, übernimmt auch Verantwortung für andere.",
+          "fa": "کسی که گروهی را اداره می‌کند، مسئولیت دیگران را هم بر عهده می‌گیرد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Verantwortung für dieses Projekt teilen wir uns zu zweit.",
+          "fa": "ما دو نفر مسئولیت این پروژه را با هم تقسیم می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-29-B1:012",
+      "row": 12,
+      "word": "die Verfassung",
+      "meaningFa": "قانون اساسی",
+      "additionalExamples": [
+        {
+          "de": "In der Verfassung stehen die wichtigsten Regeln für den Staat.",
+          "fa": "مهم‌ترین قواعد کشور در قانون اساسی آمده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir vergleichen im Kurs die Verfassungen verschiedener Länder.",
+          "fa": "در کلاس قانون اساسی کشورهای مختلف را با هم مقایسه می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

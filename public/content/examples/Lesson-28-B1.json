@@ -1,0 +1,314 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-28-B1.txt",
+  "lessonNumber": 28,
+  "level": "B1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-28-B1:001",
+      "row": 1,
+      "word": "die Arbeitserlaubnis",
+      "meaningFa": "اجازهٔ کار",
+      "additionalExamples": [
+        {
+          "de": "Bei der Beratungsstelle habe ich nach einer Arbeitserlaubnis gefragt.",
+          "fa": "در مرکز مشاوره دربارهٔ اجازهٔ کار پرس‌وجو کردم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für das Gespräch mit dem Arbeitgeber habe ich meine Arbeitserlaubnis mitgenommen.",
+          "fa": "برای گفت‌وگو با کارفرما اجازهٔ کارم را همراه بردم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-28-B1:002",
+      "row": 2,
+      "word": "die Aufenthaltsgenehmigung",
+      "meaningFa": "مجوز اقامت",
+      "additionalExamples": [
+        {
+          "de": "Ich habe einen Termin, um meine Aufenthaltsgenehmigung zu verlängern.",
+          "fa": "برای تمدید مجوز اقامتم وقت دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Mitarbeiterin prüft, ob alle Angaben auf meiner Aufenthaltsgenehmigung richtig sind.",
+          "fa": "کارمند زن بررسی می‌کند که آیا همهٔ اطلاعات روی مجوز اقامتم درست است یا نه.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-28-B1:003",
+      "row": 3,
+      "word": "auswandern",
+      "meaningFa": "مهاجرت از کشور",
+      "additionalExamples": [
+        {
+          "de": "Sie möchte auswandern, weil sie in einem anderen Land arbeiten will.",
+          "fa": "او می‌خواهد از کشورش مهاجرت کند، چون قصد دارد در کشور دیگری کار کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bevor meine Eltern ausgewandert sind, haben sie die neue Sprache gelernt.",
+          "fa": "پدر و مادرم قبل از مهاجرت از کشورشان، زبان جدید را یاد گرفتند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-28-B1:004",
+      "row": 4,
+      "word": "die Auswanderung",
+      "meaningFa": "مهاجرت از کشور",
+      "additionalExamples": [
+        {
+          "de": "Für unsere Familie war die Auswanderung eine große Veränderung.",
+          "fa": "مهاجرت از کشور برای خانوادهٔ ما تغییر بزرگی بود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Vor der Auswanderung musste er seine Wohnung und seine Arbeit kündigen.",
+          "fa": "او قبل از مهاجرت از کشورش باید قرارداد خانه‌اش را فسخ می‌کرد و از کارش استعفا می‌داد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-28-B1:005",
+      "row": 5,
+      "word": "die Beratungsstelle",
+      "meaningFa": "مرکز مشاوره",
+      "additionalExamples": [
+        {
+          "de": "Die Beratungsstelle hilft mir, die Briefe vom Amt zu verstehen.",
+          "fa": "مرکز مشاوره کمکم می‌کند نامه‌های اداره را بفهمم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Einen Termin bei der Beratungsstelle können Sie telefonisch vereinbaren.",
+          "fa": "می‌توانید تلفنی از مرکز مشاوره وقت بگیرید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-28-B1:006",
+      "row": 6,
+      "word": "die Einwanderung",
+      "meaningFa": "مهاجرت به کشور",
+      "additionalExamples": [
+        {
+          "de": "In der Diskussion ging es um Einwanderung und das Zusammenleben in der Stadt.",
+          "fa": "موضوع بحث، مهاجرت به کشور و زندگی مشترک مردم در شهر بود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Unterricht erzählt sie, wie ihre Familie die Einwanderung erlebt hat.",
+          "fa": "او در کلاس تعریف می‌کند که خانواده‌اش مهاجرت به کشور جدید را چگونه تجربه کرده‌اند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-28-B1:007",
+      "row": 7,
+      "word": "der Elektriker",
+      "meaningFa": "برق‌کار مرد",
+      "additionalExamples": [
+        {
+          "de": "Der Elektriker hat geprüft, warum wir in der Küche keinen Strom haben.",
+          "fa": "برق‌کار بررسی کرد که چرا در آشپزخانه برق نداریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für die Reparatur der Leitung brauchen wir einen Elektriker.",
+          "fa": "برای تعمیر سیم‌کشی به برق‌کار نیاز داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-28-B1:008",
+      "row": 8,
+      "word": "die Entscheidung",
+      "meaningFa": "تصمیم",
+      "additionalExamples": [
+        {
+          "de": "Die Entscheidung für einen neuen Beruf ist mir nicht leichtgefallen.",
+          "fa": "تصمیم برای انتخاب یک شغل جدید برایم آسان نبود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir möchten die Entscheidung erst nach dem Gespräch mit der Familie treffen.",
+          "fa": "می‌خواهیم بعد از صحبت با خانواده تصمیم بگیریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-28-B1:009",
+      "row": 9,
+      "word": "die Genehmigung",
+      "meaningFa": "مجوز",
+      "additionalExamples": [
+        {
+          "de": "Wir warten noch auf die Genehmigung für das Projekt.",
+          "fa": "هنوز منتظر مجوز پروژه هستیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ohne die schriftliche Genehmigung möchte die Firma nicht mit der Arbeit anfangen.",
+          "fa": "شرکت نمی‌خواهد بدون مجوز کتبی کار را شروع کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-28-B1:010",
+      "row": 10,
+      "word": "das Gesetz",
+      "meaningFa": "قانون",
+      "additionalExamples": [
+        {
+          "de": "Im Kurs sprechen wir darüber, wie ein neues Gesetz entsteht.",
+          "fa": "در کلاس دربارهٔ این صحبت می‌کنیم که یک قانون جدید چگونه به وجود می‌آید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich möchte verstehen, was dieses Gesetz für meinen Alltag bedeutet.",
+          "fa": "می‌خواهم بفهمم این قانون برای زندگی روزمره‌ام چه معنایی دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-28-B1:011",
+      "row": 11,
+      "word": "die Herausforderung",
+      "meaningFa": "چالش",
+      "additionalExamples": [
+        {
+          "de": "Der Anfang in einem fremden Land war für mich eine große Herausforderung.",
+          "fa": "شروع زندگی در کشوری ناآشنا برایم چالش بزرگی بود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die neue Aufgabe ist eine Herausforderung, aber ich freue mich darauf.",
+          "fa": "کار جدید یک چالش است، اما مشتاق انجامش هستم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-28-B1:012",
+      "row": 12,
+      "word": "das Klima",
+      "meaningFa": "اقلیم؛ آب‌وهوای بلندمدت",
+      "additionalExamples": [
+        {
+          "de": "Das Klima in meiner Heimat ist trockener als hier.",
+          "fa": "اقلیم زادگاه من از اینجا خشک‌تر است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wegen des warmen Klimas verbringen viele Menschen dort viel Zeit draußen.",
+          "fa": "به‌خاطر اقلیم گرم، بسیاری از مردم آنجا زمان زیادی را بیرون از خانه می‌گذرانند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-28-B1:013",
+      "row": 13,
+      "word": "die Köchin",
+      "meaningFa": "آشپز زن",
+      "additionalExamples": [
+        {
+          "de": "Die Köchin hat uns erklärt, welche Zutaten sie für die Suppe verwendet.",
+          "fa": "آشپز زن برایمان توضیح داد که برای سوپ از چه موادی استفاده می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Seit ihrer Ausbildung arbeitet sie als Köchin in einem kleinen Hotel.",
+          "fa": "او از زمان پایان آموزش حرفه‌ای‌اش به‌عنوان آشپز در هتل کوچکی کار می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-28-B1:014",
+      "row": 14,
+      "word": "die Krankenversicherung",
+      "meaningFa": "بیمهٔ درمانی",
+      "additionalExamples": [
+        {
+          "de": "Bei Fragen zu meiner Krankenversicherung rufe ich zuerst die Beratung an.",
+          "fa": "اگر دربارهٔ بیمهٔ درمانی‌ام سؤالی داشته باشم، اول با بخش مشاوره تماس می‌گیرم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach dem Umzug habe ich meiner Krankenversicherung die neue Adresse mitgeteilt.",
+          "fa": "بعد از اسباب‌کشی، آدرس جدید را به بیمهٔ درمانی‌ام اطلاع دادم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-28-B1:015",
+      "row": 15,
+      "word": "liefern",
+      "meaningFa": "تحویل‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Die Firma liefert die neuen Möbel am Freitag zu uns nach Hause.",
+          "fa": "شرکت جمعه مبلمان جدید را به خانه‌مان تحویل می‌دهد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wenn Sie heute bestellen, können wir das Paket nächste Woche liefern.",
+          "fa": "اگر امروز سفارش بدهید، می‌توانیم بسته را هفتهٔ آینده تحویل دهیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-28-B1:016",
+      "row": 16,
+      "word": "prüfen",
+      "meaningFa": "بررسی‌کردن؛ امتحان‌گرفتن",
+      "additionalExamples": [
+        {
+          "de": "Bitte prüfen Sie, ob Ihre Adresse im Formular richtig geschrieben ist.",
+          "fa": "لطفاً بررسی کنید که آیا آدرستان در فرم درست نوشته شده است یا نه.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Dozentin prüft heute die Studenten im Fach Informatik.",
+          "fa": "مدرس زن امروز از دانشجوها در درس علوم کامپیوتر امتحان می‌گیرد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-28-B1:017",
+      "row": 17,
+      "word": "sowohl",
+      "meaningFa": "هم؛ در ساخت sowohl ... als auch",
+      "additionalExamples": [
+        {
+          "de": "Für diese Stelle sind sowohl Deutschkenntnisse als auch Berufserfahrung wichtig.",
+          "fa": "برای این شغل هم دانش زبان آلمانی مهم است و هم تجربهٔ کاری.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie hat sowohl den Antrag ausgefüllt als auch die nötigen Dokumente kopiert.",
+          "fa": "او هم فرم درخواست را پر کرده و هم از مدارک لازم کپی گرفته است.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

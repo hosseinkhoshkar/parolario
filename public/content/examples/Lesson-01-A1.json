@@ -1,0 +1,4130 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-01-A1.txt",
+  "lessonNumber": 1,
+  "level": "A1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-01-A1:001",
+      "row": 1,
+      "word": "aber",
+      "meaningFa": "اما",
+      "additionalExamples": [
+        {
+          "de": "Ich komme heute, aber mein Partner kommt morgen.",
+          "fa": "من امروز می‌آیم، اما همراهم فردا می‌آید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Wort ist richtig, aber die Zahl ist falsch.",
+          "fa": "واژه درست است، اما عدد اشتباه است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:002",
+      "row": 2,
+      "word": "acht",
+      "meaningFa": "هشت",
+      "additionalExamples": [
+        {
+          "de": "In unserem Kurs sind acht Personen.",
+          "fa": "در کلاس ما هشت نفر هستند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte schreiben Sie die Zahl acht.",
+          "fa": "لطفاً عدد هشت را بنویسید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:003",
+      "row": 3,
+      "word": "achtzehn",
+      "meaningFa": "هجده",
+      "additionalExamples": [
+        {
+          "de": "Meine Hausnummer ist achtzehn.",
+          "fa": "شمارهٔ ساختمان من هجده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Deutschkurs endet um achtzehn Uhr.",
+          "fa": "کلاس آلمانی ساعت هجده تمام می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:004",
+      "row": 4,
+      "word": "achtzig",
+      "meaningFa": "هشتاد",
+      "additionalExamples": [
+        {
+          "de": "Das Handy kostet achtzig Euro.",
+          "fa": "این تلفن همراه هشتاد یورو قیمت دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf dem Formular steht die Zahl achtzig.",
+          "fa": "روی فرم عدد هشتاد نوشته شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:005",
+      "row": 5,
+      "word": "die Adresse",
+      "meaningFa": "نشانی",
+      "additionalExamples": [
+        {
+          "de": "Wie schreibt man Ihre Adresse?",
+          "fa": "نشانی شما را چطور می‌نویسند؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte senden Sie das Formular an diese Adresse.",
+          "fa": "لطفاً فرم را به این نشانی بفرستید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:006",
+      "row": 6,
+      "word": "alle",
+      "meaningFa": "همه",
+      "additionalExamples": [
+        {
+          "de": "Alle schreiben ihren Namen auf.",
+          "fa": "همه نامشان را یادداشت می‌کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sind alle heute hier?",
+          "fa": "امروز همه اینجا هستند؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:007",
+      "row": 7,
+      "word": "alles",
+      "meaningFa": "همه‌چیز",
+      "additionalExamples": [
+        {
+          "de": "Ich verstehe fast alles.",
+          "fa": "من تقریباً همه‌چیز را می‌فهمم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist alles richtig auf dem Formular?",
+          "fa": "آیا همه‌چیز در فرم درست است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:008",
+      "row": 8,
+      "word": "das Alphabet",
+      "meaningFa": "الفبا",
+      "additionalExamples": [
+        {
+          "de": "Wir sprechen das Alphabet zusammen.",
+          "fa": "ما الفبا را با هم می‌گوییم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das deutsche Alphabet hat sechsundzwanzig Buchstaben.",
+          "fa": "الفبای آلمانی بیست‌وشش حرف دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:009",
+      "row": 9,
+      "word": "also",
+      "meaningFa": "پس؛ بنابراین",
+      "additionalExamples": [
+        {
+          "de": "Du wohnst hier, also kennst du die Straße.",
+          "fa": "تو اینجا زندگی می‌کنی، پس این خیابان را می‌شناسی.",
+          "origin": "authored"
+        },
+        {
+          "de": "Alle sind fertig, also machen wir eine Pause.",
+          "fa": "همه کارشان تمام شده، پس استراحت می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:010",
+      "row": 10,
+      "word": "an",
+      "meaningFa": "کنار؛ روی سطح عمودی",
+      "additionalExamples": [
+        {
+          "de": "Das Foto hängt an der Tafel.",
+          "fa": "عکس به تختهٔ کلاس آویزان است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Adresse steht an der Tafel.",
+          "fa": "نشانی من روی تختهٔ کلاس نوشته شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:011",
+      "row": 11,
+      "word": "ankreuzen",
+      "meaningFa": "علامت‌زدن با ضربدر",
+      "additionalExamples": [
+        {
+          "de": "Kreuzen Sie bitte die richtige Antwort an.",
+          "fa": "لطفاً پاسخ درست را با ضربدر علامت بزنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich kreuze im Formular „ja“ an.",
+          "fa": "من در فرم گزینهٔ «بله» را با ضربدر علامت می‌زنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:012",
+      "row": 12,
+      "word": "die Antwort",
+      "meaningFa": "پاسخ",
+      "additionalExamples": [
+        {
+          "de": "Deine Antwort ist richtig.",
+          "fa": "پاسخت درست است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich kenne die Antwort noch nicht.",
+          "fa": "من هنوز پاسخ را نمی‌دانم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:013",
+      "row": 13,
+      "word": "antworten",
+      "meaningFa": "پاسخ‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Bitte antworten Sie auf meine Frage.",
+          "fa": "لطفاً به سؤال من پاسخ بدهید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Partner antwortet auf Deutsch.",
+          "fa": "همراهم به آلمانی پاسخ می‌دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:014",
+      "row": 14,
+      "word": "die Arbeit",
+      "meaningFa": "کار",
+      "additionalExamples": [
+        {
+          "de": "Heute gehe ich zur Arbeit.",
+          "fa": "امروز به محل کار می‌روم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Arbeit am Computer macht Spaß.",
+          "fa": "کار با کامپیوتر لذت‌بخش است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:015",
+      "row": 15,
+      "word": "arbeiten",
+      "meaningFa": "کارکردن",
+      "additionalExamples": [
+        {
+          "de": "Arbeitest du morgen auch?",
+          "fa": "تو هم فردا کار می‌کنی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Frau Müller arbeitet bei der Post.",
+          "fa": "خانم مولر در ادارهٔ پست کار می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:016",
+      "row": 16,
+      "word": "der Artikel",
+      "meaningFa": "حرف تعریف؛ مقاله",
+      "additionalExamples": [
+        {
+          "de": "Welchen Artikel hat das Nomen „Sprache“?",
+          "fa": "اسم «Sprache» چه حرف تعریفی دارد؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte markieren Sie die Artikel im Text.",
+          "fa": "لطفاً حرف‌های تعریف را در متن مشخص کنید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:017",
+      "row": 17,
+      "word": "auch",
+      "meaningFa": "هم؛ همچنین",
+      "additionalExamples": [
+        {
+          "de": "Ich spreche Englisch und auch Französisch.",
+          "fa": "من انگلیسی و فرانسوی هم صحبت می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Partnerin kommt auch aus Österreich.",
+          "fa": "همراهم نیز اهل اتریش است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:018",
+      "row": 18,
+      "word": "auf",
+      "meaningFa": "روی",
+      "additionalExamples": [
+        {
+          "de": "Die Telefonnummer steht auf dem Formular.",
+          "fa": "شماره تلفن روی فرم نوشته شده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf dem Foto sind zwei Studenten.",
+          "fa": "در عکس دو دانشجو هستند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:019",
+      "row": 19,
+      "word": "Auf Wiedersehen",
+      "meaningFa": "خدانگهدار",
+      "additionalExamples": [
+        {
+          "de": "Auf Wiedersehen, Herr Berger, bis morgen!",
+          "fa": "خدانگهدار آقای برگر، تا فردا!",
+          "origin": "authored"
+        },
+        {
+          "de": "Frau Demir sagt am Telefon: „Auf Wiedersehen!“",
+          "fa": "خانم دمیر پشت تلفن می‌گوید: «خدانگهدار!»",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:020",
+      "row": 20,
+      "word": "die Aufgabe",
+      "meaningFa": "تکلیف؛ تمرین؛ وظیفه",
+      "additionalExamples": [
+        {
+          "de": "Welche Aufgabe machen wir zuerst?",
+          "fa": "اول کدام تمرین را انجام می‌دهیم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich bin mit der Aufgabe fast fertig.",
+          "fa": "من تقریباً تمرین را تمام کرده‌ام.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:021",
+      "row": 21,
+      "word": "aus",
+      "meaningFa": "از؛ برای مبدأ",
+      "additionalExamples": [
+        {
+          "de": "Meine Partnerin kommt aus der Schweiz.",
+          "fa": "همراهم اهل سوئیس است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist der Student aus China?",
+          "fa": "آیا این دانشجو اهل چین است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:022",
+      "row": 22,
+      "word": "die Begrüßung",
+      "meaningFa": "سلام و خوشامدگویی",
+      "additionalExamples": [
+        {
+          "de": "Zur Begrüßung sagt sie „Hallo“.",
+          "fa": "او برای سلام‌کردن می‌گوید «سلام».",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir üben die Begrüßung auf Deutsch.",
+          "fa": "ما سلام و احوالپرسی به آلمانی را تمرین می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:023",
+      "row": 23,
+      "word": "bei",
+      "meaningFa": "نزد؛ پیشِ؛ در محلِ",
+      "additionalExamples": [
+        {
+          "de": "Ich arbeite bei der Post in Berlin.",
+          "fa": "من در ادارهٔ پست در برلین کار می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Heute ist Anna bei Frau Müller.",
+          "fa": "امروز آنا پیش خانم مولر است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:024",
+      "row": 24,
+      "word": "das Beispiel",
+      "meaningFa": "مثال",
+      "additionalExamples": [
+        {
+          "de": "Können Sie bitte ein Beispiel sagen?",
+          "fa": "می‌شود لطفاً یک مثال بزنید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir lesen das Beispiel zuerst zusammen.",
+          "fa": "ما اول مثال را با هم می‌خوانیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:025",
+      "row": 25,
+      "word": "der Beruf",
+      "meaningFa": "شغل؛ حرفه",
+      "additionalExamples": [
+        {
+          "de": "Was ist Ihr Beruf?",
+          "fa": "شغل شما چیست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Partner spricht über seinen Beruf.",
+          "fa": "همراهم دربارهٔ شغلش صحبت می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:026",
+      "row": 26,
+      "word": "bis",
+      "meaningFa": "تا",
+      "additionalExamples": [
+        {
+          "de": "Der Unterricht geht bis zwölf Uhr.",
+          "fa": "کلاس تا ساعت دوازده ادامه دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bis morgen, wir sehen uns im Kurs!",
+          "fa": "تا فردا، در کلاس همدیگر را می‌بینیم!",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:027",
+      "row": 27,
+      "word": "bitte",
+      "meaningFa": "لطفاً؛ بفرمایید؛ خواهش می‌کنم",
+      "additionalExamples": [
+        {
+          "de": "Wiederholen Sie das bitte langsam.",
+          "fa": "لطفاً آن را آهسته تکرار کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Danke für die Antwort! – Bitte!",
+          "fa": "ممنون بابت پاسخ! — خواهش می‌کنم!",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:028",
+      "row": 28,
+      "word": "der Bleistift",
+      "meaningFa": "مداد",
+      "additionalExamples": [
+        {
+          "de": "Ich schreibe die Adresse mit einem Bleistift.",
+          "fa": "من نشانی را با مداد می‌نویسم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist das dein Bleistift oder meiner?",
+          "fa": "این مداد توست یا مال من؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:029",
+      "row": 29,
+      "word": "der Buchstabe",
+      "meaningFa": "حرف الفبا",
+      "additionalExamples": [
+        {
+          "de": "Der erste Buchstabe meines Namens ist A.",
+          "fa": "اولین حرف نام من A است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie viele Buchstaben hat dieses Wort?",
+          "fa": "این واژه چند حرف دارد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:030",
+      "row": 30,
+      "word": "buchstabieren",
+      "meaningFa": "هجی‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Können Sie Ihren Familiennamen buchstabieren?",
+          "fa": "می‌توانید نام خانوادگی‌تان را هجی کنید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich buchstabiere meine E-Mail-Adresse langsam.",
+          "fa": "من نشانی ایمیلم را آهسته هجی می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:031",
+      "row": 31,
+      "word": "Chinesisch",
+      "meaningFa": "زبان چینی",
+      "additionalExamples": [
+        {
+          "de": "Ist Chinesisch deine Muttersprache?",
+          "fa": "آیا چینی زبان مادری توست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Partnerin spricht Chinesisch und Deutsch.",
+          "fa": "همراهم چینی و آلمانی صحبت می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:032",
+      "row": 32,
+      "word": "der Computer",
+      "meaningFa": "کامپیوتر",
+      "additionalExamples": [
+        {
+          "de": "Der Computer ist heute langsam.",
+          "fa": "امروز کامپیوتر کند است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Schreibst du den Text am Computer?",
+          "fa": "آیا متن را با کامپیوتر می‌نویسی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:033",
+      "row": 33,
+      "word": "da",
+      "meaningFa": "آنجا؛ اینجا با توجه به بافت",
+      "additionalExamples": [
+        {
+          "de": "Da ist meine Partnerin!",
+          "fa": "همراهم آنجاست!",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist Herr Weber schon da?",
+          "fa": "آیا آقای وبر اینجاست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:034",
+      "row": 34,
+      "word": "danke",
+      "meaningFa": "ممنون",
+      "additionalExamples": [
+        {
+          "de": "Danke, das verstehe ich jetzt.",
+          "fa": "ممنون، حالا آن را می‌فهمم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Danke, das ist die richtige Nummer.",
+          "fa": "ممنون، شمارهٔ درست همین است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:035",
+      "row": 35,
+      "word": "dann",
+      "meaningFa": "بعد؛ سپس",
+      "additionalExamples": [
+        {
+          "de": "Zuerst lesen wir, dann schreiben wir.",
+          "fa": "اول می‌خوانیم، بعد می‌نویسیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich frage Anna und dann meinen Partner.",
+          "fa": "من از آنا و بعد از همراهم سؤال می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:036",
+      "row": 36,
+      "word": "dein",
+      "meaningFa": "مال تو",
+      "additionalExamples": [
+        {
+          "de": "Ist das dein Heft?",
+          "fa": "آیا این دفتر توست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Dein Name steht hier auf dem Formular.",
+          "fa": "نام تو اینجا روی فرم نوشته شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:037",
+      "row": 37,
+      "word": "deutsch",
+      "meaningFa": "آلمانی؛ مربوط به آلمان",
+      "additionalExamples": [
+        {
+          "de": "Das ist eine deutsche Telefonnummer.",
+          "fa": "این یک شماره تلفن آلمانی است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kennst du diese deutsche Stadt?",
+          "fa": "این شهر آلمانی را می‌شناسی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:038",
+      "row": 38,
+      "word": "Deutsch",
+      "meaningFa": "زبان آلمانی",
+      "additionalExamples": [
+        {
+          "de": "Ich verstehe schon ein bisschen Deutsch.",
+          "fa": "من همین حالا هم کمی آلمانی می‌فهمم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sprechen wir im Kurs nur Deutsch?",
+          "fa": "آیا در کلاس فقط آلمانی صحبت می‌کنیم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:039",
+      "row": 39,
+      "word": "der Deutschkurs",
+      "meaningFa": "کلاس زبان آلمانی",
+      "additionalExamples": [
+        {
+          "de": "Wann beginnt dein Deutschkurs?",
+          "fa": "کلاس آلمانی تو چه زمانی شروع می‌شود؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Deutschkurs sprechen wir viel zusammen.",
+          "fa": "در کلاس آلمانی زیاد با هم صحبت می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:040",
+      "row": 40,
+      "word": "Deutschland",
+      "meaningFa": "آلمان",
+      "additionalExamples": [
+        {
+          "de": "Arbeiten Sie in Deutschland?",
+          "fa": "آیا در آلمان کار می‌کنید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Partnerin wohnt jetzt in Deutschland.",
+          "fa": "همراهم اکنون در آلمان زندگی می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:041",
+      "row": 41,
+      "word": "drei",
+      "meaningFa": "سه",
+      "additionalExamples": [
+        {
+          "de": "Ich habe drei Fragen zum Text.",
+          "fa": "من دربارهٔ متن سه سؤال دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Drei Personen kommen aus Österreich.",
+          "fa": "سه نفر اهل اتریش هستند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:042",
+      "row": 42,
+      "word": "dreißig",
+      "meaningFa": "سی",
+      "additionalExamples": [
+        {
+          "de": "Unser Kurs hat dreißig Teilnehmer.",
+          "fa": "کلاس ما سی شرکت‌کننده دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich zahle dreißig Euro.",
+          "fa": "من سی یورو می‌پردازم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:043",
+      "row": 43,
+      "word": "dreizehn",
+      "meaningFa": "سیزده",
+      "additionalExamples": [
+        {
+          "de": "Die Hausnummer der Post ist dreizehn.",
+          "fa": "شمارهٔ ساختمان ادارهٔ پست سیزده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte lesen Sie Aufgabe dreizehn.",
+          "fa": "لطفاً تمرین سیزده را بخوانید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:044",
+      "row": 44,
+      "word": "du",
+      "meaningFa": "تو",
+      "additionalExamples": [
+        {
+          "de": "Wie heißt du?",
+          "fa": "نام تو چیست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Du sprichst schon gut Deutsch.",
+          "fa": "تو همین حالا هم خوب آلمانی صحبت می‌کنی.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:045",
+      "row": 45,
+      "word": "die E-Mail",
+      "meaningFa": "ایمیل",
+      "additionalExamples": [
+        {
+          "de": "Ich sende Ihnen eine E-Mail.",
+          "fa": "من برای شما یک ایمیل می‌فرستم.",
+          "origin": "authored"
+        },
+        {
+          "de": "In der E-Mail steht die neue Adresse.",
+          "fa": "نشانی جدید در ایمیل نوشته شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:046",
+      "row": 46,
+      "word": "das Ei",
+      "meaningFa": "تخم‌مرغ",
+      "additionalExamples": [
+        {
+          "de": "Ich esse morgens ein Ei.",
+          "fa": "من صبح‌ها یک تخم‌مرغ می‌خورم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Möchtest du auch ein Ei essen?",
+          "fa": "تو هم می‌خواهی یک تخم‌مرغ بخوری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:047",
+      "row": 47,
+      "word": "einmal",
+      "meaningFa": "یک بار",
+      "additionalExamples": [
+        {
+          "de": "Bitte sagen Sie die Nummer noch einmal.",
+          "fa": "لطفاً شماره را یک بار دیگر بگویید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich lese den Text einmal laut.",
+          "fa": "من متن را یک بار با صدای بلند می‌خوانم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:048",
+      "row": 48,
+      "word": "eins",
+      "meaningFa": "یک",
+      "additionalExamples": [
+        {
+          "de": "Die erste Aufgabe hat die Nummer eins.",
+          "fa": "تمرین اول شمارهٔ یک دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Eins und zwei sind zusammen drei.",
+          "fa": "یک به‌اضافهٔ دو می‌شود سه.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:049",
+      "row": 49,
+      "word": "elf",
+      "meaningFa": "یازده",
+      "additionalExamples": [
+        {
+          "de": "Der Unterricht beginnt um elf Uhr.",
+          "fa": "کلاس ساعت یازده شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Elf Studenten schreiben heute den Text.",
+          "fa": "امروز یازده دانشجو متن را می‌نویسند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:050",
+      "row": 50,
+      "word": "das Ende",
+      "meaningFa": "پایان",
+      "additionalExamples": [
+        {
+          "de": "Am Ende sagen alle „Auf Wiedersehen“.",
+          "fa": "در پایان همه می‌گویند «خدانگهدار».",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Ende des Textes verstehe ich nicht.",
+          "fa": "من پایان متن را نمی‌فهمم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:051",
+      "row": 51,
+      "word": "enden",
+      "meaningFa": "پایان‌یافتن",
+      "additionalExamples": [
+        {
+          "de": "Wann endet die Pause?",
+          "fa": "استراحت چه زمانی تمام می‌شود؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Unser Gespräch endet um zehn Uhr.",
+          "fa": "گفت‌وگوی ما ساعت ده تمام می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:052",
+      "row": 52,
+      "word": "Englisch",
+      "meaningFa": "زبان انگلیسی",
+      "additionalExamples": [
+        {
+          "de": "Sprechen wir jetzt Englisch?",
+          "fa": "الان انگلیسی صحبت کنیم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich schreibe die E-Mail auf Englisch.",
+          "fa": "من ایمیل را به انگلیسی می‌نویسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:053",
+      "row": 53,
+      "word": "Entschuldigung",
+      "meaningFa": "ببخشید؛ پوزش",
+      "additionalExamples": [
+        {
+          "de": "Entschuldigung, wie ist Ihre Hausnummer?",
+          "fa": "ببخشید، شمارهٔ ساختمان شما چند است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Entschuldigung, ich verstehe die Frage nicht.",
+          "fa": "ببخشید، من سؤال را نمی‌فهمم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:054",
+      "row": 54,
+      "word": "er",
+      "meaningFa": "او؛ برای مذکر",
+      "additionalExamples": [
+        {
+          "de": "Das ist Ben. Er kommt aus Berlin.",
+          "fa": "این بن است. او اهل برلین است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Er schreibt seinen Namen an die Tafel.",
+          "fa": "او نامش را روی تخته می‌نویسد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:055",
+      "row": 55,
+      "word": "ergänzen",
+      "meaningFa": "تکمیل‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Ergänzen Sie bitte Ihre Postleitzahl.",
+          "fa": "لطفاً کد پستی‌تان را اضافه کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir ergänzen die Wörter im Text.",
+          "fa": "ما واژه‌های جاافتادهٔ متن را تکمیل می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:056",
+      "row": 56,
+      "word": "erklären",
+      "meaningFa": "توضیح‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Können Sie die Regel noch einmal erklären?",
+          "fa": "می‌توانید قاعده را یک بار دیگر توضیح بدهید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Anna erklärt ihrem Partner die Aufgabe.",
+          "fa": "آنا تمرین را برای همراهش توضیح می‌دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:057",
+      "row": 57,
+      "word": "es",
+      "meaningFa": "آن؛ ضمیر خنثی",
+      "additionalExamples": [
+        {
+          "de": "Das ist mein Heft. Es ist neu.",
+          "fa": "این دفتر من است. نو است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Handy ist da, aber es ist heiß.",
+          "fa": "تلفن همراه اینجاست، اما داغ است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:058",
+      "row": 58,
+      "word": "essen",
+      "meaningFa": "خوردن",
+      "additionalExamples": [
+        {
+          "de": "Was essen wir in der Pause?",
+          "fa": "در زمان استراحت چه می‌خوریم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Studenten essen heute zusammen.",
+          "fa": "امروز دانشجوها با هم غذا می‌خورند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:059",
+      "row": 59,
+      "word": "das Essen",
+      "meaningFa": "غذا؛ خوردن",
+      "additionalExamples": [
+        {
+          "de": "Das Essen ist schon fertig.",
+          "fa": "غذا آماده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie findest du das Essen hier?",
+          "fa": "نظرت دربارهٔ غذای اینجا چیست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:060",
+      "row": 60,
+      "word": "falsch",
+      "meaningFa": "نادرست",
+      "additionalExamples": [
+        {
+          "de": "Die Postleitzahl im Text ist falsch.",
+          "fa": "کد پستیِ داخل متن اشتباه است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist meine Antwort falsch oder richtig?",
+          "fa": "آیا پاسخ من غلط است یا درست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:061",
+      "row": 61,
+      "word": "der Familienname",
+      "meaningFa": "نام خانوادگی",
+      "additionalExamples": [
+        {
+          "de": "Wie lautet Ihr Familienname?",
+          "fa": "نام خانوادگی شما چیست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte schreiben Sie den Familiennamen zuerst.",
+          "fa": "لطفاً اول نام خانوادگی را بنویسید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:062",
+      "row": 62,
+      "word": "fast",
+      "meaningFa": "تقریباً؛ نزدیک به",
+      "additionalExamples": [
+        {
+          "de": "Es sind fast hundert Personen hier.",
+          "fa": "اینجا نزدیک به صد نفر حضور دارند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Formular ist fast fertig.",
+          "fa": "فرم من تقریباً تکمیل شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:063",
+      "row": 63,
+      "word": "der Fehler",
+      "meaningFa": "اشتباه",
+      "additionalExamples": [
+        {
+          "de": "In deiner Adresse ist ein Fehler.",
+          "fa": "در نشانی تو یک اشتباه وجود دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir korrigieren die Fehler zusammen.",
+          "fa": "ما اشتباه‌ها را با هم اصلاح می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:064",
+      "row": 64,
+      "word": "fertig",
+      "meaningFa": "آماده؛ تمام‌شده",
+      "additionalExamples": [
+        {
+          "de": "Bist du mit dem Text fertig?",
+          "fa": "آیا متن را تمام کرده‌ای؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Projekt ist heute fertig.",
+          "fa": "امروز پروژه آماده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:065",
+      "row": 65,
+      "word": "der Fluss",
+      "meaningFa": "رودخانه",
+      "additionalExamples": [
+        {
+          "de": "Die Stadt liegt an einem Fluss.",
+          "fa": "شهر کنار یک رودخانه قرار دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie heißt der Fluss hier?",
+          "fa": "نام رودخانهٔ اینجا چیست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:066",
+      "row": 66,
+      "word": "das Formular",
+      "meaningFa": "فرم",
+      "additionalExamples": [
+        {
+          "de": "Bitte ergänzen Sie das Formular.",
+          "fa": "لطفاً فرم را تکمیل کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Name steht schon im Formular.",
+          "fa": "نام من از قبل در فرم نوشته شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:067",
+      "row": 67,
+      "word": "das Foto",
+      "meaningFa": "عکس",
+      "additionalExamples": [
+        {
+          "de": "Auf dem Foto ist meine Schule.",
+          "fa": "در عکس، مدرسهٔ من دیده می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist das ein Foto von deiner Stadt?",
+          "fa": "آیا این عکسی از شهر توست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:068",
+      "row": 68,
+      "word": "die Frage",
+      "meaningFa": "پرسش",
+      "additionalExamples": [
+        {
+          "de": "Ich habe noch eine Frage.",
+          "fa": "من هنوز یک سؤال دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte lesen Sie zuerst die Frage.",
+          "fa": "لطفاً اول سؤال را بخوانید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:069",
+      "row": 69,
+      "word": "fragen",
+      "meaningFa": "پرسیدن",
+      "additionalExamples": [
+        {
+          "de": "Fragst du zuerst deinen Partner?",
+          "fa": "آیا اول از همراهت می‌پرسی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich frage nach der Telefonnummer.",
+          "fa": "من شماره تلفن را می‌پرسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:070",
+      "row": 70,
+      "word": "Französisch",
+      "meaningFa": "زبان فرانسوی",
+      "additionalExamples": [
+        {
+          "de": "Sprechen Sie auch Französisch?",
+          "fa": "آیا فرانسوی هم صحبت می‌کنید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Text ist auf Französisch.",
+          "fa": "این متن به زبان فرانسوی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:071",
+      "row": 71,
+      "word": "die Frau",
+      "meaningFa": "زن؛ همسر",
+      "additionalExamples": [
+        {
+          "de": "Die Frau am Telefon heißt Anna Weber.",
+          "fa": "خانمی که پشت تلفن است آنا وبر نام دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Frau arbeitet heute in der Schule.",
+          "fa": "همسرم امروز در مدرسه کار می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:072",
+      "row": 72,
+      "word": "fünf",
+      "meaningFa": "پنج",
+      "additionalExamples": [
+        {
+          "de": "Fünf Personen machen das Projekt zusammen.",
+          "fa": "پنج نفر پروژه را با هم انجام می‌دهند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich schreibe fünf Wörter ins Heft.",
+          "fa": "من پنج واژه در دفتر می‌نویسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:073",
+      "row": 73,
+      "word": "fünfzehn",
+      "meaningFa": "پانزده",
+      "additionalExamples": [
+        {
+          "de": "Die Pause dauert fünfzehn Minuten.",
+          "fa": "استراحت پانزده دقیقه طول می‌کشد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte lesen Sie die Zahl fünfzehn laut.",
+          "fa": "لطفاً عدد پانزده را بلند بخوانید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:074",
+      "row": 74,
+      "word": "fünfzig",
+      "meaningFa": "پنجاه",
+      "additionalExamples": [
+        {
+          "de": "Die Hausnummer ist fünfzig.",
+          "fa": "شمارهٔ ساختمان پنجاه است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Fünfzig Studenten sprechen heute Deutsch.",
+          "fa": "امروز پنجاه دانشجو آلمانی صحبت می‌کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:075",
+      "row": 75,
+      "word": "für",
+      "meaningFa": "برای",
+      "additionalExamples": [
+        {
+          "de": "Das Formular ist für den Deutschkurs.",
+          "fa": "این فرم برای کلاس آلمانی است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Danke für das Gespräch.",
+          "fa": "ممنون بابت گفت‌وگو.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:076",
+      "row": 76,
+      "word": "gehen",
+      "meaningFa": "رفتن؛ پیاده‌رفتن",
+      "additionalExamples": [
+        {
+          "de": "Wir gehen jetzt zur Schule.",
+          "fa": "ما الان به مدرسه می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Gehst du heute zur Post?",
+          "fa": "آیا امروز به ادارهٔ پست می‌روی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:077",
+      "row": 77,
+      "word": "genau",
+      "meaningFa": "دقیقاً",
+      "additionalExamples": [
+        {
+          "de": "Ja, genau, das ist meine Telefonnummer.",
+          "fa": "بله، دقیقاً، این شماره تلفن من است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Unterricht endet genau um zwölf Uhr.",
+          "fa": "کلاس دقیقاً ساعت دوازده تمام می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:078",
+      "row": 78,
+      "word": "gern",
+      "meaningFa": "با میل؛ با علاقه",
+      "additionalExamples": [
+        {
+          "de": "Ich spreche gern mit meiner Partnerin.",
+          "fa": "من دوست دارم با همراهم صحبت کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Lesen Sie gern auf Deutsch?",
+          "fa": "آیا دوست دارید به آلمانی بخوانید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:079",
+      "row": 79,
+      "word": "geschehen",
+      "meaningFa": "رخ‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Was geschieht hier?",
+          "fa": "اینجا چه اتفاقی می‌افتد؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Vielen Dank! – Gern geschehen!",
+          "fa": "خیلی ممنون! — خواهش می‌کنم!",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:080",
+      "row": 80,
+      "word": "das Gespräch",
+      "meaningFa": "گفت‌وگو",
+      "additionalExamples": [
+        {
+          "de": "Das Gespräch mit Herrn Weber ist interessant.",
+          "fa": "گفت‌وگو با آقای وبر جالب است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir hören das Gespräch zweimal.",
+          "fa": "ما دو بار به گفت‌وگو گوش می‌دهیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:081",
+      "row": 81,
+      "word": "die Grammatik",
+      "meaningFa": "دستور زبان",
+      "additionalExamples": [
+        {
+          "de": "Heute üben wir die deutsche Grammatik.",
+          "fa": "امروز دستور زبان آلمانی را تمرین می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Eine Frage zur Grammatik habe ich noch.",
+          "fa": "من هنوز یک سؤال دربارهٔ دستور زبان دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:082",
+      "row": 82,
+      "word": "groß",
+      "meaningFa": "بزرگ؛ قدبلند",
+      "additionalExamples": [
+        {
+          "de": "Meine Schule ist sehr groß.",
+          "fa": "مدرسهٔ من خیلی بزرگ است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Student neben Anna ist groß.",
+          "fa": "دانشجویی که کنار آناست قدبلند است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:083",
+      "row": 83,
+      "word": "Grüß Gott",
+      "meaningFa": "سلام؛ رایج در اتریش و جنوب آلمان",
+      "additionalExamples": [
+        {
+          "de": "Grüß Gott, Frau Huber!",
+          "fa": "سلام خانم هوبر!",
+          "origin": "authored"
+        },
+        {
+          "de": "In Österreich höre ich oft „Grüß Gott“.",
+          "fa": "در اتریش اغلب عبارت «سلام» را می‌شنوم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:084",
+      "row": 84,
+      "word": "gut",
+      "meaningFa": "خوب",
+      "additionalExamples": [
+        {
+          "de": "Dein Deutsch ist gut.",
+          "fa": "آلمانیِ تو خوب است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Essen hier schmeckt gut.",
+          "fa": "غذای اینجا خوشمزه است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:085",
+      "row": 85,
+      "word": "Guten Morgen",
+      "meaningFa": "صبح بخیر",
+      "additionalExamples": [
+        {
+          "de": "Guten Morgen, wie geht es dir heute?",
+          "fa": "صبح بخیر، امروز حالت چطور است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich sage morgens „Guten Morgen“.",
+          "fa": "من صبح‌ها می‌گویم «صبح بخیر».",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:086",
+      "row": 86,
+      "word": "Guten Tag",
+      "meaningFa": "روز بخیر",
+      "additionalExamples": [
+        {
+          "de": "Guten Tag, ich habe eine Frage.",
+          "fa": "روز بخیر، من یک سؤال دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Telefon sagt Herr Weber: „Guten Tag!“",
+          "fa": "آقای وبر پشت تلفن می‌گوید: «روز بخیر!»",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:087",
+      "row": 87,
+      "word": "Hallo",
+      "meaningFa": "سلام",
+      "additionalExamples": [
+        {
+          "de": "Hallo, bist du auch im Deutschkurs?",
+          "fa": "سلام، تو هم در کلاس آلمانی هستی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Anna sagt zu ihrem Partner: „Hallo!“",
+          "fa": "آنا به همراهش می‌گوید: «سلام!»",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:088",
+      "row": 88,
+      "word": "das Handy",
+      "meaningFa": "تلفن همراه",
+      "additionalExamples": [
+        {
+          "de": "Bitte notieren Sie die Nummer im Handy.",
+          "fa": "لطفاً شماره را در تلفن همراه یادداشت کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Handy ist heute nicht hier.",
+          "fa": "تلفن همراهم امروز اینجا نیست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:089",
+      "row": 89,
+      "word": "hängen",
+      "meaningFa": "آویزان‌بودن؛ آویزان‌کردن",
+      "additionalExamples": [
+        {
+          "de": "An der Tafel hängen zwei Fotos.",
+          "fa": "دو عکس به تختهٔ کلاس آویزان است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich hänge das Foto neben die Tafel.",
+          "fa": "من عکس را کنار تختهٔ کلاس آویزان می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:090",
+      "row": 90,
+      "word": "die Hausnummer",
+      "meaningFa": "شمارهٔ ساختمان",
+      "additionalExamples": [
+        {
+          "de": "Welche Hausnummer hat die Schule?",
+          "fa": "شمارهٔ ساختمان مدرسه چند است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Hausnummer steht neben dem Namen.",
+          "fa": "شمارهٔ ساختمان کنار نام نوشته شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:091",
+      "row": 91,
+      "word": "das Heft",
+      "meaningFa": "دفتر",
+      "additionalExamples": [
+        {
+          "de": "Meine Antworten stehen im Heft.",
+          "fa": "پاسخ‌هایم در دفتر نوشته شده‌اند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hast du dein Heft heute dabei?",
+          "fa": "آیا امروز دفترت را همراه داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:092",
+      "row": 92,
+      "word": "heiß",
+      "meaningFa": "داغ",
+      "additionalExamples": [
+        {
+          "de": "Vorsicht, das Essen ist noch heiß!",
+          "fa": "مراقب باش، غذا هنوز داغ است!",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Computer wird sehr heiß.",
+          "fa": "کامپیوتر من خیلی داغ می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:093",
+      "row": 93,
+      "word": "heißen",
+      "meaningFa": "نام داشتن",
+      "additionalExamples": [
+        {
+          "de": "Wie heißen die beiden Studenten?",
+          "fa": "نام آن دو دانشجو چیست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Kurs heißt „Deutsch international“.",
+          "fa": "نام این دوره «آلمانی بین‌المللی» است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:094",
+      "row": 94,
+      "word": "der Herr",
+      "meaningFa": "آقا",
+      "additionalExamples": [
+        {
+          "de": "Guten Morgen, Herr Schmidt!",
+          "fa": "صبح بخیر آقای اشمیت!",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist der Herr am Computer Ihr Partner?",
+          "fa": "آیا آقایی که پشت کامپیوتر است همراه شماست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:095",
+      "row": 95,
+      "word": "heute",
+      "meaningFa": "امروز",
+      "additionalExamples": [
+        {
+          "de": "Heute schreiben wir eine E-Mail.",
+          "fa": "امروز یک ایمیل می‌نویسیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kommst du heute zur Schule?",
+          "fa": "آیا امروز به مدرسه می‌آیی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:096",
+      "row": 96,
+      "word": "hier",
+      "meaningFa": "اینجا",
+      "additionalExamples": [
+        {
+          "de": "Hier ist mein Formular.",
+          "fa": "فرم من اینجاست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wohnen Sie hier in der Straße?",
+          "fa": "آیا اینجا در این خیابان زندگی می‌کنید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:097",
+      "row": 97,
+      "word": "hören",
+      "meaningFa": "شنیدن؛ گوش‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Hören Sie bitte genau zu.",
+          "fa": "لطفاً با دقت گوش بدهید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich höre meine Muttersprache oft im Kurs.",
+          "fa": "من در کلاس اغلب زبان مادری‌ام را می‌شنوم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:098",
+      "row": 98,
+      "word": "hundert",
+      "meaningFa": "صد",
+      "additionalExamples": [
+        {
+          "de": "Hundert und hundert sind zweihundert.",
+          "fa": "صد به‌اضافهٔ صد می‌شود دویست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Zahl auf der Tafel ist hundert.",
+          "fa": "عدد روی تخته صد است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:099",
+      "row": 99,
+      "word": "ich",
+      "meaningFa": "من",
+      "additionalExamples": [
+        {
+          "de": "Ich komme aus der Schweiz.",
+          "fa": "من اهل سوئیس هستم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich schreibe meinen Namen hier.",
+          "fa": "من نامم را اینجا می‌نویسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:100",
+      "row": 100,
+      "word": "ihr",
+      "meaningFa": "شما؛ خطاب جمع خودمانی / مال او برای مؤنث؛ مال آن‌ها",
+      "additionalExamples": [
+        {
+          "de": "Kommt ihr morgen wieder?",
+          "fa": "آیا شما فردا دوباره می‌آیید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Das ist Anna. Ihr Familienname ist Weber.",
+          "fa": "این آناست. نام خانوادگی‌اش وبر است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:101",
+      "row": 101,
+      "word": "in",
+      "meaningFa": "در؛ به داخل",
+      "additionalExamples": [
+        {
+          "de": "Meine Partnerin wohnt in Hamburg.",
+          "fa": "همراهم در هامبورگ زندگی می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Schreiben Sie Ihre Antwort in das Heft.",
+          "fa": "پاسختان را در دفتر بنویسید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:102",
+      "row": 102,
+      "word": "international",
+      "meaningFa": "بین‌المللی",
+      "additionalExamples": [
+        {
+          "de": "Unsere Schule ist international.",
+          "fa": "مدرسهٔ ما بین‌المللی است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich arbeite in einem internationalen Projekt.",
+          "fa": "من در یک پروژهٔ بین‌المللی کار می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:103",
+      "row": 103,
+      "word": "ja",
+      "meaningFa": "بله",
+      "additionalExamples": [
+        {
+          "de": "Ja, das ist mein Computer.",
+          "fa": "بله، این کامپیوتر من است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kommen Sie auch? – Ja, gern.",
+          "fa": "شما هم می‌آیید؟ — بله، با کمال میل.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:104",
+      "row": 104,
+      "word": "jung",
+      "meaningFa": "جوان",
+      "additionalExamples": [
+        {
+          "de": "Der Praktikant ist noch sehr jung.",
+          "fa": "کارآموز هنوز خیلی جوان است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Frau und ich sind jung.",
+          "fa": "من و همسرم جوان هستیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:105",
+      "row": 105,
+      "word": "kennen",
+      "meaningFa": "شناختن",
+      "additionalExamples": [
+        {
+          "de": "Kennst du Frau Schneider?",
+          "fa": "آیا خانم اشنایدر را می‌شناسی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich kenne das Wort schon.",
+          "fa": "من از قبل این واژه را می‌شناسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:106",
+      "row": 106,
+      "word": "kommen",
+      "meaningFa": "آمدن؛ اهل جایی بودن",
+      "additionalExamples": [
+        {
+          "de": "Woher kommen Sie, Herr Demir?",
+          "fa": "اهل کجا هستید آقای دمیر؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Partner kommt heute nicht zum Kurs.",
+          "fa": "همراهم امروز به کلاس نمی‌آید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:107",
+      "row": 107,
+      "word": "der Kopf",
+      "meaningFa": "سر",
+      "additionalExamples": [
+        {
+          "de": "Mein Kopf tut weh.",
+          "fa": "سرم درد می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf dem Foto sieht man nur seinen Kopf.",
+          "fa": "در عکس فقط سر او دیده می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:108",
+      "row": 108,
+      "word": "korrigieren",
+      "meaningFa": "اصلاح‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Korrigieren Sie bitte die falsche Zahl.",
+          "fa": "لطفاً عدد اشتباه را اصلاح کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Partner korrigiert meinen Text.",
+          "fa": "همراهم متن مرا اصلاح می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:109",
+      "row": 109,
+      "word": "der Kugelschreiber",
+      "meaningFa": "خودکار",
+      "additionalExamples": [
+        {
+          "de": "Mein Kugelschreiber ist nicht hier.",
+          "fa": "خودکار من اینجا نیست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte schreiben Sie mit einem Kugelschreiber.",
+          "fa": "لطفاً با خودکار بنویسید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:110",
+      "row": 110,
+      "word": "der Kurs",
+      "meaningFa": "دورهٔ آموزشی",
+      "additionalExamples": [
+        {
+          "de": "Unser Kurs beginnt um neun Uhr.",
+          "fa": "کلاس ما ساعت نه شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie viele Personen sind in deinem Kurs?",
+          "fa": "در کلاس تو چند نفر هستند؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:111",
+      "row": 111,
+      "word": "das Land",
+      "meaningFa": "کشور؛ زمین",
+      "additionalExamples": [
+        {
+          "de": "Aus welchem Land kommen die Studenten?",
+          "fa": "دانشجوها اهل کدام کشور هستند؟",
+          "origin": "authored"
+        },
+        {
+          "de": "In diesem Land spricht man Deutsch.",
+          "fa": "در این کشور آلمانی صحبت می‌کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:112",
+      "row": 112,
+      "word": "langsam",
+      "meaningFa": "آهسته",
+      "additionalExamples": [
+        {
+          "de": "Sprechen Sie bitte etwas langsamer.",
+          "fa": "لطفاً کمی آهسته‌تر صحبت کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Partner liest den Text langsam.",
+          "fa": "همراهم متن را آهسته می‌خواند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:113",
+      "row": 113,
+      "word": "lesen",
+      "meaningFa": "خواندن",
+      "additionalExamples": [
+        {
+          "de": "Wir lesen zuerst das Beispiel.",
+          "fa": "ما اول مثال را می‌خوانیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Liest du gern Texte auf Englisch?",
+          "fa": "آیا دوست داری متن‌های انگلیسی بخوانی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:114",
+      "row": 114,
+      "word": "man",
+      "meaningFa": "آدم؛ مردم به‌طور کلی",
+      "additionalExamples": [
+        {
+          "de": "Wie schreibt man dieses Wort?",
+          "fa": "این واژه را چطور می‌نویسند؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Hier spricht man Deutsch und Englisch.",
+          "fa": "اینجا آلمانی و انگلیسی صحبت می‌کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:115",
+      "row": 115,
+      "word": "markieren",
+      "meaningFa": "علامت‌گذاری‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Markieren Sie die Nomen im Text.",
+          "fa": "لطفاً اسم‌ها را در متن مشخص کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich markiere meine Fehler im Heft.",
+          "fa": "من اشتباه‌هایم را در دفتر مشخص می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:116",
+      "row": 116,
+      "word": "mehr",
+      "meaningFa": "بیشتر",
+      "additionalExamples": [
+        {
+          "de": "Ich möchte mehr Deutsch sprechen.",
+          "fa": "من می‌خواهم بیشتر آلمانی صحبت کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Haben Sie noch mehr Fragen?",
+          "fa": "آیا سؤال‌های بیشتری دارید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:117",
+      "row": 117,
+      "word": "mein",
+      "meaningFa": "مال من",
+      "additionalExamples": [
+        {
+          "de": "Mein Heft ist hier, dein Heft ist da.",
+          "fa": "دفتر من اینجاست و دفتر تو آنجاست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das ist mein Partner aus dem Kurs.",
+          "fa": "این همراه من از کلاس است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:118",
+      "row": 118,
+      "word": "die Million",
+      "meaningFa": "میلیون",
+      "additionalExamples": [
+        {
+          "de": "Eine Million hat sechs Nullen.",
+          "fa": "یک میلیون شش صفر دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Schreiben Sie eine Million als Zahl.",
+          "fa": "یک میلیون را به رقم بنویسید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:119",
+      "row": 119,
+      "word": "mit",
+      "meaningFa": "با",
+      "additionalExamples": [
+        {
+          "de": "Ich gehe mit meiner Partnerin zur Schule.",
+          "fa": "من با همراهم به مدرسه می‌روم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir schreiben mit dem Computer.",
+          "fa": "ما با کامپیوتر می‌نویسیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:120",
+      "row": 120,
+      "word": "morgen",
+      "meaningFa": "فردا",
+      "additionalExamples": [
+        {
+          "de": "Morgen haben wir keinen Unterricht.",
+          "fa": "فردا کلاس نداریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Arbeitest du morgen in der Schule?",
+          "fa": "آیا فردا در مدرسه کار می‌کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:121",
+      "row": 121,
+      "word": "der Morgen",
+      "meaningFa": "صبح",
+      "additionalExamples": [
+        {
+          "de": "Am Morgen lese ich meine E-Mails.",
+          "fa": "من صبح ایمیل‌هایم را می‌خوانم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Kurs ist am Morgen.",
+          "fa": "این دوره صبح برگزار می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:122",
+      "row": 122,
+      "word": "die Muttersprache",
+      "meaningFa": "زبان مادری",
+      "additionalExamples": [
+        {
+          "de": "Meine Muttersprache ist Türkisch.",
+          "fa": "زبان مادری من ترکی است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welche Muttersprache hat deine Partnerin?",
+          "fa": "زبان مادریِ همراهت چیست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:123",
+      "row": 123,
+      "word": "nach",
+      "meaningFa": "به سوی؛ بعد از",
+      "additionalExamples": [
+        {
+          "de": "Wir kommen nach dem Unterricht.",
+          "fa": "ما بعد از کلاس می‌آییم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Anna fährt morgen nach Österreich.",
+          "fa": "آنا فردا به اتریش می‌رود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:124",
+      "row": 124,
+      "word": "der Nachname",
+      "meaningFa": "نام خانوادگی",
+      "additionalExamples": [
+        {
+          "de": "Ist Weber Ihr Nachname?",
+          "fa": "آیا وبر نام خانوادگی شماست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Meinen Nachnamen schreibt man mit zwei L.",
+          "fa": "نام خانوادگی مرا با دو حرف L می‌نویسند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:125",
+      "row": 125,
+      "word": "der Name",
+      "meaningFa": "نام",
+      "additionalExamples": [
+        {
+          "de": "Bitte sagen Sie mir Ihren Namen.",
+          "fa": "لطفاً نامتان را به من بگویید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie schreibt man deinen Namen?",
+          "fa": "نام تو را چطور می‌نویسند؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:126",
+      "row": 126,
+      "word": "nein",
+      "meaningFa": "نه",
+      "additionalExamples": [
+        {
+          "de": "Nein, ich arbeite heute nicht.",
+          "fa": "نه، من امروز کار نمی‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist das dein Handy? – Nein.",
+          "fa": "این تلفن همراه توست؟ — نه.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:127",
+      "row": 127,
+      "word": "neu",
+      "meaningFa": "نو؛ جدید",
+      "additionalExamples": [
+        {
+          "de": "Wir haben heute einen neuen Praktikanten.",
+          "fa": "امروز یک کارآموز جدید داریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist deine Telefonnummer neu?",
+          "fa": "آیا شماره تلفنت جدید است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:128",
+      "row": 128,
+      "word": "neun",
+      "meaningFa": "نه؛ عدد ۹",
+      "additionalExamples": [
+        {
+          "de": "Neun Personen fehlen heute im Kurs.",
+          "fa": "امروز نه نفر در کلاس حضور ندارند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir lesen die Antworten von eins bis neun.",
+          "fa": "ما پاسخ‌های یک تا نه را می‌خوانیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:129",
+      "row": 129,
+      "word": "neunzehn",
+      "meaningFa": "نوزده",
+      "additionalExamples": [
+        {
+          "de": "Die Studentin ist neunzehn Jahre alt.",
+          "fa": "این دانشجو نوزده سال دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Formular hat die Nummer neunzehn.",
+          "fa": "فرم من شمارهٔ نوزده دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:130",
+      "row": 130,
+      "word": "neunzig",
+      "meaningFa": "نود",
+      "additionalExamples": [
+        {
+          "de": "Neunzig Euro sind mir zu viel.",
+          "fa": "نود یورو برایم زیاد است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf diesem Foto sind neunzig Personen.",
+          "fa": "در این عکس نود نفر هستند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:131",
+      "row": 131,
+      "word": "nicht",
+      "meaningFa": "نه؛ برای منفی‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Das ist nicht meine Adresse.",
+          "fa": "این نشانی من نیست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich komme morgen nicht zum Unterricht.",
+          "fa": "من فردا به کلاس نمی‌آیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:132",
+      "row": 132,
+      "word": "noch",
+      "meaningFa": "هنوز؛ باز هم",
+      "additionalExamples": [
+        {
+          "de": "Mein Partner ist noch nicht fertig.",
+          "fa": "همراهم هنوز کارش را تمام نکرده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Haben Sie noch eine Frage zum Formular?",
+          "fa": "آیا هنوز سؤالی دربارهٔ فرم دارید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:133",
+      "row": 133,
+      "word": "das Nomen",
+      "meaningFa": "اسم؛ در دستور زبان",
+      "additionalExamples": [
+        {
+          "de": "Markieren wir heute die Nomen oder die Verben?",
+          "fa": "امروز اسم‌ها را مشخص می‌کنیم یا فعل‌ها را؟",
+          "origin": "authored"
+        },
+        {
+          "de": "„Computer“ ist ein Nomen.",
+          "fa": "«Computer» یک اسم است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:134",
+      "row": 134,
+      "word": "notieren",
+      "meaningFa": "یادداشت‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Notieren Sie bitte den Namen der Stadt.",
+          "fa": "لطفاً نام شهر را یادداشت کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich notiere alle neuen Wörter.",
+          "fa": "من همهٔ واژه‌های جدید را یادداشت می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:135",
+      "row": 135,
+      "word": "null",
+      "meaningFa": "صفر",
+      "additionalExamples": [
+        {
+          "de": "Meine Telefonnummer beginnt mit null.",
+          "fa": "شماره تلفن من با صفر شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Null und fünf sind zusammen fünf.",
+          "fa": "صفر به‌اضافهٔ پنج می‌شود پنج.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:136",
+      "row": 136,
+      "word": "die Nummer",
+      "meaningFa": "شماره",
+      "additionalExamples": [
+        {
+          "de": "Welche Nummer hat die Aufgabe?",
+          "fa": "این تمرین چه شماره‌ای دارد؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Nummer auf dem Heft ist falsch.",
+          "fa": "شمارهٔ روی دفتر اشتباه است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:137",
+      "row": 137,
+      "word": "oder",
+      "meaningFa": "یا",
+      "additionalExamples": [
+        {
+          "de": "Kommst du aus Deutschland oder Österreich?",
+          "fa": "اهل آلمان هستی یا اتریش؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Schreiben wir mit Bleistift oder Kugelschreiber?",
+          "fa": "با مداد می‌نویسیم یا خودکار؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:138",
+      "row": 138,
+      "word": "oft",
+      "meaningFa": "اغلب",
+      "additionalExamples": [
+        {
+          "de": "Ich höre oft Deutsch im Unterricht.",
+          "fa": "من اغلب در کلاس آلمانی می‌شنوم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Gehst du oft zur Post?",
+          "fa": "آیا اغلب به ادارهٔ پست می‌روی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:139",
+      "row": 139,
+      "word": "ordnen",
+      "meaningFa": "مرتب‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Ordnen Sie die Wörter nach dem Alphabet.",
+          "fa": "واژه‌ها را بر اساس حروف الفبا مرتب کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir ordnen die Antworten den Fragen zu.",
+          "fa": "ما پاسخ‌ها را به سؤال‌های مربوطشان وصل می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:140",
+      "row": 140,
+      "word": "Österreich",
+      "meaningFa": "اتریش",
+      "additionalExamples": [
+        {
+          "de": "Mein Partner arbeitet in Österreich.",
+          "fa": "همراهم در اتریش کار می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kommen Ihre Studenten aus Österreich?",
+          "fa": "آیا دانشجوهای شما اهل اتریش هستند؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:141",
+      "row": 141,
+      "word": "österreichisch",
+      "meaningFa": "اتریشی",
+      "additionalExamples": [
+        {
+          "de": "Meine Partnerin hat eine österreichische Adresse.",
+          "fa": "همراهم یک نشانی در اتریش دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Herr Huber arbeitet für eine österreichische Schule.",
+          "fa": "آقای هوبر برای یک مدرسهٔ اتریشی کار می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:142",
+      "row": 142,
+      "word": "der Partner",
+      "meaningFa": "شریک؛ همسر یا همراه مرد",
+      "additionalExamples": [
+        {
+          "de": "Mein Partner spricht sehr langsam.",
+          "fa": "همراهم خیلی آهسته صحبت می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich tausche mein Heft mit meinem Partner.",
+          "fa": "من دفترم را با دفتر همراهم عوض می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:143",
+      "row": 143,
+      "word": "die Partnerin",
+      "meaningFa": "شریک؛ همسر یا همراه زن",
+      "additionalExamples": [
+        {
+          "de": "Wie heißt deine Partnerin im Kurs?",
+          "fa": "نام همراهت در کلاس چیست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Partnerin erklärt mir die Regel.",
+          "fa": "همراهم قاعده را برای من توضیح می‌دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:144",
+      "row": 144,
+      "word": "passen",
+      "meaningFa": "متناسب‌بودن؛ مناسب‌بودن",
+      "additionalExamples": [
+        {
+          "de": "Welche Antwort passt zu der Frage?",
+          "fa": "کدام پاسخ با این سؤال متناسب است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Hausnummer passt nicht zur Adresse.",
+          "fa": "شمارهٔ ساختمان با نشانی مطابقت ندارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:145",
+      "row": 145,
+      "word": "die Pause",
+      "meaningFa": "وقفه؛ استراحت",
+      "additionalExamples": [
+        {
+          "de": "In der Pause sprechen wir zusammen.",
+          "fa": "در زمان استراحت با هم صحبت می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Machen wir jetzt eine Pause?",
+          "fa": "حالا استراحت کنیم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:146",
+      "row": 146,
+      "word": "die Person",
+      "meaningFa": "شخص",
+      "additionalExamples": [
+        {
+          "de": "Diese Person kenne ich nicht.",
+          "fa": "من این شخص را نمی‌شناسم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf dem Foto sieht man nur eine Person.",
+          "fa": "در عکس فقط یک نفر دیده می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:147",
+      "row": 147,
+      "word": "die Post",
+      "meaningFa": "پست",
+      "additionalExamples": [
+        {
+          "de": "Wo ist hier die Post?",
+          "fa": "ادارهٔ پست اینجا کجاست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Herr Berger arbeitet bei der Post.",
+          "fa": "آقای برگر در ادارهٔ پست کار می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:148",
+      "row": 148,
+      "word": "die Postleitzahl",
+      "meaningFa": "کد پستی",
+      "additionalExamples": [
+        {
+          "de": "Wie ist die Postleitzahl von Ihrem Wohnort?",
+          "fa": "کد پستیِ محل سکونت شما چیست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Formular fehlt noch die Postleitzahl.",
+          "fa": "در فرم هنوز کد پستی وارد نشده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:149",
+      "row": 149,
+      "word": "der Praktikant",
+      "meaningFa": "کارآموز مرد",
+      "additionalExamples": [
+        {
+          "de": "Der Praktikant heißt Ali und kommt aus Berlin.",
+          "fa": "نام کارآموز علی است و اهل برلین است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich erkläre dem Praktikanten die Aufgabe.",
+          "fa": "من کار را برای کارآموز توضیح می‌دهم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:150",
+      "row": 150,
+      "word": "die Praktikantin",
+      "meaningFa": "کارآموز زن",
+      "additionalExamples": [
+        {
+          "de": "Unsere Praktikantin spricht drei Sprachen.",
+          "fa": "کارآموز ما به سه زبان صحبت می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist die Praktikantin heute schon da?",
+          "fa": "آیا کارآموز امروز آمده است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:151",
+      "row": 151,
+      "word": "das Projekt",
+      "meaningFa": "پروژه",
+      "additionalExamples": [
+        {
+          "de": "Wir machen ein Projekt über unsere Stadt.",
+          "fa": "ما یک پروژه دربارهٔ شهرمان انجام می‌دهیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Alle Studenten arbeiten an dem Projekt.",
+          "fa": "همهٔ دانشجوها روی این پروژه کار می‌کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:152",
+      "row": 152,
+      "word": "die Regel",
+      "meaningFa": "قاعده",
+      "additionalExamples": [
+        {
+          "de": "Diese Regel verstehe ich jetzt.",
+          "fa": "حالا این قاعده را می‌فهمم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir wiederholen die Regel mit einem Beispiel.",
+          "fa": "ما قاعده را با یک مثال مرور می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:153",
+      "row": 153,
+      "word": "rennen",
+      "meaningFa": "دویدن سریع",
+      "additionalExamples": [
+        {
+          "de": "Die Studenten rennen zur Schule.",
+          "fa": "دانشجوها به‌طرف مدرسه می‌دوند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Warum rennst du so schnell?",
+          "fa": "چرا این‌قدر تند می‌دوی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:154",
+      "row": 154,
+      "word": "richtig",
+      "meaningFa": "درست",
+      "additionalExamples": [
+        {
+          "de": "Die Adresse auf dem Formular ist richtig.",
+          "fa": "نشانی روی فرم درست است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie schreibt man das Wort richtig?",
+          "fa": "این واژه را چطور درست می‌نویسند؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:155",
+      "row": 155,
+      "word": "sagen",
+      "meaningFa": "گفتن",
+      "additionalExamples": [
+        {
+          "de": "Was sagt die Frau am Telefon?",
+          "fa": "خانمی که پشت تلفن است چه می‌گوید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte sagen Sie mir die Hausnummer.",
+          "fa": "لطفاً شمارهٔ ساختمان را به من بگویید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:156",
+      "row": 156,
+      "word": "der Satz",
+      "meaningFa": "جمله",
+      "additionalExamples": [
+        {
+          "de": "Bitte ergänzen Sie diesen Satz.",
+          "fa": "لطفاً این جمله را تکمیل کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Satz hat sechs Wörter.",
+          "fa": "جملهٔ من شش واژه دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:157",
+      "row": 157,
+      "word": "schreiben",
+      "meaningFa": "نوشتن",
+      "additionalExamples": [
+        {
+          "de": "Schreibst du mir eine E-Mail?",
+          "fa": "برایم یک ایمیل می‌نویسی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Studentin schreibt eine Frage an die Tafel.",
+          "fa": "دانشجو یک سؤال روی تخته می‌نویسد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:158",
+      "row": 158,
+      "word": "die Schule",
+      "meaningFa": "مدرسه",
+      "additionalExamples": [
+        {
+          "de": "Unsere Schule hat eine neue Adresse.",
+          "fa": "مدرسهٔ ما نشانی جدیدی دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie heißt die Schule hier?",
+          "fa": "نام مدرسهٔ اینجا چیست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:159",
+      "row": 159,
+      "word": "die Schweiz",
+      "meaningFa": "سوئیس",
+      "additionalExamples": [
+        {
+          "de": "Diese Adresse ist in der Schweiz.",
+          "fa": "این نشانی در سوئیس است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Frau kommt aus der Schweiz.",
+          "fa": "همسرم اهل سوئیس است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:160",
+      "row": 160,
+      "word": "sechs",
+      "meaningFa": "شش",
+      "additionalExamples": [
+        {
+          "de": "Wir hören sechs Gespräche.",
+          "fa": "ما به شش گفت‌وگو گوش می‌دهیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Wort hat sechs Buchstaben.",
+          "fa": "این واژه شش حرف دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:161",
+      "row": 161,
+      "word": "sechzehn",
+      "meaningFa": "شانزده",
+      "additionalExamples": [
+        {
+          "de": "Der Praktikant ist sechzehn Jahre alt.",
+          "fa": "کارآموز شانزده سال دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die richtige Antwort steht in Satz sechzehn.",
+          "fa": "پاسخ درست در جملهٔ شانزده نوشته شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:162",
+      "row": 162,
+      "word": "sechzig",
+      "meaningFa": "شصت",
+      "additionalExamples": [
+        {
+          "de": "Zwanzig und vierzig sind zusammen sechzig.",
+          "fa": "بیست به‌اضافهٔ چهل می‌شود شصت.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich zahle für den Kurs sechzig Euro.",
+          "fa": "من برای این دوره شصت یورو می‌پردازم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:163",
+      "row": 163,
+      "word": "der See",
+      "meaningFa": "دریاچه",
+      "additionalExamples": [
+        {
+          "de": "Am See sprechen wir über den Kurs.",
+          "fa": "کنار دریاچه دربارهٔ کلاس صحبت می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie groß ist dieser See?",
+          "fa": "این دریاچه چقدر بزرگ است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:164",
+      "row": 164,
+      "word": "sein",
+      "meaningFa": "مال او؛ برای مذکر یا خنثی / بودن",
+      "additionalExamples": [
+        {
+          "de": "Ben kommt aus Hamburg. Sein Wohnort ist jetzt Berlin.",
+          "fa": "بن اهل هامبورگ است. محل سکونت او اکنون برلین است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir sind heute zusammen im Unterricht.",
+          "fa": "ما امروز با هم در کلاس هستیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:165",
+      "row": 165,
+      "word": "senden",
+      "meaningFa": "ارسال‌کردن؛ پخش‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Wann senden Sie mir das Formular?",
+          "fa": "چه زمانی فرم را برای من می‌فرستید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich sende meine Antwort per E-Mail.",
+          "fa": "من پاسخم را با ایمیل ارسال می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:166",
+      "row": 166,
+      "word": "sich vorstellen",
+      "meaningFa": "خود را معرفی‌کردن؛ تصورکردن",
+      "additionalExamples": [
+        {
+          "de": "Ich stelle mich im Deutschkurs vor.",
+          "fa": "من در کلاس آلمانی خودم را معرفی می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Stellen Sie sich bitte mit Namen und Beruf vor.",
+          "fa": "لطفاً خودتان را با نام و شغلتان معرفی کنید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:167",
+      "row": 167,
+      "word": "sie",
+      "meaningFa": "او برای مؤنث؛ آن‌ها",
+      "additionalExamples": [
+        {
+          "de": "Das ist meine Frau. Sie arbeitet in Hamburg.",
+          "fa": "این همسر من است. او در هامبورگ کار می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Anna und Ben sind da. Sie kommen zusammen.",
+          "fa": "آنا و بن اینجا هستند. آن‌ها با هم می‌آیند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:168",
+      "row": 168,
+      "word": "Sie",
+      "meaningFa": "شما؛ خطاب محترمانه",
+      "additionalExamples": [
+        {
+          "de": "Wo arbeiten Sie, Frau Demir?",
+          "fa": "خانم دمیر، شما کجا کار می‌کنید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Sind Sie mit dem Formular fertig?",
+          "fa": "آیا فرم را تکمیل کرده‌اید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:169",
+      "row": 169,
+      "word": "sieben",
+      "meaningFa": "هفت",
+      "additionalExamples": [
+        {
+          "de": "Sieben Studenten machen die Übung.",
+          "fa": "هفت دانشجو تمرین را انجام می‌دهند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte schreiben Sie sieben Fragen.",
+          "fa": "لطفاً هفت سؤال بنویسید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:170",
+      "row": 170,
+      "word": "siebzehn",
+      "meaningFa": "هفده",
+      "additionalExamples": [
+        {
+          "de": "Unser Kurs endet um siebzehn Uhr.",
+          "fa": "کلاس ما ساعت هفده تمام می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Schule hat die Hausnummer siebzehn.",
+          "fa": "شمارهٔ ساختمان مدرسه هفده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:171",
+      "row": 171,
+      "word": "siebzig",
+      "meaningFa": "هفتاد",
+      "additionalExamples": [
+        {
+          "de": "Für das Handy zahle ich siebzig Euro.",
+          "fa": "من برای تلفن همراه هفتاد یورو می‌پردازم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Antwort steht auf Seite siebzig.",
+          "fa": "پاسخ در صفحهٔ هفتاد نوشته شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:172",
+      "row": 172,
+      "word": "Spanisch",
+      "meaningFa": "زبان اسپانیایی",
+      "additionalExamples": [
+        {
+          "de": "Wir sprechen heute im Kurs Spanisch.",
+          "fa": "امروز در کلاس اسپانیایی صحبت می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist diese E-Mail auf Spanisch?",
+          "fa": "آیا این ایمیل به زبان اسپانیایی است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:173",
+      "row": 173,
+      "word": "der Spaß",
+      "meaningFa": "تفریح؛ خوشی",
+      "additionalExamples": [
+        {
+          "de": "Der Deutschkurs macht mir Spaß.",
+          "fa": "من از کلاس آلمانی لذت می‌برم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir haben zusammen viel Spaß.",
+          "fa": "ما با هم خیلی خوش می‌گذرانیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:174",
+      "row": 174,
+      "word": "später",
+      "meaningFa": "بعداً",
+      "additionalExamples": [
+        {
+          "de": "Ich antworte auf die E-Mail später.",
+          "fa": "من بعداً به ایمیل پاسخ می‌دهم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir erklären die Aufgabe später noch einmal.",
+          "fa": "ما بعداً تمرین را یک بار دیگر توضیح می‌دهیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:175",
+      "row": 175,
+      "word": "spielen",
+      "meaningFa": "بازی‌کردن؛ نواختن",
+      "additionalExamples": [
+        {
+          "de": "Wir spielen in der Pause zusammen.",
+          "fa": "ما در زمان استراحت با هم بازی می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Spielst du gern mit deinen Freunden?",
+          "fa": "آیا دوست داری با دوستانت بازی کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:176",
+      "row": 176,
+      "word": "die Sprache",
+      "meaningFa": "زبان",
+      "additionalExamples": [
+        {
+          "de": "Welche Sprachen spricht Ihr Partner?",
+          "fa": "همراه شما به چه زبان‌هایی صحبت می‌کند؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Welche Sprache sprechen wir zuerst?",
+          "fa": "اول به چه زبانی صحبت کنیم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:177",
+      "row": 177,
+      "word": "sprechen",
+      "meaningFa": "صحبت‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Bitte sprechen Sie mit Ihrer Partnerin.",
+          "fa": "لطفاً با همراهتان صحبت کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sprichst du auch Türkisch?",
+          "fa": "آیا ترکی هم صحبت می‌کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:178",
+      "row": 178,
+      "word": "die Stadt",
+      "meaningFa": "شهر",
+      "additionalExamples": [
+        {
+          "de": "In welcher Stadt wohnen Sie?",
+          "fa": "در کدام شهر زندگی می‌کنید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich kenne die Stadt gut.",
+          "fa": "من این شهر را خوب می‌شناسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:179",
+      "row": 179,
+      "word": "stellen",
+      "meaningFa": "گذاشتن در حالت عمودی",
+      "additionalExamples": [
+        {
+          "de": "Ich stelle den Computer hierhin.",
+          "fa": "من کامپیوتر را اینجا می‌گذارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte stellen Sie das Telefon neben den Computer.",
+          "fa": "لطفاً تلفن را کنار کامپیوتر بگذارید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:180",
+      "row": 180,
+      "word": "die Straße",
+      "meaningFa": "خیابان",
+      "additionalExamples": [
+        {
+          "de": "Wie heißt Ihre Straße?",
+          "fa": "نام خیابان شما چیست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Unsere Schule ist in dieser Straße.",
+          "fa": "مدرسهٔ ما در این خیابان است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:181",
+      "row": 181,
+      "word": "der Student",
+      "meaningFa": "دانشجوی مرد",
+      "additionalExamples": [
+        {
+          "de": "Der Student neben mir heißt Ben.",
+          "fa": "نام دانشجویی که کنار من است بن است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich frage den Studenten nach seinem Namen.",
+          "fa": "من نام این دانشجو را از او می‌پرسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:182",
+      "row": 182,
+      "word": "die Studentin",
+      "meaningFa": "دانشجوی زن",
+      "additionalExamples": [
+        {
+          "de": "Die Studentin schreibt ihren Wohnort auf.",
+          "fa": "دانشجو محل سکونتش را یادداشت می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Partnerin ist Studentin in Berlin.",
+          "fa": "همراهم در برلین دانشجو است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:183",
+      "row": 183,
+      "word": "die Tafel",
+      "meaningFa": "تختهٔ کلاس",
+      "additionalExamples": [
+        {
+          "de": "An der Tafel stehen heute viele Zahlen.",
+          "fa": "امروز عددهای زیادی روی تخته نوشته شده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Schreiben Sie das Wort bitte an die Tafel.",
+          "fa": "لطفاً واژه را روی تخته بنویسید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:184",
+      "row": 184,
+      "word": "der Tag",
+      "meaningFa": "روز",
+      "additionalExamples": [
+        {
+          "de": "Heute ist ein guter Tag.",
+          "fa": "امروز روز خوبی است.",
+          "origin": "authored"
+        },
+        {
+          "de": "An welchem Tag haben wir Unterricht?",
+          "fa": "چه روزی کلاس داریم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:185",
+      "row": 185,
+      "word": "tauschen",
+      "meaningFa": "مبادله‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Wir tauschen die Telefonnummern.",
+          "fa": "ما شماره تلفن‌هایمان را با هم ردوبدل می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Tauschen Sie bitte die Hefte mit Ihrem Partner.",
+          "fa": "لطفاً دفترهایتان را با همراهتان عوض کنید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:186",
+      "row": 186,
+      "word": "tausend",
+      "meaningFa": "هزار",
+      "additionalExamples": [
+        {
+          "de": "Diese Schule hat tausend Studenten.",
+          "fa": "این مدرسه هزار دانشجو دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Eine Million ist tausend mal tausend.",
+          "fa": "یک میلیون برابر با هزار ضرب‌در هزار است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:187",
+      "row": 187,
+      "word": "das Telefon",
+      "meaningFa": "تلفن",
+      "additionalExamples": [
+        {
+          "de": "Das Telefon in der Schule ist neu.",
+          "fa": "تلفن مدرسه جدید است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kann ich bitte Ihr Telefon benutzen?",
+          "fa": "می‌توانم لطفاً از تلفن شما استفاده کنم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:188",
+      "row": 188,
+      "word": "die Telefonnummer",
+      "meaningFa": "شماره تلفن",
+      "additionalExamples": [
+        {
+          "de": "Kannst du mir deine Telefonnummer sagen?",
+          "fa": "می‌توانی شماره تلفنت را به من بگویی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Telefonnummer beginnt mit null eins.",
+          "fa": "شماره تلفن من با صفر یک شروع می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:189",
+      "row": 189,
+      "word": "der Text",
+      "meaningFa": "متن",
+      "additionalExamples": [
+        {
+          "de": "Der Text ist auf Deutsch und Türkisch.",
+          "fa": "این متن به آلمانی و ترکی است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir vergleichen unsere Texte.",
+          "fa": "ما متن‌هایمان را با هم مقایسه می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:190",
+      "row": 190,
+      "word": "Tschüss",
+      "meaningFa": "خداحافظ؛ خودمانی",
+      "additionalExamples": [
+        {
+          "de": "Tschüss, Anna, bis später!",
+          "fa": "خداحافظ آنا، بعداً می‌بینمت!",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach dem Kurs sage ich „Tschüss“.",
+          "fa": "من بعد از کلاس می‌گویم «خداحافظ».",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:191",
+      "row": 191,
+      "word": "tun",
+      "meaningFa": "انجام‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Was tun Sie bei der Arbeit?",
+          "fa": "شما در محل کار چه می‌کنید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Kopf tut heute nicht weh.",
+          "fa": "امروز سرم درد نمی‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:192",
+      "row": 192,
+      "word": "Türkisch",
+      "meaningFa": "زبان ترکی",
+      "additionalExamples": [
+        {
+          "de": "Meine Partnerin versteht Türkisch.",
+          "fa": "همراهم ترکی می‌فهمد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie sagt man das auf Türkisch?",
+          "fa": "این را به ترکی چطور می‌گویند؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:193",
+      "row": 193,
+      "word": "die Übung",
+      "meaningFa": "تمرین",
+      "additionalExamples": [
+        {
+          "de": "Wir machen die Übung zusammen.",
+          "fa": "ما تمرین را با هم انجام می‌دهیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Übung hat drei Aufgaben.",
+          "fa": "این تمرین سه بخش دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:194",
+      "row": 194,
+      "word": "und",
+      "meaningFa": "و",
+      "additionalExamples": [
+        {
+          "de": "Anna und Ben sprechen zusammen.",
+          "fa": "آنا و بن با هم صحبت می‌کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich lese den Text und schreibe die Antwort.",
+          "fa": "من متن را می‌خوانم و پاسخ را می‌نویسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:195",
+      "row": 195,
+      "word": "der Unterricht",
+      "meaningFa": "کلاس؛ تدریس",
+      "additionalExamples": [
+        {
+          "de": "Der Unterricht ist heute auf Deutsch.",
+          "fa": "امروز کلاس به زبان آلمانی برگزار می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Unterricht hören wir viele Beispiele.",
+          "fa": "ما در کلاس مثال‌های زیادی می‌شنویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:196",
+      "row": 196,
+      "word": "das Verb",
+      "meaningFa": "فعل",
+      "additionalExamples": [
+        {
+          "de": "„Arbeiten“ ist ein Verb.",
+          "fa": "«Arbeiten» یک فعل است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Verbinden Sie die Verben mit den Bildern.",
+          "fa": "فعل‌ها را به تصویرهای مربوطشان وصل کنید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:197",
+      "row": 197,
+      "word": "verbinden",
+      "meaningFa": "وصل‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Verbinden Sie bitte die Sätze.",
+          "fa": "لطفاً جمله‌ها را به هم وصل کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich verbinde die Fragen mit den richtigen Antworten.",
+          "fa": "من سؤال‌ها را به پاسخ‌های درست وصل می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:198",
+      "row": 198,
+      "word": "vergleichen",
+      "meaningFa": "مقایسه‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Vergleichen wir zuerst unsere Antworten?",
+          "fa": "اول پاسخ‌هایمان را با هم مقایسه کنیم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich vergleiche die Nummer mit dem Formular.",
+          "fa": "من شماره را با اطلاعات فرم مقایسه می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:199",
+      "row": 199,
+      "word": "verstehen",
+      "meaningFa": "فهمیدن",
+      "additionalExamples": [
+        {
+          "de": "Verstehen Sie die Erklärung?",
+          "fa": "آیا توضیح را می‌فهمید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich verstehe meinen Partner jetzt gut.",
+          "fa": "من حالا حرف‌های همراهم را خوب می‌فهمم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:200",
+      "row": 200,
+      "word": "viel",
+      "meaningFa": "زیاد",
+      "additionalExamples": [
+        {
+          "de": "Wir sprechen im Kurs viel.",
+          "fa": "ما در کلاس زیاد صحبت می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Student hat heute viel Arbeit.",
+          "fa": "این دانشجو امروز کار زیادی دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:201",
+      "row": 201,
+      "word": "Vielen Dank",
+      "meaningFa": "خیلی ممنون",
+      "additionalExamples": [
+        {
+          "de": "Vielen Dank für Ihre E-Mail!",
+          "fa": "خیلی ممنون بابت ایمیلتان!",
+          "origin": "authored"
+        },
+        {
+          "de": "Vielen Dank, das Beispiel ist gut!",
+          "fa": "خیلی ممنون، مثال خوبی است!",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:202",
+      "row": 202,
+      "word": "vier",
+      "meaningFa": "چهار",
+      "additionalExamples": [
+        {
+          "de": "Meine Adresse hat vier Wörter.",
+          "fa": "نشانی من چهار واژه دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Vier Personen sprechen zusammen.",
+          "fa": "چهار نفر با هم صحبت می‌کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:203",
+      "row": 203,
+      "word": "vierzehn",
+      "meaningFa": "چهارده",
+      "additionalExamples": [
+        {
+          "de": "Ich habe vierzehn neue E-Mails.",
+          "fa": "من چهارده ایمیل جدید دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte wiederholen Sie Satz vierzehn.",
+          "fa": "لطفاً جملهٔ چهارده را تکرار کنید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:204",
+      "row": 204,
+      "word": "vierzig",
+      "meaningFa": "چهل",
+      "additionalExamples": [
+        {
+          "de": "Die Frau auf dem Foto ist vierzig Jahre alt.",
+          "fa": "زنِ داخل عکس چهل سال دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Vierzig und zehn sind zusammen fünfzig.",
+          "fa": "چهل به‌اضافهٔ ده می‌شود پنجاه.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:205",
+      "row": 205,
+      "word": "von",
+      "meaningFa": "از؛ متعلق به",
+      "additionalExamples": [
+        {
+          "de": "Das Heft ist von meiner Partnerin.",
+          "fa": "این دفتر مال همراهم است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich komme gerade von der Arbeit.",
+          "fa": "من همین الان از محل کار می‌آیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:206",
+      "row": 206,
+      "word": "vor",
+      "meaningFa": "جلوی؛ قبل از",
+      "additionalExamples": [
+        {
+          "de": "Wir warten vor der Schule.",
+          "fa": "ما جلوی مدرسه منتظر هستیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Vor dem Unterricht lese ich meine E-Mails.",
+          "fa": "من قبل از کلاس ایمیل‌هایم را می‌خوانم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:207",
+      "row": 207,
+      "word": "der Vorname",
+      "meaningFa": "نام کوچک",
+      "additionalExamples": [
+        {
+          "de": "Ist Anna dein Vorname oder dein Nachname?",
+          "fa": "آنا نام کوچک توست یا نام خانوادگی‌ات؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Meinen Vornamen schreibt man mit einem L.",
+          "fa": "نام کوچک مرا با یک حرف L می‌نویسند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:208",
+      "row": 208,
+      "word": "was",
+      "meaningFa": "چه؛ چه چیزی",
+      "additionalExamples": [
+        {
+          "de": "Was machen Sie beruflich?",
+          "fa": "شغل شما چیست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Was bedeutet dieses Wort?",
+          "fa": "این واژه چه معنی‌ای دارد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:209",
+      "row": 209,
+      "word": "wer",
+      "meaningFa": "چه کسی",
+      "additionalExamples": [
+        {
+          "de": "Wer ist die Frau auf dem Foto?",
+          "fa": "زنِ داخل عکس چه کسی است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wer kommt morgen mit?",
+          "fa": "فردا چه کسی همراه ما می‌آید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:210",
+      "row": 210,
+      "word": "wie",
+      "meaningFa": "چگونه؛ چطور",
+      "additionalExamples": [
+        {
+          "de": "Wie schreiben Sie Ihren Nachnamen?",
+          "fa": "نام خانوادگی‌تان را چطور می‌نویسید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie spricht man dieses Wort aus?",
+          "fa": "این واژه را چطور تلفظ می‌کنند؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:211",
+      "row": 211,
+      "word": "Wie geht es Ihnen",
+      "meaningFa": "حال شما چطور است؟",
+      "additionalExamples": [
+        {
+          "de": "Guten Morgen, Frau Weber! Wie geht es Ihnen?",
+          "fa": "صبح بخیر خانم وبر! حال شما چطور است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie geht es Ihnen heute, Herr Demir?",
+          "fa": "امروز حال شما چطور است آقای دمیر؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:212",
+      "row": 212,
+      "word": "Wie geht's",
+      "meaningFa": "حالت چطور است؟",
+      "additionalExamples": [
+        {
+          "de": "Hallo, Ben! Wie geht's heute?",
+          "fa": "سلام بن! امروز حالت چطور است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie geht's dir, Anna?",
+          "fa": "آنا، حالت چطور است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:213",
+      "row": 213,
+      "word": "wiederholen",
+      "meaningFa": "تکرارکردن",
+      "additionalExamples": [
+        {
+          "de": "Wiederholen Sie bitte Ihren Namen.",
+          "fa": "لطفاً نامتان را تکرار کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir wiederholen die Wörter zusammen.",
+          "fa": "ما واژه‌ها را با هم تکرار می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:214",
+      "row": 214,
+      "word": "wir",
+      "meaningFa": "ما",
+      "additionalExamples": [
+        {
+          "de": "Wir gehen nach dem Kurs zusammen zur Post.",
+          "fa": "ما بعد از کلاس با هم به ادارهٔ پست می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Heute schreiben wir unsere Adressen auf.",
+          "fa": "امروز نشانی‌هایمان را یادداشت می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:215",
+      "row": 215,
+      "word": "wo",
+      "meaningFa": "کجا",
+      "additionalExamples": [
+        {
+          "de": "Wo ist mein Heft?",
+          "fa": "دفتر من کجاست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wo arbeitet Ihre Partnerin?",
+          "fa": "همراه شما کجا کار می‌کند؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:216",
+      "row": 216,
+      "word": "woher",
+      "meaningFa": "از کجا",
+      "additionalExamples": [
+        {
+          "de": "Woher kennt ihr euch?",
+          "fa": "شما همدیگر را از کجا می‌شناسید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Woher kommt die neue Praktikantin?",
+          "fa": "کارآموز جدید اهل کجاست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:217",
+      "row": 217,
+      "word": "wohnen",
+      "meaningFa": "سکونت داشتن",
+      "additionalExamples": [
+        {
+          "de": "Wohnt dein Partner auch hier?",
+          "fa": "آیا همراهت هم اینجا زندگی می‌کند؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich wohne jetzt in der Schweiz.",
+          "fa": "من اکنون در سوئیس زندگی می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:218",
+      "row": 218,
+      "word": "der Wohnort",
+      "meaningFa": "محل سکونت",
+      "additionalExamples": [
+        {
+          "de": "Bitte notieren Sie Ihren Wohnort.",
+          "fa": "لطفاً محل سکونتتان را یادداشت کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist Berlin Ihr Wohnort?",
+          "fa": "آیا برلین محل سکونت شماست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:219",
+      "row": 219,
+      "word": "das Wort",
+      "meaningFa": "واژه",
+      "additionalExamples": [
+        {
+          "de": "Dieses Wort kenne ich aus dem Kurs.",
+          "fa": "من این واژه را از کلاس می‌شناسم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie viele Wörter hat der Satz?",
+          "fa": "این جمله چند واژه دارد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:220",
+      "row": 220,
+      "word": "die Zahl",
+      "meaningFa": "عدد",
+      "additionalExamples": [
+        {
+          "de": "Schreiben Sie die Zahl bitte als Wort.",
+          "fa": "لطفاً عدد را به حروف بنویسید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welche Zahl passt hier?",
+          "fa": "اینجا چه عددی مناسب است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:221",
+      "row": 221,
+      "word": "zahlen",
+      "meaningFa": "پرداخت‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Kann ich mit dem Handy zahlen?",
+          "fa": "می‌توانم با تلفن همراه پرداخت کنم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir zahlen zusammen dreißig Euro.",
+          "fa": "ما در مجموع سی یورو می‌پردازیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:222",
+      "row": 222,
+      "word": "zehn",
+      "meaningFa": "ده",
+      "additionalExamples": [
+        {
+          "de": "Zehn Studenten sind heute da.",
+          "fa": "امروز ده دانشجو حضور دارند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Fünf und fünf sind zusammen zehn.",
+          "fa": "پنج به‌اضافهٔ پنج می‌شود ده.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:223",
+      "row": 223,
+      "word": "zu",
+      "meaningFa": "به؛ بیش از حد؛ نشانگر مصدر",
+      "additionalExamples": [
+        {
+          "de": "Wir gehen jetzt zu Frau Müller.",
+          "fa": "ما الان پیش خانم مولر می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte sprechen Sie nicht zu schnell.",
+          "fa": "لطفاً خیلی تند صحبت نکنید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:224",
+      "row": 224,
+      "word": "zuerst",
+      "meaningFa": "اول؛ ابتدا",
+      "additionalExamples": [
+        {
+          "de": "Zuerst frage ich nach dem Namen.",
+          "fa": "من اول نام را می‌پرسم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Was machen wir zuerst: lesen oder schreiben?",
+          "fa": "اول چه کار کنیم: خواندن یا نوشتن؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:225",
+      "row": 225,
+      "word": "zusammen",
+      "meaningFa": "با هم",
+      "additionalExamples": [
+        {
+          "de": "Zusammen lesen wir den Text laut.",
+          "fa": "ما متن را با هم بلند می‌خوانیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Arbeiten Sie zusammen an dem Text?",
+          "fa": "آیا با هم روی متن کار می‌کنید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:226",
+      "row": 226,
+      "word": "zwanzig",
+      "meaningFa": "بیست",
+      "additionalExamples": [
+        {
+          "de": "Die Übung hat zwanzig Sätze.",
+          "fa": "این تمرین بیست جمله دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich zahle zwanzig Euro für das Heft.",
+          "fa": "من برای دفتر بیست یورو می‌پردازم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:227",
+      "row": 227,
+      "word": "zwei",
+      "meaningFa": "دو",
+      "additionalExamples": [
+        {
+          "de": "Zwei Studenten kommen heute später.",
+          "fa": "امروز دو دانشجو دیرتر می‌آیند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hast du zwei Kugelschreiber?",
+          "fa": "آیا دو خودکار داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:228",
+      "row": 228,
+      "word": "zweimal",
+      "meaningFa": "دو بار",
+      "additionalExamples": [
+        {
+          "de": "Wir lesen die Frage zweimal.",
+          "fa": "ما سؤال را دو بار می‌خوانیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte sagen Sie die Hausnummer zweimal.",
+          "fa": "لطفاً شمارهٔ ساختمان را دو بار بگویید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-01-A1:229",
+      "row": 229,
+      "word": "zwölf",
+      "meaningFa": "دوازده",
+      "additionalExamples": [
+        {
+          "de": "Im Kurs sind zwölf Personen.",
+          "fa": "در کلاس دوازده نفر هستند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Drei und neun sind zusammen zwölf.",
+          "fa": "سه به‌اضافهٔ نه می‌شود دوازده.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

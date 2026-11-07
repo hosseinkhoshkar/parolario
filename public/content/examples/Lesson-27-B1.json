@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-27-B1.txt",
+  "lessonNumber": 27,
+  "level": "B1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-27-B1:001",
+      "row": 1,
+      "word": "bevor",
+      "meaningFa": "پیش از اینکه",
+      "additionalExamples": [
+        {
+          "de": "Bevor ich das Haus verlasse, kontrolliere ich noch einmal meine Tasche.",
+          "fa": "قبل از اینکه از خانه بیرون بروم، کیفم را یک بار دیگر بررسی می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir möchten mit der Chefin sprechen, bevor wir den Vertrag unterschreiben.",
+          "fa": "می‌خواهیم قبل از امضای قرارداد با رئیس صحبت کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-27-B1:002",
+      "row": 2,
+      "word": "das Blut",
+      "meaningFa": "خون",
+      "additionalExamples": [
+        {
+          "de": "Bei der Untersuchung wurde mir Blut abgenommen.",
+          "fa": "هنگام معاینه از من خون گرفتند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach dem Unfall hatte er Blut an der Hand.",
+          "fa": "بعد از حادثه دستش خونی بود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-27-B1:003",
+      "row": 3,
+      "word": "der Bundestag",
+      "meaningFa": "مجلس فدرال آلمان",
+      "additionalExamples": [
+        {
+          "de": "Unsere Gruppe hat den Bundestag in Berlin besucht.",
+          "fa": "گروه ما از مجلس فدرال آلمان در برلین بازدید کرد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Bundestag wird über wichtige politische Fragen diskutiert.",
+          "fa": "در مجلس فدرال آلمان دربارهٔ مسائل مهم سیاسی بحث می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-27-B1:004",
+      "row": 4,
+      "word": "einwandern",
+      "meaningFa": "مهاجرت به کشور",
+      "additionalExamples": [
+        {
+          "de": "Meine Großeltern sind vor vielen Jahren nach Deutschland eingewandert.",
+          "fa": "پدربزرگ و مادربزرگم سال‌ها پیش به آلمان مهاجرت کردند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wer in ein neues Land einwandert, muss sich oft an einen anderen Alltag gewöhnen.",
+          "fa": "کسی که به کشور تازه‌ای مهاجرت می‌کند، اغلب باید به زندگی روزمرهٔ متفاوتی عادت کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-27-B1:005",
+      "row": 5,
+      "word": "die Entdeckung",
+      "meaningFa": "کشف",
+      "additionalExamples": [
+        {
+          "de": "Die Entdeckung eines Fehlers hat den ganzen Plan verändert.",
+          "fa": "کشف یک اشتباه کل برنامه را تغییر داد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für das Kind war jeder Spaziergang im Wald eine neue Entdeckung.",
+          "fa": "برای آن کودک، هر پیاده‌روی در جنگل یک کشف تازه بود.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

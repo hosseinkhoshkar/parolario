@@ -1,0 +1,1520 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-04-A1.txt",
+  "lessonNumber": 4,
+  "level": "A1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-04-A1:001",
+      "row": 1,
+      "word": "ähnlich",
+      "meaningFa": "مشابه",
+      "additionalExamples": [
+        {
+          "de": "Meine Schwester und ich haben ähnliche Hobbys.",
+          "fa": "من و خواهرم سرگرمی‌های مشابهی داریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Wörter sind ähnlich, aber die Bedeutung ist anders.",
+          "fa": "این واژه‌ها شبیه هم هستند، اما معنی‌شان متفاوت است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:002",
+      "row": 2,
+      "word": "allein",
+      "meaningFa": "تنها",
+      "additionalExamples": [
+        {
+          "de": "Am Abend esse ich nicht gern allein.",
+          "fa": "عصرها دوست ندارم تنها غذا بخورم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kannst du die Aufgabe allein machen?",
+          "fa": "می‌توانی این تکلیف را به‌تنهایی انجام بدهی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:003",
+      "row": 3,
+      "word": "das Alter",
+      "meaningFa": "سن",
+      "additionalExamples": [
+        {
+          "de": "Bitte sagen Sie Ihren Namen und Ihr Alter.",
+          "fa": "لطفاً نام و سن خود را بگویید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir haben Kinder in jedem Alter.",
+          "fa": "ما کودکانی در هر سنی داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:004",
+      "row": 4,
+      "word": "die Anmeldung",
+      "meaningFa": "ثبت‌نام",
+      "additionalExamples": [
+        {
+          "de": "Für den Deutschkurs brauchen Sie eine Anmeldung.",
+          "fa": "برای دورهٔ آلمانی باید ثبت‌نام کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich mache die Anmeldung heute am Computer.",
+          "fa": "امروز با کامپیوتر ثبت‌نام می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:005",
+      "row": 5,
+      "word": "arm",
+      "meaningFa": "فقیر",
+      "additionalExamples": [
+        {
+          "de": "Die Frau ist arm, aber sie hilft anderen.",
+          "fa": "این زن فقیر است، اما به دیگران کمک می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nicht alle Menschen hier sind arm.",
+          "fa": "همهٔ مردم اینجا فقیر نیستند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:006",
+      "row": 6,
+      "word": "der Arm",
+      "meaningFa": "بازو؛ دست",
+      "additionalExamples": [
+        {
+          "de": "Das Baby schläft auf meinem Arm.",
+          "fa": "نوزاد روی بازوی من خوابیده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein linker Arm ist ganz rot.",
+          "fa": "بازوی چپم کاملاً قرمز شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:007",
+      "row": 7,
+      "word": "bald",
+      "meaningFa": "به‌زودی",
+      "additionalExamples": [
+        {
+          "de": "Bald ist mein Geburtstag.",
+          "fa": "به‌زودی تولدم است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kommst du bald nach Hause?",
+          "fa": "به‌زودی به خانه می‌آیی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:008",
+      "row": 8,
+      "word": "bekommen",
+      "meaningFa": "دریافت‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Zum Geburtstag bekomme ich ein Fahrrad.",
+          "fa": "برای تولدم یک دوچرخه هدیه می‌گیرم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wo bekommen wir die Bücher für den Kurs?",
+          "fa": "کتاب‌های دوره را از کجا تهیه کنیم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:009",
+      "row": 9,
+      "word": "das Buch",
+      "meaningFa": "کتاب",
+      "additionalExamples": [
+        {
+          "de": "In diesem Buch stehen viele deutsche Wörter.",
+          "fa": "در این کتاب واژه‌های آلمانی زیادی نوشته شده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welches Buch möchtest du lesen?",
+          "fa": "دوست داری کدام کتاب را بخوانی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:010",
+      "row": 10,
+      "word": "dürfen",
+      "meaningFa": "اجازه‌داشتن",
+      "additionalExamples": [
+        {
+          "de": "Darf ich heute fernsehen?",
+          "fa": "اجازه دارم امروز تلویزیون تماشا کنم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Kinder dürfen hier spielen.",
+          "fa": "بچه‌ها اجازه دارند اینجا بازی کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:011",
+      "row": 11,
+      "word": "eigentlich",
+      "meaningFa": "در واقع؛ اصولاً",
+      "additionalExamples": [
+        {
+          "de": "Was heißt dieses Wort eigentlich?",
+          "fa": "راستی، این واژه چه معنایی دارد؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Eigentlich möchte ich heute nicht fernsehen.",
+          "fa": "راستش امروز نمی‌خواهم تلویزیون تماشا کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:012",
+      "row": 12,
+      "word": "einige",
+      "meaningFa": "چند؛ برخی",
+      "additionalExamples": [
+        {
+          "de": "Einige Schüler kommen heute später.",
+          "fa": "بعضی دانش‌آموزان امروز دیرتر می‌آیند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe noch einige Fragen zur Anmeldung.",
+          "fa": "هنوز چند سؤال دربارهٔ ثبت‌نام دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:013",
+      "row": 13,
+      "word": "erlauben",
+      "meaningFa": "اجازه‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Erlaubst du mir die Fahrt nach Berlin?",
+          "fa": "اجازه می‌دهی به برلین بروم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Mutter erlaubt mir heute das Fernsehen.",
+          "fa": "مادرم امروز اجازه می‌دهد تلویزیون تماشا کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:014",
+      "row": 14,
+      "word": "der Erwachsene",
+      "meaningFa": "بزرگسال مرد؛ اسمِ صفت‌شده",
+      "additionalExamples": [
+        {
+          "de": "Ein Erwachsener bezahlt mehr als ein Kind.",
+          "fa": "یک بزرگسال بیشتر از یک کودک پول می‌پردازد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Frag bitte den Erwachsenen dort.",
+          "fa": "لطفاً از آن مرد بزرگسال آنجا بپرس.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:015",
+      "row": 15,
+      "word": "die Fähigkeit",
+      "meaningFa": "توانایی",
+      "additionalExamples": [
+        {
+          "de": "Jeder Mensch hat andere Fähigkeiten.",
+          "fa": "هر انسانی توانایی‌های متفاوتی دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Diese Fähigkeit hilft mir beim Lernen.",
+          "fa": "این توانایی در یادگیری به من کمک می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:016",
+      "row": 16,
+      "word": "das Fahrrad",
+      "meaningFa": "دوچرخه",
+      "additionalExamples": [
+        {
+          "de": "Mein Fahrrad steht vor dem Haus.",
+          "fa": "دوچرخه‌ام جلوی خانه است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich möchte ein gelbes Fahrrad kaufen.",
+          "fa": "می‌خواهم یک دوچرخهٔ زرد بخرم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:017",
+      "row": 17,
+      "word": "die Fahrt",
+      "meaningFa": "سفر با وسیلهٔ نقلیه",
+      "additionalExamples": [
+        {
+          "de": "Die Fahrt nach Hamburg dauert drei Stunden.",
+          "fa": "رفتن به هامبورگ سه ساعت طول می‌کشد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Während der Fahrt lese ich ein Buch.",
+          "fa": "در طول مسیر یک کتاب می‌خوانم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:018",
+      "row": 18,
+      "word": "feiern",
+      "meaningFa": "جشن‌گرفتن",
+      "additionalExamples": [
+        {
+          "de": "Wir feiern am Samstag im Park.",
+          "fa": "شنبه در پارک جشن می‌گیریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Feierst du deinen Geburtstag mit der Familie?",
+          "fa": "تولدت را با خانواده جشن می‌گیری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:019",
+      "row": 19,
+      "word": "das Fenster",
+      "meaningFa": "پنجره",
+      "additionalExamples": [
+        {
+          "de": "Am Fenster steht ein kleiner Tisch.",
+          "fa": "کنار پنجره یک میز کوچک قرار دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Durch das Fenster sehe ich den Park.",
+          "fa": "از پنجره پارک را می‌بینم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:020",
+      "row": 20,
+      "word": "fernsehen",
+      "meaningFa": "تلویزیون‌تماشاکردن",
+      "additionalExamples": [
+        {
+          "de": "Meine Eltern sehen am Abend gern fern.",
+          "fa": "پدر و مادرم عصرها دوست دارند تلویزیون تماشا کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Möchtest du nach dem Essen fernsehen?",
+          "fa": "می‌خواهی بعد از غذا تلویزیون تماشا کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:021",
+      "row": 21,
+      "word": "fit",
+      "meaningFa": "سرحال؛ آمادهٔ جسمانی",
+      "additionalExamples": [
+        {
+          "de": "Nach dem Sport bin ich wieder fit.",
+          "fa": "بعد از ورزش دوباره سرحال هستم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Großvater ist mit achtzig noch fit.",
+          "fa": "پدربزرگم در هشتادسالگی هنوز سرحال است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:022",
+      "row": 22,
+      "word": "das Gefühl",
+      "meaningFa": "احساس",
+      "additionalExamples": [
+        {
+          "de": "Ich habe ein gutes Gefühl vor der Prüfung.",
+          "fa": "پیش از امتحان احساس خوبی دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kennst du dieses Gefühl auch?",
+          "fa": "تو هم این احساس را می‌شناسی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:023",
+      "row": 23,
+      "word": "gestern",
+      "meaningFa": "دیروز",
+      "additionalExamples": [
+        {
+          "de": "Gestern habe ich meine Großeltern besucht.",
+          "fa": "دیروز به دیدن پدربزرگ و مادربزرگم رفتم.",
+          "origin": "authored"
+        },
+        {
+          "de": "War der Deutschkurs gestern interessant?",
+          "fa": "کلاس آلمانی دیروز جالب بود؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:024",
+      "row": 24,
+      "word": "gesund",
+      "meaningFa": "سالم",
+      "additionalExamples": [
+        {
+          "de": "Mein Kind ist wieder gesund.",
+          "fa": "فرزندم دوباره سالم شده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Gesundes Essen muss nicht teuer sein.",
+          "fa": "غذای سالم نباید لزوماً گران باشد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:025",
+      "row": 25,
+      "word": "glücklich",
+      "meaningFa": "خوشحال؛ خوشبخت",
+      "additionalExamples": [
+        {
+          "de": "Ich bin glücklich über den freien Tag.",
+          "fa": "از داشتن این روزِ تعطیل خوشحالم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die beiden sind seit vielen Jahren glücklich zusammen.",
+          "fa": "آن دو سال‌هاست که با هم خوشبخت هستند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:026",
+      "row": 26,
+      "word": "der Grund",
+      "meaningFa": "دلیل؛ زمین",
+      "additionalExamples": [
+        {
+          "de": "Was ist der Grund für deine Frage?",
+          "fa": "دلیل سؤالت چیست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich möchte den Grund verstehen.",
+          "fa": "می‌خواهم دلیلش را بفهمم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:027",
+      "row": 27,
+      "word": "die Heimat",
+      "meaningFa": "زادبوم؛ وطن",
+      "additionalExamples": [
+        {
+          "de": "In meiner Heimat sprechen die Menschen Persisch.",
+          "fa": "مردم در زادگاه من فارسی صحبت می‌کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich lebe jetzt in Deutschland, aber meine Heimat ist der Iran.",
+          "fa": "حالا در آلمان زندگی می‌کنم، اما وطنم ایران است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:028",
+      "row": 28,
+      "word": "die Hilfe",
+      "meaningFa": "کمک",
+      "additionalExamples": [
+        {
+          "de": "Kannst du mir ohne Hilfe den Weg zeigen?",
+          "fa": "می‌توانی بدون کمک، راه را به من نشان بدهی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Bei dieser Aufgabe brauche ich deine Hilfe.",
+          "fa": "برای این تکلیف به کمکت نیاز دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:029",
+      "row": 29,
+      "word": "das Interesse",
+      "meaningFa": "علاقه",
+      "additionalExamples": [
+        {
+          "de": "Hast du Interesse an einem Deutschkurs?",
+          "fa": "به شرکت در یک دورهٔ آلمانی علاقه داری؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Schwester hat großes Interesse an Musik.",
+          "fa": "خواهرم علاقهٔ زیادی به موسیقی دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:030",
+      "row": 30,
+      "word": "Italienisch",
+      "meaningFa": "زبان ایتالیایی",
+      "additionalExamples": [
+        {
+          "de": "Sprichst du mit deiner Freundin Italienisch?",
+          "fa": "با دوستت ایتالیایی صحبت می‌کنی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Italienisch ist für mich eine neue Sprache.",
+          "fa": "ایتالیایی برای من یک زبان جدید است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:031",
+      "row": 31,
+      "word": "jährlich",
+      "meaningFa": "سالانه",
+      "additionalExamples": [
+        {
+          "de": "Die Schule organisiert jährlich ein Konzert.",
+          "fa": "مدرسه هر سال یک کنسرت برگزار می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir bezahlen jährlich hundert Euro.",
+          "fa": "ما سالانه صد یورو پرداخت می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:032",
+      "row": 32,
+      "word": "jeden Tag",
+      "meaningFa": "هر روز",
+      "additionalExamples": [
+        {
+          "de": "Jeden Tag lerne ich fünf neue Wörter.",
+          "fa": "هر روز پنج واژهٔ جدید یاد می‌گیرم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Fährst du jeden Tag mit dem Fahrrad zur Schule?",
+          "fa": "هر روز با دوچرخه به مدرسه می‌روی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:033",
+      "row": 33,
+      "word": "jeder",
+      "meaningFa": "هر؛ هر کس؛ صورت مذکر",
+      "additionalExamples": [
+        {
+          "de": "Jeder bekommt ein Buch.",
+          "fa": "هرکس یک کتاب می‌گیرد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hier kennt jeder die Antwort.",
+          "fa": "اینجا همه جواب را می‌دانند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:034",
+      "row": 34,
+      "word": "das Klavier",
+      "meaningFa": "پیانو",
+      "additionalExamples": [
+        {
+          "de": "Kann deine Tochter schon Klavier spielen?",
+          "fa": "دخترت حالا می‌تواند پیانو بزند؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Auf dem Klavier ist mein Buch.",
+          "fa": "کتابم روی پیانو است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:035",
+      "row": 35,
+      "word": "laufen",
+      "meaningFa": "دویدن؛ راه‌رفتن",
+      "additionalExamples": [
+        {
+          "de": "Wir laufen die ganze Strecke zusammen.",
+          "fa": "تمام مسیر را با هم پیاده می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Morgen laufe ich eine Stunde.",
+          "fa": "صبح‌ها یک ساعت می‌دوم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:036",
+      "row": 36,
+      "word": "die Lösung",
+      "meaningFa": "راه‌حل؛ پاسخ تمرین",
+      "additionalExamples": [
+        {
+          "de": "Findest du eine Lösung für das Problem?",
+          "fa": "برای این مشکل راه‌حلی پیدا می‌کنی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Vergleichen wir unsere Lösungen.",
+          "fa": "بیایید پاسخ‌هایمان را مقایسه کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:037",
+      "row": 37,
+      "word": "die Minute",
+      "meaningFa": "دقیقه",
+      "additionalExamples": [
+        {
+          "de": "Ich komme in zehn Minuten.",
+          "fa": "ده دقیقهٔ دیگر می‌آیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hast du eine Minute Zeit für mich?",
+          "fa": "یک دقیقه برای من وقت داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:038",
+      "row": 38,
+      "word": "mögen",
+      "meaningFa": "دوست‌داشتن",
+      "additionalExamples": [
+        {
+          "de": "Die Kinder mögen süßes Obst.",
+          "fa": "بچه‌ها میوهٔ شیرین دوست دارند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Magst du lieber Milch oder Wasser?",
+          "fa": "شیر را بیشتر دوست داری یا آب را؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:039",
+      "row": 39,
+      "word": "die Möglichkeit",
+      "meaningFa": "امکان",
+      "additionalExamples": [
+        {
+          "de": "Haben wir noch eine andere Möglichkeit?",
+          "fa": "هنوز امکان دیگری داریم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Es gibt viele Möglichkeiten für einen Ausflug.",
+          "fa": "گزینه‌های زیادی برای گردش وجود دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:040",
+      "row": 40,
+      "word": "monatlich",
+      "meaningFa": "ماهانه",
+      "additionalExamples": [
+        {
+          "de": "Der Kurs kostet monatlich vierzig Euro.",
+          "fa": "این دوره ماهانه چهل یورو هزینه دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Vater bezahlt die Zeitung monatlich.",
+          "fa": "پدرم هزینهٔ روزنامه را ماهانه می‌پردازد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:041",
+      "row": 41,
+      "word": "natürlich",
+      "meaningFa": "طبیعتاً؛ البته",
+      "additionalExamples": [
+        {
+          "de": "Natürlich helfe ich dir bei der Aufgabe.",
+          "fa": "البته که در این تکلیف کمکت می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Du darfst natürlich auch mitspielen.",
+          "fa": "معلوم است که تو هم می‌توانی در بازی شرکت کنی.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:042",
+      "row": 42,
+      "word": "nichts",
+      "meaningFa": "هیچ‌چیز",
+      "additionalExamples": [
+        {
+          "de": "Ich verstehe heute nichts.",
+          "fa": "امروز هیچ‌چیز نمی‌فهمم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Möchtest du nichts essen?",
+          "fa": "نمی‌خواهی چیزی بخوری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:043",
+      "row": 43,
+      "word": "offen",
+      "meaningFa": "باز",
+      "additionalExamples": [
+        {
+          "de": "Ist das Museum am Montag offen?",
+          "fa": "آیا موزه دوشنبه باز است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Abend ist das Fenster noch offen.",
+          "fa": "عصر پنجره هنوز باز است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:044",
+      "row": 44,
+      "word": "passieren",
+      "meaningFa": "اتفاق‌افتادن",
+      "additionalExamples": [
+        {
+          "de": "Was passiert nach dem Unterricht?",
+          "fa": "بعد از کلاس چه اتفاقی می‌افتد؟",
+          "origin": "authored"
+        },
+        {
+          "de": "So etwas passiert mir selten.",
+          "fa": "به‌ندرت چنین اتفاقی برایم می‌افتد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:045",
+      "row": 45,
+      "word": "die Pflicht",
+      "meaningFa": "وظیفه",
+      "additionalExamples": [
+        {
+          "de": "Das ist nicht deine Pflicht.",
+          "fa": "این وظیفهٔ تو نیست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Jeder hat hier seine Pflichten.",
+          "fa": "اینجا هرکس وظایف خودش را دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:046",
+      "row": 46,
+      "word": "der Platz",
+      "meaningFa": "میدان؛ جا",
+      "additionalExamples": [
+        {
+          "de": "Ist dieser Platz noch frei?",
+          "fa": "این جا هنوز خالی است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir treffen uns auf dem Platz vor dem Museum.",
+          "fa": "در میدان جلوی موزه همدیگر را می‌بینیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:047",
+      "row": 47,
+      "word": "plötzlich",
+      "meaningFa": "ناگهان",
+      "additionalExamples": [
+        {
+          "de": "Plötzlich steht mein Lehrer vor mir.",
+          "fa": "ناگهان معلمم جلوی من ایستاده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Kind ist plötzlich ganz leise.",
+          "fa": "کودک ناگهان کاملاً ساکت می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:048",
+      "row": 48,
+      "word": "die Prüfung",
+      "meaningFa": "آزمون",
+      "additionalExamples": [
+        {
+          "de": "Morgen habe ich eine Prüfung an der Universität.",
+          "fa": "فردا در دانشگاه امتحان دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für die Prüfung muss ich noch viel lernen.",
+          "fa": "برای امتحان هنوز باید خیلی درس بخوانم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:049",
+      "row": 49,
+      "word": "putzen",
+      "meaningFa": "تمیزکردن",
+      "additionalExamples": [
+        {
+          "de": "Ich putze jeden Samstag mein Fahrrad.",
+          "fa": "هر شنبه دوچرخه‌ام را تمیز می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wer putzt heute das Fenster?",
+          "fa": "امروز چه کسی پنجره را تمیز می‌کند؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:050",
+      "row": 50,
+      "word": "Rad fahren",
+      "meaningFa": "دوچرخه‌سواری‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Kann dein Sohn schon Rad fahren?",
+          "fa": "پسرت حالا می‌تواند دوچرخه‌سواری کند؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Sommer fahren wir oft Rad.",
+          "fa": "تابستان‌ها زیاد دوچرخه‌سواری می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:051",
+      "row": 51,
+      "word": "regelmäßig",
+      "meaningFa": "منظم؛ به‌طور مرتب",
+      "additionalExamples": [
+        {
+          "de": "Ich lese regelmäßig eine deutsche Zeitung.",
+          "fa": "به‌طور مرتب یک روزنامهٔ آلمانی می‌خوانم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kommt ihr regelmäßig zum Unterricht?",
+          "fa": "مرتب سر کلاس می‌آیید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:052",
+      "row": 52,
+      "word": "reisen",
+      "meaningFa": "سفرکردن",
+      "additionalExamples": [
+        {
+          "de": "Meine Großeltern reisen nicht gern allein.",
+          "fa": "پدربزرگ و مادربزرگم دوست ندارند تنها سفر کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mit wem reist du im Sommer?",
+          "fa": "تابستان با چه کسی سفر می‌کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:053",
+      "row": 53,
+      "word": "der Rock",
+      "meaningFa": "دامن",
+      "additionalExamples": [
+        {
+          "de": "Der Rock passt gut zu meinen Schuhen.",
+          "fa": "دامن به کفش‌هایم می‌آید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welchen Rock möchtest du kaufen?",
+          "fa": "می‌خواهی کدام دامن را بخری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:054",
+      "row": 54,
+      "word": "rosa",
+      "meaningFa": "صورتی",
+      "additionalExamples": [
+        {
+          "de": "Meine Tochter möchte ein rosa Fahrrad.",
+          "fa": "دخترم یک دوچرخهٔ صورتی می‌خواهد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Heft auf dem Tisch ist rosa.",
+          "fa": "دفترِ روی میز صورتی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:055",
+      "row": 55,
+      "word": "der Rücken",
+      "meaningFa": "کمر؛ پشت",
+      "additionalExamples": [
+        {
+          "de": "Das Kind schläft auf dem Rücken.",
+          "fa": "کودک به پشت خوابیده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kannst du das Kind auf deinem Rücken tragen?",
+          "fa": "می‌توانی کودک را روی پشتت حمل کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:056",
+      "row": 56,
+      "word": "schaffen",
+      "meaningFa": "از عهده برآمدن؛ ایجادکردن",
+      "additionalExamples": [
+        {
+          "de": "Schaffst du die Prüfung ohne Hilfe?",
+          "fa": "می‌توانی بدون کمک از پس امتحان بربیایی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Zusammen schaffen wir das.",
+          "fa": "با هم از پسش برمی‌آییم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:057",
+      "row": 57,
+      "word": "schlafen",
+      "meaningFa": "خوابیدن",
+      "additionalExamples": [
+        {
+          "de": "Am Wochenende schlafe ich gern lang.",
+          "fa": "آخر هفته‌ها دوست دارم زیاد بخوابم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Schläft das Baby schon?",
+          "fa": "نوزاد خوابیده است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:058",
+      "row": 58,
+      "word": "der Schuh",
+      "meaningFa": "کفش",
+      "additionalExamples": [
+        {
+          "de": "Dieser Schuh ist mir zu klein.",
+          "fa": "این کفش برایم خیلی کوچک است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wo sind meine blauen Schuhe?",
+          "fa": "کفش‌های آبی‌ام کجاست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:059",
+      "row": 59,
+      "word": "der Schüler",
+      "meaningFa": "دانش‌آموز پسر",
+      "additionalExamples": [
+        {
+          "de": "Der Schüler fragt seinen Lehrer.",
+          "fa": "دانش‌آموز پسر از معلمش سؤال می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "In unserem Kurs sind auch zwei Schüler.",
+          "fa": "در دورهٔ ما دو دانش‌آموز پسر هم هستند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:060",
+      "row": 60,
+      "word": "die Schülerin",
+      "meaningFa": "دانش‌آموز دختر",
+      "additionalExamples": [
+        {
+          "de": "Die Schülerin schreibt die Antwort an die Tafel.",
+          "fa": "دانش‌آموز دختر جواب را روی تخته می‌نویسد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Tochter ist noch Schülerin.",
+          "fa": "دخترم هنوز دانش‌آموز است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:061",
+      "row": 61,
+      "word": "schwimmen",
+      "meaningFa": "شناکردن",
+      "additionalExamples": [
+        {
+          "de": "Wir schwimmen im Sommer gern im See.",
+          "fa": "تابستان‌ها دوست داریم در دریاچه شنا کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kannst du auch ohne Hilfe schwimmen?",
+          "fa": "می‌توانی بدون کمک هم شنا کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:062",
+      "row": 62,
+      "word": "das Sofa",
+      "meaningFa": "مبل راحتی",
+      "additionalExamples": [
+        {
+          "de": "Das Baby schläft auf dem Sofa.",
+          "fa": "نوزاد روی مبل راحتی خوابیده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir brauchen ein neues Sofa für unser Zimmer.",
+          "fa": "برای اتاقمان به یک مبل راحتی جدید نیاز داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:063",
+      "row": 63,
+      "word": "stehen",
+      "meaningFa": "ایستاده‌بودن؛ قرارداشتن",
+      "additionalExamples": [
+        {
+          "de": "Mein Auto steht vor dem Hotel.",
+          "fa": "ماشینم جلوی هتل است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Warum stehst du noch hier?",
+          "fa": "چرا هنوز اینجا ایستاده‌ای؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:064",
+      "row": 64,
+      "word": "die Strecke",
+      "meaningFa": "مسیر؛ مسافت",
+      "additionalExamples": [
+        {
+          "de": "Kennst du die Strecke zur Schule?",
+          "fa": "مسیر مدرسه را می‌شناسی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Diese Strecke fahre ich jeden Tag.",
+          "fa": "هر روز این مسیر را می‌روم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:065",
+      "row": 65,
+      "word": "studieren",
+      "meaningFa": "در دانشگاه تحصیل‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Mein Bruder studiert in Österreich.",
+          "fa": "برادرم در اتریش درس می‌خواند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Was möchtest du nach der Schule studieren?",
+          "fa": "بعد از مدرسه می‌خواهی در دانشگاه چه رشته‌ای بخوانی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:066",
+      "row": 66,
+      "word": "die Stunde",
+      "meaningFa": "ساعت؛ مدت شصت دقیقه",
+      "additionalExamples": [
+        {
+          "de": "Ich habe heute nur eine Stunde Zeit.",
+          "fa": "امروز فقط یک ساعت وقت دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich arbeite heute nur vier Stunden.",
+          "fa": "امروز فقط چهار ساعت کار می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:067",
+      "row": 67,
+      "word": "suchen",
+      "meaningFa": "جست‌وجوکردن",
+      "additionalExamples": [
+        {
+          "de": "Ich suche meinen Kugelschreiber.",
+          "fa": "دنبال خودکارم می‌گردم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Suchst du eine Wohnung für deine Mutter?",
+          "fa": "دنبال آپارتمانی برای مادرت می‌گردی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:068",
+      "row": 68,
+      "word": "tanzen",
+      "meaningFa": "رقصیدن",
+      "additionalExamples": [
+        {
+          "de": "Bei der Party tanzen alle zusammen.",
+          "fa": "در مهمانی همه با هم می‌رقصند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Tanzt du gern zu dieser Musik?",
+          "fa": "دوست داری با این موسیقی برقصی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:069",
+      "row": 69,
+      "word": "der Test",
+      "meaningFa": "امتحان؛ آزمایش",
+      "additionalExamples": [
+        {
+          "de": "Der Test ist nicht schwer.",
+          "fa": "این امتحان سخت نیست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir schreiben am Freitag einen Test.",
+          "fa": "جمعه یک امتحان کتبی داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:070",
+      "row": 70,
+      "word": "das Theater",
+      "meaningFa": "تئاتر",
+      "additionalExamples": [
+        {
+          "de": "Meine Eltern gehen oft ins Theater.",
+          "fa": "پدر و مادرم زیاد به تئاتر می‌روند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Vor dem Theater treffen wir unsere Freunde.",
+          "fa": "جلوی تئاتر با دوستانمان دیدار می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:071",
+      "row": 71,
+      "word": "unter",
+      "meaningFa": "زیر",
+      "additionalExamples": [
+        {
+          "de": "Meine Schuhe stehen unter dem Bett.",
+          "fa": "کفش‌هایم زیر تخت هستند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Kind spielt unter dem Tisch.",
+          "fa": "کودک زیر میز بازی می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:072",
+      "row": 72,
+      "word": "unzufrieden",
+      "meaningFa": "ناراضی",
+      "additionalExamples": [
+        {
+          "de": "Bist du mit dem Essen unzufrieden?",
+          "fa": "از غذا ناراضی هستی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Viele Schüler sind mit dem Test unzufrieden.",
+          "fa": "دانش‌آموزان زیادی از امتحان ناراضی هستند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:073",
+      "row": 73,
+      "word": "verbieten",
+      "meaningFa": "ممنوع‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Die Schule verbietet Handys im Unterricht.",
+          "fa": "مدرسه استفاده از موبایل را در کلاس ممنوع می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Eltern verbieten mir die Fahrt nach Berlin.",
+          "fa": "پدر و مادرم رفتن به برلین را برایم ممنوع می‌کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:074",
+      "row": 74,
+      "word": "verwenden",
+      "meaningFa": "به‌کاربردن",
+      "additionalExamples": [
+        {
+          "de": "Welche Wörter kann ich in der Antwort verwenden?",
+          "fa": "در جواب از کدام واژه‌ها می‌توانم استفاده کنم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir verwenden das Buch auch im nächsten Kurs.",
+          "fa": "در دورهٔ بعدی هم از این کتاب استفاده می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:075",
+      "row": 75,
+      "word": "warum",
+      "meaningFa": "چرا",
+      "additionalExamples": [
+        {
+          "de": "Warum kommst du heute nicht?",
+          "fa": "چرا امروز نمی‌آیی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Warum lernen wir diese Wörter?",
+          "fa": "چرا این واژه‌ها را یاد می‌گیریم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:076",
+      "row": 76,
+      "word": "weiß",
+      "meaningFa": "سفید",
+      "additionalExamples": [
+        {
+          "de": "Ich möchte das Zimmer weiß machen.",
+          "fa": "می‌خواهم اتاق را سفید کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine neuen Schuhe sind weiß.",
+          "fa": "کفش‌های جدیدم سفید هستند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:077",
+      "row": 77,
+      "word": "wohin",
+      "meaningFa": "به کجا",
+      "additionalExamples": [
+        {
+          "de": "Wohin fahren wir am Wochenende?",
+          "fa": "آخر هفته به کجا می‌رویم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wohin möchtest du nach dem Unterricht gehen?",
+          "fa": "بعد از کلاس می‌خواهی کجا بروی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:078",
+      "row": 78,
+      "word": "wollen",
+      "meaningFa": "خواستن",
+      "additionalExamples": [
+        {
+          "de": "Wir wollen heute im Park spielen.",
+          "fa": "امروز می‌خواهیم در پارک بازی کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Willst du mit mir nach Hause gehen?",
+          "fa": "می‌خواهی با من به خانه بروی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:079",
+      "row": 79,
+      "word": "der Wunsch",
+      "meaningFa": "آرزو؛ خواسته",
+      "additionalExamples": [
+        {
+          "de": "Mein Wunsch ist ein Urlaub in Italien.",
+          "fa": "آرزوی من گذراندن تعطیلات در ایتالیاست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hast du einen Wunsch zum Geburtstag?",
+          "fa": "برای تولدت خواسته‌ای داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:080",
+      "row": 80,
+      "word": "wünschen",
+      "meaningFa": "آرزوکردن",
+      "additionalExamples": [
+        {
+          "de": "Ich wünsche mir ein Fahrrad.",
+          "fa": "آرزوی داشتن یک دوچرخه را دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir wünschen euch viel Spaß.",
+          "fa": "برای شما اوقات خوشی آرزو می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:081",
+      "row": 81,
+      "word": "die Zeitung",
+      "meaningFa": "روزنامه",
+      "additionalExamples": [
+        {
+          "de": "Liest du die Zeitung lieber am Computer?",
+          "fa": "ترجیح می‌دهی روزنامه را با کامپیوتر بخوانی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "In der Zeitung steht heute etwas über unsere Schule.",
+          "fa": "امروز در روزنامه مطلبی دربارهٔ مدرسهٔ ما نوشته شده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:082",
+      "row": 82,
+      "word": "das Ziel",
+      "meaningFa": "هدف؛ مقصد",
+      "additionalExamples": [
+        {
+          "de": "Unser Ziel ist der See.",
+          "fa": "مقصد ما دریاچه است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Ziel ist eine Arbeit in Deutschland.",
+          "fa": "هدفم داشتن یک شغل در آلمان است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:083",
+      "row": 83,
+      "word": "zufrieden",
+      "meaningFa": "راضی",
+      "additionalExamples": [
+        {
+          "de": "Bist du mit deiner Arbeit zufrieden?",
+          "fa": "از کارت راضی هستی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Eltern sind mit der Wohnung zufrieden.",
+          "fa": "پدر و مادرم از آپارتمان راضی هستند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-04-A1:084",
+      "row": 84,
+      "word": "zum Beispiel",
+      "meaningFa": "برای مثال",
+      "additionalExamples": [
+        {
+          "de": "Ich esse gern Obst, zum Beispiel Äpfel.",
+          "fa": "من میوه، مثلاً سیب، دوست دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Zum Beispiel können wir am Samstag zusammen kochen.",
+          "fa": "برای مثال می‌توانیم شنبه با هم آشپزی کنیم.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

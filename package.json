@@ -1,0 +1,39 @@
+{
+  "name": "wortzeit",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build && node scripts/build-pwa.mjs",
+    "build:portable": "tsc -b && node scripts/build-portable.mjs && node scripts/build-pwa.mjs",
+    "lint": "eslint .",
+    "test": "node --test --test-isolation=none src/content/*.test.ts src/learning/*.test.ts src/storage/*.test.ts src/controller/*.test.ts src/pwa/*.test.ts src/features/*.test.ts",
+    "test:browser": "node scripts/browser-test.mjs",
+    "verify:dist": "node scripts/verify-dist.mjs",
+    "preview": "vite preview --host 127.0.0.1 --configLoader native",
+    "sync:examples": "node scripts/sync-examples.mjs",
+    "prebuild": "node scripts/sync-examples.mjs",
+    "prebuild:portable": "node scripts/sync-examples.mjs"
+  },
+  "dependencies": {
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "24.10.1",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "19.2.3",
+    "@vitejs/plugin-react": "5.1.1",
+    "@eslint/js": "9.39.5",
+    "eslint": "9.39.5",
+    "eslint-plugin-react-hooks": "5.2.0",
+    "typescript-eslint": "8.66.0",
+    "playwright": "1.62.1",
+    "typescript": "5.9.3",
+    "vite": "6.4.1"
+  }
+}

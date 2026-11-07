@@ -1,0 +1,458 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-17-A2.txt",
+  "lessonNumber": 17,
+  "level": "A2",
+  "entries": [
+    {
+      "sourceKey": "Lesson-17-A2:001",
+      "row": 1,
+      "word": "die Apotheke",
+      "meaningFa": "داروخانه",
+      "additionalExamples": [
+        {
+          "de": "Die nächste Apotheke ist gegenüber dem Krankenhaus.",
+          "fa": "نزدیک‌ترین داروخانه روبه‌روی بیمارستان است.",
+          "origin": "authored"
+        },
+        {
+          "de": "In der Apotheke erklärt man mir, wie ich das Medikament nehmen soll.",
+          "fa": "در داروخانه برایم توضیح می‌دهند که دارو را چگونه مصرف کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:002",
+      "row": 2,
+      "word": "die Arbeitszeit",
+      "meaningFa": "ساعت کاری",
+      "additionalExamples": [
+        {
+          "de": "Meine Arbeitszeit beginnt um acht Uhr.",
+          "fa": "ساعت کاری من از هشت شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir können unsere Arbeitszeiten mit der Chefin besprechen.",
+          "fa": "می‌توانیم دربارهٔ ساعت‌های کاری‌مان با رئیس صحبت کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:003",
+      "row": 3,
+      "word": "baden",
+      "meaningFa": "حمام‌کردن؛ آب‌تنی‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Nach der langen Fahrt möchte ich erst einmal baden.",
+          "fa": "بعد از این سفر طولانی می‌خواهم اول حمام کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Sommer baden wir oft im See.",
+          "fa": "تابستان‌ها اغلب در دریاچه آب‌تنی می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:004",
+      "row": 4,
+      "word": "besetzt",
+      "meaningFa": "اشغال‌شده",
+      "additionalExamples": [
+        {
+          "de": "Ist der Platz neben Ihnen noch besetzt?",
+          "fa": "آیا صندلی کنار شما هنوز اشغال است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe dreimal angerufen, aber es war immer besetzt.",
+          "fa": "سه بار زنگ زدم، اما هر بار تلفن اشغال بود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:005",
+      "row": 5,
+      "word": "die Bewerbung",
+      "meaningFa": "درخواست شغل یا پذیرش",
+      "additionalExamples": [
+        {
+          "de": "Ich schicke meine Bewerbung heute an die Firma.",
+          "fa": "امروز درخواست شغلم را برای شرکت می‌فرستم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für eine gute Bewerbung brauchen Sie einen aktuellen Lebenslauf.",
+          "fa": "برای یک درخواست شغلی خوب به رزومهٔ به‌روز نیاز دارید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:006",
+      "row": 6,
+      "word": "herstellen",
+      "meaningFa": "تولیدکردن",
+      "additionalExamples": [
+        {
+          "de": "In dieser Firma stellt man Möbel her.",
+          "fa": "در این شرکت مبلمان تولید می‌کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wo werden diese Schuhe hergestellt?",
+          "fa": "این کفش‌ها کجا تولید می‌شوند؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:007",
+      "row": 7,
+      "word": "die Kenntnis",
+      "meaningFa": "دانسته؛ آگاهی",
+      "additionalExamples": [
+        {
+          "de": "Für die Stelle sind gute Kenntnisse in Deutsch wichtig.",
+          "fa": "برای این موقعیت شغلی، دانش خوب زبان آلمانی مهم است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Seminar habe ich meine Kenntnisse über Computer verbessert.",
+          "fa": "در این سمینار دانشم را دربارهٔ کامپیوتر بهتر کردم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:008",
+      "row": 8,
+      "word": "der Krieg",
+      "meaningFa": "جنگ",
+      "additionalExamples": [
+        {
+          "de": "Während des Krieges konnten viele Kinder nicht zur Schule gehen.",
+          "fa": "در طول جنگ، بسیاری از کودکان نمی‌توانستند به مدرسه بروند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Großmutter hat mir viel vom Krieg erzählt.",
+          "fa": "مادربزرگم دربارهٔ جنگ خیلی برایم تعریف کرده است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:009",
+      "row": 9,
+      "word": "der Lebenslauf",
+      "meaningFa": "رزومه",
+      "additionalExamples": [
+        {
+          "de": "In meinem Lebenslauf stehen meine Ausbildung und meine Berufserfahrung.",
+          "fa": "در رزومه‌ام آموزش حرفه‌ای و تجربهٔ کاری‌ام نوشته شده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte schicken Sie uns Ihren Lebenslauf als Dokument.",
+          "fa": "لطفاً رزومه‌تان را به‌صورت فایل برایمان بفرستید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:010",
+      "row": 10,
+      "word": "der Mitarbeiter",
+      "meaningFa": "کارمند مرد",
+      "additionalExamples": [
+        {
+          "de": "Ein neuer Mitarbeiter fängt am Montag bei uns an.",
+          "fa": "دوشنبه یک کارمند جدید کارش را پیش ما شروع می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Chef spricht mit dem Mitarbeiter über seine Weiterbildung.",
+          "fa": "رئیس با آن کارمند دربارهٔ آموزش تکمیلی‌اش صحبت می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:011",
+      "row": 11,
+      "word": "die Mitarbeiterin",
+      "meaningFa": "کارمند زن",
+      "additionalExamples": [
+        {
+          "de": "Unsere Mitarbeiterin hilft Ihnen bei der Anmeldung.",
+          "fa": "همکار زن ما در ثبت‌نام به شما کمک می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die neue Mitarbeiterin hat viel Erfahrung im Verkauf.",
+          "fa": "کارمند زن جدید در فروش تجربهٔ زیادی دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:012",
+      "row": 12,
+      "word": "normalerweise",
+      "meaningFa": "معمولاً",
+      "additionalExamples": [
+        {
+          "de": "Normalerweise fahre ich mit dem Fahrrad zur Arbeit.",
+          "fa": "معمولاً با دوچرخه به محل کار می‌روم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Büro ist normalerweise bis fünf Uhr geöffnet.",
+          "fa": "دفتر معمولاً تا ساعت پنج باز است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:013",
+      "row": 13,
+      "word": "die Note",
+      "meaningFa": "نمره؛ نت موسیقی",
+      "additionalExamples": [
+        {
+          "de": "In Deutsch hat meine Tochter eine gute Note bekommen.",
+          "fa": "دخترم در درس آلمانی نمرهٔ خوبی گرفته است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welche Note brauchen Sie für diese Ausbildung?",
+          "fa": "برای این آموزش حرفه‌ای به چه نمره‌ای نیاز دارید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:014",
+      "row": 14,
+      "word": "der Rabatt",
+      "meaningFa": "تخفیف",
+      "additionalExamples": [
+        {
+          "de": "Mit dieser Karte bekommen Studenten einen Rabatt.",
+          "fa": "دانشجویان با این کارت تخفیف می‌گیرند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Gibt es einen Rabatt, wenn ich zwei Jacken kaufe?",
+          "fa": "اگر دو کاپشن بخرم، تخفیفی دارد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:015",
+      "row": 15,
+      "word": "schützen",
+      "meaningFa": "محافظت‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Diese Jacke schützt dich vor dem kalten Wind.",
+          "fa": "این کاپشن تو را در برابر باد سرد محافظت می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir müssen unsere Kinder vor zu viel Sonne schützen.",
+          "fa": "باید از بچه‌هایمان در برابر آفتاب بیش از حد محافظت کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:016",
+      "row": 16,
+      "word": "das Seminar",
+      "meaningFa": "سمینار؛ کلاس بحث دانشگاهی",
+      "additionalExamples": [
+        {
+          "de": "Das Seminar findet jeden Mittwoch in der Hochschule statt.",
+          "fa": "سمینار هر چهارشنبه در مؤسسهٔ آموزش عالی برگزار می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Seminar sprechen wir über unsere Erfahrungen im Beruf.",
+          "fa": "در سمینار دربارهٔ تجربه‌های شغلی‌مان صحبت می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:017",
+      "row": 17,
+      "word": "sich bewerben",
+      "meaningFa": "درخواست شغل یا پذیرش دادن",
+      "additionalExamples": [
+        {
+          "de": "Sie bewirbt sich bei einem Krankenhaus um einen Ausbildungsplatz.",
+          "fa": "او برای یک جایگاه آموزش حرفه‌ای در یک بیمارستان درخواست می‌دهد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hast du dich schon auf die Stelle im Büro beworben?",
+          "fa": "آیا برای آن موقعیت شغلی در دفتر درخواست داده‌ای؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:018",
+      "row": 18,
+      "word": "sich vorbereiten",
+      "meaningFa": "آماده‌شدن",
+      "additionalExamples": [
+        {
+          "de": "Ich bereite mich auf das Vorstellungsgespräch vor.",
+          "fa": "دارم خودم را برای مصاحبهٔ شغلی آماده می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir haben uns gemeinsam auf die Prüfung vorbereitet.",
+          "fa": "ما با هم برای امتحان آماده شدیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:019",
+      "row": 19,
+      "word": "teilnehmen",
+      "meaningFa": "شرکت‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Möchten Sie an unserem Deutschkurs teilnehmen?",
+          "fa": "می‌خواهید در دورهٔ آلمانی ما شرکت کنید؟",
+          "origin": "authored"
+        },
+        {
+          "de": "An der Besprechung haben gestern zwölf Mitarbeiter teilgenommen.",
+          "fa": "دیروز دوازده کارمند در جلسه شرکت کردند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:020",
+      "row": 20,
+      "word": "die Überstunde",
+      "meaningFa": "اضافه‌کاری؛ یک ساعت اضافه",
+      "additionalExamples": [
+        {
+          "de": "Diese Woche muss ich keine Überstunden machen.",
+          "fa": "این هفته لازم نیست اضافه‌کاری کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für jede Überstunde bekomme ich später eine Stunde frei.",
+          "fa": "به‌ازای هر ساعت اضافه‌کاری، بعداً یک ساعت مرخصی می‌گیرم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:021",
+      "row": 21,
+      "word": "die Unterschrift",
+      "meaningFa": "امضا",
+      "additionalExamples": [
+        {
+          "de": "Unter dem Formular fehlt noch Ihre Unterschrift.",
+          "fa": "پایین فرم هنوز امضای شما کم است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ohne die Unterschrift ist die Anmeldung nicht fertig.",
+          "fa": "بدون امضا، ثبت‌نام کامل نیست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:022",
+      "row": 22,
+      "word": "die Voraussetzung",
+      "meaningFa": "پیش‌شرط",
+      "additionalExamples": [
+        {
+          "de": "Eine wichtige Voraussetzung für die Arbeit ist Erfahrung mit Computern.",
+          "fa": "یکی از پیش‌شرط‌های مهم این کار، تجربهٔ کار با کامپیوتر است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welche Voraussetzungen muss ich für den Kurs mitbringen?",
+          "fa": "برای این دوره باید چه پیش‌شرط‌هایی داشته باشم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:023",
+      "row": 23,
+      "word": "das Vorstellungsgespräch",
+      "meaningFa": "مصاحبهٔ شغلی",
+      "additionalExamples": [
+        {
+          "de": "Mein Vorstellungsgespräch dauert ungefähr eine halbe Stunde.",
+          "fa": "مصاحبهٔ شغلی‌ام حدود نیم ساعت طول می‌کشد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach dem Vorstellungsgespräch möchte die Firma mich noch einmal anrufen.",
+          "fa": "شرکت می‌خواهد بعد از مصاحبهٔ شغلی دوباره با من تماس بگیرد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:024",
+      "row": 24,
+      "word": "die Weiterbildung",
+      "meaningFa": "آموزش تکمیلی",
+      "additionalExamples": [
+        {
+          "de": "Durch eine Weiterbildung kann ich meine Kenntnisse verbessern.",
+          "fa": "می‌توانم با آموزش تکمیلی دانشم را بهتر کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Firma bezahlt die Weiterbildung.",
+          "fa": "شرکتم هزینهٔ آموزش تکمیلی را می‌پردازد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-17-A2:025",
+      "row": 25,
+      "word": "weniger",
+      "meaningFa": "کمتر",
+      "additionalExamples": [
+        {
+          "de": "Seit dem Umzug brauche ich weniger Zeit für den Weg zur Arbeit.",
+          "fa": "از زمان اسباب‌کشی، برای رفتن به محل کار زمان کمتری لازم دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Winter haben wir weniger Gäste als im Sommer.",
+          "fa": "زمستان مهمان‌های کمتری از تابستان داریم.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

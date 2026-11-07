@@ -1,0 +1,368 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-16-A2.txt",
+  "lessonNumber": 16,
+  "level": "A2",
+  "entries": [
+    {
+      "sourceKey": "Lesson-16-A2:001",
+      "row": 1,
+      "word": "der Abschluss",
+      "meaningFa": "مدرک پایان دوره؛ پایان",
+      "additionalExamples": [
+        {
+          "de": "Nach der Ausbildung möchte ich einen guten Abschluss machen.",
+          "fa": "می‌خواهم بعد از آموزش حرفه‌ای مدرک خوبی بگیرم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mit diesem Abschluss kann sie an einer Hochschule studieren.",
+          "fa": "او می‌تواند با این مدرک در یک مؤسسهٔ آموزش عالی تحصیل کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:002",
+      "row": 2,
+      "word": "arbeitslos",
+      "meaningFa": "بیکار",
+      "additionalExamples": [
+        {
+          "de": "Seit einem Monat ist mein Bruder arbeitslos.",
+          "fa": "برادرم یک ماه است که بیکار است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wer arbeitslos ist, sucht oft jeden Tag nach einer neuen Stelle.",
+          "fa": "کسی که بیکار است، اغلب هر روز دنبال شغل تازه‌ای می‌گردد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:003",
+      "row": 3,
+      "word": "der Arbeitsplatz",
+      "meaningFa": "محل یا موقعیت کار",
+      "additionalExamples": [
+        {
+          "de": "Mein neuer Arbeitsplatz ist direkt am Fenster.",
+          "fa": "محل کار جدیدم درست کنار پنجره است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Firma bietet zehn neue Arbeitsplätze an.",
+          "fa": "این شرکت ده موقعیت شغلی جدید ارائه می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:004",
+      "row": 4,
+      "word": "die Ausbildung",
+      "meaningFa": "آموزش حرفه‌ای",
+      "additionalExamples": [
+        {
+          "de": "Meine Tochter macht eine Ausbildung zur Mechanikerin.",
+          "fa": "دخترم دورهٔ آموزش حرفه‌ای مکانیکی می‌گذراند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Während der Ausbildung lernt man auch in der Schule.",
+          "fa": "در طول آموزش حرفه‌ای، در مدرسه هم درس می‌خوانند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:005",
+      "row": 5,
+      "word": "damit",
+      "meaningFa": "تا اینکه؛ با آن",
+      "additionalExamples": [
+        {
+          "de": "Ich schreibe alles auf, damit ich nichts vergesse.",
+          "fa": "همه‌چیز را یادداشت می‌کنم تا چیزی را فراموش نکنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nimm die warme Jacke mit, damit du nicht frierst.",
+          "fa": "کاپشن گرم را همراهت ببر تا سردت نشود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:006",
+      "row": 6,
+      "word": "das Ergebnis",
+      "meaningFa": "نتیجه",
+      "additionalExamples": [
+        {
+          "de": "Das Ergebnis der Untersuchung bekommen Sie morgen.",
+          "fa": "نتیجهٔ معاینه را فردا دریافت می‌کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mit dem Ergebnis unserer Arbeit sind wir zufrieden.",
+          "fa": "از نتیجهٔ کارمان راضی هستیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:007",
+      "row": 7,
+      "word": "die Ferien",
+      "meaningFa": "تعطیلات مدرسه یا دانشگاه؛ جمع",
+      "additionalExamples": [
+        {
+          "de": "In den Ferien besuchen die Kinder ihre Großeltern.",
+          "fa": "بچه‌ها در تعطیلات مدرسه به دیدن پدربزرگ و مادربزرگشان می‌روند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach den Ferien beginnt mein letzter Monat in der Schule.",
+          "fa": "بعد از تعطیلات، آخرین ماه مدرسه‌ام شروع می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:008",
+      "row": 8,
+      "word": "die Gesellschaft",
+      "meaningFa": "جامعه؛ شرکت",
+      "additionalExamples": [
+        {
+          "de": "In unserer Gesellschaft leben Menschen mit verschiedenen Religionen.",
+          "fa": "در جامعهٔ ما افرادی با دین‌های مختلف زندگی می‌کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Gesellschaft verändert sich, und die Schule muss sich auch verändern.",
+          "fa": "جامعه تغییر می‌کند و مدرسه هم باید تغییر کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:009",
+      "row": 9,
+      "word": "der Handwerker",
+      "meaningFa": "پیشه‌ور؛ تعمیرکار مرد",
+      "additionalExamples": [
+        {
+          "de": "Der Handwerker repariert heute die Heizung.",
+          "fa": "تعمیرکار امروز بخاری را تعمیر می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir warten auf den Handwerker, weil die Dusche kaputt ist.",
+          "fa": "منتظر تعمیرکار هستیم، چون دوش خراب است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:010",
+      "row": 10,
+      "word": "das Krankenhaus",
+      "meaningFa": "بیمارستان",
+      "additionalExamples": [
+        {
+          "de": "Meine Mutter arbeitet seit fünf Jahren im Krankenhaus.",
+          "fa": "مادرم پنج سال است که در بیمارستان کار می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach der Untersuchung durfte er das Krankenhaus wieder verlassen.",
+          "fa": "بعد از معاینه اجازه داشت از بیمارستان مرخص شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:011",
+      "row": 11,
+      "word": "der Mechaniker",
+      "meaningFa": "مکانیک مرد",
+      "additionalExamples": [
+        {
+          "de": "Der Mechaniker untersucht das Problem mit dem Auto.",
+          "fa": "مکانیک مشکل خودرو را بررسی می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich bringe mein Auto morgen zu einem Mechaniker.",
+          "fa": "فردا خودرویم را نزد یک مکانیک می‌برم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:012",
+      "row": 12,
+      "word": "mitnehmen",
+      "meaningFa": "همراه خود بردن",
+      "additionalExamples": [
+        {
+          "de": "Kannst du mich morgen im Auto mitnehmen?",
+          "fa": "می‌توانی فردا من را هم با خودرویت ببری؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Für den Ausflug haben wir Wasser und Brot mitgenommen.",
+          "fa": "برای گردش، آب و نان همراه خودمان بردیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:013",
+      "row": 13,
+      "word": "pflegen",
+      "meaningFa": "مراقبت‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Sie pflegt ihren kranken Vater zu Hause.",
+          "fa": "او در خانه از پدر بیمارش مراقبت می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Krankenhaus werden die Patienten Tag und Nacht gepflegt.",
+          "fa": "در بیمارستان شب و روز از بیماران مراقبت می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:014",
+      "row": 14,
+      "word": "die Politik",
+      "meaningFa": "سیاست",
+      "additionalExamples": [
+        {
+          "de": "Mein Vater interessiert sich sehr für Politik.",
+          "fa": "پدرم به سیاست خیلی علاقه دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Beim Abendessen sprechen wir selten über Politik.",
+          "fa": "هنگام شام به‌ندرت دربارهٔ سیاست صحبت می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:015",
+      "row": 15,
+      "word": "die Untersuchung",
+      "meaningFa": "معاینه؛ بررسی",
+      "additionalExamples": [
+        {
+          "de": "Vor der Untersuchung soll ich nichts essen.",
+          "fa": "قبل از معاینه نباید چیزی بخورم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Ärztin erklärt mir nach der Untersuchung das Ergebnis.",
+          "fa": "پزشک بعد از معاینه نتیجه را برایم توضیح می‌دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:016",
+      "row": 16,
+      "word": "verdienen",
+      "meaningFa": "درآمدداشتن؛ سزاواربودن",
+      "additionalExamples": [
+        {
+          "de": "In seinem neuen Beruf verdient er mehr als früher.",
+          "fa": "او در شغل جدیدش بیشتر از قبل درآمد دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie viel verdient man während dieser Ausbildung?",
+          "fa": "در طول این آموزش حرفه‌ای چقدر درآمد دارند؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:017",
+      "row": 17,
+      "word": "die Wahl",
+      "meaningFa": "انتخاب؛ انتخابات",
+      "additionalExamples": [
+        {
+          "de": "Bei der nächsten Wahl möchte ich zum ersten Mal wählen.",
+          "fa": "می‌خواهم در انتخابات بعدی برای اولین بار رأی بدهم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir haben die Wahl zwischen einem kleinen und einem großen Zimmer.",
+          "fa": "می‌توانیم بین یک اتاق کوچک و یک اتاق بزرگ انتخاب کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:018",
+      "row": 18,
+      "word": "während",
+      "meaningFa": "در طولِ؛ در حالی که",
+      "additionalExamples": [
+        {
+          "de": "Während der Ferien arbeitet er in einem Hotel.",
+          "fa": "او در تعطیلات مدرسه در یک هتل کار می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich koche, während meine Tochter den Tisch sauber macht.",
+          "fa": "من آشپزی می‌کنم، درحالی‌که دخترم میز را تمیز می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:019",
+      "row": 19,
+      "word": "das Zeugnis",
+      "meaningFa": "کارنامه؛ گواهی",
+      "additionalExamples": [
+        {
+          "de": "Für die Anmeldung brauchen wir Ihr letztes Zeugnis.",
+          "fa": "برای ثبت‌نام به آخرین کارنامه‌تان نیاز داریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sie freut sich über ihr gutes Zeugnis.",
+          "fa": "او از کارنامهٔ خوبش خوشحال است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-16-A2:020",
+      "row": 20,
+      "word": "zuhören",
+      "meaningFa": "با دقت گوش‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Bitte hören Sie mir kurz zu.",
+          "fa": "لطفاً کمی با دقت به حرفم گوش کنید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Kinder haben ihrer Großmutter interessiert zugehört.",
+          "fa": "بچه‌ها با علاقه به حرف‌های مادربزرگشان گوش دادند.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2762 @@
+{
+  "version": 1,
+  "sourceFile": "reference/vocabulary/Lesson-02-A1.txt",
+  "lessonNumber": 2,
+  "level": "A1",
+  "entries": [
+    {
+      "sourceKey": "Lesson-02-A1:001",
+      "row": 1,
+      "word": "der Abend",
+      "meaningFa": "عصر؛ شب",
+      "additionalExamples": [
+        {
+          "de": "Am Abend lernen wir zusammen Deutsch.",
+          "fa": "عصر با هم آلمانی می‌خوانیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Abend mit meinen Freunden ist schön.",
+          "fa": "عصر در کنار دوستانم خوب می‌گذرد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:002",
+      "row": 2,
+      "word": "der Anfang",
+      "meaningFa": "آغاز",
+      "additionalExamples": [
+        {
+          "de": "Am Anfang verstehe ich nicht alles.",
+          "fa": "در آغاز همه‌چیز را نمی‌فهمم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Film hat einen interessanten Anfang.",
+          "fa": "فیلم شروع جالبی دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:003",
+      "row": 3,
+      "word": "der April",
+      "meaningFa": "آوریل",
+      "additionalExamples": [
+        {
+          "de": "Im April besuchen wir unsere Freunde.",
+          "fa": "در آوریل به دیدن دوستانمان می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Deutschkurs beginnt am dritten April.",
+          "fa": "کلاس آلمانی سوم آوریل شروع می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:004",
+      "row": 4,
+      "word": "der August",
+      "meaningFa": "اوت",
+      "additionalExamples": [
+        {
+          "de": "Wir haben im August Urlaub.",
+          "fa": "در اوت مرخصی داریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der August ist hier oft heiß.",
+          "fa": "اوت اینجا اغلب گرم است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:005",
+      "row": 5,
+      "word": "der Ausflug",
+      "meaningFa": "گردش؛ سفر کوتاه",
+      "additionalExamples": [
+        {
+          "de": "Am Sonntag machen wir einen Ausflug.",
+          "fa": "یکشنبه به گردش می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Ausflug nach Österreich beginnt um acht Uhr.",
+          "fa": "گردش به اتریش ساعت هشت شروع می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:006",
+      "row": 6,
+      "word": "die Ausstellung",
+      "meaningFa": "نمایشگاه",
+      "additionalExamples": [
+        {
+          "de": "Die Ausstellung beginnt im Mai.",
+          "fa": "نمایشگاه در ماه مه شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir besuchen am Samstag eine Ausstellung.",
+          "fa": "شنبه از یک نمایشگاه بازدید می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:007",
+      "row": 7,
+      "word": "das Auto",
+      "meaningFa": "خودرو",
+      "additionalExamples": [
+        {
+          "de": "Mein Auto ist blau.",
+          "fa": "ماشین من آبی است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Fährst du mit dem Auto zur Arbeit?",
+          "fa": "با ماشین به محل کار می‌روی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:008",
+      "row": 8,
+      "word": "beginnen",
+      "meaningFa": "شروع‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Wann beginnt der Film?",
+          "fa": "فیلم چه ساعتی شروع می‌شود؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir beginnen heute mit einer einfachen Übung.",
+          "fa": "امروز با یک تمرین ساده شروع می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:009",
+      "row": 9,
+      "word": "benutzen",
+      "meaningFa": "استفاده‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Ich benutze dein Telefon für das Gespräch.",
+          "fa": "برای این گفت‌وگو از تلفن تو استفاده می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für die Arbeit benutze ich oft den Computer.",
+          "fa": "برای کار اغلب از کامپیوتر استفاده می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:010",
+      "row": 10,
+      "word": "besonders",
+      "meaningFa": "به‌ویژه / ویژه؛ به‌ویژه",
+      "additionalExamples": [
+        {
+          "de": "Ich lese besonders gern.",
+          "fa": "مطالعه را به‌ویژه دوست دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Ausflug ist besonders schön.",
+          "fa": "این گردش به‌ویژه دل‌پذیر است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:011",
+      "row": 11,
+      "word": "die Besprechung",
+      "meaningFa": "جلسهٔ کاری",
+      "additionalExamples": [
+        {
+          "de": "Die Besprechung beginnt um zehn Uhr.",
+          "fa": "جلسهٔ کاری ساعت ده شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach der Besprechung telefoniere ich mit dem Chef.",
+          "fa": "بعد از جلسه با رئیس تلفنی صحبت می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:012",
+      "row": 12,
+      "word": "bestimmt",
+      "meaningFa": "حتماً؛ معین",
+      "additionalExamples": [
+        {
+          "de": "Er kommt bestimmt noch.",
+          "fa": "او حتماً هنوز می‌آید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für das Gespräch haben wir einen bestimmten Termin.",
+          "fa": "برای گفت‌وگو موعد مشخصی داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:013",
+      "row": 13,
+      "word": "besuchen",
+      "meaningFa": "دیدارکردن؛ بازدیدکردن",
+      "additionalExamples": [
+        {
+          "de": "Heute besuchen wir meine Mutter.",
+          "fa": "امروز به دیدن مادرم می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Besuchst du auch den Deutschkurs am Abend?",
+          "fa": "تو هم در کلاس آلمانی عصر شرکت می‌کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:014",
+      "row": 14,
+      "word": "das Bett",
+      "meaningFa": "تخت",
+      "additionalExamples": [
+        {
+          "de": "Das Bett im Hotel ist groß.",
+          "fa": "تختِ هتل بزرگ است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Sonntag bin ich lange im Bett.",
+          "fa": "یکشنبه مدت زیادی در تخت می‌مانم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:015",
+      "row": 15,
+      "word": "blau",
+      "meaningFa": "آبی",
+      "additionalExamples": [
+        {
+          "de": "Der Kalender ist blau.",
+          "fa": "تقویم آبی است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich nehme den blauen Kugelschreiber.",
+          "fa": "خودکار آبی را برمی‌دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:016",
+      "row": 16,
+      "word": "brauchen",
+      "meaningFa": "نیازداشتن",
+      "additionalExamples": [
+        {
+          "de": "Ich brauche deine Adresse.",
+          "fa": "به نشانی تو نیاز دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Für die Übung brauchen wir viel Zeit.",
+          "fa": "برای این تمرین به وقت زیادی نیاز داریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:017",
+      "row": 17,
+      "word": "der Chef",
+      "meaningFa": "رئیس مرد",
+      "additionalExamples": [
+        {
+          "de": "Mein Chef spricht auch Spanisch.",
+          "fa": "رئیس من اسپانیایی هم صحبت می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe heute einen Termin beim Chef.",
+          "fa": "امروز با رئیس قرار دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:018",
+      "row": 18,
+      "word": "die Chefin",
+      "meaningFa": "رئیس زن",
+      "additionalExamples": [
+        {
+          "de": "Unsere Chefin ist heute im Urlaub.",
+          "fa": "رئیس ما امروز در مرخصی است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Chefin erklärt mir die Aufgabe.",
+          "fa": "رئیس زنم تکلیف را برایم توضیح می‌دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:019",
+      "row": 19,
+      "word": "das Datum",
+      "meaningFa": "تاریخ",
+      "additionalExamples": [
+        {
+          "de": "Welches Datum haben wir heute?",
+          "fa": "امروز چندم است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte schreiben Sie das Datum auf das Formular.",
+          "fa": "لطفاً تاریخ را روی فرم بنویسید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:020",
+      "row": 20,
+      "word": "denn",
+      "meaningFa": "چون؛ زیرا",
+      "additionalExamples": [
+        {
+          "de": "Ich gehe ins Bett, denn es ist schon Nacht.",
+          "fa": "به تخت می‌روم چون دیگر شب شده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir kommen nicht, denn wir arbeiten heute.",
+          "fa": "نمی‌آییم چون امروز کار می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:021",
+      "row": 21,
+      "word": "der Dezember",
+      "meaningFa": "دسامبر",
+      "additionalExamples": [
+        {
+          "de": "Im Dezember sind die Tage kurz.",
+          "fa": "در دسامبر روزها کوتاه‌اند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Familie kommt Ende Dezember zu Besuch.",
+          "fa": "خانواده‌ام در پایان دسامبر به دیدنم می‌آیند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:022",
+      "row": 22,
+      "word": "der Dienstag",
+      "meaningFa": "سه‌شنبه",
+      "additionalExamples": [
+        {
+          "de": "Am Dienstag habe ich Deutschunterricht.",
+          "fa": "سه‌شنبه کلاس آلمانی دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist der Termin am Dienstag oder am Mittwoch?",
+          "fa": "قرار سه‌شنبه است یا چهارشنبه؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:023",
+      "row": 23,
+      "word": "der Donnerstag",
+      "meaningFa": "پنج‌شنبه",
+      "additionalExamples": [
+        {
+          "de": "Wir treffen uns jeden Donnerstag.",
+          "fa": "هر پنج‌شنبه همدیگر را می‌بینیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Donnerstag ist mein freier Tag.",
+          "fa": "پنج‌شنبه روز آزاد من است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:024",
+      "row": 24,
+      "word": "dort",
+      "meaningFa": "آنجا",
+      "additionalExamples": [
+        {
+          "de": "Dort ist mein Auto.",
+          "fa": "ماشین من آنجاست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich kenne das Hotel; meine Freunde wohnen dort.",
+          "fa": "آن هتل را می‌شناسم؛ دوستانم آنجا اقامت دارند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:025",
+      "row": 25,
+      "word": "einfach",
+      "meaningFa": "ساده؛ آسان",
+      "additionalExamples": [
+        {
+          "de": "Die erste Übung ist einfach.",
+          "fa": "تمرین اول آسان است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Erklären Sie das bitte noch einmal ganz einfach.",
+          "fa": "لطفاً این را یک بار دیگر خیلی ساده توضیح دهید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:026",
+      "row": 26,
+      "word": "endlich",
+      "meaningFa": "بالاخره",
+      "additionalExamples": [
+        {
+          "de": "Endlich habe ich Urlaub!",
+          "fa": "بالاخره مرخصی دارم!",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Computer funktioniert endlich wieder.",
+          "fa": "کامپیوتر بالاخره دوباره کار می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:027",
+      "row": 27,
+      "word": "die Etage",
+      "meaningFa": "طبقه",
+      "additionalExamples": [
+        {
+          "de": "Die Chefin arbeitet in der zweiten Etage.",
+          "fa": "رئیس در طبقهٔ دوم کار می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "In welcher Etage ist der Deutschkurs?",
+          "fa": "کلاس آلمانی در کدام طبقه است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:028",
+      "row": 28,
+      "word": "etwas",
+      "meaningFa": "چیزی؛ مقداری",
+      "additionalExamples": [
+        {
+          "de": "Ich esse etwas.",
+          "fa": "چیزی می‌خورم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Haben Sie heute Abend etwas Zeit?",
+          "fa": "امشب کمی وقت دارید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:029",
+      "row": 29,
+      "word": "fahren",
+      "meaningFa": "رفتن با وسیله؛ راندن",
+      "additionalExamples": [
+        {
+          "de": "Morgen fahre ich nach Hamburg.",
+          "fa": "فردا با وسیله به هامبورگ می‌روم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Fährst du heute das Auto?",
+          "fa": "امروز تو ماشین را می‌رانی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:030",
+      "row": 30,
+      "word": "die Familie",
+      "meaningFa": "خانواده",
+      "additionalExamples": [
+        {
+          "de": "Meine Familie wohnt in Österreich.",
+          "fa": "خانواده‌ام در اتریش زندگی می‌کنند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Wochenende habe ich Zeit für meine Familie.",
+          "fa": "آخر هفته برای خانواده‌ام وقت دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:031",
+      "row": 31,
+      "word": "der Februar",
+      "meaningFa": "فوریه",
+      "additionalExamples": [
+        {
+          "de": "Der Februar hat oft nur achtundzwanzig Tage.",
+          "fa": "فوریه اغلب فقط بیست‌وهشت روز دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der neue Kurs beginnt im Februar.",
+          "fa": "کلاس جدید در فوریه شروع می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:032",
+      "row": 32,
+      "word": "der Feiertag",
+      "meaningFa": "روز تعطیل رسمی یا مذهبی",
+      "additionalExamples": [
+        {
+          "de": "Morgen ist hier ein Feiertag.",
+          "fa": "فردا اینجا روز تعطیل رسمی است.",
+          "origin": "authored"
+        },
+        {
+          "de": "An Feiertagen arbeiten wir nicht.",
+          "fa": "روزهای تعطیل رسمی کار نمی‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:033",
+      "row": 33,
+      "word": "der Film",
+      "meaningFa": "فیلم",
+      "additionalExamples": [
+        {
+          "de": "Welchen Film sehen wir heute?",
+          "fa": "امروز کدام فیلم را می‌بینیم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Film im Kino ist sehr lang.",
+          "fa": "فیلمی که در سینماست خیلی طولانی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:034",
+      "row": 34,
+      "word": "finden",
+      "meaningFa": "پیداکردن؛ عقیده‌داشتن",
+      "additionalExamples": [
+        {
+          "de": "Ich finde meine Uhr nicht.",
+          "fa": "ساعتم را پیدا نمی‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie findest du den neuen Kollegen?",
+          "fa": "نظرت دربارهٔ همکار جدید چیست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:035",
+      "row": 35,
+      "word": "fliegen",
+      "meaningFa": "پروازکردن",
+      "additionalExamples": [
+        {
+          "de": "Im Sommer fliegen wir nach Deutschland.",
+          "fa": "تابستان با هواپیما به آلمان می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Fliegst du oft?",
+          "fa": "اغلب با هواپیما سفر می‌کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:036",
+      "row": 36,
+      "word": "frei",
+      "meaningFa": "آزاد؛ خالی",
+      "additionalExamples": [
+        {
+          "de": "Ist der Termin noch frei?",
+          "fa": "این وقتِ ملاقات هنوز خالی است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Freitag habe ich frei.",
+          "fa": "جمعه کار ندارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:037",
+      "row": 37,
+      "word": "der Freitag",
+      "meaningFa": "جمعه",
+      "additionalExamples": [
+        {
+          "de": "Am Freitag endet der Kurs um zehn Uhr.",
+          "fa": "جمعه کلاس ساعت ده تمام می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir gehen freitags gern ins Kino.",
+          "fa": "جمعه‌ها دوست داریم به سینما برویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:038",
+      "row": 38,
+      "word": "die Freizeit",
+      "meaningFa": "وقت آزاد",
+      "additionalExamples": [
+        {
+          "de": "In meiner Freizeit spiele ich Gitarre.",
+          "fa": "در وقت آزادم گیتار می‌زنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hast du viel Freizeit?",
+          "fa": "وقت آزاد زیادی داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:039",
+      "row": 39,
+      "word": "der Freund",
+      "meaningFa": "دوست مذکر؛ دوست‌پسر",
+      "additionalExamples": [
+        {
+          "de": "Mein Freund hat heute Geburtstag.",
+          "fa": "دوست من امروز تولدش است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich gehe mit einem Freund ins Konzert.",
+          "fa": "با یکی از دوستانم به کنسرت می‌روم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:040",
+      "row": 40,
+      "word": "die Freundin",
+      "meaningFa": "دوست مؤنث؛ دوست‌دختر",
+      "additionalExamples": [
+        {
+          "de": "Meine Freundin kommt aus der Schweiz.",
+          "fa": "دوست من اهل سوئیس است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Abend telefoniere ich mit meiner Freundin.",
+          "fa": "عصر با دوستم تلفنی صحبت می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:041",
+      "row": 41,
+      "word": "der Friseur",
+      "meaningFa": "آرایشگر مرد",
+      "additionalExamples": [
+        {
+          "de": "Der Friseur hat am Montag frei.",
+          "fa": "آرایشگر دوشنبه کار نمی‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe um zehn einen Termin beim Friseur.",
+          "fa": "ساعت ده پیش آرایشگر وقت دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:042",
+      "row": 42,
+      "word": "der Frühling",
+      "meaningFa": "بهار",
+      "additionalExamples": [
+        {
+          "de": "Im Frühling ist das Wetter oft schön.",
+          "fa": "در بهار هوا اغلب خوب است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir besuchen Österreich im Frühling.",
+          "fa": "در بهار به اتریش می‌رویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:043",
+      "row": 43,
+      "word": "das Frühstück",
+      "meaningFa": "صبحانه",
+      "additionalExamples": [
+        {
+          "de": "Das Frühstück im Hotel ist gut.",
+          "fa": "صبحانهٔ هتل خوب است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach dem Frühstück fahre ich zur Arbeit.",
+          "fa": "بعد از صبحانه به محل کار می‌روم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:044",
+      "row": 44,
+      "word": "funktionieren",
+      "meaningFa": "کارکردن؛ درست عمل‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Mein Handy funktioniert nicht.",
+          "fa": "موبایلم کار نمی‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie funktioniert diese Übung?",
+          "fa": "این تمرین را چطور باید انجام داد؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:045",
+      "row": 45,
+      "word": "geben",
+      "meaningFa": "دادن",
+      "additionalExamples": [
+        {
+          "de": "Gib mir bitte deinen Bleistift.",
+          "fa": "لطفاً مدادت را به من بده.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Park gibt es heute ein Konzert.",
+          "fa": "امروز در پارک کنسرت برگزار می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:046",
+      "row": 46,
+      "word": "der Geburtstag",
+      "meaningFa": "روز تولد",
+      "additionalExamples": [
+        {
+          "de": "Wann hast du Geburtstag?",
+          "fa": "تولدت چه روزی است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Zu meinem Geburtstag kommen alle Freunde.",
+          "fa": "برای تولدم همهٔ دوستانم می‌آیند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:047",
+      "row": 47,
+      "word": "gelb",
+      "meaningFa": "زرد",
+      "additionalExamples": [
+        {
+          "de": "Die Sonne ist gelb.",
+          "fa": "خورشید زرد است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte markieren Sie das Wort gelb.",
+          "fa": "لطفاً واژه را با رنگ زرد مشخص کنید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:048",
+      "row": 48,
+      "word": "die Gitarre",
+      "meaningFa": "گیتار",
+      "additionalExamples": [
+        {
+          "de": "Meine Freundin spielt Gitarre.",
+          "fa": "دوستم گیتار می‌زند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist das deine neue Gitarre?",
+          "fa": "این گیتار جدید توست؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:049",
+      "row": 49,
+      "word": "gleich",
+      "meaningFa": "یکسان؛ همین حالا",
+      "additionalExamples": [
+        {
+          "de": "Wir haben die gleiche Telefonnummer notiert.",
+          "fa": "ما یک شماره تلفن یکسان را یادداشت کرده‌ایم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich komme gleich zu dir.",
+          "fa": "همین الان پیشت می‌آیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:050",
+      "row": 50,
+      "word": "der Grad",
+      "meaningFa": "درجه",
+      "additionalExamples": [
+        {
+          "de": "Heute haben wir zwanzig Grad.",
+          "fa": "امروز دمای هوا بیست درجه است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Winter sind es hier oft null Grad.",
+          "fa": "در زمستان دمای هوا اینجا اغلب صفر درجه است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:051",
+      "row": 51,
+      "word": "grün",
+      "meaningFa": "سبز",
+      "additionalExamples": [
+        {
+          "de": "Der Park ist im Frühling ganz grün.",
+          "fa": "پارک در بهار کاملاً سبز است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Kugelschreiber ist grün.",
+          "fa": "خودکار من سبز است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:052",
+      "row": 52,
+      "word": "Gute Nacht",
+      "meaningFa": "شب بخیر",
+      "additionalExamples": [
+        {
+          "de": "Gute Nacht, bis morgen!",
+          "fa": "شب بخیر، تا فردا!",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich sage meiner Familie gute Nacht.",
+          "fa": "به خانواده‌ام شب بخیر می‌گویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:053",
+      "row": 53,
+      "word": "Guten Abend",
+      "meaningFa": "عصر بخیر",
+      "additionalExamples": [
+        {
+          "de": "Guten Abend, Herr Weber!",
+          "fa": "عصر بخیر، آقای وبر!",
+          "origin": "authored"
+        },
+        {
+          "de": "Um acht begrüßt sie uns mit „Guten Abend“.",
+          "fa": "ساعت هشت با گفتن «عصر بخیر» به ما خوشامد می‌گوید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:054",
+      "row": 54,
+      "word": "haben",
+      "meaningFa": "داشتن",
+      "additionalExamples": [
+        {
+          "de": "Ich habe heute viel Arbeit.",
+          "fa": "امروز کار زیادی دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hast du am Sonntag Zeit?",
+          "fa": "یکشنبه وقت داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:055",
+      "row": 55,
+      "word": "halb",
+      "meaningFa": "نیم؛ نصف",
+      "additionalExamples": [
+        {
+          "de": "Der Unterricht beginnt um halb neun.",
+          "fa": "کلاس ساعت هشت‌ونیم شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe heute nur einen halben Tag frei.",
+          "fa": "امروز فقط نیم روز کار ندارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:056",
+      "row": 56,
+      "word": "der Herbst",
+      "meaningFa": "پاییز",
+      "additionalExamples": [
+        {
+          "de": "Im Herbst kommen meine Freunde zu Besuch.",
+          "fa": "پاییز دوستانم به دیدنم می‌آیند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Herbst sind die Tage kurz.",
+          "fa": "در پاییز روزها کوتاه‌اند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:057",
+      "row": 57,
+      "word": "hoffentlich",
+      "meaningFa": "امیدوارم؛ به امید اینکه",
+      "additionalExamples": [
+        {
+          "de": "Hoffentlich funktioniert das Handy morgen wieder.",
+          "fa": "امیدوارم موبایل فردا دوباره کار کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hoffentlich haben wir am Sonntag schönes Wetter.",
+          "fa": "امیدوارم یکشنبه هوای خوبی داشته باشیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:058",
+      "row": 58,
+      "word": "das Hotel",
+      "meaningFa": "هتل",
+      "additionalExamples": [
+        {
+          "de": "Das Hotel ist in der Stadt.",
+          "fa": "هتل در شهر است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie ist das Frühstück in deinem Hotel?",
+          "fa": "صبحانهٔ هتل تو چطور است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:059",
+      "row": 59,
+      "word": "interessant",
+      "meaningFa": "جالب",
+      "additionalExamples": [
+        {
+          "de": "Ich finde die Ausstellung interessant.",
+          "fa": "نمایشگاه به نظرم جالب است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das ist eine interessante Frage.",
+          "fa": "این سؤال جالبی است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:060",
+      "row": 60,
+      "word": "das Jahr",
+      "meaningFa": "سال",
+      "additionalExamples": [
+        {
+          "de": "Ein Jahr hat zwölf Monate.",
+          "fa": "یک سال دوازده ماه دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Seit einem Jahr lerne ich Deutsch.",
+          "fa": "یک سال است که آلمانی یاد می‌گیرم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:061",
+      "row": 61,
+      "word": "der Januar",
+      "meaningFa": "ژانویه",
+      "additionalExamples": [
+        {
+          "de": "Im Januar beginnt das neue Jahr.",
+          "fa": "در ژانویه سال جدید شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Am zehnten Januar habe ich einen Termin.",
+          "fa": "دهم ژانویه یک قرار دارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:062",
+      "row": 62,
+      "word": "der Juli",
+      "meaningFa": "ژوئیه",
+      "additionalExamples": [
+        {
+          "de": "Im Juli ist es hier sehr heiß.",
+          "fa": "در ژوئیه اینجا هوا خیلی گرم است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Deutschkurs endet im Juli.",
+          "fa": "کلاس آلمانی من در ژوئیه تمام می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:063",
+      "row": 63,
+      "word": "der Juni",
+      "meaningFa": "ژوئن",
+      "additionalExamples": [
+        {
+          "de": "Meine Mutter hat im Juni Geburtstag.",
+          "fa": "تولد مادرم در ژوئن است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Juni machen wir einen Ausflug zum See.",
+          "fa": "در ژوئن برای گردش به دریاچه می‌رویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:064",
+      "row": 64,
+      "word": "der Kalender",
+      "meaningFa": "تقویم",
+      "additionalExamples": [
+        {
+          "de": "Der Termin ist in meinem Kalender.",
+          "fa": "قرار در تقویم من ثبت شده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Zeig mir bitte den Kalender für August.",
+          "fa": "لطفاً تقویم اوت را به من نشان بده.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:065",
+      "row": 65,
+      "word": "kein",
+      "meaningFa": "هیچ؛ یک ... هم نه",
+      "additionalExamples": [
+        {
+          "de": "Heute habe ich keinen Unterricht.",
+          "fa": "امروز کلاس ندارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das ist kein Fehler.",
+          "fa": "این اشتباه نیست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:066",
+      "row": 66,
+      "word": "das Kino",
+      "meaningFa": "سینما",
+      "additionalExamples": [
+        {
+          "de": "Gehen wir heute ins Kino?",
+          "fa": "امروز به سینما برویم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Das Kino ist in meiner Straße.",
+          "fa": "سینما در خیابان محل زندگی من است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:067",
+      "row": 67,
+      "word": "klein",
+      "meaningFa": "کوچک؛ کوتاه‌قد",
+      "additionalExamples": [
+        {
+          "de": "Mein Auto ist klein.",
+          "fa": "ماشین من کوچک است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir sind eine kleine Familie.",
+          "fa": "ما خانوادهٔ کوچکی هستیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:068",
+      "row": 68,
+      "word": "der Kollege",
+      "meaningFa": "همکار مرد",
+      "additionalExamples": [
+        {
+          "de": "Mein Kollege heißt Daniel.",
+          "fa": "نام همکارم دانیل است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mit meinem Kollegen spreche ich Deutsch.",
+          "fa": "با همکارم آلمانی صحبت می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:069",
+      "row": 69,
+      "word": "die Kollegin",
+      "meaningFa": "همکار زن",
+      "additionalExamples": [
+        {
+          "de": "Die neue Kollegin ist sehr nett.",
+          "fa": "همکار جدید خیلی مهربان است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich frage meine Kollegin nach dem Termin.",
+          "fa": "دربارهٔ قرار از همکارم می‌پرسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:070",
+      "row": 70,
+      "word": "das Konzert",
+      "meaningFa": "کنسرت",
+      "additionalExamples": [
+        {
+          "de": "Das Konzert beginnt um acht Uhr.",
+          "fa": "کنسرت ساعت هشت شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir gehen zusammen auf ein Konzert.",
+          "fa": "با هم به یک کنسرت می‌رویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:071",
+      "row": 71,
+      "word": "die Kultur",
+      "meaningFa": "فرهنگ",
+      "additionalExamples": [
+        {
+          "de": "Im Deutschkurs sprechen wir auch über Kultur.",
+          "fa": "در کلاس آلمانی دربارهٔ فرهنگ هم صحبت می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Kultur hier finde ich interessant.",
+          "fa": "فرهنگ اینجا به نظرم جالب است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:072",
+      "row": 72,
+      "word": "kurz",
+      "meaningFa": "کوتاه",
+      "additionalExamples": [
+        {
+          "de": "Die Pause ist heute sehr kurz.",
+          "fa": "استراحت امروز خیلی کوتاه است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich schreibe dir eine kurze E-Mail.",
+          "fa": "برای تو یک ایمیل کوتاه می‌نویسم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:073",
+      "row": 73,
+      "word": "lang",
+      "meaningFa": "بلند؛ طولانی",
+      "additionalExamples": [
+        {
+          "de": "Wie lang ist der Film?",
+          "fa": "فیلم چقدر طولانی است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Wochenende habe ich lange frei.",
+          "fa": "آخر هفته مدت زیادی کار ندارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:074",
+      "row": 74,
+      "word": "langweilig",
+      "meaningFa": "کسل‌کننده",
+      "additionalExamples": [
+        {
+          "de": "Der Film ist leider langweilig.",
+          "fa": "متأسفانه فیلم کسل‌کننده است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Findest du diese Arbeit langweilig?",
+          "fa": "این کار به نظرت کسل‌کننده است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:075",
+      "row": 75,
+      "word": "laut",
+      "meaningFa": "پرسروصدا؛ بلند از نظر صدا",
+      "additionalExamples": [
+        {
+          "de": "Die Party ist sehr laut.",
+          "fa": "مهمانی خیلی پرسروصداست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sprich bitte nicht so laut.",
+          "fa": "لطفاً این‌قدر بلند صحبت نکن.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:076",
+      "row": 76,
+      "word": "leider",
+      "meaningFa": "متأسفانه",
+      "additionalExamples": [
+        {
+          "de": "Leider habe ich am Freitag keine Zeit.",
+          "fa": "متأسفانه جمعه وقت ندارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Ausflug ist leider sehr teuer.",
+          "fa": "متأسفانه گردش خیلی گران است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:077",
+      "row": 77,
+      "word": "leise",
+      "meaningFa": "آهسته از نظر صدا",
+      "additionalExamples": [
+        {
+          "de": "Bitte seid im Unterricht leise.",
+          "fa": "لطفاً در کلاس آرام باشید.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Kollegin spricht sehr leise.",
+          "fa": "همکارم خیلی آهسته صحبت می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:078",
+      "row": 78,
+      "word": "lernen",
+      "meaningFa": "یادگرفتن",
+      "additionalExamples": [
+        {
+          "de": "Wir lernen jeden Tag zehn Wörter.",
+          "fa": "هر روز ده واژه یاد می‌گیریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Lernst du lieber hier oder im Kurs?",
+          "fa": "ترجیح می‌دهی اینجا درس بخوانی یا در کلاس؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:079",
+      "row": 79,
+      "word": "die Liebe",
+      "meaningFa": "عشق؛ محبت",
+      "additionalExamples": [
+        {
+          "de": "Meine Liebe zu dir ist groß.",
+          "fa": "عشق من به تو زیاد است.",
+          "origin": "authored"
+        },
+        {
+          "de": "In diesem Lied geht es um die Liebe.",
+          "fa": "این ترانه دربارهٔ عشق است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:080",
+      "row": 80,
+      "word": "lieber",
+      "meaningFa": "ترجیحاً؛ با علاقهٔ بیشتر",
+      "additionalExamples": [
+        {
+          "de": "Ich fahre lieber mit dem Auto.",
+          "fa": "ترجیح می‌دهم با ماشین بروم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich lese lieber auf Deutsch.",
+          "fa": "ترجیح می‌دهم به آلمانی مطالعه کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:081",
+      "row": 81,
+      "word": "das Lied",
+      "meaningFa": "آهنگ؛ ترانه",
+      "additionalExamples": [
+        {
+          "de": "Kennst du dieses Lied?",
+          "fa": "این ترانه را می‌شناسی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir singen ein Lied auf Deutsch.",
+          "fa": "یک ترانه به زبان آلمانی می‌خوانیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:082",
+      "row": 82,
+      "word": "die Lust",
+      "meaningFa": "میل؛ اشتیاق",
+      "additionalExamples": [
+        {
+          "de": "Hast du Lust auf einen Ausflug?",
+          "fa": "میل داری به گردش برویم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Heute habe ich keine Lust zu arbeiten.",
+          "fa": "امروز حوصلهٔ کارکردن ندارم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:083",
+      "row": 83,
+      "word": "machen",
+      "meaningFa": "انجام‌دادن؛ ساختن",
+      "additionalExamples": [
+        {
+          "de": "Was machst du am Wochenende?",
+          "fa": "آخر هفته چه کار می‌کنی؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir machen heute eine lange Pause.",
+          "fa": "امروز یک استراحت طولانی می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:084",
+      "row": 84,
+      "word": "der Mai",
+      "meaningFa": "مه",
+      "additionalExamples": [
+        {
+          "de": "Im Mai fahren wir in die Schweiz.",
+          "fa": "در مه به سوئیس می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Ausstellung beginnt am ersten Mai.",
+          "fa": "نمایشگاه اول مه شروع می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:085",
+      "row": 85,
+      "word": "der Mann",
+      "meaningFa": "مرد؛ شوهر",
+      "additionalExamples": [
+        {
+          "de": "Der Mann dort ist mein Kollege.",
+          "fa": "آن مرد همکار من است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Mann arbeitet heute bis acht.",
+          "fa": "شوهرم امروز تا ساعت هشت کار می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:086",
+      "row": 86,
+      "word": "der Markt",
+      "meaningFa": "بازار",
+      "additionalExamples": [
+        {
+          "de": "Am Samstag gehe ich auf den Markt.",
+          "fa": "شنبه به بازار می‌روم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Markt ist heute im Park.",
+          "fa": "بازار امروز در پارک برپاست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:087",
+      "row": 87,
+      "word": "der März",
+      "meaningFa": "مارس",
+      "additionalExamples": [
+        {
+          "de": "Im März beginnt hier der Frühling.",
+          "fa": "اینجا در مارس بهار شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich habe am zwölften März Geburtstag.",
+          "fa": "تولدم دوازدهم مارس است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:088",
+      "row": 88,
+      "word": "der Mensch",
+      "meaningFa": "انسان",
+      "additionalExamples": [
+        {
+          "de": "Er ist ein netter Mensch.",
+          "fa": "او آدم مهربانی است.",
+          "origin": "authored"
+        },
+        {
+          "de": "In der Stadt wohnen viele Menschen.",
+          "fa": "آدم‌های زیادی در شهر زندگی می‌کنند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:089",
+      "row": 89,
+      "word": "der Mittag",
+      "meaningFa": "ظهر",
+      "additionalExamples": [
+        {
+          "de": "Am Mittag essen wir zusammen.",
+          "fa": "ظهر با هم غذا می‌خوریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Unterricht endet kurz vor Mittag.",
+          "fa": "کلاس کمی پیش از ظهر تمام می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:090",
+      "row": 90,
+      "word": "der Mittwoch",
+      "meaningFa": "چهارشنبه",
+      "additionalExamples": [
+        {
+          "de": "Am Mittwoch habe ich frei.",
+          "fa": "چهارشنبه کار ندارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir treffen uns mittwochs im Park.",
+          "fa": "چهارشنبه‌ها همدیگر را در پارک می‌بینیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:091",
+      "row": 91,
+      "word": "möglich",
+      "meaningFa": "ممکن",
+      "additionalExamples": [
+        {
+          "de": "Ist ein Termin am Freitag möglich?",
+          "fa": "آیا امکانِ قرار در روز جمعه هست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Ein Besuch ist heute leider nicht möglich.",
+          "fa": "متأسفانه امروز امکان بازدید وجود ندارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:092",
+      "row": 92,
+      "word": "der Monat",
+      "meaningFa": "ماه",
+      "additionalExamples": [
+        {
+          "de": "Dieser Monat hat dreißig Tage.",
+          "fa": "این ماه سی روز دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Seit zwei Monaten wohne ich hier.",
+          "fa": "دو ماه است که اینجا زندگی می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:093",
+      "row": 93,
+      "word": "der Montag",
+      "meaningFa": "دوشنبه",
+      "additionalExamples": [
+        {
+          "de": "Am Montag beginnt meine Arbeit um acht.",
+          "fa": "دوشنبه کار من ساعت هشت شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Kurs ist montags und donnerstags.",
+          "fa": "کلاس دوشنبه‌ها و پنج‌شنبه‌هاست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:094",
+      "row": 94,
+      "word": "das Museum",
+      "meaningFa": "موزه",
+      "additionalExamples": [
+        {
+          "de": "Wir besuchen heute ein Museum.",
+          "fa": "امروز از یک موزه بازدید می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Montag besuchen wir das Museum nicht.",
+          "fa": "دوشنبه از موزه بازدید نمی‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:095",
+      "row": 95,
+      "word": "die Mutter",
+      "meaningFa": "مادر",
+      "additionalExamples": [
+        {
+          "de": "Meine Mutter spricht gut Englisch.",
+          "fa": "مادرم خوب انگلیسی صحبت می‌کند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich telefoniere oft mit meiner Mutter.",
+          "fa": "اغلب با مادرم تلفنی صحبت می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:096",
+      "row": 96,
+      "word": "der Nachmittag",
+      "meaningFa": "بعدازظهر",
+      "additionalExamples": [
+        {
+          "de": "Am Nachmittag lerne ich Deutsch.",
+          "fa": "بعدازظهر آلمانی می‌خوانم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Hast du heute Nachmittag Zeit für mich?",
+          "fa": "امروز بعدازظهر برای من وقت داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:097",
+      "row": 97,
+      "word": "die Nacht",
+      "meaningFa": "شب",
+      "additionalExamples": [
+        {
+          "de": "In der Nacht ist es hier sehr leise.",
+          "fa": "اینجا شب خیلی ساکت است.",
+          "origin": "authored"
+        },
+        {
+          "de": "In dieser Nacht telefoniere ich mit meinem Vater.",
+          "fa": "در این شب با پدرم تلفنی صحبت می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:098",
+      "row": 98,
+      "word": "die Natur",
+      "meaningFa": "طبیعت",
+      "additionalExamples": [
+        {
+          "de": "Am Wochenende bin ich gern in der Natur.",
+          "fa": "آخر هفته دوست دارم در طبیعت باشم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Natur am See ist wunderschön.",
+          "fa": "طبیعتِ کنار دریاچه بسیار زیباست.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:099",
+      "row": 99,
+      "word": "nett",
+      "meaningFa": "خوب و دوست‌داشتنی؛ مهربان",
+      "additionalExamples": [
+        {
+          "de": "Deine Kollegin ist sehr nett.",
+          "fa": "همکارت خیلی مهربان است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Das ist nett von Ihnen, vielen Dank!",
+          "fa": "این لطف شماست، خیلی ممنون!",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:100",
+      "row": 100,
+      "word": "der November",
+      "meaningFa": "نوامبر",
+      "additionalExamples": [
+        {
+          "de": "Im November gibt es oft Regen.",
+          "fa": "در نوامبر اغلب باران می‌بارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der neue Kurs beginnt am zweiten November.",
+          "fa": "کلاس جدید دوم نوامبر شروع می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:101",
+      "row": 101,
+      "word": "nur",
+      "meaningFa": "فقط",
+      "additionalExamples": [
+        {
+          "de": "Ich habe nur einen Bleistift.",
+          "fa": "فقط یک مداد دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Heute arbeiten wir nur bis Mittag.",
+          "fa": "امروز فقط تا ظهر کار می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:102",
+      "row": 102,
+      "word": "oben",
+      "meaningFa": "بالا",
+      "additionalExamples": [
+        {
+          "de": "Die Chefin ist oben.",
+          "fa": "رئیس طبقهٔ بالاست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte schreiben Sie Ihren Namen oben auf das Formular.",
+          "fa": "لطفاً نامتان را بالای فرم بنویسید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:103",
+      "row": 103,
+      "word": "ohne",
+      "meaningFa": "بدون",
+      "additionalExamples": [
+        {
+          "de": "Ohne mein Handy kenne ich die Nummer nicht.",
+          "fa": "بدون موبایلم شماره را نمی‌دانم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich fahre heute ohne meine Familie nach Hamburg.",
+          "fa": "امروز بدون خانواده‌ام به هامبورگ می‌روم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:104",
+      "row": 104,
+      "word": "der Oktober",
+      "meaningFa": "اکتبر",
+      "additionalExamples": [
+        {
+          "de": "Im Oktober ist das Wetter oft schlecht.",
+          "fa": "در اکتبر هوا اغلب بد است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Unsere Freunde kommen Anfang Oktober.",
+          "fa": "دوستانمان اوایل اکتبر می‌آیند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:105",
+      "row": 105,
+      "word": "das Öl",
+      "meaningFa": "روغن",
+      "additionalExamples": [
+        {
+          "de": "Für das Essen brauchen wir etwas Öl.",
+          "fa": "برای غذا کمی روغن لازم داریم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welches Öl benutzt du für das Essen?",
+          "fa": "برای غذا از چه روغنی استفاده می‌کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:106",
+      "row": 106,
+      "word": "organisieren",
+      "meaningFa": "سازمان‌دهی‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Wer organisiert den Ausflug?",
+          "fa": "چه کسی گردش را ترتیب می‌دهد؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir organisieren eine kleine Party für die Kollegen.",
+          "fa": "یک مهمانی کوچک برای همکاران ترتیب می‌دهیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:107",
+      "row": 107,
+      "word": "der Park",
+      "meaningFa": "پارک",
+      "additionalExamples": [
+        {
+          "de": "Im Park treffen sich viele Menschen.",
+          "fa": "آدم‌های زیادی همدیگر را در پارک می‌بینند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir gehen nach der Arbeit zusammen in den Park.",
+          "fa": "بعد از کار با هم به پارک می‌رویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:108",
+      "row": 108,
+      "word": "die Party",
+      "meaningFa": "مهمانی",
+      "additionalExamples": [
+        {
+          "de": "Die Party beginnt um sieben Uhr.",
+          "fa": "مهمانی ساعت هفت شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kommst du auch zu meiner Party?",
+          "fa": "تو هم به مهمانی من می‌آیی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:109",
+      "row": 109,
+      "word": "der Pass",
+      "meaningFa": "گذرنامه",
+      "additionalExamples": [
+        {
+          "de": "Für den Urlaub brauche ich meinen Pass.",
+          "fa": "برای سفر تعطیلات به گذرنامه‌ام نیاز دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ihr Pass ist noch im Hotel.",
+          "fa": "گذرنامهٔ شما هنوز در هتل است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:110",
+      "row": 110,
+      "word": "planen",
+      "meaningFa": "برنامه‌ریزی‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Wir planen einen Ausflug nach Österreich.",
+          "fa": "برای گردش به اتریش برنامه‌ریزی می‌کنیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Planst du schon deinen Urlaub?",
+          "fa": "از حالا برای تعطیلاتت برنامه‌ریزی می‌کنی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:111",
+      "row": 111,
+      "word": "der Plural",
+      "meaningFa": "جمع",
+      "additionalExamples": [
+        {
+          "de": "Wie heißt der Plural von „Tag“?",
+          "fa": "جمع «روز» چیست؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Plural von „Jahr“ ist „Jahre“.",
+          "fa": "جمعِ «سال»، «سال‌ها» است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:112",
+      "row": 112,
+      "word": "das Problem",
+      "meaningFa": "مشکل",
+      "additionalExamples": [
+        {
+          "de": "Ich habe ein Problem mit dem Computer.",
+          "fa": "با کامپیوتر مشکلی دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Kein Problem, wir machen das zusammen.",
+          "fa": "اشکالی ندارد، این کار را با هم انجام می‌دهیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:113",
+      "row": 113,
+      "word": "der Regen",
+      "meaningFa": "باران",
+      "additionalExamples": [
+        {
+          "de": "Wir gehen auch bei Regen in den Park.",
+          "fa": "حتی در باران هم به پارک می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nach dem Regen ist das Wetter schön.",
+          "fa": "بعد از باران هوا خوب است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:114",
+      "row": 114,
+      "word": "rot",
+      "meaningFa": "قرمز",
+      "additionalExamples": [
+        {
+          "de": "Mein Auto ist rot.",
+          "fa": "ماشینم قرمز است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Bitte kreuzen Sie die richtige Antwort rot an.",
+          "fa": "لطفاً پاسخ درست را با رنگ قرمز علامت بزنید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:115",
+      "row": 115,
+      "word": "der Samstag",
+      "meaningFa": "شنبه",
+      "additionalExamples": [
+        {
+          "de": "Am Samstag besuche ich meine Freundin.",
+          "fa": "شنبه به دیدن دوستم می‌روم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Arbeiten Sie auch samstags?",
+          "fa": "شنبه‌ها هم کار می‌کنید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:116",
+      "row": 116,
+      "word": "schlecht",
+      "meaningFa": "بد",
+      "additionalExamples": [
+        {
+          "de": "Das Wetter ist heute schlecht.",
+          "fa": "امروز هوا بد است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich höre dich schlecht; sprich bitte lauter.",
+          "fa": "صدایت را خوب نمی‌شنوم؛ لطفاً بلندتر صحبت کن.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:117",
+      "row": 117,
+      "word": "schon",
+      "meaningFa": "قبلاً؛ همین حالا هم",
+      "additionalExamples": [
+        {
+          "de": "Ich kenne den Film schon.",
+          "fa": "این فیلم را قبلاً دیده‌ام.",
+          "origin": "authored"
+        },
+        {
+          "de": "Es ist schon acht Uhr!",
+          "fa": "ساعت همین حالا هم هشت شده!",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:118",
+      "row": 118,
+      "word": "schön",
+      "meaningFa": "زیبا؛ خوب",
+      "additionalExamples": [
+        {
+          "de": "Der Ausflug war sehr schön.",
+          "fa": "گردش خیلی خوب بود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Du hast einen schönen Namen.",
+          "fa": "نام زیبایی داری.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:119",
+      "row": 119,
+      "word": "sehr",
+      "meaningFa": "خیلی",
+      "additionalExamples": [
+        {
+          "de": "Ich lerne hier sehr viel.",
+          "fa": "اینجا چیزهای خیلی زیادی یاد می‌گیرم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Kollegin ist sehr nett.",
+          "fa": "همکارم خیلی مهربان است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:120",
+      "row": 120,
+      "word": "seit",
+      "meaningFa": "از زمانِ",
+      "additionalExamples": [
+        {
+          "de": "Ich wohne seit April in Deutschland.",
+          "fa": "از آوریل در آلمان زندگی می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir kennen uns seit einem Jahr.",
+          "fa": "یک سال است که همدیگر را می‌شناسیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:121",
+      "row": 121,
+      "word": "selten",
+      "meaningFa": "به‌ندرت",
+      "additionalExamples": [
+        {
+          "de": "Wir gehen selten ins Kino.",
+          "fa": "به‌ندرت به سینما می‌رویم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Sonntag arbeite ich nur selten.",
+          "fa": "یکشنبه‌ها فقط به‌ندرت کار می‌کنم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:122",
+      "row": 122,
+      "word": "der September",
+      "meaningFa": "سپتامبر",
+      "additionalExamples": [
+        {
+          "de": "Im September beginnt die Schule.",
+          "fa": "مدرسه در سپتامبر شروع می‌شود.",
+          "origin": "authored"
+        },
+        {
+          "de": "Am letzten Tag im September fahren wir nach Hause.",
+          "fa": "آخرین روز سپتامبر به خانه می‌رویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:123",
+      "row": 123,
+      "word": "sich treffen",
+      "meaningFa": "همدیگر را ملاقات‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Wir treffen uns um sechs im Park.",
+          "fa": "ساعت شش همدیگر را در پارک می‌بینیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wo trefft ihr euch am Wochenende?",
+          "fa": "آخر هفته کجا همدیگر را می‌بینید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:124",
+      "row": 124,
+      "word": "sicher",
+      "meaningFa": "امن؛ مطمئن",
+      "additionalExamples": [
+        {
+          "de": "Ich bin sicher: Der Termin ist morgen.",
+          "fa": "مطمئنم: قرار فرداست.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Park ist hier sehr sicher.",
+          "fa": "پارک اینجا خیلی امن است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:125",
+      "row": 125,
+      "word": "singen",
+      "meaningFa": "آوازخواندن",
+      "additionalExamples": [
+        {
+          "de": "Meine Mutter singt gern.",
+          "fa": "مادرم آوازخواندن را دوست دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir singen zusammen ein deutsches Lied.",
+          "fa": "با هم یک ترانهٔ آلمانی می‌خوانیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:126",
+      "row": 126,
+      "word": "der Singular",
+      "meaningFa": "مفرد",
+      "additionalExamples": [
+        {
+          "de": "„Tag“ ist Singular, „Tage“ ist Plural.",
+          "fa": "«روز» مفرد است و «روزها» جمع است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Schreiben Sie das Nomen bitte im Singular.",
+          "fa": "لطفاً اسم را به صورت مفرد بنویسید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:127",
+      "row": 127,
+      "word": "so",
+      "meaningFa": "این‌طور؛ این‌قدر",
+      "additionalExamples": [
+        {
+          "de": "So schreibt man meinen Namen.",
+          "fa": "اسم مرا این‌طور می‌نویسند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Sprich bitte nicht so leise.",
+          "fa": "لطفاً این‌قدر آهسته صحبت نکن.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:128",
+      "row": 128,
+      "word": "der Sommer",
+      "meaningFa": "تابستان",
+      "additionalExamples": [
+        {
+          "de": "Im Sommer gehe ich gern zum See.",
+          "fa": "تابستان دوست دارم به دریاچه بروم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Diesen Sommer besuchen wir unsere Familie.",
+          "fa": "این تابستان به دیدن خانواده‌مان می‌رویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:129",
+      "row": 129,
+      "word": "die Sonne",
+      "meaningFa": "خورشید",
+      "additionalExamples": [
+        {
+          "de": "Heute scheint die Sonne.",
+          "fa": "امروز آفتاب می‌تابد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Im Sommer ist die Sonne bis zum Abend da.",
+          "fa": "تابستان خورشید تا عصر در آسمان است.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:130",
+      "row": 130,
+      "word": "der Sonntag",
+      "meaningFa": "یکشنبه",
+      "additionalExamples": [
+        {
+          "de": "Am Sonntag arbeite ich nicht.",
+          "fa": "یکشنبه کار نمی‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Besucht ihr das Museum sonntags?",
+          "fa": "یکشنبه‌ها از موزه بازدید می‌کنید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:131",
+      "row": 131,
+      "word": "der Sport",
+      "meaningFa": "ورزش",
+      "additionalExamples": [
+        {
+          "de": "Nach der Arbeit mache ich Sport.",
+          "fa": "بعد از کار ورزش می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Welchen Sport machst du gern?",
+          "fa": "کدام ورزش را دوست داری انجام بدهی؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:132",
+      "row": 132,
+      "word": "telefonieren",
+      "meaningFa": "تلفنی صحبت‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Ich telefoniere gerade mit meinem Vater.",
+          "fa": "الان با پدرم تلفنی صحبت می‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir telefonieren jeden Sonntag.",
+          "fa": "هر یکشنبه با هم تلفنی صحبت می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:133",
+      "row": 133,
+      "word": "der Termin",
+      "meaningFa": "قرار؛ موعد",
+      "additionalExamples": [
+        {
+          "de": "Mein Termin ist um halb elf.",
+          "fa": "قرارم ساعت ده‌ونیم است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Passt Ihnen ein Termin am Donnerstag?",
+          "fa": "قرار در روز پنج‌شنبه برایتان مناسب است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:134",
+      "row": 134,
+      "word": "teuer",
+      "meaningFa": "گران",
+      "additionalExamples": [
+        {
+          "de": "Das Hotel ist mir zu teuer.",
+          "fa": "این هتل برای من زیادی گران است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ist dein neues Handy teuer?",
+          "fa": "موبایل جدیدت گران است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:135",
+      "row": 135,
+      "word": "das Tier",
+      "meaningFa": "حیوان",
+      "additionalExamples": [
+        {
+          "de": "Welches Tier ist auf dem Foto?",
+          "fa": "کدام حیوان در عکس است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Meine Freundin hat zwei kleine Tiere.",
+          "fa": "دوستم دو حیوان کوچک دارد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:136",
+      "row": 136,
+      "word": "tragen",
+      "meaningFa": "پوشیدن؛ حمل‌کردن",
+      "additionalExamples": [
+        {
+          "de": "Sie trägt den Computer zur Arbeit.",
+          "fa": "او کامپیوتر را به محل کار می‌برد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Ich trage deine Gitarre zum Auto.",
+          "fa": "گیتارت را تا ماشین می‌برم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:137",
+      "row": 137,
+      "word": "treffen",
+      "meaningFa": "ملاقات‌کردن؛ برخوردکردن",
+      "additionalExamples": [
+        {
+          "de": "Heute treffe ich meinen Freund.",
+          "fa": "امروز دوستم را می‌بینم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wo treffe ich den Chef?",
+          "fa": "رئیس را کجا می‌بینم؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:138",
+      "row": 138,
+      "word": "über",
+      "meaningFa": "بالای؛ دربارهٔ",
+      "additionalExamples": [
+        {
+          "de": "Die Uhr hängt über der Tafel.",
+          "fa": "ساعت بالای تخته آویزان است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir sprechen über unseren Urlaub.",
+          "fa": "دربارهٔ تعطیلاتمان صحبت می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:139",
+      "row": 139,
+      "word": "die Uhr",
+      "meaningFa": "ساعت",
+      "additionalExamples": [
+        {
+          "de": "Meine Uhr geht falsch.",
+          "fa": "ساعتم زمان را اشتباه نشان می‌دهد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Film beginnt um zwanzig Uhr.",
+          "fa": "فیلم ساعت بیست شروع می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:140",
+      "row": 140,
+      "word": "um",
+      "meaningFa": "دورِ؛ در ساعتِ",
+      "additionalExamples": [
+        {
+          "de": "Wir treffen uns um neun Uhr.",
+          "fa": "ساعت نه همدیگر را می‌بینیم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Die Kinder rennen um das Auto.",
+          "fa": "بچه‌ها دور ماشین می‌دوند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:141",
+      "row": 141,
+      "word": "der Urlaub",
+      "meaningFa": "مرخصی؛ تعطیلات",
+      "additionalExamples": [
+        {
+          "de": "Im Urlaub arbeite ich nicht.",
+          "fa": "در تعطیلات کار نمی‌کنم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wie lange habt ihr Urlaub?",
+          "fa": "چه مدت مرخصی دارید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:142",
+      "row": 142,
+      "word": "der Vater",
+      "meaningFa": "پدر",
+      "additionalExamples": [
+        {
+          "de": "Mein Vater kommt aus Deutschland.",
+          "fa": "پدرم اهل آلمان است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Am Abend besucht mich mein Vater.",
+          "fa": "عصر پدرم به دیدنم می‌آید.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:143",
+      "row": 143,
+      "word": "das Viertel",
+      "meaningFa": "یک‌چهارم؛ محله",
+      "additionalExamples": [
+        {
+          "de": "Es ist Viertel nach drei.",
+          "fa": "ساعت سه‌وربع است.",
+          "origin": "authored"
+        },
+        {
+          "de": "Mein Kollege wohnt in diesem Viertel.",
+          "fa": "همکارم در این محله زندگی می‌کند.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:144",
+      "row": 144,
+      "word": "der Vormittag",
+      "meaningFa": "پیش‌ازظهر",
+      "additionalExamples": [
+        {
+          "de": "Am Vormittag habe ich zwei Termine.",
+          "fa": "پیش‌ازظهر دو قرار دارم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir besuchen das Museum am Vormittag.",
+          "fa": "پیش‌ازظهر از موزه بازدید می‌کنیم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:145",
+      "row": 145,
+      "word": "wann",
+      "meaningFa": "چه وقت",
+      "additionalExamples": [
+        {
+          "de": "Wann beginnt die Besprechung?",
+          "fa": "جلسه چه ساعتی شروع می‌شود؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Wann hast du wieder Zeit?",
+          "fa": "دوباره کی وقت داری؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:146",
+      "row": 146,
+      "word": "welcher",
+      "meaningFa": "کدام؛ صورت مذکر",
+      "additionalExamples": [
+        {
+          "de": "Welcher Film ist interessant?",
+          "fa": "کدام فیلم جالب است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "An welchem Tag ist der Ausflug?",
+          "fa": "گردش در کدام روز است؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:147",
+      "row": 147,
+      "word": "wenn",
+      "meaningFa": "اگر؛ وقتی که",
+      "additionalExamples": [
+        {
+          "de": "Wenn ich frei habe, gehe ich gern ins Kino.",
+          "fa": "وقتی کار ندارم، دوست دارم به سینما بروم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Wir machen einen Ausflug, wenn das Wetter schön ist.",
+          "fa": "اگر هوا خوب باشد به گردش می‌رویم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:148",
+      "row": 148,
+      "word": "das Wetter",
+      "meaningFa": "آب‌وهوا",
+      "additionalExamples": [
+        {
+          "de": "Wie ist das Wetter in der Schweiz?",
+          "fa": "هوا در سوئیس چطور است؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Bei schönem Wetter essen wir im Park.",
+          "fa": "وقتی هوا خوب است در پارک غذا می‌خوریم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:149",
+      "row": 149,
+      "word": "der Winter",
+      "meaningFa": "زمستان",
+      "additionalExamples": [
+        {
+          "de": "Im Winter sind die Nächte lang.",
+          "fa": "در زمستان شب‌ها طولانی‌اند.",
+          "origin": "authored"
+        },
+        {
+          "de": "Diesen Winter bleibe ich in Deutschland.",
+          "fa": "این زمستان در آلمان می‌مانم.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:150",
+      "row": 150,
+      "word": "die Woche",
+      "meaningFa": "هفته",
+      "additionalExamples": [
+        {
+          "de": "Eine Woche hat sieben Tage.",
+          "fa": "یک هفته هفت روز دارد.",
+          "origin": "authored"
+        },
+        {
+          "de": "Nächste Woche beginnt mein Urlaub.",
+          "fa": "هفتهٔ آینده مرخصی‌ام شروع می‌شود.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:151",
+      "row": 151,
+      "word": "das Wochenende",
+      "meaningFa": "آخر هفته",
+      "additionalExamples": [
+        {
+          "de": "Am Wochenende treffe ich meine Freunde.",
+          "fa": "آخر هفته دوستانم را می‌بینم.",
+          "origin": "authored"
+        },
+        {
+          "de": "Was macht ihr am Wochenende?",
+          "fa": "آخر هفته چه کار می‌کنید؟",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:152",
+      "row": 152,
+      "word": "zeigen",
+      "meaningFa": "نشان‌دادن",
+      "additionalExamples": [
+        {
+          "de": "Zeig mir bitte das Foto.",
+          "fa": "لطفاً عکس را به من نشان بده.",
+          "origin": "authored"
+        },
+        {
+          "de": "Der Kollege zeigt uns die Stadt.",
+          "fa": "همکارمان شهر را به ما نشان می‌دهد.",
+          "origin": "authored"
+        }
+      ]
+    },
+    {
+      "sourceKey": "Lesson-02-A1:153",
+      "row": 153,
+      "word": "die Zeit",
+      "meaningFa": "زمان؛ وقت",
+      "additionalExamples": [
+        {
+          "de": "Wie viel Zeit haben wir noch?",
+          "fa": "چقدر وقت دیگر داریم؟",
+          "origin": "authored"
+        },
+        {
+          "de": "Für meine Freunde nehme ich mir Zeit.",
+          "fa": "برای دوستانم وقت می‌گذارم.",
+          "origin": "authored"
+        }
+      ]
+    }
+  ]
+}
