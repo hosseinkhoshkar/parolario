@@ -20,6 +20,8 @@ progress، attempts، skills، assistanceEvents، reverseProgress/reverseReviews
 
 IndexedDB=parolario-progress، object store=user-state، key=current، قفل parolario-single-writer. migrateState فقط schema و محتوای فعلی را اعتبارسنجی و clone می‌کند؛ هر نسخه/محتوای بیگانه بدون تغییر داده رد می‌شود. هیچ خوانندهٔ frozen آلمانی در مسیر اجرایی ذخیره وارد نمی‌شود.
 
+در خطای راه‌اندازی، «دریافت پشتیبان پیشرفت» snapshot اصلی همین دستگاه را با تراکنش readonly، حتی در صورت ردشدن اعتبارسنجی، در فایل JSON قرار می‌دهد. فایل شامل format=parolario-recovery-v1، زمان خروجی، شناسهٔ build و snapshot دست‌نخورده است؛ هیچ بارگذاری خودکار، بازنویسی، reset یا پذیرش دادهٔ ناسازگار انجام نمی‌شود. این خروجی برای بررسی و بازیابی دستی است و هنوز قابلیت import ندارد.
+
 ## مثال‌های تکمیلی
 
 فایل‌های reference/vocabulary/italian/Lesson-01-A1.txt تا Lesson-03-A1.txt منابع انسانی ثابت‌اند و sidecarهای هم‌نام در public/content/examples/italian دادهٔ تألیفی بازبینی‌شده‌اند. sync:examples تطبیق سطر/کلید/متن، جفت زبانی، تکرار و تعداد را بررسی می‌کند و تنها sourceهای اجراییِ جداگانهٔ هر درس و additional-examples.ts را قطعی می‌سازد. build hash برای تازگی cache مستقل از contentVersion است.
