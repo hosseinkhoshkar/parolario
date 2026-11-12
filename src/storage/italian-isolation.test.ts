@@ -37,7 +37,7 @@ function readyState(content = bundle): AppState {
 
 test('Italian persistence and writer lock have identities independent from Wortzeit', async () => {
   assert.equal(SCHEMA_VERSION, 5)
-  assert.equal(NORMALIZATION_VERSION, 'italian-answer-normalization-v1')
+  assert.equal(NORMALIZATION_VERSION, 'italian-answer-normalization-v2')
   assert.equal(DATABASE_NAME, 'parolario-progress')
   assert.equal(WRITER_LOCK_NAME, 'parolario-single-writer')
   const model = indexedDBModel(), opened: string[] = []

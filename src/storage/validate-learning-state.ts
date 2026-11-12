@@ -1,4 +1,4 @@
-import { NORMALIZATION_VERSION, POLICY_VERSION, SCHEMA_VERSION, TARGET_ACTIVE_MS } from '../contracts/index.ts'
+import { LEGACY_NORMALIZATION_VERSION, NORMALIZATION_VERSION, POLICY_VERSION, SCHEMA_VERSION, TARGET_ACTIVE_MS } from '../contracts/index.ts'
 import type { AppState, ContentBundle, Entry, Session } from '../contracts/index.ts'
 
 
@@ -81,7 +81,7 @@ function validateEvidenceState(value: unknown, bundle: ContentBundle): asserts v
       || !['choose-meaning', 'cloze', 'match', 'write-word', 'choose-article'].includes(attempt.exercise)
       || typeof attempt.correct !== 'boolean' || typeof attempt.independent !== 'boolean'
       || typeof attempt.assisted !== 'boolean'
-      || attempt.normalizationVersion !== NORMALIZATION_VERSION
+      || ![LEGACY_NORMALIZATION_VERSION, NORMALIZATION_VERSION].includes(attempt.normalizationVersion)
       || attempt.independent !== ((attempt.exercise === 'cloze' || attempt.exercise === 'write-word') && !attempt.assisted)
       || attempt.exercise === 'choose-article' && state.progress[attempt.entryId].skills.article === null
       || !validDate(attempt.at) || !validStudyDate(attempt.studyDate)) fail()
