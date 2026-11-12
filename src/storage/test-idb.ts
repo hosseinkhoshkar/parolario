@@ -3,6 +3,7 @@ export function indexedDBModel(initial?: unknown) {
   let stored = structuredClone(initial)
   let failPut = false
   const keys = new Set(initial === undefined ? [] : ['current'])
+  const modes: IDBTransactionMode[] = []
   const factory = {
     open() {
       const request = { result: null as unknown, onsuccess: null as null | (() => void) }
@@ -10,7 +11,8 @@ export function indexedDBModel(initial?: unknown) {
         request.result = {
           close() {},
           objectStoreNames: { contains: () => true },
-          transaction() {
+          transaction(_store: string, mode: IDBTransactionMode) {
+            modes.push(mode)
             let pending = 0
             let aborted = false
             let wrote = false
@@ -38,6 +40,7 @@ export function indexedDBModel(initial?: unknown) {
                     return read
                   },
                   put(value: unknown, key: string) {
+                    if (mode === 'readonly') throw new Error('write attempted in a readonly transaction')
                     if (key !== 'current') throw new Error('unexpected key')
                     pending++
                     queueMicrotask(() => {
@@ -70,6 +73,7 @@ export function indexedDBModel(initial?: unknown) {
   return {
     factory: factory as unknown as IDBFactory,
     read: () => structuredClone(stored), keys: () => [...keys],
+    modes: () => [...modes],
     failNextPut: () => { failPut = true },
   }
 }

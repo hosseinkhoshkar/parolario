@@ -9,6 +9,7 @@ import { ActivityTracker } from './controller/activity.ts'
 import { loadState, saveState } from './storage/index.ts'
 import { prepareOffline } from './pwa/offline.ts'
 import { ParolarioUI } from './features/WortzeitUI.tsx'
+import { RecoveryBackup } from './features/RecoveryBackup.tsx'
 
 const bundle = courseBundle
 const message = (error: unknown) => error instanceof Error ? error.message : 'ذخیره انجام نشد؛ دوباره تلاش کنید.'
@@ -159,7 +160,7 @@ export default function App() {
 
   if (!state) return <main className="boot-screen" dir="rtl" lang="fa">
     <div className="boot-mark" aria-hidden="true">P</div><h1>Parolario</h1>
-    {error ? <><p role="alert">{error}</p><button type="button" disabled={busy} onClick={retry}>تلاش دوباره</button></>
+    {error ? <><p role="alert">{error}</p><button type="button" disabled={busy} onClick={retry}>تلاش دوباره</button><RecoveryBackup /></>
       : <p role="status">{bootAttempt > 0 ? 'در حال گرفتن دسترسی و بازیابی جلسه…' : 'در حال آماده‌کردن واژه‌ها…'}</p>}
   </main>
 

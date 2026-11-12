@@ -129,6 +129,24 @@ function openDatabase(): Promise<IDBDatabase> {
   })
 }
 
+/** Read the original snapshot even when validation fails. Never repair or write it. */
+export async function readRecoverySnapshot(): Promise<unknown> {
+  const database = await openDatabase()
+  return new Promise((resolve, reject) => {
+    const transaction = database.transaction(STORE_NAME, 'readonly')
+    const request = transaction.objectStore(STORE_NAME).get(STATE_KEY)
+    transaction.oncomplete = () => {
+      database.close()
+      if (request.result === undefined) reject(new StorageError('پیشرفت ذخیره‌شده‌ای برای دریافت پیدا نشد.'))
+      else resolve(request.result)
+    }
+    transaction.onerror = transaction.onabort = () => {
+      database.close()
+      reject(new StorageError('خواندن پشتیبان ممکن نشد؛ اطلاعات قبلی تغییر نکرده‌اند.'))
+    }
+  })
+}
+
 export async function loadState(bundle: ContentBundle): Promise<AppState | null> {
   const database = await openDatabase()
   return new Promise((resolve, reject) => {
