@@ -1,7 +1,8 @@
 /** Multi-lesson state. Frozen v1/v2 contracts support lossless progress upgrades. */
 export const SCHEMA_VERSION = 5 as const
 export const POLICY_VERSION = 'learning-policy-v2' as const
-export const NORMALIZATION_VERSION = 'italian-answer-normalization-v1' as const
+export const NORMALIZATION_VERSION = 'italian-answer-normalization-v2' as const
+export const LEGACY_NORMALIZATION_VERSION = 'italian-answer-normalization-v1' as const
 export const TARGET_ACTIVE_MS = 1_200_000 as const
 export const REVIEW_DAYS = [1, 3, 7, 14, 30] as const
 
@@ -104,7 +105,7 @@ export interface Attempt {
   correct: boolean
   independent: boolean
   assisted: boolean
-  normalizationVersion: typeof NORMALIZATION_VERSION
+  normalizationVersion: typeof LEGACY_NORMALIZATION_VERSION | typeof NORMALIZATION_VERSION
   at: string
   studyDate: string
 }

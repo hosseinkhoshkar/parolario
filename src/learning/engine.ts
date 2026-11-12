@@ -37,7 +37,9 @@ export function currentTask(state: AppState): SessionTask | null {
 }
 
 export function normalizeAnswer(answer: string): string {
-  return answer.normalize('NFC').trim().replace(/\s+/gu, ' ')
+  // Mobile keyboards use different apostrophe glyphs for the same elision.
+  // Keep letters and accents intact: ć is not c', and è is not e.
+  return answer.normalize('NFC').replace(/[\u2018\u2019\u02bc\uff07]/gu, "'").trim().replace(/\s+/gu, ' ')
 }
 
 function studyDate(now: string, timeZone: string): string {

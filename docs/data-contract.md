@@ -1,6 +1,6 @@
 # قرارداد دادهٔ مستقل ایتالیایی — schema۵
 
-[نوع‌های اجرایی](../src/contracts/index.ts) مرجع دقیق‌اند. schema۵، policy=learning-policy-v2، normalization=italian-answer-normalization-v1 و content=nuovo-espresso-a1-it-v1 مستقل‌اند. این تغییر، مهاجرت دادهٔ آلمانی نیست. [نسخهٔ تاریخی قرارداد](../reference/legacy-wortzeit/docs/data-contract.md) برای سابقه حفظ شده است.
+[نوع‌های اجرایی](../src/contracts/index.ts) مرجع دقیق‌اند. schema۵، policy=learning-policy-v2، normalization=italian-answer-normalization-v2 و content=nuovo-espresso-a1-it-v1 مستقل‌اند. این تغییر، مهاجرت دادهٔ آلمانی نیست. [نسخهٔ تاریخی قرارداد](../reference/legacy-wortzeit/docs/data-contract.md) برای سابقه حفظ شده است.
 
 ## محتوا
 
@@ -10,7 +10,9 @@ Entry نقش دستوری، معنی، occurrence و sourceRefIds واقعی د�
 
 nounData شامل article nullable، gender مستقل nullable و number است. آرتیکل‌های مجاز il/lo/la/l'/i/gli/le؛ برای l' جنس باید مستقلاً معلوم باشد. فقط اسم با آرتیکل معلوم article-skill و choose-article می‌گیرد؛ اسم نامعلوم نیز مدخل معتبر است. plural نامعلوم null می‌ماند و توضیح دارد. نمونهٔ جمعی حدس زده نمی‌شود.
 
-NFC، trim و یکسان‌کردن فاصله مجازند؛ حذف اکسان، stemming و صورت صرفیِ حدسی مجاز نیست. caseSensitive و acceptedAnswers صریح‌اند. نقل کتاب، معنی و locator در sync بازنویسی نمی‌شوند.
+NFC، trim، یکسان‌کردن فاصله و یکسان‌کردن آپاستروف‌های U+0027، U+2018، U+2019، U+02BC و U+FF07 مجازند؛ حذف اکسان، stemming و صورت صرفیِ حدسی مجاز نیست. caseSensitive و acceptedAnswers صریح‌اند. نقل کتاب، معنی و locator در sync بازنویسی نمی‌شوند.
+
+پاسخ‌های جدید با normalization نسخهٔ۲ ثبت می‌شوند؛ رویدادهای نسخهٔ۱ بدون تغییر همچنان معتبرند و پاسخ‌های قبلی دوباره ارزیابی نمی‌شوند. schema۵ و contentVersion تغییر نمی‌کنند. یکسان‌سازی آپاستروف، اکسان را حذف نمی‌کند: ć با c' و è با e برابر نیستند. آپاستروف حذف‌شده یا جابه‌جا، علامت‌های دیگر و صورت‌های صرفی خودکار اصلاح نمی‌شوند.
 
 ## پیشرفت و تراکنش
 
