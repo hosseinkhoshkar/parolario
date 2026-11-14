@@ -1,5 +1,6 @@
 import { LEGACY_NORMALIZATION_VERSION, NORMALIZATION_VERSION, POLICY_VERSION, SCHEMA_VERSION, TARGET_ACTIVE_MS } from '../contracts/index.ts'
 import type { AppState, ContentBundle, Entry, Session } from '../contracts/index.ts'
+import { completedLegacyRecallIds } from './legacy-recall-ids.ts'
 
 
 export class StorageError extends Error {
@@ -128,8 +129,10 @@ function validateEvidenceState(value: unknown, bundle: ContentBundle): asserts v
       || session.activeMs > Object.values(state.dailyActivity).reduce((sum, elapsed) => sum + elapsed, 0) + 0.01
       || session.state !== 'ended' && session.cursor === session.queue.length) fail()
     const taskIds = new Set<string>()
+    const completedLegacyIds = completedLegacyRecallIds(session, state)
     for (const task of session.queue) {
-      if (!isRecord(task) || typeof task.taskId !== 'string' || !task.taskId || taskIds.has(task.taskId)
+      if (!isRecord(task) || typeof task.taskId !== 'string' || !task.taskId
+        || taskIds.has(task.taskId) && !completedLegacyIds.has(task.taskId)
         || task.assisted !== undefined && typeof task.assisted !== 'boolean') fail()
       taskIds.add(task.taskId)
       if (task.kind === 'match') {
