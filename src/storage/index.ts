@@ -1,6 +1,7 @@
 import { POLICY_VERSION, SCHEMA_VERSION } from '../contracts/index.ts'
 import type { AppState, ContentBundle, Session } from '../contracts/index.ts'
 import { StorageError, validateLearningState } from './validate-learning-state.ts'
+import { completedLegacyRecallIds } from './legacy-recall-ids.ts'
 export { StorageError } from './validate-learning-state.ts'
 import { deriveInitialReverseProgress, scheduleReverseReview, reverseStudyDate as studyDate, REVERSE_ACTIVATION_COUNT, REVERSE_MAX_PER_SESSION } from '../learning/reverse.ts'
 
@@ -30,8 +31,10 @@ export function validateState(value: unknown, bundle: ContentBundle): asserts va
     if (!isRecord(session) || !Array.isArray(session.queue) || !integer(session.cursor, 0, session.queue.length)
       || !['active', 'paused', 'ended'].includes(session.state)) fail()
     const ids = new Set<string>(), reverseIds = new Set<string>()
+    const completedLegacyIds = completedLegacyRecallIds(session, state)
     for (const task of session.queue) {
-      if (!isRecord(task) || typeof task.taskId !== 'string' || !task.taskId || ids.has(task.taskId)) fail()
+      if (!isRecord(task) || typeof task.taskId !== 'string' || !task.taskId
+        || ids.has(task.taskId) && !completedLegacyIds.has(task.taskId)) fail()
       ids.add(task.taskId)
       if (task.kind === 'reverse-card') {
         if (!known.has(task.entryId) || !isRecord(state.reverseProgress[task.entryId])

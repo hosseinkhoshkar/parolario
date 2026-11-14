@@ -185,7 +185,7 @@ function prepareBoundary(state: AppState, now: string, bundle: ContentBundle): v
   const alreadyPlanned = new Set(remaining.flatMap(item => item.kind === 'match' ? [] : [item.entryId]))
   const recalls = orderedRecall(state, now, bundle)
     .filter(item => !alreadyPlanned.has(item.entryId) && (beforeNewCard || item.pendingError !== null))
-    .map((item, index) => makeRecall(item, session, `boundary-${session.queue.length}-${index}`))
+    .map((item, index) => makeRecall(item, session, `boundary-r${state.revision}-${index}`))
   session.queue.splice(session.cursor, 0, ...recalls)
   activateCurrent(state, now, bundle)
 }
@@ -200,7 +200,7 @@ function start(state: AppState, command: Extract<LearningCommand, { type: 'start
     const at = insertion < 0 ? session.queue.length : insertion
     const queued = new Set(session.queue.slice(session.cursor).flatMap(task => task.kind === 'match' ? [] : [task.entryId]))
     const recalls = orderedRecall(state, now, bundle).filter(progress => !queued.has(progress.entryId))
-    session.queue.splice(at, 0, ...recalls.map((progress, index) => makeRecall(progress, session, `resume-${session.queue.length}-${index}`)))
+    session.queue.splice(at, 0, ...recalls.map((progress, index) => makeRecall(progress, session, `resume-r${state.revision}-${index}`)))
     return
   }
   const session: Session = {
